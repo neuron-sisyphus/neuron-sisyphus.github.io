@@ -1,0 +1,224 @@
+from __future__ import annotations
+
+import json
+import os
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+from typing import Dict, List
+
+import requests
+from dateutil import parser as dateparser
+from openai import OpenAI
+
+from utils import (
+    ROOT,
+    choose_key,
+    is_whitelisted,
+    load_disease_config,
+    load_journal_whitelist,
+    load_json,
+    match_disease,
+    match_section,
+    save_json,
+)
+
+PUBMED_SEARCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
+PUBMED_FETCH = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
+EPMC_SEARCH = "https://www.ebi.ac.uk/europepmc/webservices/rest/search"
+
+
+def jst_today() -> datetime:
+    return datetime.now(timezone(timedelta(hours=9)))
+
+
+def build_query(terms: List[str]) -> str:
+    or_terms = " OR ".join([f'"{t}"' for t in terms])
+    return f"({or_terms}) AND humans[mesh] AND english[lang]"
+
+
+def fetch_pubmed(terms: List[str]) -> List[dict]:
+    params = {
+        "db": "pubmed",
+        "term": build_query(terms),
+        "retmode": "json",
+        "retmax": 200,
+        "reldate": 1,
+        "datetype": "pdat",
+    }
+    r = requests.get(PUBMED_SEARCH, params=params, timeout=30)
+    r.raise_for_status()
+    ids = r.json().get("esearchresult", {}).get("idlist", [])
+    if not ids:
+        return []
+
+    fetch_params = {
+        "db": "pubmed",
+        "id": ",".join(ids),
+        "retmode": "xml",
+    }
+    f = requests.get(PUBMED_FETCH, params=fetch_params, timeout=30)
+    f.raise_for_status()
+
+    import xml.etree.ElementTree as ET
+
+    root = ET.fromstring(f.text)
+    articles = []
+    for article in root.findall(".//PubmedArticle"):
+        pmid = article.findtext(".//PMID")
+        title = article.findtext(".//ArticleTitle") or ""
+        abstract = " ".join(
+            [t.text or "" for t in article.findall(".//Abstract/AbstractText")]
+        ).strip()
+        journal = article.findtext(".//Journal/Title") or ""
+        doi = None
+        for idnode in article.findall(".//ArticleId"):
+            if idnode.get("IdType") == "doi":
+                doi = idnode.text
+        pub_date = article.findtext(".//PubDate/Year") or ""
+        url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/" if pmid else ""
+        articles.append(
+            {
+                "source": "pubmed",
+                "pmid": pmid,
+                "doi": doi,
+                "title": title,
+                "abstract": abstract,
+                "journal": journal,
+                "year": pub_date,
+                "url": url,
+            }
+        )
+    return articles
+
+
+def fetch_epmc(terms: List[str], from_date: str, to_date: str) -> List[dict]:
+    query_terms = " OR ".join([f'"{t}"' for t in terms])
+    query = (
+        f"({query_terms}) AND (HAS_ABSTRACT:Y) AND (LANG:eng) "
+        f"AND (PUB_TYPE:\"journal article\") AND FIRST_PDATE:[{from_date} TO {to_date}]"
+    )
+    params = {
+        "query": query,
+        "format": "json",
+        "pageSize": 100,
+        "resultType": "core",
+    }
+    r = requests.get(EPMC_SEARCH, params=params, timeout=30)
+    r.raise_for_status()
+    results = r.json().get("resultList", {}).get("result", [])
+
+    articles = []
+    for item in results:
+        pmid = item.get("pmid")
+        doi = item.get("doi")
+        title = item.get("title", "")
+        abstract = item.get("abstractText", "")
+        journal = item.get("journalTitle", "")
+        year = item.get("pubYear", "")
+        url = item.get("fullTextUrlList", {}).get("fullTextUrl", [])
+        url = url[0].get("url") if url else ""
+        articles.append(
+            {
+                "source": "epmc",
+                "pmid": pmid,
+                "doi": doi,
+                "title": title,
+                "abstract": abstract,
+                "journal": journal,
+                "year": year,
+                "url": url,
+            }
+        )
+    return articles
+
+
+def summarize(client: OpenAI, title: str, abstract: str) -> str:
+    if not abstract:
+        return ""
+    prompt = (
+        "以下の英語の論文情報を、日本語で約300字に要約してください。\n"
+        "構成は『背景/方法/結果/結論』の順にし、冗長な前置きは不要です。\n\n"
+        f"Title: {title}\n"
+        f"Abstract: {abstract}"
+    )
+    model = os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")
+    resp = client.responses.create(
+        model=model,
+        input=prompt,
+        temperature=0.2,
+    )
+    return resp.output_text.strip()
+
+
+def main() -> None:
+    if not os.environ.get("OPENAI_API_KEY"):
+        raise SystemExit("OPENAI_API_KEY is not set")
+    diseases_cfg = load_disease_config()
+    diseases = diseases_cfg["diseases"]
+    sections = diseases_cfg["sections"]
+    whitelist = load_journal_whitelist()
+
+    terms = sorted({t for d in diseases for t in d.get("terms", [])})
+
+    today = jst_today()
+    from_date = (today - timedelta(days=1)).strftime("%Y-%m-%d")
+    to_date = today.strftime("%Y-%m-%d")
+
+    items = []
+    items.extend(fetch_pubmed(terms))
+    items.extend(fetch_epmc(terms, from_date, to_date))
+
+    merged = {}
+    for it in items:
+        key = choose_key(it.get("doi"), it.get("pmid"), it.get("title", ""))
+        if key in merged:
+            continue
+        if not is_whitelisted(it.get("journal", ""), whitelist):
+            continue
+        merged[key] = it
+
+    client = OpenAI()
+    cache_path = ROOT / "data" / "cache" / "summaries.json"
+    cache = load_json(cache_path, {})
+
+    daily = []
+    for key, it in merged.items():
+        cache_key = it.get("doi") or it.get("pmid") or it.get("title")
+        if cache_key in cache:
+            summary = cache[cache_key]
+        else:
+            summary = summarize(client, it.get("title", ""), it.get("abstract", ""))
+            cache[cache_key] = summary
+        disease_id = match_disease(it.get("title", ""), it.get("abstract", ""), diseases)
+        section_id = match_section(it.get("title", ""), it.get("abstract", ""), sections)
+        daily.append(
+            {
+                **it,
+                "summary_ja": summary,
+                "disease": disease_id or "other",
+                "section": section_id,
+            }
+        )
+
+    save_json(cache_path, cache)
+
+    date_str = today.strftime("%Y-%m-%d")
+    daily_path = ROOT / "data" / "daily" / f"{date_str}.json"
+    save_json(daily_path, {"date": date_str, "items": daily})
+
+    for d in diseases:
+        did = d["id"]
+        disease_path = ROOT / "data" / "disease" / f"{did}.json"
+        existing = load_json(disease_path, {"disease": did, "items": []})
+        existing_items = existing.get("items", [])
+        new_items = [it for it in daily if it.get("disease") == did]
+        existing["items"] = new_items + existing_items
+        save_json(disease_path, existing)
+
+    from build_site import build_site
+
+    build_site(date_str)
+
+
+if __name__ == "__main__":
+    main()

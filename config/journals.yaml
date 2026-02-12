@@ -1,0 +1,120 @@
+journals:
+  - name: New England Journal of Medicine
+    aliases: ["N Engl J Med", "NEJM"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+  - name: The Lancet
+    aliases: ["Lancet"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+  - name: JAMA
+    aliases: ["JAMA"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+  - name: The BMJ
+    aliases: ["BMJ", "Br Med J"]
+    impact_factor: 93.6
+    impact_year: 2024
+    source: "BMJ Group impact report"
+    always_include: true
+
+  - name: The Lancet Neurology
+    aliases: ["Lancet Neurol"]
+    impact_factor: 45.5
+    impact_year: 2024
+    source: "Clarivate JCR 2024"
+    always_include: true
+  - name: JAMA Neurology
+    aliases: ["JAMA Neurol"]
+    impact_factor: 20.9
+    impact_year: 2023
+    source: "Year in Review 2024"
+    always_include: true
+  - name: Brain
+    aliases: ["Brain"]
+    impact_factor: 11.7
+    impact_year: 2024
+    source: "Clarivate JCR 2024"
+    always_include: true
+  - name: Neuro-Oncology
+    aliases: ["Neuro Oncol"]
+    impact_factor: 13.4
+    impact_year: 2024
+    source: "Clarivate JCR 2024"
+    always_include: true
+  - name: Neurology
+    aliases: ["Neurology"]
+    impact_factor: 9.0
+    impact_year: 2022
+    source: "AAN media kit"
+    always_include: true
+  - name: Stroke
+    aliases: ["Stroke"]
+    impact_factor: 8.3
+    impact_year: 2022
+    source: "AHA publishing guide"
+    always_include: true
+  - name: Annals of Neurology
+    aliases: ["Ann Neurol"]
+    impact_factor: 7.7
+    impact_year: 2022
+    source: "Reference list"
+    always_include: true
+  - name: Alzheimer's & Dementia
+    aliases: ["Alzheimers Dement"]
+    impact_factor: 11.0
+    impact_year: 2023
+    source: "Association report"
+    always_include: true
+
+  - name: Movement Disorders
+    aliases: ["Mov Disord"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+  - name: Parkinsonism & Related Disorders
+    aliases: ["Parkinsonism Relat Disord"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+  - name: Amyotrophic Lateral Sclerosis and Frontotemporal Degeneration
+    aliases: ["Amyotroph Lateral Scler Frontotemporal Degener"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+  - name: European Journal of Neurology
+    aliases: ["Eur J Neurol"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+  - name: Journal of Neurology, Neurosurgery & Psychiatry
+    aliases: ["J Neurol Neurosurg Psychiatry"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+  - name: Multiple Sclerosis Journal
+    aliases: ["Mult Scler"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+  - name: Neurology: Clinical Practice
+    aliases: ["Neurol Clin Pract"]
+    impact_factor: null
+    impact_year: null
+    source: null
+    always_include: true
+
+settings:
+  allow_non_whitelist: false

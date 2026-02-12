@@ -1,0 +1,87 @@
+diseases:
+  - id: stroke
+    name_ja: 脳卒中
+    name_en: Stroke
+    terms:
+      - stroke
+      - ischemic stroke
+      - hemorrhagic stroke
+      - intracerebral hemorrhage
+      - subarachnoid hemorrhage
+      - transient ischemic attack
+      - TIA
+      - thrombectomy
+      - thrombolysis
+  - id: parkinson
+    name_ja: パーキンソン病
+    name_en: Parkinson's disease
+    terms:
+      - parkinson
+      - parkinson's disease
+      - PD
+      - levodopa
+      - dopamine agonist
+      - deep brain stimulation
+  - id: als
+    name_ja: ALS
+    name_en: Amyotrophic lateral sclerosis
+    terms:
+      - ALS
+      - amyotrophic lateral sclerosis
+      - motor neuron disease
+      - riluzole
+      - edaravone
+  - id: dementia
+    name_ja: 認知症
+    name_en: Dementia
+    terms:
+      - dementia
+      - alzheimer
+      - alzheimer's disease
+      - frontotemporal dementia
+      - lewy body dementia
+      - mild cognitive impairment
+
+sections:
+  - id: epidemiology
+    name_ja: 疫学
+    keywords:
+      - incidence
+      - prevalence
+      - cohort
+      - population
+      - epidemiology
+  - id: diagnosis
+    name_ja: 診断
+    keywords:
+      - diagnosis
+      - diagnostic
+      - biomarker
+      - screening
+      - criteria
+  - id: imaging
+    name_ja: 画像
+    keywords:
+      - MRI
+      - CT
+      - PET
+      - imaging
+      - scan
+  - id: treatment
+    name_ja: 治療
+    keywords:
+      - treatment
+      - therapy
+      - trial
+      - randomized
+      - intervention
+      - drug
+      - surgery
+  - id: prognosis
+    name_ja: 予後
+    keywords:
+      - prognosis
+      - outcome
+      - survival
+      - mortality
+      - disability
