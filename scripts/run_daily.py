@@ -133,6 +133,8 @@ def fetch_epmc(terms: List[str], from_date: str, to_date: str) -> List[dict]:
 
 
 def summarize(client: OpenAI, title: str, abstract: str) -> str:
+    if os.environ.get("SKIP_SUMMARY") == "1":
+        return ""
     if not abstract:
         return ""
     prompt = (
