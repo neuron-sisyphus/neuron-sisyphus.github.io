@@ -109,7 +109,7 @@ journals:
     impact_year: null
     source: null
     always_include: true
-  - name: Neurology: Clinical Practice
+  - name: "Neurology: Clinical Practice"
     aliases: ["Neurol Clin Pract"]
     impact_factor: null
     impact_year: null
