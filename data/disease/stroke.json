@@ -39,6 +39,20 @@
       "year": "2026",
       "published": "2026-Mar-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41671526/",
+      "summary_ja": "背景：前治療としての抗血小板療法（APT）が、前方循環大血管閉塞（LVO）急性虚血性脳卒中に対する直接血管内治療（EVT）の成績に与える影響は不明瞭であり、臨床的利益や安全性に関するエビデンスは限られている。  \n方法：2015～2023年に欧州9カ国とイスラエルの20施設で施行されたEVA-TRISPレジストリから、静脈内血栓溶解療法や抗凝固療法を受けていない前方循環LVO脳卒中患者2,611例を対象に後ろ向き解析を行い、前治療APTの有無で1,308例を傾向スコアマッチングした。主要評価項目は90日後の修正Rankinスケール（mRS）、副次評価項目は90日後の自立度、再灌流成功率、症候性頭蓋内出血（sICH）発生率、死亡率とした。  \n結果：平均年齢75.8歳、NIHSSスコア13.1点、再灌流成功率74.7%、90日後自立率38.8%であった。APT既往群は非APT群に比べ、90日mRSが有意に改善（オッズ比1.30、95%CI 1.04-1.61）し、自立度も高かったが、sICHリスクの増加は認められなかった。  \n結論：前治療APTは、直接EVTを受ける前方循環LVO脳卒中患者において、90日後の機能的予後改善および自立度向上と関連し、安全性にも問題はなかった。",
+      "disease": "stroke",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41671526",
+      "doi": "10.1212/WNL.0000000000214672",
+      "title": "Previous Antiplatelet Therapy and Outcomes of Acute Ischemic Stroke With Large Vessel Occlusion Treated With Direct Endovascular Therapy.",
+      "abstract": "Previous antiplatelet therapy (APT) may influence outcomes in patients undergoing direct endovascular therapy (EVT) for anterior circulation large vessel occlusion (LVO) stroke, but evidence on clinical benefits and safety is limited and inconsistent. We aimed to evaluate the effects of previous APT on the outcomes of direct EVT. We conducted a retrospective analysis of consecutive patients treated at 20 high-volume stroke centers across 9 European countries and Israel (EVA-TRISP registry, 2015-2023). We included adults with anterior circulation LVO strokes, without previous use of IV thrombolysis (IVT) or anticoagulants. We compared outcomes of direct EVT patients stratified by previous APT regimen, using propensity score matching based on medical history and multilevel models to address confounders. The primary outcome was the 90-day modified Rankin Scale (mRS) score. The secondary efficacy outcomes were 90-day independence and the rate of successful reperfusion. The secondary safety outcomes were the rate of symptomatic intracranial hemorrhage (sICH) and mortality. Among 12,950 patients, 2,611 met the criteria and 1,308 were matched: 480 without previous APT and 828 with any previous APT, among whom 764 were on single APT and 64 on dual APT. The overall mean age was 75.8 ± 11.4 years, and 49.4% were female; the mean NIH Stroke Scale score was 13.1 ± 7.2 points, the successful reperfusion rate was 74.7%, and the median mRS score was 3 (interquartile range 2-4), with 38.8% of patients independent at 90 days. When compared with no previous APT, any previous APT was associated with a shift toward lower mRS scores at 90 days (odds ratio [OR] 1.30, CI 1.04-1.61,  In patients with anterior circulation LVO stroke treated with direct EVT and no previous anticoagulation, pretreatment with any APT was independently linked to better 90-day functional outcomes and higher independence, without increasing sICH risk. This study provides Class III evidence that, in patients with anterior circulation LVO stroke treated with direct EVT, previous APT is associated with better 90-day functional outcomes compared with no previous APT.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41671526/",
       "summary_ja": "",
       "disease": "stroke",
       "section": "diagnosis"
