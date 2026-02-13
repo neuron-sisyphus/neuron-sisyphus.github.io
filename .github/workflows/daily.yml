@@ -33,6 +33,7 @@ jobs:
 
       - name: Commit and push
         run: |
+          git pull --rebase
           if git diff --quiet; then
             echo "No changes"
             exit 0
