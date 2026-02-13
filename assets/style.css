@@ -1,41 +1,95 @@
 :root {
-  --bg: #f7f2ea;
-  --ink: #231f1a;
-  --accent: #0a3d62;
-  --muted: #6d6257;
-  --card: #fff8ee;
-  --border: #e7dccf;
+  --bg: #f7f5ff;
+  --ink: #1f1c29;
+  --accent: #2a6fdb;
+  --accent-2: #f06b6b;
+  --muted: #6e6a7c;
+  --card: #ffffff;
+  --border: #e6e2f1;
+  --soft: #eef2ff;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&family=Spectral:ital,wght@0,400;0,600;1,400&display=swap");
 
 * { box-sizing: border-box; }
 body {
   margin: 0;
-  font-family: "Merriweather", "Georgia", serif;
+  font-family: "Manrope", "Helvetica Neue", sans-serif;
   color: var(--ink);
-  background: radial-gradient(1200px 600px at 10% -10%, #fff6e8 0%, var(--bg) 60%, #efe6dc 100%);
+  background:
+    radial-gradient(900px 500px at 15% -10%, #e8f4ff 0%, transparent 60%),
+    radial-gradient(800px 500px at 110% 10%, #ffe8ef 0%, transparent 55%),
+    var(--bg);
 }
 
 header {
-  padding: 28px 20px 12px;
+  padding: 28px 20px 18px;
   border-bottom: 1px solid var(--border);
-  background: linear-gradient(180deg, #fff6e8 0%, #f8efe4 100%);
+  background: linear-gradient(180deg, #ffffff 0%, #f7f5ff 100%);
 }
 
 .container {
-  max-width: 1100px;
+  max-width: 1120px;
   margin: 0 auto;
   padding: 0 20px 40px;
 }
 
-h1 {
-  font-size: 28px;
-  margin: 0 0 8px;
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.brand h1 {
+  font-family: "Spectral", serif;
+  font-size: 30px;
+  margin: 0 0 4px;
   letter-spacing: 0.2px;
+}
+
+.brand p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.nav {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.nav a {
+  font-size: 14px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--soft);
+  color: var(--accent);
+}
+
+.hero {
+  margin: 22px 0 8px;
+  padding: 18px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #f7fbff 0%, #fff3f6 100%);
+  border: 1px solid var(--border);
+}
+
+.hero h2 {
+  margin: 0 0 8px;
+  font-size: 22px;
+  font-family: "Spectral", serif;
+}
+
+.hero p {
+  margin: 0;
+  color: var(--muted);
 }
 
 h2 {
   font-size: 20px;
-  margin: 24px 0 12px;
+  margin: 26px 0 12px;
+  font-family: "Spectral", serif;
 }
 
 p {
@@ -45,27 +99,30 @@ p {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
   gap: 14px;
 }
 
 .card {
   background: var(--card);
   border: 1px solid var(--border);
-  border-radius: 12px;
+  border-radius: 14px;
   padding: 14px;
+  box-shadow: 0 8px 24px rgba(31, 28, 41, 0.06);
 }
 
 .card h3 { margin: 0 0 6px; font-size: 16px; }
 
 ul { padding-left: 18px; }
 
+li { margin-bottom: 10px; }
+
 .badge {
   display: inline-block;
   padding: 3px 8px;
   border-radius: 999px;
-  background: #e2f2ff;
-  color: #0a3d62;
+  background: #e7f0ff;
+  color: #2a6fdb;
   font-size: 12px;
   margin-right: 6px;
 }
@@ -80,4 +137,8 @@ footer {
   padding: 16px 20px 32px;
   color: var(--muted);
   font-size: 12px;
+}
+
+.refs ol {
+  padding-left: 18px;
 }

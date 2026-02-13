@@ -19,8 +19,17 @@ def layout(title: str, body: str) -> str:
 <body>
 <header>
   <div class=\"container\">
-    <h1>Neuro Daily Review</h1>
-    <p>臨床神経学の最新論文を毎日更新</p>
+    <div class=\"topbar\">
+      <div class=\"brand\">
+        <h1>Neuro Daily Review</h1>
+        <p>臨床神経学の最新論文をやさしく整理</p>
+      </div>
+      <nav class=\"nav\">
+        <a href=\"/\">ホーム</a>
+        <a href=\"/daily/\">日次レビュー</a>
+        <a href=\"/diseases/\">疾患別</a>
+      </nav>
+    </div>
   </div>
 </header>
 <div class=\"container\">
@@ -43,6 +52,10 @@ def build_index(latest_date: str, diseases: list) -> str:
         ]
     )
     body = f"""
+<section class="hero">
+  <h2>今日のアップデート</h2>
+  <p>最新の臨床論文を疾患ごとに整理し、簡潔にレビューします。</p>
+</section>
 <section>
   <h2>最新の日次レビュー</h2>
   <p><a href='/daily/{latest_date}.html'>{latest_date}</a></p>
@@ -53,6 +66,41 @@ def build_index(latest_date: str, diseases: list) -> str:
 </section>
 """
     return layout("Neuro Daily Review", body)
+
+
+def build_daily_index(dates: list) -> str:
+    items = "".join([f"<li><a href='/daily/{d}.html'>{d}</a></li>" for d in dates])
+    body = f"""
+<section class="hero">
+  <h2>日次レビュー一覧</h2>
+  <p>日付ごとのまとめです。</p>
+</section>
+<section>
+  <h2>更新日</h2>
+  <ul>{items}</ul>
+</section>
+"""
+    return layout("Daily Reviews", body)
+
+
+def build_diseases_index(diseases: list) -> str:
+    cards = "".join(
+        [
+            f"<div class='card'><h3><a href='/diseases/{d['id']}.html'>{d['name_ja']}</a></h3><small>{d['name_en']}</small></div>"
+            for d in diseases
+        ]
+    )
+    body = f"""
+<section class="hero">
+  <h2>疾患別レビュー一覧</h2>
+  <p>疾患ごとのレビューをまとめています。</p>
+</section>
+<section>
+  <h2>疾患</h2>
+  <div class='grid'>{cards}</div>
+</section>
+"""
+    return layout("Disease Reviews", body)
 
 
 def build_daily_page(date_str: str, items: list, diseases: dict, sections: dict) -> str:
@@ -126,7 +174,7 @@ def build_disease_page(disease: dict, items: list, sections: dict) -> str:
         refs_html.append(f"<li>{link}<br /><small>{journal} / {ref}</small></li>")
     refs_block = ""
     if refs_html:
-        refs_block = f"<h2>参考文献</h2><ol>{''.join(refs_html)}</ol>"
+        refs_block = f"<section class='refs'><h2>参考文献</h2><ol>{''.join(refs_html)}</ol></section>"
 
     body = f"<section><h2>{disease['name_ja']}</h2><p>{disease['name_en']}</p>{''.join(blocks)}{refs_block}</section>"
     return layout(disease["name_ja"], body)
@@ -143,6 +191,21 @@ def build_site(latest_date: str) -> None:
 
     index_html = build_index(latest_date, diseases)
     (ROOT / "index.html").write_text(index_html, encoding="utf-8")
+
+    # Daily index
+    daily_dir = ROOT / "data" / "daily"
+    dates = []
+    if daily_dir.exists():
+        for p in daily_dir.glob("*.json"):
+            dates.append(p.stem)
+    dates = sorted(dates, reverse=True)
+    daily_index = build_daily_index(dates)
+    (ROOT / "daily").mkdir(parents=True, exist_ok=True)
+    (ROOT / "daily" / "index.html").write_text(daily_index, encoding="utf-8")
+
+    diseases_index = build_diseases_index(diseases)
+    (ROOT / "diseases").mkdir(parents=True, exist_ok=True)
+    (ROOT / "diseases" / "index.html").write_text(diseases_index, encoding="utf-8")
 
     daily_html = build_daily_page(latest_date, daily_items, disease_names, sections_cfg)
     daily_path = ROOT / "daily" / f"{latest_date}.html"
