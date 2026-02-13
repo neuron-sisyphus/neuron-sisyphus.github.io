@@ -1,12 +1,13 @@
 from __future__ import annotations
 
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from utils import ROOT, load_disease_config, load_json
 
 
 def layout(title: str, body: str) -> str:
+    jst = datetime.now(timezone(timedelta(hours=9)))
     return f"""<!doctype html>
 <html lang=\"ja\">
 <head>
@@ -27,7 +28,7 @@ def layout(title: str, body: str) -> str:
 </div>
 <footer>
   <div class=\"container\">
-    <small>Generated {datetime.now().strftime('%Y-%m-%d %H:%M')}</small>
+    <small>Generated {jst.strftime('%Y-%m-%d %H:%M')} JST</small>
   </div>
 </footer>
 </body>
