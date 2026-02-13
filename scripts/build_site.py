@@ -88,23 +88,40 @@ def build_disease_page(disease: dict, items: list, sections: dict) -> str:
         sid = it.get("section") or "treatment"
         section_blocks.setdefault(sid, []).append(it)
 
+    references = []
+    ref_index = {}
+    def ref_id(it: dict) -> int:
+        key = it.get("doi") or it.get("pmid") or it.get("title") or ""
+        if key not in ref_index:
+            ref_index[key] = len(references) + 1
+            references.append(it)
+        return ref_index[key]
+
     blocks = []
     for sid, lst in section_blocks.items():
         sname = sections.get(sid, sid)
         bullets = []
         for it in lst:
-            journal = it.get("journal", "")
             summary = it.get("summary_ja", "")
-            ref = it.get("doi") or it.get("pmid") or ""
-            url = it.get("url") or ""
-            title = it.get("title", "")
-            link = f"<a href='{url}'>{title}</a>" if url else title
-            bullets.append(
-                f"<li>{link}<br /><small>{journal} / {ref}</small><p>{summary}</p></li>"
-            )
+            if not summary:
+                continue
+            rid = ref_id(it)
+            bullets.append(f"<li>{summary} <small>[{rid}]</small></li>")
         blocks.append(f"<h2>{sname}</h2><ul>{''.join(bullets)}</ul>")
 
-    body = f"<section><h2>{disease['name_ja']}</h2><p>{disease['name_en']}</p>{''.join(blocks)}</section>"
+    refs_html = []
+    for it in references:
+        journal = it.get("journal", "")
+        ref = it.get("doi") or it.get("pmid") or ""
+        url = it.get("url") or ""
+        title = it.get("title", "")
+        link = f"<a href='{url}'>{title}</a>" if url else title
+        refs_html.append(f"<li>{link}<br /><small>{journal} / {ref}</small></li>")
+    refs_block = ""
+    if refs_html:
+        refs_block = f"<h2>参考文献</h2><ol>{''.join(refs_html)}</ol>"
+
+    body = f"<section><h2>{disease['name_ja']}</h2><p>{disease['name_en']}</p>{''.join(blocks)}{refs_block}</section>"
     return layout(disease["name_ja"], body)
 
 
