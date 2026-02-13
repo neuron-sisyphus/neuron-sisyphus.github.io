@@ -33,7 +33,7 @@ jobs:
 
       - name: Commit and push
         run: |
-          git pull --rebase
+          git pull --rebase --autostash
           if git diff --quiet; then
             echo "No changes"
             exit 0
