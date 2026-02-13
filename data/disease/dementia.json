@@ -28,6 +28,20 @@
       "summary_ja": "",
       "disease": "dementia",
       "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41671519",
+      "doi": "10.1212/WNL.0000000000214677",
+      "title": "Associations of Lifetime Cognitive Enrichment With Incident Alzheimer Disease Dementia, Cognitive Aging, and Cognitive Resilience.",
+      "abstract": "The effects of lifetime cognitive enrichment on later-life cognitive outcomes are not comprehensively investigated. The aim of this study was to test the association of lifetime cognitive enrichment with Alzheimer disease (AD) dementia and cognitive decline and in an autopsied deceased subset to explore the association between lifetime enrichment and AD and related dementia (ADRD) pathologic indices and cognitive resilience that is, decline after adjusting for common ADRD pathologies. This was a longitudinal clinicopathologic study involving older individuals from Northeastern Illinois who participated in the Rush Memory and Aging Project, were free of dementia at baseline, completed surveys reflecting lifetime enrichment, and had annual clinical evaluations. We constructed a composite measure reflecting lifetime cognitive enrichment and tested its association with incident AD dementia in proportional hazards models, mean age of AD dementia onset in an accelerated failure time model, and cognitive decline using linear mixed-effects models. In a deceased subset, we tested the association of lifetime cognitive enrichment with 9 ADRD pathologies and cognitive resilience. Participants (n = 1,939, 75% female, mean baseline age = 79.6) completed an average of 7.6 years of follow-up, during which 551 participants developed AD dementia. One unit higher in lifetime enrichment was associated with 38% lower hazards of developing AD dementia (hazard ratio 0.62, 95% CI 0.52-0.73,  Lifetime exposure to cognitive enrichment was related to lower risk of AD dementia and a slower rate of cognitive decline, including after adjustment for common ADRD pathologies, indicating higher resilience provided by lifetime enrichment. Our results suggest that cognitive health in later life is in part the product of lifetime exposure to cognitive enrichment.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41671519/",
+      "summary_ja": "",
+      "disease": "dementia",
+      "section": "imaging"
     }
   ]
 }
