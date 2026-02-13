@@ -178,6 +178,26 @@ def summarize_short(client: OpenAI, title: str, abstract: str) -> str:
     return resp.output_text.strip()
 
 
+def classify_section_llm(client: OpenAI, title: str, abstract: str) -> str:
+    prompt = (
+        "次の論文を、以下のいずれか1つに分類してください。"
+        "必ずラベルだけを返してください。\\n\\n"
+        "labels: epidemiology, diagnosis, imaging, treatment, prognosis\\n\\n"
+        f"Title: {title}\\n"
+        f"Abstract: {abstract}\\n\\n"
+        "Answer:"
+    )
+    model = os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")
+    resp = client.responses.create(
+        model=model,
+        input=prompt,
+        temperature=0.2,
+    )
+    label = resp.output_text.strip().lower()
+    allowed = {"epidemiology", "diagnosis", "imaging", "treatment", "prognosis"}
+    return label if label in allowed else "treatment"
+
+
 def main() -> None:
     if not os.environ.get("OPENAI_API_KEY"):
         raise SystemExit("OPENAI_API_KEY is not set")
@@ -228,6 +248,7 @@ def main() -> None:
 
         summary = cached.get("summary_ja", "")
         summary_short = cached.get("summary_short_ja", "")
+        cached_section = cached.get("section_llm", "")
 
         if not summary:
             summary = summarize(client, it.get("title", ""), it.get("abstract", ""))
@@ -236,13 +257,23 @@ def main() -> None:
                 client, it.get("title", ""), it.get("abstract", "")
             )
 
-        if summary or summary_short:
+        use_llm_section = os.environ.get("USE_LLM_SECTION", "1") == "1"
+        section_llm = cached_section
+        if use_llm_section and not section_llm:
+            section_llm = classify_section_llm(
+                client, it.get("title", ""), it.get("abstract", "")
+            )
+
+        if summary or summary_short or section_llm:
             cache[cache_key] = {
                 "summary_ja": summary,
                 "summary_short_ja": summary_short,
+                "section_llm": section_llm,
             }
         disease_id = match_disease(it.get("title", ""), it.get("abstract", ""), diseases)
-        section_id = match_section(it.get("title", ""), it.get("abstract", ""), sections)
+        section_id = section_llm or match_section(
+            it.get("title", ""), it.get("abstract", ""), sections
+        )
         daily.append(
             {
                 **it,
