@@ -25,6 +25,20 @@
       "year": "2026",
       "published": "2026-Mar-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41671519/",
+      "summary_ja": "背景：生涯にわたる認知的刺激が高齢期の認知機能やアルツハイマー病（AD）発症に与える影響は十分に解明されていない。  \n方法：イリノイ州北東部の高齢者1,939名（平均年齢79.6歳、75％女性）を対象に、Rush Memory and Aging Projectのデータを用いて、生涯の認知的刺激を反映する複合指標を作成。認知症発症リスク、発症年齢、認知機能低下速度との関連を長期追跡調査で検証し、死亡者の一部ではAD関連病理指標および認知的レジリエンスとの関連も調査した。  \n結果：平均7.6年の追跡期間中、551名がAD認知症を発症。生涯認知的刺激が1単位高いとAD発症リスクが38％低下（ハザード比0.62）し、認知機能低下も遅延。AD関連病理を調整後も認知的レジリエンスが高いことが示された。  \n結論：生涯にわたる認知的刺激はAD認知症の発症リスク低減と認知機能の維持に寄与し、高齢期の認知健康は生涯の認知的刺激の影響を受けることが示唆された。",
+      "disease": "dementia",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41671519",
+      "doi": "10.1212/WNL.0000000000214677",
+      "title": "Associations of Lifetime Cognitive Enrichment With Incident Alzheimer Disease Dementia, Cognitive Aging, and Cognitive Resilience.",
+      "abstract": "The effects of lifetime cognitive enrichment on later-life cognitive outcomes are not comprehensively investigated. The aim of this study was to test the association of lifetime cognitive enrichment with Alzheimer disease (AD) dementia and cognitive decline and in an autopsied deceased subset to explore the association between lifetime enrichment and AD and related dementia (ADRD) pathologic indices and cognitive resilience that is, decline after adjusting for common ADRD pathologies. This was a longitudinal clinicopathologic study involving older individuals from Northeastern Illinois who participated in the Rush Memory and Aging Project, were free of dementia at baseline, completed surveys reflecting lifetime enrichment, and had annual clinical evaluations. We constructed a composite measure reflecting lifetime cognitive enrichment and tested its association with incident AD dementia in proportional hazards models, mean age of AD dementia onset in an accelerated failure time model, and cognitive decline using linear mixed-effects models. In a deceased subset, we tested the association of lifetime cognitive enrichment with 9 ADRD pathologies and cognitive resilience. Participants (n = 1,939, 75% female, mean baseline age = 79.6) completed an average of 7.6 years of follow-up, during which 551 participants developed AD dementia. One unit higher in lifetime enrichment was associated with 38% lower hazards of developing AD dementia (hazard ratio 0.62, 95% CI 0.52-0.73,  Lifetime exposure to cognitive enrichment was related to lower risk of AD dementia and a slower rate of cognitive decline, including after adjustment for common ADRD pathologies, indicating higher resilience provided by lifetime enrichment. Our results suggest that cognitive health in later life is in part the product of lifetime exposure to cognitive enrichment.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41671519/",
       "summary_ja": "",
       "disease": "dementia",
       "section": "imaging"
