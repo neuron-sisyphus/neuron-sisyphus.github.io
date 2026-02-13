@@ -74,7 +74,10 @@ def fetch_pubmed(terms: List[str]) -> List[dict]:
         for idnode in article.findall(".//ArticleId"):
             if idnode.get("IdType") == "doi":
                 doi = idnode.text
-        pub_date = article.findtext(".//PubDate/Year") or ""
+        pub_year = article.findtext(".//PubDate/Year") or ""
+        pub_month = article.findtext(".//PubDate/Month") or ""
+        pub_day = article.findtext(".//PubDate/Day") or ""
+        published = "-".join([p for p in [pub_year, pub_month, pub_day] if p])
         url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/" if pmid else ""
         articles.append(
             {
@@ -84,7 +87,8 @@ def fetch_pubmed(terms: List[str]) -> List[dict]:
                 "title": title,
                 "abstract": abstract,
                 "journal": journal,
-                "year": pub_date,
+                "year": pub_year,
+                "published": published or pub_year,
                 "url": url,
             }
         )
@@ -115,6 +119,7 @@ def fetch_epmc(terms: List[str], from_date: str, to_date: str) -> List[dict]:
         abstract = item.get("abstractText", "")
         journal = item.get("journalTitle", "")
         year = item.get("pubYear", "")
+        published = item.get("firstPublicationDate") or item.get("firstPublicationDate") or year
         url = item.get("fullTextUrlList", {}).get("fullTextUrl", [])
         url = url[0].get("url") if url else ""
         articles.append(
@@ -126,6 +131,7 @@ def fetch_epmc(terms: List[str], from_date: str, to_date: str) -> List[dict]:
                 "abstract": abstract,
                 "journal": journal,
                 "year": year,
+                "published": published,
                 "url": url,
             }
         )
@@ -179,12 +185,22 @@ def main() -> None:
             continue
         merged[key] = it
 
+    def sort_key(it: dict) -> datetime:
+        raw = it.get("published") or it.get("year") or ""
+        try:
+            return dateparser.parse(str(raw)) or datetime(1900, 1, 1)
+        except Exception:
+            return datetime(1900, 1, 1)
+
+    max_items = int(os.environ.get("MAX_ITEMS_PER_DAY", "10"))
+    merged_items = sorted(merged.values(), key=sort_key, reverse=True)[:max_items]
+
     client = OpenAI()
     cache_path = ROOT / "data" / "cache" / "summaries.json"
     cache = load_json(cache_path, {})
 
     daily = []
-    for key, it in merged.items():
+    for it in merged_items:
         cache_key = it.get("doi") or it.get("pmid") or it.get("title")
         if cache_key in cache:
             summary = cache[cache_key]

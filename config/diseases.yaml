@@ -41,6 +41,139 @@ diseases:
       - frontotemporal dementia
       - lewy body dementia
       - mild cognitive impairment
+  - id: epilepsy
+    name_ja: てんかん
+    name_en: Epilepsy
+    terms:
+      - epilepsy
+      - seizure
+      - status epilepticus
+      - antiepileptic
+  - id: ms
+    name_ja: 多発性硬化症
+    name_en: Multiple sclerosis
+    terms:
+      - multiple sclerosis
+      - demyelinating
+      - relapsing remitting
+      - clinically isolated syndrome
+  - id: migraine
+    name_ja: 片頭痛
+    name_en: Migraine
+    terms:
+      - migraine
+      - chronic migraine
+      - cluster headache
+      - trigeminal autonomic cephalalgia
+  - id: myasthenia
+    name_ja: 重症筋無力症
+    name_en: Myasthenia gravis
+    terms:
+      - myasthenia gravis
+      - acetylcholine receptor antibody
+      - MuSK antibody
+      - thymectomy
+  - id: neuropathy
+    name_ja: 末梢神経障害
+    name_en: Peripheral neuropathy
+    terms:
+      - peripheral neuropathy
+      - guillain barre
+      - GBS
+      - CIDP
+      - polyneuropathy
+  - id: inflammatory_myopathy
+    name_ja: 炎症性筋疾患
+    name_en: Inflammatory myopathy
+    terms:
+      - inflammatory myopathy
+      - myositis
+      - dermatomyositis
+      - polymyositis
+      - inclusion body myositis
+  - id: autoimmune_encephalitis
+    name_ja: 自己免疫性脳炎
+    name_en: Autoimmune encephalitis
+    terms:
+      - autoimmune encephalitis
+      - anti-NMDA receptor
+      - LGI1
+      - CASPR2
+      - GAD65
+  - id: nmosd
+    name_ja: 視神経脊髄炎
+    name_en: Neuromyelitis optica spectrum disorder
+    terms:
+      - neuromyelitis optica
+      - NMO
+      - NMOSD
+      - aquaporin-4
+      - AQP4
+  - id: mogad
+    name_ja: MOGAD
+    name_en: MOG antibody-associated disease
+    terms:
+      - MOGAD
+      - myelin oligodendrocyte glycoprotein
+      - MOG antibody
+  - id: fnd
+    name_ja: 機能性神経症状症
+    name_en: Functional neurological disorder
+    terms:
+      - functional neurological disorder
+      - functional neurologic disorder
+      - functional seizure
+      - psychogenic nonepileptic
+      - FND
+  - id: meningitis
+    name_ja: 髄膜炎
+    name_en: Meningitis
+    terms:
+      - meningitis
+      - meningococcal
+      - bacterial meningitis
+      - viral meningitis
+  - id: encephalitis
+    name_ja: 脳炎
+    name_en: Encephalitis
+    terms:
+      - encephalitis
+      - viral encephalitis
+      - herpes encephalitis
+  - id: essential_tremor
+    name_ja: 本態性振戦
+    name_en: Essential tremor
+    terms:
+      - essential tremor
+  - id: idiopathic_intracranial_hypertension
+    name_ja: 特発性頭蓋内圧亢進症
+    name_en: Idiopathic intracranial hypertension
+    terms:
+      - idiopathic intracranial hypertension
+      - IIH
+      - pseudotumor cerebri
+  - id: hereditary_neuro
+    name_ja: 遺伝性神経疾患
+    name_en: Hereditary neurological disorders
+    terms:
+      - hereditary neurologic
+      - genetic neurologic
+      - inherited neurologic
+      - spinocerebellar ataxia
+      - hereditary spastic paraplegia
+  - id: spontaneous_intracranial_hypotension
+    name_ja: 低髄液圧症候群
+    name_en: Spontaneous intracranial hypotension
+    terms:
+      - spontaneous intracranial hypotension
+      - low CSF pressure
+      - CSF leak
+  - id: normal_pressure_hydrocephalus
+    name_ja: 正常圧水頭症
+    name_en: Normal pressure hydrocephalus
+    terms:
+      - normal pressure hydrocephalus
+      - NPH
 
 sections:
   - id: epidemiology

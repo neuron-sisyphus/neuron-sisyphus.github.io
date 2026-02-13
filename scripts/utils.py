@@ -22,6 +22,17 @@ def normalize_title(title: str) -> str:
     return re.sub(r"\s+", " ", t).strip()
 
 
+def normalize_text(text: str) -> str:
+    if not text:
+        return ""
+    t = text.lower()
+    t = t.replace("’", "'")
+    t = t.replace("'", "")
+    t = t.replace("-", " ")
+    t = re.sub(r"[^a-z0-9]+", " ", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
 def choose_key(doi: Optional[str], pmid: Optional[str], title: str) -> str:
     if doi:
         return f"doi:{doi.lower().strip()}"
@@ -52,19 +63,31 @@ def load_disease_config() -> dict:
 
 
 def match_disease(title: str, abstract: str, diseases: List[dict]) -> Optional[str]:
-    text = f"{title} {abstract}".lower()
+    text = normalize_text(f"{title} {abstract}")
+    tokens = set(text.split())
     for d in diseases:
         for term in d.get("terms", []):
-            if term.lower() in text:
-                return d["id"]
+            t = normalize_text(term)
+            if not t:
+                continue
+            if " " in t:
+                if t in text:
+                    return d["id"]
+            else:
+                if len(t) <= 4:
+                    if t in tokens:
+                        return d["id"]
+                else:
+                    if t in text:
+                        return d["id"]
     return None
 
 
 def match_section(title: str, abstract: str, sections: List[dict]) -> str:
-    text = f"{title} {abstract}".lower()
+    text = normalize_text(f"{title} {abstract}")
     for s in sections:
         for kw in s.get("keywords", []):
-            if kw.lower() in text:
+            if normalize_text(kw) in text:
                 return s["id"]
     return "treatment"
 

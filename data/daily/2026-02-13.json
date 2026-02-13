@@ -1,5 +1,5 @@
 {
-  "disease": "stroke",
+  "date": "2026-02-13",
   "items": [
     {
       "source": "pubmed",
@@ -17,28 +17,16 @@
     },
     {
       "source": "pubmed",
-      "pmid": "41671526",
-      "doi": "10.1212/WNL.0000000000214672",
-      "title": "Previous Antiplatelet Therapy and Outcomes of Acute Ischemic Stroke With Large Vessel Occlusion Treated With Direct Endovascular Therapy.",
-      "abstract": "Previous antiplatelet therapy (APT) may influence outcomes in patients undergoing direct endovascular therapy (EVT) for anterior circulation large vessel occlusion (LVO) stroke, but evidence on clinical benefits and safety is limited and inconsistent. We aimed to evaluate the effects of previous APT on the outcomes of direct EVT. We conducted a retrospective analysis of consecutive patients treated at 20 high-volume stroke centers across 9 European countries and Israel (EVA-TRISP registry, 2015-2023). We included adults with anterior circulation LVO strokes, without previous use of IV thrombolysis (IVT) or anticoagulants. We compared outcomes of direct EVT patients stratified by previous APT regimen, using propensity score matching based on medical history and multilevel models to address confounders. The primary outcome was the 90-day modified Rankin Scale (mRS) score. The secondary efficacy outcomes were 90-day independence and the rate of successful reperfusion. The secondary safety outcomes were the rate of symptomatic intracranial hemorrhage (sICH) and mortality. Among 12,950 patients, 2,611 met the criteria and 1,308 were matched: 480 without previous APT and 828 with any previous APT, among whom 764 were on single APT and 64 on dual APT. The overall mean age was 75.8 ± 11.4 years, and 49.4% were female; the mean NIH Stroke Scale score was 13.1 ± 7.2 points, the successful reperfusion rate was 74.7%, and the median mRS score was 3 (interquartile range 2-4), with 38.8% of patients independent at 90 days. When compared with no previous APT, any previous APT was associated with a shift toward lower mRS scores at 90 days (odds ratio [OR] 1.30, CI 1.04-1.61,  In patients with anterior circulation LVO stroke treated with direct EVT and no previous anticoagulation, pretreatment with any APT was independently linked to better 90-day functional outcomes and higher independence, without increasing sICH risk. This study provides Class III evidence that, in patients with anterior circulation LVO stroke treated with direct EVT, previous APT is associated with better 90-day functional outcomes compared with no previous APT.",
-      "journal": "Neurology",
-      "year": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41671526/",
-      "summary_ja": "",
-      "disease": "stroke",
-      "section": "diagnosis"
-    },
-    {
-      "source": "pubmed",
       "pmid": "41671519",
       "doi": "10.1212/WNL.0000000000214677",
       "title": "Associations of Lifetime Cognitive Enrichment With Incident Alzheimer Disease Dementia, Cognitive Aging, and Cognitive Resilience.",
       "abstract": "The effects of lifetime cognitive enrichment on later-life cognitive outcomes are not comprehensively investigated. The aim of this study was to test the association of lifetime cognitive enrichment with Alzheimer disease (AD) dementia and cognitive decline and in an autopsied deceased subset to explore the association between lifetime enrichment and AD and related dementia (ADRD) pathologic indices and cognitive resilience that is, decline after adjusting for common ADRD pathologies. This was a longitudinal clinicopathologic study involving older individuals from Northeastern Illinois who participated in the Rush Memory and Aging Project, were free of dementia at baseline, completed surveys reflecting lifetime enrichment, and had annual clinical evaluations. We constructed a composite measure reflecting lifetime cognitive enrichment and tested its association with incident AD dementia in proportional hazards models, mean age of AD dementia onset in an accelerated failure time model, and cognitive decline using linear mixed-effects models. In a deceased subset, we tested the association of lifetime cognitive enrichment with 9 ADRD pathologies and cognitive resilience. Participants (n = 1,939, 75% female, mean baseline age = 79.6) completed an average of 7.6 years of follow-up, during which 551 participants developed AD dementia. One unit higher in lifetime enrichment was associated with 38% lower hazards of developing AD dementia (hazard ratio 0.62, 95% CI 0.52-0.73,  Lifetime exposure to cognitive enrichment was related to lower risk of AD dementia and a slower rate of cognitive decline, including after adjustment for common ADRD pathologies, indicating higher resilience provided by lifetime enrichment. Our results suggest that cognitive health in later life is in part the product of lifetime exposure to cognitive enrichment.",
       "journal": "Neurology",
       "year": "2026",
+      "published": "2026-Mar-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41671519/",
       "summary_ja": "",
-      "disease": "stroke",
+      "disease": "dementia",
       "section": "imaging"
     }
   ]
