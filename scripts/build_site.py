@@ -103,10 +103,15 @@ def build_disease_page(disease: dict, items: list, sections: dict) -> str:
         bullets = []
         section_text = disease.get("sections_text", {}).get(sid, "")
         section_intro = f"<p>{section_text}</p>" if section_text else ""
+        seen_keys = set()
         for it in lst:
-            summary = it.get("summary_short_ja", "") or it.get("summary_ja", "")
+            summary = it.get("summary_short_ja", "")
             if not summary:
                 continue
+            key = (it.get("doi") or it.get("pmid") or it.get("title") or "").strip().lower()
+            if key in seen_keys:
+                continue
+            seen_keys.add(key)
             rid = ref_id(it)
             bullets.append(f"<li>{summary} <small>[{rid}]</small></li>")
         blocks.append(f"<h2>{sname}</h2>{section_intro}<ul>{''.join(bullets)}</ul>")

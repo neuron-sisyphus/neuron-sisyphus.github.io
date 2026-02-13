@@ -265,7 +265,20 @@ def main() -> None:
         existing = load_json(disease_path, {"disease": did, "items": []})
         existing_items = existing.get("items", [])
         new_items = [it for it in daily if it.get("disease") == did]
-        existing["items"] = new_items + existing_items
+
+        def item_key(it: dict) -> str:
+            return choose_key(it.get("doi"), it.get("pmid"), it.get("title", ""))
+
+        seen = set()
+        merged_items = []
+        for it in new_items + existing_items:
+            key = item_key(it)
+            if key in seen:
+                continue
+            seen.add(key)
+            merged_items.append(it)
+
+        existing["items"] = merged_items
         save_json(disease_path, existing)
 
     # Update disease wiki text (per section) with minimal changes
