@@ -202,11 +202,13 @@ def main() -> None:
     daily = []
     for it in merged_items:
         cache_key = it.get("doi") or it.get("pmid") or it.get("title")
-        if cache_key in cache:
-            summary = cache[cache_key]
+        cached = cache.get(cache_key)
+        if cached:
+            summary = cached
         else:
             summary = summarize(client, it.get("title", ""), it.get("abstract", ""))
-            cache[cache_key] = summary
+            if summary:
+                cache[cache_key] = summary
         disease_id = match_disease(it.get("title", ""), it.get("abstract", ""), diseases)
         section_id = match_section(it.get("title", ""), it.get("abstract", ""), sections)
         daily.append(
