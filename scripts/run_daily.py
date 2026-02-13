@@ -158,6 +158,26 @@ def summarize(client: OpenAI, title: str, abstract: str) -> str:
     return resp.output_text.strip()
 
 
+def summarize_short(client: OpenAI, title: str, abstract: str) -> str:
+    if os.environ.get("SKIP_SUMMARY") == "1":
+        return ""
+    if not abstract:
+        return ""
+    prompt = (
+        "以下の英語の論文情報を、日本語で約150字の完結した要約にしてください。"
+        "冗長な前置きは不要です。\\n\\n"
+        f"Title: {title}\\n"
+        f"Abstract: {abstract}"
+    )
+    model = os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")
+    resp = client.responses.create(
+        model=model,
+        input=prompt,
+        temperature=0.2,
+    )
+    return resp.output_text.strip()
+
+
 def main() -> None:
     if not os.environ.get("OPENAI_API_KEY"):
         raise SystemExit("OPENAI_API_KEY is not set")
@@ -202,19 +222,32 @@ def main() -> None:
     daily = []
     for it in merged_items:
         cache_key = it.get("doi") or it.get("pmid") or it.get("title")
-        cached = cache.get(cache_key)
-        if cached:
-            summary = cached
-        else:
+        cached = cache.get(cache_key) or {}
+        if isinstance(cached, str):
+            cached = {"summary_ja": cached, "summary_short_ja": ""}
+
+        summary = cached.get("summary_ja", "")
+        summary_short = cached.get("summary_short_ja", "")
+
+        if not summary:
             summary = summarize(client, it.get("title", ""), it.get("abstract", ""))
-            if summary:
-                cache[cache_key] = summary
+        if not summary_short:
+            summary_short = summarize_short(
+                client, it.get("title", ""), it.get("abstract", "")
+            )
+
+        if summary or summary_short:
+            cache[cache_key] = {
+                "summary_ja": summary,
+                "summary_short_ja": summary_short,
+            }
         disease_id = match_disease(it.get("title", ""), it.get("abstract", ""), diseases)
         section_id = match_section(it.get("title", ""), it.get("abstract", ""), sections)
         daily.append(
             {
                 **it,
                 "summary_ja": summary,
+                "summary_short_ja": summary_short,
                 "disease": disease_id or "other",
                 "section": section_id,
             }
@@ -234,6 +267,48 @@ def main() -> None:
         new_items = [it for it in daily if it.get("disease") == did]
         existing["items"] = new_items + existing_items
         save_json(disease_path, existing)
+
+    # Update disease wiki text (per section) with minimal changes
+    text_dir = ROOT / "data" / "disease_text"
+    text_dir.mkdir(parents=True, exist_ok=True)
+    for d in diseases:
+        did = d["id"]
+        disease_text_path = text_dir / f"{did}.json"
+        existing_text = load_json(disease_text_path, {"disease": did, "sections": {}})
+        sections_text = existing_text.get("sections", {})
+
+        for s in sections:
+            sid = s["id"]
+            new_items = [it for it in daily if it.get("disease") == did and it.get("section") == sid]
+            if not new_items:
+                continue
+            new_summaries = "\n".join(
+                [f"- {it.get('summary_short_ja') or it.get('summary_ja','')}" for it in new_items if it.get("summary_short_ja") or it.get("summary_ja")]
+            ).strip()
+            if not new_summaries:
+                continue
+
+            current = sections_text.get(sid, "")
+            prompt = (
+                "以下は疾患レビューの本文です。新しい研究要約を反映して、"
+                "本文を最小限だけ更新してください。更新は最大2文まで。"
+                "既存の内容を大きく書き換えないでください。\\n\\n"
+                f"現在の本文:\\n{current}\\n\\n"
+                f"新しい要約:\\n{new_summaries}\\n\\n"
+                "更新後の本文:"
+            )
+            model = os.environ.get("OPENAI_MODEL", "gpt-4.1-mini")
+            resp = client.responses.create(
+                model=model,
+                input=prompt,
+                temperature=0.2,
+            )
+            updated = resp.output_text.strip()
+            if updated:
+                sections_text[sid] = updated
+
+        existing_text["sections"] = sections_text
+        save_json(disease_text_path, existing_text)
 
     from build_site import build_site
 

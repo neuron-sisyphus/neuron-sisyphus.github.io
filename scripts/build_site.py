@@ -88,13 +88,6 @@ def build_disease_page(disease: dict, items: list, sections: dict) -> str:
         sid = it.get("section") or "treatment"
         section_blocks.setdefault(sid, []).append(it)
 
-    def shorten(text: str, limit: int = 150) -> str:
-        if not text:
-            return ""
-        if len(text) <= limit:
-            return text
-        return text[: limit - 1] + "…"
-
     references = []
     ref_index = {}
     def ref_id(it: dict) -> int:
@@ -108,13 +101,15 @@ def build_disease_page(disease: dict, items: list, sections: dict) -> str:
     for sid, lst in section_blocks.items():
         sname = sections.get(sid, sid)
         bullets = []
+        section_text = disease.get("sections_text", {}).get(sid, "")
+        section_intro = f"<p>{section_text}</p>" if section_text else ""
         for it in lst:
-            summary = shorten(it.get("summary_ja", ""))
+            summary = it.get("summary_short_ja", "") or it.get("summary_ja", "")
             if not summary:
                 continue
             rid = ref_id(it)
             bullets.append(f"<li>{summary} <small>[{rid}]</small></li>")
-        blocks.append(f"<h2>{sname}</h2><ul>{''.join(bullets)}</ul>")
+        blocks.append(f"<h2>{sname}</h2>{section_intro}<ul>{''.join(bullets)}</ul>")
 
     refs_html = []
     for it in references:
@@ -151,6 +146,8 @@ def build_site(latest_date: str) -> None:
 
     for d in diseases:
         did = d["id"]
+        disease_text = load_json(ROOT / "data" / "disease_text" / f"{did}.json", {})
+        d["sections_text"] = disease_text.get("sections", {})
         disease_data = load_json(ROOT / "data" / "disease" / f"{did}.json", {})
         items = disease_data.get("items", [])
         page_html = build_disease_page(d, items, sections_cfg)
