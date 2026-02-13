@@ -88,6 +88,13 @@ def build_disease_page(disease: dict, items: list, sections: dict) -> str:
         sid = it.get("section") or "treatment"
         section_blocks.setdefault(sid, []).append(it)
 
+    def shorten(text: str, limit: int = 150) -> str:
+        if not text:
+            return ""
+        if len(text) <= limit:
+            return text
+        return text[: limit - 1] + "…"
+
     references = []
     ref_index = {}
     def ref_id(it: dict) -> int:
@@ -102,7 +109,7 @@ def build_disease_page(disease: dict, items: list, sections: dict) -> str:
         sname = sections.get(sid, sid)
         bullets = []
         for it in lst:
-            summary = it.get("summary_ja", "")
+            summary = shorten(it.get("summary_ja", ""))
             if not summary:
                 continue
             rid = ref_id(it)
