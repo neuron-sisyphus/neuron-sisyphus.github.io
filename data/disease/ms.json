@@ -1,4 +1,20 @@
 {
   "disease": "ms",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41687049",
+      "doi": "10.1212/WNL.0000000000214688",
+      "title": "Performance of the 2024 McDonald Criteria in Patients Under Evaluation for Suspected Multiple Sclerosis.",
+      "abstract": "The 2024 McDonald criteria provide new recommendations for multiple sclerosis (MS) diagnosis, but validation of the criteria is lacking. We wanted to investigate the application and performance of the 2024 McDonald criteria in patients with suspected MS seen in routine clinical practice. We retrospectively identified patients referred with clinical and/or radiologic suspicion for MS between January and December 2024. All patients had a minimum diagnostic evaluation with brain and spinal cord MRI. The 2017 McDonald criteria were applied prospectively, and the 2024 McDonald criteria were applied retrospectively after the initial diagnostic workup and at last follow-up. We investigated (1) the number of patients diagnosed with MS using the 2017 McDonald criteria or the 2024 McDonald criteria, and (2) the diagnostic performance of the 2024 McDonald criteria when applied during the initial diagnostic workup, with an MS diagnosis using the 2017 McDonald criteria as the reference-standard. In 347 patients (mean age 39.4 years, 66% female) with suspected MS followed up for mean 15.3 (range 8-20) months, 73 (21%) had alternative disorders and were excluded. After applying the 2024 McDonald criteria in the remaining 274 patients, more patients were diagnosed with MS after the initial diagnostic workup (220 vs 172,  Use of the 2024 McDonald allows for earlier MS diagnosis, but also more frequent diagnosis including in patients with radiologically isolated syndrome. The revised criteria have similar performance across the lifespan. Limitations include the lack of data on central vein sign and kappa free light chains, and missing optic nerve assessment in some patients.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687049/",
+      "summary_ja": "背景：2024年版McDonald基準は多発性硬化症（MS）診断の新たな推奨を示すが、その臨床的妥当性は未検証であった。  \n方法：2024年1～12月にMS疑いで紹介された347例を後ろ向きに解析。全例が脳・脊髄MRIを含む診断評価を受け、2017年基準は前向きに、2024年基準は診断後および追跡時に後ろ向きに適用した。2017年基準を診断の基準とし、2024年基準の診断数と性能を比較した。  \n結果：66％が女性、平均年齢39.4歳。追跡期間平均15.3か月で、21％はMS以外の疾患と判明し除外。残る274例に2024年基準を適用すると、初期診断時のMS診断数は2017年基準の172例に対し220例と増加。2024年基準は放射線学的孤立症候群も含め早期診断を可能にし、年齢層を問わず同等の診断性能を示した。  \n結論：2024年McDonald基準はMSの早期診断を促進し、診断数を増加させるが、一部のバイオマーカーや視神経評価の欠如が課題である。",
+      "summary_short_ja": "2024年版マクドナルド基準は、多発性硬化症（MS）の診断を早期化し、放射線学的孤立症候群患者も含め診断数を増加させることが示された。347例中274例に適用し、2017年基準より多くの患者が初期診断でMSと診断された。基準の診断性能は年齢層を問わず安定しているが、中心静脈徴候やカッパ自由軽鎖のデータ欠如、視神経評価の不足が課題である。",
+      "disease": "ms",
+      "section": "diagnosis"
+    }
+  ]
 }

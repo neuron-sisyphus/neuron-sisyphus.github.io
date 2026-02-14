@@ -1,4 +1,20 @@
 {
   "disease": "epilepsy",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41687048",
+      "doi": "10.1212/WNL.0000000000214645",
+      "title": "Diagnostic Yield of Comprehensive Reanalysis After Nondiagnostic Short-Read Genome Sequencing in Infants With Unexplained Epilepsy.",
+      "abstract": "The highest incidence of epilepsy in childhood occurs in the first year of life. Infantile epilepsies are associated with substantial morbidity and mortality. Although most are presumed to have genetic etiologies, many infants with nonacquired epilepsy remain genetically unsolved after clinical genome sequencing. The yield of reanalysis after nondiagnostic genome sequencing in this population is unknown. We aimed to determine the diagnostic yield of comprehensive reanalysis after nondiagnostic genome sequencing in infants with unexplained epilepsy. This cohort study included infants with unexplained epilepsy or complex febrile seizures who were recruited from 4 pediatric referral centers from September 2021 to March 2024 and had nondiagnostic clinical rapid genome sequencing. We performed comprehensive reanalysis of genome sequencing data from infants and available biological parents using multiple bioinformatics pipelines through July 2025 and clinically confirmed reanalysis findings. The primary outcome was diagnostic yield of genome sequencing reanalysis, defined as the percentage of infants who received genetic diagnoses from reanalysis. The secondary outcome was clinical utility of reanalysis findings. From an initial cohort of 312 infants with unexplained epilepsy who underwent clinical rapid genome sequencing, we performed comprehensive genome reanalysis in 176 infants with initially nondiagnostic results at a median age of 642 days, including 63 female patients (36%) and 30 (17%) with neonatal-onset seizures. The diagnostic yield of reanalysis was 5.1% (9/176, 95% CI 2.4%-9.5%), increasing the overall yield from 43.6% (136/312, 95% CI 38.0%-49.3%) to 46.5% (145/312, 95% CI 40.8%-52.2%). Of the new diagnoses, 6 involved variants not reported by clinical laboratories (2 single nucleotide variants, 2 structural variants, 1 tandem repeat expansion, 1 mosaic variant) and 3 involved previously reported variants of uncertain significance with new evidence. All diagnoses had clinical utility. Comprehensive reanalysis after nondiagnostic rapid genome sequencing has utility for infants with unexplained epilepsy. Our findings support implementation of reanalysis within 1-2 years after nondiagnostic genomic sequencing into routine clinical care of children with unexplained epilepsy and the expansion of clinically accredited genomic sequencing to include complex and noncoding variant detection.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687048/",
+      "summary_ja": "背景：乳児期のてんかんは発症率が高く、遺伝的要因が多いとされるが、多くの症例で臨床的なゲノム解析後も診断がつかない。再解析の診断率は不明であった。  \n方法：2021年9月から2024年3月までに4つの小児専門施設で非診断結果だった乳児てんかん患者176名（初回312名中）を対象に、親のデータも含め複数のバイオインフォマティクス手法で2025年7月までに包括的なゲノム再解析を実施し、診断率と臨床的有用性を評価した。  \n結果：再解析により5.1％（9/176）が新たに遺伝診断を得て、全体の診断率は43.6％から46.5％に上昇した。新規診断のうち6例は臨床検査で報告されなかった変異（SNV、構造変異、繰り返し配列拡大、モザイク変異）で、3例は既報の意義不明変異に新証拠が加わった。全ての診断は臨床的に有用であった。  \n結論：非診断の迅速ゲノム解析後の包括的再解析は乳児てんかんの診断に有効であり、1～2年以内の再解析の臨床導入と複雑・非コード領域変異の検出を含むゲノム解析の拡充が推奨される。",
+      "summary_short_ja": "乳児期のてんかんは遺伝的要因が多いが、初回の迅速ゲノム解析で診断がつかない例も多い。本研究は、診断不能だった乳児のゲノムデータを再解析し、5.1%の新たな遺伝診断を得た。これにより全体の診断率は43.6%から46.5%に向上し、全ての新診断は臨床的意義があった。再解析は1～2年以内に実施すべきであり、複雑変異や非コード領域の検出も含めた臨床的ゲノム解析の拡充が推奨される。",
+      "disease": "epilepsy",
+      "section": "diagnosis"
+    }
+  ]
 }

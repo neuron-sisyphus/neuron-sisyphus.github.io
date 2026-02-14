@@ -1,6 +1,36 @@
 {
-  "disease": "stroke",
+  "date": "2026-02-14",
   "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41687049",
+      "doi": "10.1212/WNL.0000000000214688",
+      "title": "Performance of the 2024 McDonald Criteria in Patients Under Evaluation for Suspected Multiple Sclerosis.",
+      "abstract": "The 2024 McDonald criteria provide new recommendations for multiple sclerosis (MS) diagnosis, but validation of the criteria is lacking. We wanted to investigate the application and performance of the 2024 McDonald criteria in patients with suspected MS seen in routine clinical practice. We retrospectively identified patients referred with clinical and/or radiologic suspicion for MS between January and December 2024. All patients had a minimum diagnostic evaluation with brain and spinal cord MRI. The 2017 McDonald criteria were applied prospectively, and the 2024 McDonald criteria were applied retrospectively after the initial diagnostic workup and at last follow-up. We investigated (1) the number of patients diagnosed with MS using the 2017 McDonald criteria or the 2024 McDonald criteria, and (2) the diagnostic performance of the 2024 McDonald criteria when applied during the initial diagnostic workup, with an MS diagnosis using the 2017 McDonald criteria as the reference-standard. In 347 patients (mean age 39.4 years, 66% female) with suspected MS followed up for mean 15.3 (range 8-20) months, 73 (21%) had alternative disorders and were excluded. After applying the 2024 McDonald criteria in the remaining 274 patients, more patients were diagnosed with MS after the initial diagnostic workup (220 vs 172,  Use of the 2024 McDonald allows for earlier MS diagnosis, but also more frequent diagnosis including in patients with radiologically isolated syndrome. The revised criteria have similar performance across the lifespan. Limitations include the lack of data on central vein sign and kappa free light chains, and missing optic nerve assessment in some patients.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687049/",
+      "summary_ja": "背景：2024年版McDonald基準は多発性硬化症（MS）診断の新たな推奨を示すが、その臨床的妥当性は未検証であった。  \n方法：2024年1～12月にMS疑いで紹介された347例を後ろ向きに解析。全例が脳・脊髄MRIを含む診断評価を受け、2017年基準は前向きに、2024年基準は診断後および追跡時に後ろ向きに適用した。2017年基準を診断の基準とし、2024年基準の診断数と性能を比較した。  \n結果：66％が女性、平均年齢39.4歳。追跡期間平均15.3か月で、21％はMS以外の疾患と判明し除外。残る274例に2024年基準を適用すると、初期診断時のMS診断数は2017年基準の172例に対し220例と増加。2024年基準は放射線学的孤立症候群も含め早期診断を可能にし、年齢層を問わず同等の診断性能を示した。  \n結論：2024年McDonald基準はMSの早期診断を促進し、診断数を増加させるが、一部のバイオマーカーや視神経評価の欠如が課題である。",
+      "summary_short_ja": "2024年版マクドナルド基準は、多発性硬化症（MS）の診断を早期化し、放射線学的孤立症候群患者も含め診断数を増加させることが示された。347例中274例に適用し、2017年基準より多くの患者が初期診断でMSと診断された。基準の診断性能は年齢層を問わず安定しているが、中心静脈徴候やカッパ自由軽鎖のデータ欠如、視神経評価の不足が課題である。",
+      "disease": "ms",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41687048",
+      "doi": "10.1212/WNL.0000000000214645",
+      "title": "Diagnostic Yield of Comprehensive Reanalysis After Nondiagnostic Short-Read Genome Sequencing in Infants With Unexplained Epilepsy.",
+      "abstract": "The highest incidence of epilepsy in childhood occurs in the first year of life. Infantile epilepsies are associated with substantial morbidity and mortality. Although most are presumed to have genetic etiologies, many infants with nonacquired epilepsy remain genetically unsolved after clinical genome sequencing. The yield of reanalysis after nondiagnostic genome sequencing in this population is unknown. We aimed to determine the diagnostic yield of comprehensive reanalysis after nondiagnostic genome sequencing in infants with unexplained epilepsy. This cohort study included infants with unexplained epilepsy or complex febrile seizures who were recruited from 4 pediatric referral centers from September 2021 to March 2024 and had nondiagnostic clinical rapid genome sequencing. We performed comprehensive reanalysis of genome sequencing data from infants and available biological parents using multiple bioinformatics pipelines through July 2025 and clinically confirmed reanalysis findings. The primary outcome was diagnostic yield of genome sequencing reanalysis, defined as the percentage of infants who received genetic diagnoses from reanalysis. The secondary outcome was clinical utility of reanalysis findings. From an initial cohort of 312 infants with unexplained epilepsy who underwent clinical rapid genome sequencing, we performed comprehensive genome reanalysis in 176 infants with initially nondiagnostic results at a median age of 642 days, including 63 female patients (36%) and 30 (17%) with neonatal-onset seizures. The diagnostic yield of reanalysis was 5.1% (9/176, 95% CI 2.4%-9.5%), increasing the overall yield from 43.6% (136/312, 95% CI 38.0%-49.3%) to 46.5% (145/312, 95% CI 40.8%-52.2%). Of the new diagnoses, 6 involved variants not reported by clinical laboratories (2 single nucleotide variants, 2 structural variants, 1 tandem repeat expansion, 1 mosaic variant) and 3 involved previously reported variants of uncertain significance with new evidence. All diagnoses had clinical utility. Comprehensive reanalysis after nondiagnostic rapid genome sequencing has utility for infants with unexplained epilepsy. Our findings support implementation of reanalysis within 1-2 years after nondiagnostic genomic sequencing into routine clinical care of children with unexplained epilepsy and the expansion of clinically accredited genomic sequencing to include complex and noncoding variant detection.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687048/",
+      "summary_ja": "背景：乳児期のてんかんは発症率が高く、遺伝的要因が多いとされるが、多くの症例で臨床的なゲノム解析後も診断がつかない。再解析の診断率は不明であった。  \n方法：2021年9月から2024年3月までに4つの小児専門施設で非診断結果だった乳児てんかん患者176名（初回312名中）を対象に、親のデータも含め複数のバイオインフォマティクス手法で2025年7月までに包括的なゲノム再解析を実施し、診断率と臨床的有用性を評価した。  \n結果：再解析により5.1％（9/176）が新たに遺伝診断を得て、全体の診断率は43.6％から46.5％に上昇した。新規診断のうち6例は臨床検査で報告されなかった変異（SNV、構造変異、繰り返し配列拡大、モザイク変異）で、3例は既報の意義不明変異に新証拠が加わった。全ての診断は臨床的に有用であった。  \n結論：非診断の迅速ゲノム解析後の包括的再解析は乳児てんかんの診断に有効であり、1～2年以内の再解析の臨床導入と複雑・非コード領域変異の検出を含むゲノム解析の拡充が推奨される。",
+      "summary_short_ja": "乳児期のてんかんは遺伝的要因が多いが、初回の迅速ゲノム解析で診断がつかない例も多い。本研究は、診断不能だった乳児のゲノムデータを再解析し、5.1%の新たな遺伝診断を得た。これにより全体の診断率は43.6%から46.5%に向上し、全ての新診断は臨床的意義があった。再解析は1～2年以内に実施すべきであり、複雑変異や非コード領域の検出も含めた臨床的ゲノム解析の拡充が推奨される。",
+      "disease": "epilepsy",
+      "section": "diagnosis"
+    },
     {
       "source": "pubmed",
       "pmid": "41687047",
@@ -45,34 +75,6 @@
       "summary_short_ja": "前向き脳梗塞患者を対象に、IVテネクテプラーゼ（TNK）併用血栓回収療法（EVT）とEVT単独の効果を比較した後ろ向き解析で、TNK+EVT群は3か月後の機能的回復が有意に良好であった。治療開始から4.5時間以内の症例で安全性に問題はなく、効果は時間依存性が認められなかった。これにより、早期脳梗塞治療におけるTNK併用の有用性が示された。",
       "disease": "stroke",
       "section": "treatment"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "41671526",
-      "doi": "10.1212/WNL.0000000000214672",
-      "title": "Previous Antiplatelet Therapy and Outcomes of Acute Ischemic Stroke With Large Vessel Occlusion Treated With Direct Endovascular Therapy.",
-      "abstract": "Previous antiplatelet therapy (APT) may influence outcomes in patients undergoing direct endovascular therapy (EVT) for anterior circulation large vessel occlusion (LVO) stroke, but evidence on clinical benefits and safety is limited and inconsistent. We aimed to evaluate the effects of previous APT on the outcomes of direct EVT. We conducted a retrospective analysis of consecutive patients treated at 20 high-volume stroke centers across 9 European countries and Israel (EVA-TRISP registry, 2015-2023). We included adults with anterior circulation LVO strokes, without previous use of IV thrombolysis (IVT) or anticoagulants. We compared outcomes of direct EVT patients stratified by previous APT regimen, using propensity score matching based on medical history and multilevel models to address confounders. The primary outcome was the 90-day modified Rankin Scale (mRS) score. The secondary efficacy outcomes were 90-day independence and the rate of successful reperfusion. The secondary safety outcomes were the rate of symptomatic intracranial hemorrhage (sICH) and mortality. Among 12,950 patients, 2,611 met the criteria and 1,308 were matched: 480 without previous APT and 828 with any previous APT, among whom 764 were on single APT and 64 on dual APT. The overall mean age was 75.8 ± 11.4 years, and 49.4% were female; the mean NIH Stroke Scale score was 13.1 ± 7.2 points, the successful reperfusion rate was 74.7%, and the median mRS score was 3 (interquartile range 2-4), with 38.8% of patients independent at 90 days. When compared with no previous APT, any previous APT was associated with a shift toward lower mRS scores at 90 days (odds ratio [OR] 1.30, CI 1.04-1.61,  In patients with anterior circulation LVO stroke treated with direct EVT and no previous anticoagulation, pretreatment with any APT was independently linked to better 90-day functional outcomes and higher independence, without increasing sICH risk. This study provides Class III evidence that, in patients with anterior circulation LVO stroke treated with direct EVT, previous APT is associated with better 90-day functional outcomes compared with no previous APT.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Mar-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41671526/",
-      "summary_ja": "背景：前治療としての抗血小板療法（APT）が、前方循環大血管閉塞（LVO）急性虚血性脳卒中に対する直接血管内治療（EVT）の成績に与える影響は不明瞭であり、臨床的利益や安全性に関するエビデンスは限られている。  \n方法：2015～2023年に欧州9カ国とイスラエルの20施設で施行されたEVA-TRISPレジストリから、静脈内血栓溶解療法や抗凝固療法を受けていない前方循環LVO脳卒中患者2,611例を対象に後ろ向き解析を行い、前治療APTの有無で1,308例を傾向スコアマッチングした。主要評価項目は90日後の修正Rankinスケール（mRS）、副次評価項目は90日後の自立度、再灌流成功率、症候性頭蓋内出血（sICH）発生率、死亡率とした。  \n結果：平均年齢75.8歳、NIHSSスコア13.1点、再灌流成功率74.7%、90日後自立率38.8%であった。APT既往群は非APT群に比べ、90日mRSが有意に改善（オッズ比1.30、95%CI 1.04-1.61）し、自立度も高かったが、sICHリスクの増加は認められなかった。  \n結論：前治療APTは、直接EVTを受ける前方循環LVO脳卒中患者において、90日後の機能的予後改善および自立度向上と関連し、安全性にも問題はなかった。",
-      "summary_short_ja": "前治療として抗血小板療法（APT）を受けていた前向き脳梗塞患者（前方循環大血管閉塞）に対し、直接血管内治療（EVT）を行った結果を多施設で後ろ向き解析した。APT既往群は90日後の機能的予後（修正Rankinスケール）や自立度が有意に良好で、症候性頭蓋内出血リスクの増加は認められなかった。APT既往は直接EVT治療患者の予後改善に寄与する可能性が示された。",
-      "disease": "stroke",
-      "section": "treatment"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "41671519",
-      "doi": "10.1212/WNL.0000000000214677",
-      "title": "Associations of Lifetime Cognitive Enrichment With Incident Alzheimer Disease Dementia, Cognitive Aging, and Cognitive Resilience.",
-      "abstract": "The effects of lifetime cognitive enrichment on later-life cognitive outcomes are not comprehensively investigated. The aim of this study was to test the association of lifetime cognitive enrichment with Alzheimer disease (AD) dementia and cognitive decline and in an autopsied deceased subset to explore the association between lifetime enrichment and AD and related dementia (ADRD) pathologic indices and cognitive resilience that is, decline after adjusting for common ADRD pathologies. This was a longitudinal clinicopathologic study involving older individuals from Northeastern Illinois who participated in the Rush Memory and Aging Project, were free of dementia at baseline, completed surveys reflecting lifetime enrichment, and had annual clinical evaluations. We constructed a composite measure reflecting lifetime cognitive enrichment and tested its association with incident AD dementia in proportional hazards models, mean age of AD dementia onset in an accelerated failure time model, and cognitive decline using linear mixed-effects models. In a deceased subset, we tested the association of lifetime cognitive enrichment with 9 ADRD pathologies and cognitive resilience. Participants (n = 1,939, 75% female, mean baseline age = 79.6) completed an average of 7.6 years of follow-up, during which 551 participants developed AD dementia. One unit higher in lifetime enrichment was associated with 38% lower hazards of developing AD dementia (hazard ratio 0.62, 95% CI 0.52-0.73,  Lifetime exposure to cognitive enrichment was related to lower risk of AD dementia and a slower rate of cognitive decline, including after adjustment for common ADRD pathologies, indicating higher resilience provided by lifetime enrichment. Our results suggest that cognitive health in later life is in part the product of lifetime exposure to cognitive enrichment.",
-      "journal": "Neurology",
-      "year": "2026",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41671519/",
-      "summary_ja": "",
-      "disease": "stroke",
-      "section": "imaging"
     }
   ]
 }
