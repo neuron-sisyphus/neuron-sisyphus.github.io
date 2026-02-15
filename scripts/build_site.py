@@ -44,12 +44,15 @@ def layout(title: str, body: str) -> str:
 </html>"""
 
 
-def build_index(latest_date: str, diseases: list) -> str:
+def build_index(latest_date: str, diseases: list, recent_dates: list) -> str:
     cards = "".join(
         [
             f"<div class='card'><h3><a href='/diseases/{d['id']}.html'>{d['name_ja']}</a></h3><small>{d['name_en']}</small></div>"
             for d in diseases
         ]
+    )
+    recent_links = "".join(
+        [f"<li><a href='/daily/{d}.html'>{d}</a></li>" for d in recent_dates]
     )
     body = f"""
 <section class="hero">
@@ -57,8 +60,8 @@ def build_index(latest_date: str, diseases: list) -> str:
   <p>最新の臨床論文を疾患ごとに整理し、簡潔にレビューします。</p>
 </section>
 <section>
-  <h2>最新の日次レビュー</h2>
-  <p><a href='/daily/{latest_date}.html'>{latest_date}</a></p>
+  <h2>直近1週間の日次レビュー</h2>
+  <ul>{recent_links}</ul>
 </section>
 <section>
   <h2>疾患別レビュー</h2>
@@ -189,7 +192,7 @@ def build_site(latest_date: str) -> None:
     daily_data = load_json(ROOT / "data" / "daily" / f"{latest_date}.json", {})
     daily_items = daily_data.get("items", [])
 
-    index_html = build_index(latest_date, diseases)
+    index_html = build_index(latest_date, diseases, dates[:7])
     (ROOT / "index.html").write_text(index_html, encoding="utf-8")
 
     # Daily index
