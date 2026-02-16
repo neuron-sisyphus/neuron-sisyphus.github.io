@@ -189,6 +189,13 @@ def build_site(latest_date: str) -> None:
     sections_cfg = {s["id"]: s["name_ja"] for s in cfg["sections"]}
     disease_names = {d["id"]: d["name_ja"] for d in diseases}
 
+    daily_dir = ROOT / "data" / "daily"
+    dates = []
+    if daily_dir.exists():
+        for p in daily_dir.glob("*.json"):
+            dates.append(p.stem)
+    dates = sorted(dates, reverse=True)
+
     daily_data = load_json(ROOT / "data" / "daily" / f"{latest_date}.json", {})
     daily_items = daily_data.get("items", [])
 
@@ -196,12 +203,6 @@ def build_site(latest_date: str) -> None:
     (ROOT / "index.html").write_text(index_html, encoding="utf-8")
 
     # Daily index
-    daily_dir = ROOT / "data" / "daily"
-    dates = []
-    if daily_dir.exists():
-        for p in daily_dir.glob("*.json"):
-            dates.append(p.stem)
-    dates = sorted(dates, reverse=True)
     daily_index = build_daily_index(dates)
     (ROOT / "daily").mkdir(parents=True, exist_ok=True)
     (ROOT / "daily" / "index.html").write_text(daily_index, encoding="utf-8")
