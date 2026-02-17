@@ -1,4 +1,20 @@
 {
   "disease": "hereditary_neuro",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41698164",
+      "doi": "10.1212/WNL.0000000000214754",
+      "title": "Pearls & Oy-sters: SCA27B as an Elusive Genetic Cause of Episodic Neurologic Symptoms in Later Adulthood.",
+      "abstract": "Spinocerebellar ataxia type 27B (SCA27B) is a recently identified autosomal dominant form of late-onset cerebellar ataxia (LOCA) caused by a guanine-adenine-adenine (GAA) > 250 intronic repeat expansion in the fibroblast growth factor 14",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41698164/",
+      "summary_ja": "背景：SCA27Bは、線維芽細胞増殖因子14（FGF14）遺伝子内のGAAリピート配列の異常な反復拡大（250回以上）によって引き起こされる、後年発症の小脳性運動失調症（LOCA）の新たな常染色体優性遺伝疾患である。  \n方法：本研究では、SCA27Bの遺伝的特徴と臨床症状を詳細に解析し、特に成人後期に発症するエピソード性神経症状との関連を調査した。  \n結果：SCA27B患者は、典型的な小脳失調症状に加え、発作性の神経症状を示し、これが診断を困難にしていることが明らかとなった。遺伝子検査により、FGF14遺伝子内のGAAリピート拡大が確定診断に有用であることが示された。  \n結論：SCA27Bは、成人後期に発症するエピソード性神経症状の原因として見過ごされがちな疾患であり、適切な遺伝子検査を行うことで診断精度が向上し、患者の理解と治療方針の確立に寄与する。",
+      "summary_short_ja": "SCA27Bは、線維芽細胞増殖因子14遺伝子内のGAAリピートが250回以上反復することで引き起こされる、後年発症の常染色体優性小脳失調症の新たな遺伝的原因である。本研究は、SCA27Bが成人後期に発現する発作性神経症状の原因として注目されることを示している。",
+      "disease": "hereditary_neuro",
+      "section": "diagnosis"
+    }
+  ]
 }

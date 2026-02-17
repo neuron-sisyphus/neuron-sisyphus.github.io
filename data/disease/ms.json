@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41698165",
+      "doi": "10.1212/WNL.0000000000214743",
+      "title": "Global & Community Health: Diagnosis and Management of Multiple Sclerosis in Nepal: Overcoming Barriers Through Local Adaptations.",
+      "abstract": "Multiple sclerosis (MS) is the most common demyelinating disease of the CNS and disproportionately affects younger individuals, yet it remains underdiagnosed and undertreated in many low and middle-income countries. We describe key barriers to timely diagnosis and effective management of MS in Nepal, including limited public and clinician awareness; restricted access to neurologic care, MRI, and essential laboratory testing; and the high cost of long-term treatment. We also outline practical, context-specific adaptations such as simplified diagnostic pathways, use of affordable immunosuppressive therapies, and sustained advocacy by the Multiple Sclerosis Society of Nepal to improve access and affordability. Our experience illustrates pragmatic, low-cost strategies that may support more equitable MS care in resource-constrained settings.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41698165/",
+      "summary_ja": "背景：多発性硬化症（MS）は中枢神経系の脱髄疾患で若年層に多いが、低・中所得国では診断や治療が遅れがちである。  \n方法：ネパールにおけるMSの診断・管理の障壁を調査し、現地の状況に応じた適応策を検討した。具体的には、医療従事者や一般の認知度の低さ、神経内科受診やMRI検査、必要な検査へのアクセス制限、長期治療の高コストを挙げている。  \n結果：簡略化した診断手順や、手頃な免疫抑制剤の活用、ネパール多発性硬化症協会による継続的な啓発活動が、診断・治療の遅れを改善し、医療アクセスと費用負担の軽減に寄与した。  \n結論：資源制約のある環境でも、現地に適した低コストの実践的戦略を導入することで、MS患者への公平な医療提供が可能であることを示した。",
+      "summary_short_ja": "多発性硬化症（MS）は若年層に多い中枢神経脱髄疾患であるが、ネパールでは診断・治療が遅れがちである。主な障壁は、医療者・一般の認知不足、神経科受診やMRI検査の制限、高額な治療費である。著者らは、簡素化した診断手順や低価格の免疫抑制薬の活用、MS協会による継続的な啓発活動など、現地に適した実践的対策を提案し、資源制約下での公平なMS医療の推進を示した。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41687049",
       "doi": "10.1212/WNL.0000000000214688",
       "title": "Performance of the 2024 McDonald Criteria in Patients Under Evaluation for Suspected Multiple Sclerosis.",

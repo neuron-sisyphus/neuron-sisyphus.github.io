@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41698163",
+      "doi": "10.1212/WNL.0000000000214701",
+      "title": "Systemic Inflammation and Recurrence After Atrial Fibrillation-Related Stroke: An Individual Participant Data Meta-Analysis.",
+      "abstract": "The residual recurrence risk after atrial fibrillation (AF)-related stroke is high despite anticoagulation, thereby necessitating new therapies. The importance of inflammation in AF is increasingly recognized. However, patients with AF-related stroke were excluded from recent trials of anti-inflammatory therapies. It is uncertain whether associations between IL-6/high-sensitivity C-reactive protein (hsCRP) and poststroke recurrence are modified by AF status. In this study, we aimed to analyze the association between IL-6/hsCRP and recurrence according to AF history. We leveraged individual participant data from studies identified by systematic review. We analyzed associations between IL-6/hsCRP and recurrent stroke/major adverse cardiovascular events (MACEs) (defined as fatal or nonfatal recurrent stroke or major coronary events) using multivariable Cox regression analyses (conditional logistic regression for 1 study) adjusted for age, sex, index event, cardiovascular risk factors, and medication use, stratified by AF status. Data from 11 prospective studies with 10,080 patients (2,134 with AF, mean age 70 years, 59.3% male) were included. During 21,080 person-years of follow-up, 1,677 patients had MACEs and 1,342 had recurrent stroke. Inflammatory markers were higher in patients with AF, irrespective of stroke severity and timing of measurement, with elevated levels persisting well beyond the acute phase. hsCRP was associated with recurrent MACEs in patients with AF (adjusted risk ratio [aRR] 1.14, 95% CI 1.04-1.25, per log These data highlight the importance of inflammatory mechanisms in vascular recurrence irrespective of AF, provide rationale for the inclusion of patients with AF in trials of anti-inflammatory therapy, and support a selection approach in future trials based on elevated inflammatory marker levels, rather than stroke etiology alone.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41698163/",
+      "summary_ja": "背景：心房細動（AF）関連脳卒中後の再発リスクは抗凝固療法下でも高く、新たな治療法の開発が求められている。炎症の役割がAFで注目されているが、AF関連脳卒中患者は抗炎症療法の最近の臨床試験から除外されており、IL-6や高感度C反応性タンパク（hsCRP）と再発リスクの関連がAFの有無で変わるかは不明であった。  \n方法：システマティックレビューで同定した11の前向き研究（計10,080例、うち2,134例がAF患者）から個別参加者データを用い、IL-6/hsCRPと再発脳卒中および主要心血管イベント（MACE）との関連を多変量コックス回帰分析で評価し、AFの有無で層別化した。  \n結果：追跡期間中（21,080人年）に1,677例がMACE、1,342例が再発脳卒中を発症。AF患者は炎症マーカー値が高く、急性期を超えて持続。hsCRPはAF患者の再発MACEと有意に関連（調整リスク比1.14、95%CI 1.04-1.25）した。  \n結論：炎症機序はAFの有無にかかわらず血管再発に重要であり、AF患者も抗炎症療法試験に含めるべきである。将来の試験では脳卒中の病因ではなく、炎症マーカーの高値を基準に患者選択を行うことが推奨される。",
+      "summary_short_ja": "心房細動（AF）関連脳卒中後の再発リスクは抗凝固療法下でも高く、新たな治療法が求められている。本研究は、11の前向き研究10,080例の個別データを用い、炎症マーカーIL-6およびhsCRPと再発リスクの関連をAFの有無で解析した。AF患者は炎症マーカーが高値で持続し、hsCRPはAF患者の再発重大心血管イベントと有意に関連した。炎症機序の重要性を示し、AF患者の抗炎症療法試験への参加と炎症マーカーに基づく選択の必要性を支持する。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41687047",
       "doi": "10.1212/WNL.0000000000214711",
       "title": "Association of Systemic Inflammatory Markers With Cerebral Small Vessel Disease Progression: A Community-Based Prospective Study.",
