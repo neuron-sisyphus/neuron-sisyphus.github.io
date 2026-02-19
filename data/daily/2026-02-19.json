@@ -1,4 +1,20 @@
 {
   "date": "2026-02-19",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41707111",
+      "doi": "10.1212/WNL.0000000000214770",
+      "title": "How Are Synaptic Vesicle Exocytosis and Endocytosis Affected in Parkinson Disease?",
+      "abstract": "Synaptic vesicle exocytosis and endocytosis are 2 fundamental processes that involve the coordinated and timely activity of many proteins and protein-lipid interactions. Alpha-synuclein (α-Syn) regulates several steps of these processes. Impaired exocytosis and endocytosis are important consequences of Parkinson disease (PD), reflecting both loss of function of normal α-Syn and toxic gain of function of abnormal α-Syn aggregates. Studies in familial forms of PD indicate that abnormal functions of other critical proteins such as leucine repeat rich kinase 2 also impair normal synaptic vesicular trafficking and contribute to synaptic dysfunction and secondary neurodegeneration.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41707111/",
+      "summary_ja": "背景：シナプス小胞のエキソサイトーシスとエンドサイトーシスは、多数のタンパク質や脂質の相互作用によって調節される基本的な神経伝達過程である。α-シヌクレイン（α-Syn）はこれらの過程の複数段階を制御している。  \n方法：パーキンソン病（PD）におけるシナプス小胞の機能障害を、α-Synの正常機能喪失と異常凝集体による毒性獲得機能の観点から検討し、家族性PDに関連する他の重要タンパク質、特にルイシンリピートリッチキナーゼ2（LRRK2）の異常機能がシナプス小胞輸送に与える影響を調査した。  \n結果：PDでは、α-Synの異常がエキソサイトーシスとエンドサイトーシスの障害を引き起こし、シナプス機能不全をもたらすことが示された。さらに、LRRK2などの他のタンパク質の異常もシナプス小胞の正常な輸送を妨げ、神経変性を促進することが明らかとなった。  \n結論：PDにおけるシナプス小胞の機能障害は、α-Synの機能異常と他の関連タンパク質の異常が複合的に関与しており、これらの分子機構の解明が病態理解と治療戦略の開発に重要である。",
+      "summary_short_ja": "シナプス小胞のエキソサイトーシスとエンドサイトーシスは多くのタンパク質の協調的な働きによる基本的過程であり、α-シヌクレイン（α-Syn）がこれらの過程を調節する。パーキンソン病（PD）では、正常なα-Synの機能喪失と異常なα-Syn凝集体の毒性獲得により、これらの過程が障害される。さらに、LRRK2など他の重要タンパク質の異常もシナプス機能障害と神経変性に寄与する。",
+      "disease": "parkinson",
+      "section": "prognosis"
+    }
+  ]
 }
