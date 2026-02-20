@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41712884",
+      "doi": "10.1212/WNL.0000000000214655",
+      "title": "Contrast-Associated Acute Kidney Injury After Thrombectomy for Ischemic Stroke: Prognostic Impact and CAN-REST Predictive Score.",
+      "abstract": "Contrast-associated acute kidney injury (CA-AKI) is a potentially preventable complication after exposure to iodinated contrast media. In patients undergoing endovascular thrombectomy (EVT) for acute ischemic stroke (AIS), the incidence and clinical impact are poorly characterized, and no validated prediction tool is currently available. The aim of this study was to assess the incidence and prognostic significance of CA-AKI in EVT-treated patients with AIS and to develop and validate a predictive score. A retrospective, multicenter cohort study was conducted involving EVT-treated patients across 73 centers in 16 countries (January-December 2023). Inclusion criteria were age ≥18 years, absence of dialysis, availability of preprocedural and 48-hour postprocedural creatinine levels, and available 90-day follow-up (modified Rankin Scale [mRS] score). The primary outcome was CA-AKI, defined by KDIGO (Kidney Disease: Improving Global Outcomes criteria;creatinine increase ≥0.3 mg/dL or ≥1.5 times baseline, within 48 hours). Secondary outcomes were (1) in-hospital mortality, (2) 90-day mRS score, and (3) 90-day severe disability or death (mRS score >3). Logistic models assessing associations with outcomes accounted for within-center clustering by applying robust standard errors. CA-AKI prediction models were developed across imputed data sets using univariable selection ( Among 6,638 patients (median age 74 years; 48.7% male), CA-AKI occurred in 326 (4.9%) and was independently associated with in-hospital mortality (adjusted odds ratio [aOR] 2.269; 95% CI 1.615-3.190), higher 90-day mRS scores (adjusted common odds ratio 1.584; 95% CI 1.110-2.258), and 90-day severe disability or death (aOR 1.530; 95% CI 1.057-2.216). A preprocedural risk model including 12 routine clinical variables-sex, ethnicity, arterial hypertension, dyslipidemia, chronic kidney disease, antiplatelet therapy, NIH Stroke Scale score at admission, serum glucose, estimated glomerular filtration rate, hemoglobin, mean arterial pressure, and IV thrombolysis-demonstrated acceptable discrimination (area under the receiver operating characteristic curve 0.710 [95% CI 0.682-0.738]; precision-recall area under the curve 0.13 [95% CI 0.10-0.16]), good calibration (slope 0.870 [95% CI 0.759-0.928]), good overall performance (Brier score 0.045 [95% CI 0.042-0.049]). A second model that included EVT-related variables (e.g., contrast volume) showed similar performances. In this large, international cohort, CA-AKI occurred in approximately 1 in 20 EVT-treated patients with AIS and was independently associated with poor outcomes. A simple preprocedural risk score enables early identification of high-risk individuals and may support preventive strategies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41712884/",
+      "summary_ja": "背景：急性虚血性脳卒中（AIS）に対する血栓回収術（EVT）後のヨード造影剤関連急性腎障害（CA-AKI）は予防可能な合併症であるが、その発生率や臨床的影響は不明瞭であり、予測ツールも存在しない。  \n方法：16か国73施設のEVT施行患者6,638例（中央値年齢74歳）を対象に、術前および術後48時間のクレアチニン値と90日後の修正Rankinスケール（mRS）を用いてCA-AKIの発生率と予後への影響を後ろ向きに解析。CA-AKIはKDIGO基準で定義。予測モデルは12の臨床変数を用いて構築・検証した。  \n結果：CA-AKIは4.9%に発生し、入院中死亡（調整オッズ比2.269）、90日後の重度障害または死亡（mRS>3、aOR1.530）と有意に関連。予測モデルはROC曲線下面積0.710で良好な識別能を示した。造影剤量を含むモデルでも同様の性能を示した。  \n結論：AISに対するEVT後のCA-AKIは約5%に発生し、予後不良と独立して関連する。簡便な術前リスクスコアにより高リスク患者の早期同定が可能であり、予防策の実施に有用である。",
+      "summary_short_ja": "虚血性脳卒中に対する血栓回収術後の造影剤関連急性腎障害（CA-AKI）は約5%に発生し、入院中死亡率や90日後の重度障害・死亡と独立して関連した。本研究は16か国73施設の6638例を対象に、12の臨床指標を用いたCA-AKI予測スコア「CAN-REST」を開発・検証し、良好な予測性能を示した。早期リスク評価により予防策の検討が期待される。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41698163",
       "doi": "10.1212/WNL.0000000000214701",
       "title": "Systemic Inflammation and Recurrence After Atrial Fibrillation-Related Stroke: An Individual Participant Data Meta-Analysis.",
