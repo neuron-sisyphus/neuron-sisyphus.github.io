@@ -1,5 +1,5 @@
 {
-  "disease": "dementia",
+  "date": "2026-02-21",
   "items": [
     {
       "source": "pubmed",
@@ -18,18 +18,18 @@
     },
     {
       "source": "pubmed",
-      "pmid": "41671519",
-      "doi": "10.1212/WNL.0000000000214677",
-      "title": "Associations of Lifetime Cognitive Enrichment With Incident Alzheimer Disease Dementia, Cognitive Aging, and Cognitive Resilience.",
-      "abstract": "The effects of lifetime cognitive enrichment on later-life cognitive outcomes are not comprehensively investigated. The aim of this study was to test the association of lifetime cognitive enrichment with Alzheimer disease (AD) dementia and cognitive decline and in an autopsied deceased subset to explore the association between lifetime enrichment and AD and related dementia (ADRD) pathologic indices and cognitive resilience that is, decline after adjusting for common ADRD pathologies. This was a longitudinal clinicopathologic study involving older individuals from Northeastern Illinois who participated in the Rush Memory and Aging Project, were free of dementia at baseline, completed surveys reflecting lifetime enrichment, and had annual clinical evaluations. We constructed a composite measure reflecting lifetime cognitive enrichment and tested its association with incident AD dementia in proportional hazards models, mean age of AD dementia onset in an accelerated failure time model, and cognitive decline using linear mixed-effects models. In a deceased subset, we tested the association of lifetime cognitive enrichment with 9 ADRD pathologies and cognitive resilience. Participants (n = 1,939, 75% female, mean baseline age = 79.6) completed an average of 7.6 years of follow-up, during which 551 participants developed AD dementia. One unit higher in lifetime enrichment was associated with 38% lower hazards of developing AD dementia (hazard ratio 0.62, 95% CI 0.52-0.73,  Lifetime exposure to cognitive enrichment was related to lower risk of AD dementia and a slower rate of cognitive decline, including after adjustment for common ADRD pathologies, indicating higher resilience provided by lifetime enrichment. Our results suggest that cognitive health in later life is in part the product of lifetime exposure to cognitive enrichment.",
+      "pmid": "41712884",
+      "doi": "10.1212/WNL.0000000000214655",
+      "title": "Contrast-Associated Acute Kidney Injury After Thrombectomy for Ischemic Stroke: Prognostic Impact and CAN-REST Predictive Score.",
+      "abstract": "Contrast-associated acute kidney injury (CA-AKI) is a potentially preventable complication after exposure to iodinated contrast media. In patients undergoing endovascular thrombectomy (EVT) for acute ischemic stroke (AIS), the incidence and clinical impact are poorly characterized, and no validated prediction tool is currently available. The aim of this study was to assess the incidence and prognostic significance of CA-AKI in EVT-treated patients with AIS and to develop and validate a predictive score. A retrospective, multicenter cohort study was conducted involving EVT-treated patients across 73 centers in 16 countries (January-December 2023). Inclusion criteria were age ≥18 years, absence of dialysis, availability of preprocedural and 48-hour postprocedural creatinine levels, and available 90-day follow-up (modified Rankin Scale [mRS] score). The primary outcome was CA-AKI, defined by KDIGO (Kidney Disease: Improving Global Outcomes criteria;creatinine increase ≥0.3 mg/dL or ≥1.5 times baseline, within 48 hours). Secondary outcomes were (1) in-hospital mortality, (2) 90-day mRS score, and (3) 90-day severe disability or death (mRS score >3). Logistic models assessing associations with outcomes accounted for within-center clustering by applying robust standard errors. CA-AKI prediction models were developed across imputed data sets using univariable selection ( Among 6,638 patients (median age 74 years; 48.7% male), CA-AKI occurred in 326 (4.9%) and was independently associated with in-hospital mortality (adjusted odds ratio [aOR] 2.269; 95% CI 1.615-3.190), higher 90-day mRS scores (adjusted common odds ratio 1.584; 95% CI 1.110-2.258), and 90-day severe disability or death (aOR 1.530; 95% CI 1.057-2.216). A preprocedural risk model including 12 routine clinical variables-sex, ethnicity, arterial hypertension, dyslipidemia, chronic kidney disease, antiplatelet therapy, NIH Stroke Scale score at admission, serum glucose, estimated glomerular filtration rate, hemoglobin, mean arterial pressure, and IV thrombolysis-demonstrated acceptable discrimination (area under the receiver operating characteristic curve 0.710 [95% CI 0.682-0.738]; precision-recall area under the curve 0.13 [95% CI 0.10-0.16]), good calibration (slope 0.870 [95% CI 0.759-0.928]), good overall performance (Brier score 0.045 [95% CI 0.042-0.049]). A second model that included EVT-related variables (e.g., contrast volume) showed similar performances. In this large, international cohort, CA-AKI occurred in approximately 1 in 20 EVT-treated patients with AIS and was independently associated with poor outcomes. A simple preprocedural risk score enables early identification of high-risk individuals and may support preventive strategies.",
       "journal": "Neurology",
       "year": "2026",
-      "published": "2026-Mar-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41671519/",
-      "summary_ja": "背景：生涯にわたる認知的刺激が高齢期の認知機能やアルツハイマー病（AD）発症に与える影響は十分に解明されていない。  \n方法：イリノイ州北東部の高齢者1,939名（平均年齢79.6歳、75％女性）を対象に、Rush Memory and Aging Projectのデータを用いて、生涯の認知的刺激を反映する複合指標を作成。認知症発症リスク、発症年齢、認知機能低下速度との関連を長期追跡調査で検証し、死亡者の一部ではAD関連病理指標および認知的レジリエンスとの関連も調査した。  \n結果：平均7.6年の追跡期間中、551名がAD認知症を発症。生涯認知的刺激が1単位高いとAD発症リスクが38％低下（ハザード比0.62）し、認知機能低下も遅延。AD関連病理を調整後も認知的レジリエンスが高いことが示された。  \n結論：生涯にわたる認知的刺激はAD認知症の発症リスク低減と認知機能の維持に寄与し、高齢期の認知健康は生涯の認知的刺激の影響を受けることが示唆された。",
-      "summary_short_ja": "生涯にわたる認知的充実度がアルツハイマー病（AD）認知症の発症リスクを38％低減させ、認知機能の低下速度も遅らせることが明らかとなった。これは、AD関連病理を調整した後も認知的回復力の向上と関連し、認知的充実が高齢期の認知健康に寄与する重要な要因であることを示唆している。",
-      "disease": "dementia",
-      "section": "epidemiology"
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41712884/",
+      "summary_ja": "背景：急性虚血性脳卒中（AIS）に対する血栓回収術（EVT）後のヨード造影剤関連急性腎障害（CA-AKI）は予防可能な合併症であるが、その発生率や臨床的影響は不明瞭であり、予測ツールも存在しない。  \n方法：16か国73施設のEVT施行患者6,638例（中央値年齢74歳）を対象に、術前および術後48時間のクレアチニン値と90日後の修正Rankinスケール（mRS）を用いてCA-AKIの発生率と予後への影響を後ろ向きに解析。CA-AKIはKDIGO基準で定義。予測モデルは12の臨床変数を用いて構築・検証した。  \n結果：CA-AKIは4.9%に発生し、入院中死亡（調整オッズ比2.269）、90日後の重度障害または死亡（mRS>3、aOR1.530）と有意に関連。予測モデルはROC曲線下面積0.710で良好な識別能を示した。造影剤量を含むモデルでも同様の性能を示した。  \n結論：AISに対するEVT後のCA-AKIは約5%に発生し、予後不良と独立して関連する。簡便な術前リスクスコアにより高リスク患者の早期同定が可能であり、予防策の実施に有用である。",
+      "summary_short_ja": "虚血性脳卒中に対する血栓回収術後の造影剤関連急性腎障害（CA-AKI）は約5%に発生し、入院中死亡率や90日後の重度障害・死亡と独立して関連した。本研究は16か国73施設の6638例を対象に、12の臨床指標を用いたCA-AKI予測スコア「CAN-REST」を開発・検証し、良好な予測性能を示した。早期リスク評価により予防策の検討が期待される。",
+      "disease": "stroke",
+      "section": "prognosis"
     }
   ]
 }
