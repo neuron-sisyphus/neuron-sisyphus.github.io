@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-22",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41719494",
+      "doi": "10.1212/WNL.0000000000214703",
+      "title": "Neuroimaging Biomarkers of Disease Progression and Cognitive Change in Patients With Retinal Vasculopathy With Cerebral Leukoencephalopathy.",
+      "abstract": "A monogenic, age-related cerebral small vessel disease (cSVD), retinal vasculopathy with cerebral leukoencephalopathy and systemic manifestations (RVCL-S), causes accelerated vascular dementia, vision loss, and premature death. Given knowledge is limited regarding its pathophysiology, we examined the natural history of progression in imaging and cognitive endpoints to define the rate and variability of progression in a prospective RVCL-S cohort. We hypothesized that cerebral blood flow (CBF) and oxygen extraction fraction (OEF), as metrics of cerebral hypoxia-ischemia, would be associated with neurologic disease progression. We performed sequential brain MRI and a cognitive battery in a prospective RVCL-S cohort. Arterial spin labeling and asymmetric spin echo quantified CBF and OEF in normal-appearing white matter (WM), respectively. Three neuroimaging endpoints of cSVD included the following: log-transformed, normalized fluid-attenuated inversion recovery WM hyperintensity (WMH) volume; WM microstructure using mean diffusivity; and normalized WM volume. Five cognitive and motor endpoints included Digit Symbol Substitution Test (DSST), category fluency, free recall, Montreal Cognitive Assessment (MoCA), and gait speed. Linear mixed-effects models examined age, CBF, and OEF in association with neuroimaging and cognitive progression. Twenty-five participants, aged 23-68 years (median 47 years, 56% female), underwent 151 scans over a median (25th, 75th) of 2.2 (1.8, 4.4) years. All neuroimaging and cognitive endpoints progressed over time, except for MoCA. Of neuroimaging endpoints, WMH volume demonstrated the largest rate of change (+31.3%/year, 95% CI 20.8%-42.3%). Of cognitive endpoints, DSST, a metric of processing speed, showed the steepest decline (-13.1 T-score points/decade, 95% CI -21.2 to -5.32), followed by free recall and category fluency (-5 [-7.9 to -2.4] and -4.1 [-7.2 to -1.2] T-score points per decade, respectively). The age at first brain lesion was estimated to be 30.6 (23.8, 35.8) years, modeled from individual WMH volume trajectories. In multivariable analysis, OEF, but not CBF, was independently associated with WMH growth (β = 3.73, 95% CI 0.63-6.83,  Elevated OEF in at-risk WM was associated with progression in WMH and impairment in WM microstructure, suggesting a role for tissue hypoxia-ischemia in underlying RVCL-S pathophysiology. Cerebral OEF holds promise as a predictive biomarker to risk-stratify patients with RVCL-S and other forms of cSVD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41719494/",
+      "summary_ja": "背景：RVCL-Sは単一遺伝子による加齢関連の脳小血管病（cSVD）で、血管性認知症や視力障害、早期死亡を引き起こすが、その病態生理は不明な点が多い。  \n方法：前向きコホートのRVCL-S患者25名（23～68歳）を対象に、脳MRIと認知機能検査を複数回実施。動脈スピンラベリングと非対称スピンエコー法で脳血流（CBF）と酸素抽出率（OEF）を測定し、白質病変量（WMH）、白質微細構造、白質体積の3つの画像指標と、5つの認知・運動指標の進行を線形混合モデルで解析した。  \n結果：全指標は経時的に悪化し、特にWMH量は年率31.3%増加、認知機能では処理速度を示すDSSTが最も急激に低下した。初回脳病変発症年齢は約30歳と推定。多変量解析でOEFはWMH増加と独立して関連し、CBFは関連しなかった。  \n結論：リスクのある白質領域でのOEF上昇は組織の低酸素虚血を反映し、RVCL-Sの病態進行に関与する可能性が高い。脳のOEFはRVCL-Sや他のcSVD患者のリスク層別化に有用なバイオマーカーとなり得る。",
+      "summary_short_ja": "RVCL-Sは単一遺伝子による加齢性脳小血管病で、血管性認知症や視力低下を引き起こす。本研究は前向きコホートで脳MRIと認知機能検査を用い、病態進行を評価した。白質病変量は年率31.3%増加し、認知機能では処理速度が最も著しく低下した。酸素抽出率（OEF）が白質病変の進行と関連し、組織の低酸素虚血が病態に関与することを示唆。OEFはRVCL-Sや他の脳小血管病の進行予測バイオマーカーとして有望である。",
+      "disease": "dementia",
+      "section": "imaging"
+    }
+  ]
+}
