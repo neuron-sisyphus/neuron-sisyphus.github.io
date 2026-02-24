@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41730038",
+      "doi": "10.1161/STROKEAHA.125.053204",
+      "title": "Glycoprotein IIb/IIIa Agents in Acute Ischemic Stroke: A Niche in the Making?",
+      "abstract": "Variations in thrombus composition significantly influence the efficacy of conventional thrombolytic therapies in acute ischemic stroke. Emerging treatments, designed to target distinct components of the thrombus, are currently under evaluation and offer renewed hope for enhancing clot dissolution and improving clinical outcomes. This review will examine the current evidence surrounding glycoprotein IIb/IIIa inhibitors in the treatment of acute ischemic stroke, drawing on the latest randomised-controlled trials, identifying promising therapeutic candidates and evaluating the clinical contexts in which these agents are most likely to be beneficial.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Mar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730038/",
+      "summary_ja": "背景：急性虚血性脳卒中における血栓の構成は多様であり、従来の血栓溶解療法の効果に大きく影響する。  \n方法：本レビューでは、最新のランダム化比較試験を中心に、血栓の特定成分を標的とするグリコプロテインIIb/IIIa阻害剤の治療効果を検討した。  \n結果：グリコプロテインIIb/IIIa阻害剤は、従来療法に比べて血栓溶解を促進し、臨床転帰の改善が期待される有望な治療候補として浮上している。特に、血栓の性状や患者の臨床状況に応じて効果が異なることが示唆された。  \n結論：グリコプロテインIIb/IIIa阻害剤は急性虚血性脳卒中治療における新たなニッチとして位置づけられつつあり、今後の臨床応用に向けてさらなる検証が必要である。",
+      "summary_short_ja": "本論文は、急性虚血性脳卒中における血栓成分の多様性が従来の血栓溶解療法の効果に影響を与える点に着目し、グリコプロテインIIb/IIIa阻害剤の有効性を最新のランダム化比較試験を基に検討する。これらの新規治療薬は特定の血栓成分を標的とし、血栓溶解促進と臨床成績の改善に期待が寄せられている。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41712884",
       "doi": "10.1212/WNL.0000000000214655",
       "title": "Contrast-Associated Acute Kidney Injury After Thrombectomy for Ischemic Stroke: Prognostic Impact and CAN-REST Predictive Score.",

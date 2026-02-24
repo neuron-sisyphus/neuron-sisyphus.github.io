@@ -1,5 +1,5 @@
 {
-  "disease": "parkinson",
+  "date": "2026-02-24",
   "items": [
     {
       "source": "pubmed",
@@ -18,18 +18,18 @@
     },
     {
       "source": "pubmed",
-      "pmid": "41707111",
-      "doi": "10.1212/WNL.0000000000214770",
-      "title": "How Are Synaptic Vesicle Exocytosis and Endocytosis Affected in Parkinson Disease?",
-      "abstract": "Synaptic vesicle exocytosis and endocytosis are 2 fundamental processes that involve the coordinated and timely activity of many proteins and protein-lipid interactions. Alpha-synuclein (α-Syn) regulates several steps of these processes. Impaired exocytosis and endocytosis are important consequences of Parkinson disease (PD), reflecting both loss of function of normal α-Syn and toxic gain of function of abnormal α-Syn aggregates. Studies in familial forms of PD indicate that abnormal functions of other critical proteins such as leucine repeat rich kinase 2 also impair normal synaptic vesicular trafficking and contribute to synaptic dysfunction and secondary neurodegeneration.",
-      "journal": "Neurology",
+      "pmid": "41730038",
+      "doi": "10.1161/STROKEAHA.125.053204",
+      "title": "Glycoprotein IIb/IIIa Agents in Acute Ischemic Stroke: A Niche in the Making?",
+      "abstract": "Variations in thrombus composition significantly influence the efficacy of conventional thrombolytic therapies in acute ischemic stroke. Emerging treatments, designed to target distinct components of the thrombus, are currently under evaluation and offer renewed hope for enhancing clot dissolution and improving clinical outcomes. This review will examine the current evidence surrounding glycoprotein IIb/IIIa inhibitors in the treatment of acute ischemic stroke, drawing on the latest randomised-controlled trials, identifying promising therapeutic candidates and evaluating the clinical contexts in which these agents are most likely to be beneficial.",
+      "journal": "Stroke",
       "year": "2026",
-      "published": "2026-Mar-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41707111/",
-      "summary_ja": "背景：シナプス小胞のエキソサイトーシスとエンドサイトーシスは、多数のタンパク質や脂質の相互作用によって調節される基本的な神経伝達過程である。α-シヌクレイン（α-Syn）はこれらの過程の複数段階を制御している。  \n方法：パーキンソン病（PD）におけるシナプス小胞の機能障害を、α-Synの正常機能喪失と異常凝集体による毒性獲得機能の観点から検討し、家族性PDに関連する他の重要タンパク質、特にルイシンリピートリッチキナーゼ2（LRRK2）の異常機能がシナプス小胞輸送に与える影響を調査した。  \n結果：PDでは、α-Synの異常がエキソサイトーシスとエンドサイトーシスの障害を引き起こし、シナプス機能不全をもたらすことが示された。さらに、LRRK2などの他のタンパク質の異常もシナプス小胞の正常な輸送を妨げ、神経変性を促進することが明らかとなった。  \n結論：PDにおけるシナプス小胞の機能障害は、α-Synの機能異常と他の関連タンパク質の異常が複合的に関与しており、これらの分子機構の解明が病態理解と治療戦略の開発に重要である。",
-      "summary_short_ja": "シナプス小胞のエキソサイトーシスとエンドサイトーシスは多くのタンパク質の協調的な働きによる基本的過程であり、α-シヌクレイン（α-Syn）がこれらの過程を調節する。パーキンソン病（PD）では、正常なα-Synの機能喪失と異常なα-Syn凝集体の毒性獲得により、これらの過程が障害される。さらに、LRRK2など他の重要タンパク質の異常もシナプス機能障害と神経変性に寄与する。",
-      "disease": "parkinson",
-      "section": "prognosis"
+      "published": "2026-Mar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730038/",
+      "summary_ja": "背景：急性虚血性脳卒中における血栓の構成は多様であり、従来の血栓溶解療法の効果に大きく影響する。  \n方法：本レビューでは、最新のランダム化比較試験を中心に、血栓の特定成分を標的とするグリコプロテインIIb/IIIa阻害剤の治療効果を検討した。  \n結果：グリコプロテインIIb/IIIa阻害剤は、従来療法に比べて血栓溶解を促進し、臨床転帰の改善が期待される有望な治療候補として浮上している。特に、血栓の性状や患者の臨床状況に応じて効果が異なることが示唆された。  \n結論：グリコプロテインIIb/IIIa阻害剤は急性虚血性脳卒中治療における新たなニッチとして位置づけられつつあり、今後の臨床応用に向けてさらなる検証が必要である。",
+      "summary_short_ja": "本論文は、急性虚血性脳卒中における血栓成分の多様性が従来の血栓溶解療法の効果に影響を与える点に着目し、グリコプロテインIIb/IIIa阻害剤の有効性を最新のランダム化比較試験を基に検討する。これらの新規治療薬は特定の血栓成分を標的とし、血栓溶解促進と臨床成績の改善に期待が寄せられている。",
+      "disease": "stroke",
+      "section": "treatment"
     }
   ]
 }
