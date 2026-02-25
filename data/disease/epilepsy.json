@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41604608",
+      "doi": "10.1111/j.1528-1157.1996.tb00602.x",
+      "title": "Progressive Changes in Brain Morphology in People With Idiopathic Generalized Epilepsy.",
+      "abstract": "Idiopathic generalized epilepsy (IGE) is typically responsive to treatment, yet some people remain poorly controlled despite multiple antiseizure medication trials. Whether this subgroup shows progressive structural brain changes remains uncertain. We aimed to investigate whether people with poorly controlled chronic IGE exhibit progressive morphological brain alterations and how these differ from those in early-stage IGE. This longitudinal case-control neuroimaging study included 2 cohorts: an early-stage IGE group from West China Hospital (Chengdu, China) and a chronic IGE group from the National Hospital for Neurology and Neurosurgery (London, United Kingdom). Participants had a history of generalized seizures and no focal pathology. Matched healthy controls were drawn from 3 public imaging data sets. Participants underwent 2 high-resolution T1-weighted MRI scans at least 12 months apart. Cortical thickness and hippocampal and subcortical volumes were measured on paired scans. Longitudinal changes were assessed using linear mixed-effects models, correcting for age and interscan interval. Structural covariance analysis was conducted to examine inter-regional relationships over time, focusing on thalamo-cortical coupling. Forty-two people with early-stage IGE and 67 with chronic IGE were recruited from 2 separate epilepsy centers, and 109 matched controls were included. The early-stage IGE group showed progressive atrophy limited to the left putamen. Chronic IGE was associated with widespread cortical thinning, primarily in frontal and temporal regions, and thickening in posterior and occipital areas. Subcortical atrophy involves the putamen, thalamus, and pallidum. People with ongoing generalized tonic-clonic seizures showed thickening in the precentral gyrus and additional thinning in the frontal cortex and precuneus. Photosensitive IGE was associated with thickening in the lingual gyrus and occipital cortex. Valproate use was associated with attenuated structural changes in motor, visual, and subcortical regions. Increased structural covariance was observed between the left thalamus and left lingual gyrus in chronic IGE. Chronic IGE, particularly with persistent generalized tonic-clonic seizures or photosensitivity, is associated with more extensive progressive brain changes compared with matched controls. Valproate may have a protective association with these structural changes, although further validation is needed. Longitudinal MRI may help monitor disease progression and treatment effects in poorly controlled IGE.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Feb-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41604608/",
+      "summary_ja": "背景：特発性全般性てんかん（IGE）は通常治療に反応するが、一部の患者は複数の抗てんかん薬を試しても発作が制御困難であり、この群で進行性の脳構造変化が起こるかは不明であった。  \n方法：中国と英国の2施設から早期IGE群（42名）と慢性IGE群（67名）を対象に、健康対照群（109名）と比較した縦断的MRI研究を実施。高解像度T1強調画像を12か月以上の間隔で2回取得し、皮質厚や海馬・皮質下体積を計測。線形混合効果モデルで年齢や検査間隔を補正し、構造的共分散解析で視床皮質結合も評価した。  \n結果：早期IGEでは左被殻の萎縮が限定的に進行。慢性IGEでは前頭葉・側頭葉の皮質薄化と後頭部の肥厚、被殻・視床・淡蒼球の萎縮が広範に認められた。持続性全般性強直間代発作例は前中心回の肥厚と前頭葉・後帯状皮質のさらなる薄化を示し、光過敏IGEは舌状回・後頭皮質の肥厚を伴った。バルプロ酸使用は運動・視覚・皮質下領域の構造変化を抑制する傾向があった。慢性IGEでは左視床と左舌状回間の構造的共分散が増加した。  \n結論：慢性IGE、特に持続性発作や光過敏例は対照群より広範な進行性脳変化を示し、バルプロ酸がこれらの変化を抑制する可能性がある。縦断的MRIは制御困難なIGEの病態進行や治療効果の評価に有用と考えられる。",
+      "summary_short_ja": "特発性全般てんかん（IGE）において、治療抵抗性の慢性患者は初期患者に比べて前頭葉や側頭葉を中心に広範な皮質萎縮と一部領域の肥厚を示し、被殻や視床などの皮質下構造も萎縮することが明らかとなった。持続的な全般性強直間代発作や光過敏性を伴う患者では特異的な脳形態変化が認められ、バルプロ酸はこれらの構造変化を抑制する可能性が示唆された。長期的MRI観察は病態進行や治療効果の評価に有用である。",
+      "disease": "epilepsy",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41687048",
       "doi": "10.1212/WNL.0000000000214645",
       "title": "Diagnostic Yield of Comprehensive Reanalysis After Nondiagnostic Short-Read Genome Sequencing in Infants With Unexplained Epilepsy.",

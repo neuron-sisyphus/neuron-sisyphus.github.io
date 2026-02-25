@@ -1,4 +1,20 @@
 {
   "disease": "migraine",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41604607",
+      "doi": "10.1212/WNL.0000000000214659",
+      "title": "Long-Term Effectiveness and Persistence Factors of Anti-CGRP Monoclonal Antibodies in Migraine: 2-Year Results From the EUREkA Cohort.",
+      "abstract": "The aim of this study was to describe the long-term effectiveness and treatment persistence of anti-calcitonin gene-related peptide (CGRP) monoclonal antibodies (MAbs) in migraine and to identify baseline factors associated with 2-year treatment continuation. A prospective observational multicenter registry-based study of anti-CGRP MAbs was conducted. We analyzed changes in monthly headache days (MHDs) at 24 months (M24) compared with baseline in those who reached M24 (ON-group). We analyzed patterns of response at 4 time points (6, 12, 18, and 24 months). We defined sustained response (SR) as a ≥50% reduction in MHDs at ≥3 of 4 time points. We compared baseline characteristics of the ON-group with those of the discontinuation group because of lack of effectiveness (OFF-group). A total of 1,340 individuals reached M24 (ON-group: median age 48.0 [41.0-55.0] years; 81.7% female). The median MHD at baseline was 20.0 (13.0-28.0) days. At M24, 60.4% of patients demonstrated ≥50% reduction in MHDs (809/1,340). The proportion of participants achieving SR at M24 was 53.8% (142/264). When compared with the ON-group (n = 1,340), the OFF-group (n = 1,057) showed statistically significant higher baseline MHDs (ON: 20.0 [13.0-28.0] vs OFF: 25.0 [16.0-28.0]) and a greater proportion of patients with aura (ON: 16.2% vs OFF: 22.9%), depression (ON: 22.8% vs OFF: 37.9%), and obesity (ON: 7.2% vs OFF: 19.1%) ( Sustained reductions in MHDs to anti-CGRP treatment at 2 years was observed. Delayed treatment onset, migraine with aura, depression, and obesity may negatively affect treatment persistence. This study provides Class IV evidence that, in patients with migraine, treatment with anti-CGRP MAbs is associated with sustained reductions in MHDs over a 24-month period.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Feb-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41604607/",
+      "summary_ja": "【背景】片頭痛治療における抗CGRPモノクローナル抗体（MAbs）の長期効果と治療継続要因の解明が求められている。  \n【方法】多施設の前向き観察研究で、抗CGRP MAbs治療患者1,340名の24か月後の月間頭痛日数（MHDs）変化を解析。6、12、18、24か月の4時点での反応パターンを評価し、50%以上のMHDs減少が3回以上持続した場合を持続反応（SR）と定義。治療継続群（ON群）と効果不十分で中止した群（OFF群）のベースライン特性を比較。  \n【結果】ON群の中央値MHDは20日から24か月後に60.4%が50%以上減少。SR達成率は53.8%。OFF群はON群に比べ、ベースラインでMHDが多く、片頭痛の前兆、うつ病、肥満の割合が有意に高かった。  \n【結論】抗CGRP MAbsは2年間にわたりMHDを持続的に減少させる効果があり、治療開始の遅れや片頭痛の前兆、うつ病、肥満は治療継続に悪影響を及ぼす可能性が示された。",
+      "summary_short_ja": "本研究は、抗CGRPモノクローナル抗体の片頭痛に対する2年間の長期効果と治療継続要因を検討した。1340例で月間頭痛日数が中央値20日から60.4%が50%以上減少し、53.8%が持続的な改善を示した。一方、治療中断群は頭痛日数が多く、オーラ、うつ病、肥満の割合が高かった。これらの因子が治療継続に負の影響を与える可能性が示された。抗CGRP抗体は24か月間にわたり頭痛軽減効果を持続することが示された。",
+      "disease": "migraine",
+      "section": "treatment"
+    }
+  ]
 }
