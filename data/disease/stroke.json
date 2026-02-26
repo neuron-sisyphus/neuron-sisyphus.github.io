@@ -3,21 +3,6 @@
   "items": [
     {
       "source": "pubmed",
-      "pmid": "41730038",
-      "doi": "10.1161/STROKEAHA.125.053204",
-      "title": "Glycoprotein IIb/IIIa Agents in Acute Ischemic Stroke: A Niche in the Making?",
-      "abstract": "Variations in thrombus composition significantly influence the efficacy of conventional thrombolytic therapies in acute ischemic stroke. Emerging treatments, designed to target distinct components of the thrombus, are currently under evaluation and offer renewed hope for enhancing clot dissolution and improving clinical outcomes. This review will examine the current evidence surrounding glycoprotein IIb/IIIa inhibitors in the treatment of acute ischemic stroke, drawing on the latest randomised-controlled trials, identifying promising therapeutic candidates and evaluating the clinical contexts in which these agents are most likely to be beneficial.",
-      "journal": "Stroke",
-      "year": "2026",
-      "published": "2026-Mar",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41730038/",
-      "summary_ja": "背景：急性虚血性脳卒中における血栓の構成は多様であり、従来の血栓溶解療法の効果に大きく影響する。  \n方法：本レビューでは、最新のランダム化比較試験を中心に、血栓の特定成分を標的とするグリコプロテインIIb/IIIa阻害剤の治療効果を検討した。  \n結果：グリコプロテインIIb/IIIa阻害剤は、従来療法に比べて血栓溶解を促進し、臨床転帰の改善が期待される有望な治療候補として浮上している。特に、血栓の性状や患者の臨床状況に応じて効果が異なることが示唆された。  \n結論：グリコプロテインIIb/IIIa阻害剤は急性虚血性脳卒中治療における新たなニッチとして位置づけられつつあり、今後の臨床応用に向けてさらなる検証が必要である。",
-      "summary_short_ja": "本論文は、急性虚血性脳卒中における血栓成分の多様性が従来の血栓溶解療法の効果に影響を与える点に着目し、グリコプロテインIIb/IIIa阻害剤の有効性を最新のランダム化比較試験を基に検討する。これらの新規治療薬は特定の血栓成分を標的とし、血栓溶解促進と臨床成績の改善に期待が寄せられている。",
-      "disease": "stroke",
-      "section": "treatment"
-    },
-    {
-      "source": "pubmed",
       "pmid": "41628407",
       "doi": "10.1212/WNL.0000000000214484",
       "title": "Evaluating Prehospital Stroke Scales for Large Vessel Occlusion: A Systematic Review and Network Meta-Analysis.",
@@ -43,6 +28,36 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41610378/",
       "summary_ja": "背景：小児の出血性もやもや病（MMD）は重篤な亜型であり、出血に特有の予後因子は十分に解明されていない。  \n方法：2003年から2023年に診断された小児MMD患者1,446例を対象に後ろ向きコホート研究を実施。出血性MMDは発症72時間以内の非外傷性・非動脈瘤性の急性頭蓋内出血と定義し、Suzuki分類、後交通動脈（PcomA）および前脈絡叢動脈（AChA）の拡張、修正Rankinスケール（mRS）スコア、再発イベントを収集。多変量ロジスティック回帰とCox比例ハザードモデルで出血性発症および再発の関連因子を解析。  \n結果：117例が出血性発症で、非出血例より年長（平均10.9歳対7.6歳）かつ女性に多い。入院時mRS≥2およびAChA拡張が悪性予後と強く関連。従来の血管造影分類は出血予後と有意な関連を示さなかった。  \n結論：出血性MMDは後方循環の脆弱性を特徴とし、早期介入の指標として後方循環評価が重要である。",
       "summary_short_ja": "小児出血性もやもや病（MMD）は高い罹患率を持つ重篤な亜型であり、本研究は2003～2023年の1,446例の小児MMD患者を対象に臨床経過、出血発症・再発因子、長期予後を検討した。出血例は平均年齢が高く女性に多く、後方循環の動脈拡張（特に前脈絡叢動脈拡張）と入院時のmRSスコア≥2が予後不良の主要因子であった。従来の血管造影分類は予後予測に有用でなく、後方循環評価が早期介入の指標となる。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41576313",
+      "doi": "10.1161/STROKEAHA.114.006819",
+      "title": "Stroke Technology Diffusion in Rural Settings: Differential Exposure to Certification Levels by Community Income Levels.",
+      "abstract": "Although stroke technology and care infrastructure have advanced significantly, it remains unclear whether recent expansions of certified stroke centers have benefited rural patients equitably across income levels. This study assessed whether rural communities of varying income experienced similar gains in access to certified stroke centers and whether such expansions were associated with improvements in acute stroke treatment and outcomes. We conducted a retrospective cohort study using 100% Medicare Provider and Analysis Review data from January 1, 2009, to December 31, 2019. This study included all Medicare fee-for-service beneficiaries diagnosed with acute ischemic stroke who resided in rural US communities. Communities were classified as exposed if a newly certified stroke center-acute stroke ready hospital (ASRH), primary stroke center, thrombectomy-capable stroke center (TSC), or comprehensive stroke center (CSC)-opened within a 30-minute drive. A community fixed-effects linear probability model was used to evaluate changes in outcomes after stroke center certification. Primary outcomes included the following: (1) admission to a stroke-certified hospital, (2) receipt of thrombolytic therapy, (3) receipt of thrombectomy, and (4) one-year mortality. Among 590,191 rural stroke patients, 4% of low-income and 22% of high-income patients had access to a nearby certified stroke center in 2009. By 2019, 30% of low-income and 50% of high-income communities had gained access to at least 1 newly certified stroke center; high-income communities were 3 times more likely than low-income communities to be exposed to a newly certified TSC or CSC (5.4% vs 1.8%). Exposure to ASRHs increased the probability of thrombolysis by 0.63 percentage points (95% 0.05-1.22), whereas exposure to TSC/CSCs increased the probability by 1.39 points (95% CI 0.28-2.49) and thrombectomy by 1.12 points (95% CI 0.41-1.83). No differences in 1-year mortality were observed. During the study period, high-income rural communities experienced more frequent and higher tier stroke center expansion than low-income rural communities. These access disparities were associated with differential gains in advanced stroke treatments, suggesting that expansions may have inadvertently widened income-based disparities in rural stroke care. These findings underscore the need for equity-focused implementation strategies, ensuring that infrastructure improvements translate into equitable clinical benefits.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Feb-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41576313/",
+      "summary_ja": "本研究は、脳卒中治療技術の進展が農村部の所得層ごとに平等に恩恵をもたらしているかを検証した。2009年から2019年の米国農村部の急性虚血性脳卒中患者約59万人を対象に、認定脳卒中センターの開設が治療アクセスや臨床結果に与える影響を後ろ向きコホート研究で評価した。コミュニティは、30分圏内に新規認定センター（ASRH、PSC、TSC、CSC）が開設されたかで分類し、入院先、血栓溶解療法、血栓回収術、1年死亡率を主要アウトカムとした。結果、2009年時点で低所得地域の4％、高所得地域の22％が認定センターにアクセス可能であったが、2019年にはそれぞれ30％と50％に増加。特に高所得地域は高度センター（TSC/CSC）へのアクセスが低所得地域の3倍多かった。ASRHへのアクセスは血栓溶解療法の確率を0.63ポイント、TSC/CSCは血栓溶解と血栓回収術の確率をそれぞれ1.39ポイント、1.12ポイント増加させたが、1年死亡率の差はなかった。結論として、高所得農村地域での認定センター拡大がより進み、先進治療の利用格差を拡大させており、所得に基づく不平等を是正するための公平性重視の施策が必要である。",
+      "summary_short_ja": "本研究は、2009～2019年の米国農村部における脳卒中認定施設の拡大が所得層によって異なる影響を及ぼしたかを検証した。高所得地域は低所得地域よりも高度な認定施設の増加率が高く、血栓溶解療法や血栓回収術の利用率向上に結びついたが、1年死亡率に差はなかった。結果は、農村部の脳卒中ケアにおける所得格差が拡大している可能性を示し、公平な医療アクセス確保の重要性を示唆している。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41730038",
+      "doi": "10.1161/STROKEAHA.125.053204",
+      "title": "Glycoprotein IIb/IIIa Agents in Acute Ischemic Stroke: A Niche in the Making?",
+      "abstract": "Variations in thrombus composition significantly influence the efficacy of conventional thrombolytic therapies in acute ischemic stroke. Emerging treatments, designed to target distinct components of the thrombus, are currently under evaluation and offer renewed hope for enhancing clot dissolution and improving clinical outcomes. This review will examine the current evidence surrounding glycoprotein IIb/IIIa inhibitors in the treatment of acute ischemic stroke, drawing on the latest randomised-controlled trials, identifying promising therapeutic candidates and evaluating the clinical contexts in which these agents are most likely to be beneficial.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Mar",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730038/",
+      "summary_ja": "背景：急性虚血性脳卒中における血栓の構成は多様であり、従来の血栓溶解療法の効果に大きく影響する。  \n方法：本レビューでは、最新のランダム化比較試験を中心に、血栓の特定成分を標的とするグリコプロテインIIb/IIIa阻害剤の治療効果を検討した。  \n結果：グリコプロテインIIb/IIIa阻害剤は、従来療法に比べて血栓溶解を促進し、臨床転帰の改善が期待される有望な治療候補として浮上している。特に、血栓の性状や患者の臨床状況に応じて効果が異なることが示唆された。  \n結論：グリコプロテインIIb/IIIa阻害剤は急性虚血性脳卒中治療における新たなニッチとして位置づけられつつあり、今後の臨床応用に向けてさらなる検証が必要である。",
+      "summary_short_ja": "本論文は、急性虚血性脳卒中における血栓成分の多様性が従来の血栓溶解療法の効果に影響を与える点に着目し、グリコプロテインIIb/IIIa阻害剤の有効性を最新のランダム化比較試験を基に検討する。これらの新規治療薬は特定の血栓成分を標的とし、血栓溶解促進と臨床成績の改善に期待が寄せられている。",
       "disease": "stroke",
       "section": "treatment"
     },

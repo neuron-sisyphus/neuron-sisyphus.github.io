@@ -18,6 +18,21 @@
     },
     {
       "source": "pubmed",
+      "pmid": "41592265",
+      "doi": "10.1212/WNL.0000000000214613",
+      "title": "Timing for Starting Antiseizure Medication Withdrawal After Epilepsy Surgery in Adults.",
+      "abstract": "More than half of people undergoing epilepsy surgery become seizure-free and may consider withdrawing antiseizure medications (ASMs). Withdrawal practices vary, and the optimal timing remains unclear. We aim to compare seizure relapse risk among individuals initiating ASM withdrawal at different time points after epilepsy surgery. We conducted a multicenter observational cohort study of adults who underwent resective epilepsy surgery between 1990 and 2016 at 12 tertiary centers. Participants were seizure-free before medication withdrawal and had at least 1 year of follow-up. Seizure relapse risk was compared among those initiating withdrawal 1, 2, 3, 4, or 5 years postoperatively vs later. We used propensity score matching for each comparison to adjust for treatment selection bias. Of the 964 people included (51% female; median age at surgery 34 years [interquartile range 26-44]), 446 (46%) began ASM withdrawal in the first year after surgery, 255 (26%) in the second, 110 (11%) in the third, 58 (6%) in the fourth, 29 (3%) in the fifth, and 66 (7%) after the fifth year. After matching, those starting withdrawal in the first (hazard ratio [HR] 1.4;  Initiating ASM withdrawal within the first 2 postoperative years was linked to a higher initial risk of seizure relapse compared with later withdrawal, although long-term outcomes were similar regardless of withdrawal timing. Waiting more than 2 years did not confer additional benefit in reducing seizure risk. Deciding whether and when to withdraw ASMs is a shared process involving individuals, caregivers, and clinicians, balancing preferences, risk of injury, social factors (e.g., driving, work, and supervision), and clinical judgment. Transparent information on risks and benefits is essential. Our findings offer real-world evidence that may inform future evidence-based withdrawal protocols and follow-up strategies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Feb-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41592265/",
+      "summary_ja": "背景：てんかん手術後に発作が消失した成人患者の多くは抗てんかん薬（ASM）を中止することを検討するが、中止開始の最適な時期は不明である。  \n方法：1990～2016年に12の三次医療機関で切除術を受け、術後発作がなく1年以上追跡された964名を対象に、多施設観察コホート研究を実施。術後1～5年目以降でASM中止開始時期別に発作再発リスクを比較し、傾向スコアマッチングで治療選択バイアスを調整した。  \n結果：術後1年以内に中止開始した群は発作再発リスクが高く（HR 1.4）、2年以内の中止も初期リスク増加と関連したが、長期的な発作再発率は中止時期にかかわらず類似。2年以上待つことによる追加のリスク低減効果は認められなかった。  \n結論：ASM中止の開始時期は患者・介護者・医療者がリスクや社会的要因を考慮し共有決定すべきであり、本研究は実臨床に即した中止時期の判断やフォローアップ方針の策定に資するエビデンスを提供する。",
+      "summary_short_ja": "てんかん手術後に抗てんかん薬（ASM）をいつ中止するかは最適な時期が不明である。本研究は12施設で1990～2016年に手術を受けた成人964名を対象に、術後1～5年およびそれ以降のASM中止開始時期と発作再発リスクを比較した。術後2年以内の中止は初期の再発リスクが高いが、長期的な発作抑制効果に差はなく、2年以上待つことによる追加の利益は認められなかった。中止時期の決定は患者・家族・医師の協議が重要である。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41687048",
       "doi": "10.1212/WNL.0000000000214645",
       "title": "Diagnostic Yield of Comprehensive Reanalysis After Nondiagnostic Short-Read Genome Sequencing in Infants With Unexplained Epilepsy.",
