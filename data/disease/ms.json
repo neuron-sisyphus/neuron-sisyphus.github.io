@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41791023",
+      "doi": "10.1212/WNL.0000000000214708",
+      "title": "Genetic Determinants of Multiple Sclerosis Susceptibility in People From Diverse Ancestral Backgrounds.",
+      "abstract": "The genetic basis of multiple sclerosis (MS) susceptibility has been studied extensively in European (EUR) ancestry populations. The aim of our study was to determine the genetic architecture of MS susceptibility in people of South Asian (SAS) and African (AFR) genetic ancestral backgrounds. We recruited and genotyped a cohort of ancestrally diverse people with MS (pwMS) from across the United Kingdom. Cases were combined with controls from the UK Biobank (UKB). After genetic ancestry inference, we performed within-ancestry case-control genetic association studies of MS susceptibility, exploring single nucleotide variants and imputed classical human leukocyte antigen alleles. We analyzed genetic data from 676 pwMS from our cohort (median age = 45.7 years, 71.7% female genetic sex), 2,426 pwMS from the UKB (median age = 55.0 years, 72.3% female), and 27,640 UKB controls (median age = 54.0 years, 52.5% female). Genetic variants within the Major Histocompatibility Complex were associated with MS susceptibility across all ancestries (SAS: lead SNP chr6:32635095:G:C, odds ratio [OR] = 1.7,  The genetic architecture of MS susceptibility shows strong concordance across ancestral groups suggesting shared disease mechanisms. Larger studies in diverse populations are likely to enhance our understanding of how genetic variation contributes to MS susceptibility in people of all ancestral backgrounds.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41791023/",
+      "summary_ja": "背景：多発性硬化症（MS）の遺伝的感受性は主にヨーロッパ系集団で研究されてきたが、南アジア系（SAS）やアフリカ系（AFR）集団における遺伝的構造は不明であった。  \n方法：英国全土から多様な遺伝的背景を持つMS患者676名を募集し、UKバイオバンクのMS患者2,426名および27,640名の対照群と合わせて遺伝子解析を実施。遺伝的祖先推定後、各祖先集団内でケース・コントロールの遺伝子関連解析を行い、単一塩基多型（SNP）およびヒト白血球抗原（HLA）アレルの関連を調査した。  \n結果：主要組織適合複合体（MHC）領域の遺伝子変異がすべての祖先集団でMS感受性と有意に関連し、SAS集団ではリードSNP（chr6:32635095:G:C）がオッズ比1.7を示した。  \n結論：MS感受性の遺伝的構造は祖先集団間で高い一致を示し、共通の疾患メカニズムが示唆される。多様な集団での大規模研究が、MSの遺伝的要因理解をさらに深めると期待される。",
+      "summary_short_ja": "多民族背景の多発性硬化症（MS）感受性の遺伝的要因を調査した。本研究は英国在住の南アジア系およびアフリカ系のMS患者676名とUKバイオバンクのデータを用い、単一塩基多型やHLA遺伝子の関連を解析した。主要組織適合複合体領域の遺伝子変異が全祖先集団でMS感受性に関連し、遺伝的構造は共通の病態機序を示す。多様な集団での大規模研究がMSの遺伝的理解を深めると結論づけた。",
+      "disease": "ms",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41698165",
       "doi": "10.1212/WNL.0000000000214743",
       "title": "Global & Community Health: Diagnosis and Management of Multiple Sclerosis in Nepal: Overcoming Barriers Through Local Adaptations.",
