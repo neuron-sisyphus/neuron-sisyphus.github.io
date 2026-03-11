@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41662621",
+      "doi": "10.1212/WNL.0000000000214652",
+      "title": "Relationship Between Hematoma Location and Underlying Small Vessel Disease in Cerebellar Intracerebral Hemorrhage.",
+      "abstract": "In supratentorial intracerebral hemorrhage (ICH), hematoma location serves as a useful proxy for the underlying cerebral small vessel disease (cSVD) subtype, especially in the context of the Boston criteria. Whether this framework applies to spontaneous cerebellar ICH (cICH) remains unclear. We investigated whether hematoma location in cICH reflects distinct cerebral small vessel pathologies and explored an approach to support the diagnosis of underlying cerebral amyloid angiopathy (CAA) in this setting. We performed a retrospective multicenter study of consecutive patients with spontaneous cICH admitted to 3 tertiary hospitals in Berlin, Germany, between 2010 and 2024. Clinical, neuroimaging (CT/MRI), and neuropathologic data were collected. cICH location was categorized as superficial, deep, or mixed. Deep and mixed cICH locations were grouped together. MRI-based cSVD markers and neuropathology-confirmed diagnoses were analyzed. CAA was categorized as probable vs no CAA (i.e., nonprobable) using the Boston criteria v2.0. Univariate regression analyses were performed for associations with cICH location. Subsequently, we proposed pilot clinical-MRI criteria that might support the presence of CAA as the cause of cICH. Among 221 patients with cICH (median age 75 years, interquartile range 65.5-84.5, 57% female), 31 (14%) had superficial and 190 (86%) had deep/mixed cICH. MRI was available in 100 and neuropathology in 35 patients. Superficial cICH location was associated with probable CAA per Boston criteria v2.0 (odds ratio [OR] 8.14, 95% CI 1.25-53.25), whereas deep/mixed cICH was linked to higher systolic blood pressure (OR 1.03, 95% CI 1.01-1.05 per mm Hg) and more severe cSVD burden on MRI (OR 5.37, 95% CI 1.97-14.58). Among patients with available pathology (n = 35), 33.3% of patients with superficial cICH had evidence of CAA vs 3.1% in deep/mixed cICH. Our exploratory construct-\"Boston criteria v2.0-cICH with supporting CAA features\"-showed a specificity of 94.4% and sensitivity of 60.0% against a probable CAA diagnosis (based on supratentorial findings) in the total patient sample. Superficial and deep/mixed cICH exhibit distinct clinical, neuroimaging, and neuropathologic profiles, suggestive of divergent cSVD etiologies. Limitations include the sample size and the retrospective design. Our proposed criteria represent a proof-of-concept tool to support CAA diagnosis in cICH within the Boston criteria v2.0 framework but require further validation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41662621/",
+      "summary_ja": "背景：大脳半球内出血（ICH）では、血腫の位置が基礎となる脳小血管病変（cSVD）のサブタイプを示す指標となるが、小脳ICH（cICH）において同様の関連性があるかは不明である。  \n方法：2010～2024年にベルリンの3次医療機関に入院した自発性cICH患者221例を対象に後ろ向き多施設研究を実施。血腫位置を表層、深部、混合に分類し、MRIのcSVDマーカーや病理診断と関連付けた。Boston基準v2.0を用いて脳アミロイド血管症（CAA）の診断を行い、血腫位置との関係を解析した。  \n結果：患者の14％が表層cICH、86％が深部/混合cICHであった。表層cICHはCAAの存在と強く関連（オッズ比8.14）、深部/混合cICHは高血圧と重度のcSVDと関連した。病理検査例では、表層cICHの33.3％にCAAが認められたのに対し、深部/混合cICHは3.1％であった。提案した臨床・MRI基準はCAA診断の特異度94.4％、感度60.0％を示した。  \n結論：表層と深部/混合cICHは異なるcSVD病態を反映しており、提案基準はcICHにおけるCAA診断支援の有用な概念的ツールとなるが、さらなる検証が必要である。",
+      "summary_short_ja": "小脳内出血（cICH）における血腫の位置は、基礎となる小血管病変（cSVD）の種類を反映すると考えられる。本研究は、221例のcICH患者を対象に血腫位置（表層型と深部/混合型）とcSVDマーカー、神経病理所見を解析した。表層型は脳アミロイド血管症（CAA）と強く関連し、深部/混合型は高血圧や重度のcSVDと関連した。提案した臨床MRI基準はCAA診断の補助となる可能性が示されたが、さらなる検証が必要である。",
+      "disease": "stroke",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41738685",
       "doi": "10.1161/01.STR.0000091843.02517.9D",
       "title": "Safety of Physical Activity After Cervical Artery Dissection.",

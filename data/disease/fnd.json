@@ -1,4 +1,20 @@
 {
   "disease": "fnd",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41662618",
+      "doi": "10.1212/WNL.0000000000214699",
+      "title": "Patient Perspective: Closing the Gap: Personal and Clinical Reflections on Functional Neurologic Disorder.",
+      "abstract": "Functional neurological disorder (FND) is a neuropsychiatric disorder that manifests with involuntary neurologic symptoms because of a brain network dysfunction, arising from variable biopsychosocial etiologies. Symptoms have positive clinical features of inconsistency, like tremor entrainment or distractibility, and incongruence with typical or well-understood neurophysiology/neuroanatomy. FND is not a diagnosis of exclusion and diagnostic criteria are available for many FND phenotypes.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41662618/",
+      "summary_ja": "背景：機能的神経障害（FND）は、脳のネットワーク機能障害に起因する神経精神疾患であり、多様な生物心理社会的要因から発症する。症状は不随意でありながら、震えの同期性や注意転換による症状変化などの一貫性のない特徴や、既知の神経生理学・神経解剖学と整合しない点が認められる。  \n方法：患者の視点から、FNDの個人的および臨床的な経験を通じて、疾患理解のギャップを埋めることを目的とした。診断は除外診断ではなく、多様なFND表現型に対応した診断基準を用いて行われる。  \n結果：FNDの症状は多様であり、従来の神経疾患とは異なる特徴を持つため、患者と医療者間での理解に乖離が生じやすいことが示された。診断基準の活用により、より正確な診断と適切な治療介入が可能となる。  \n結論：FNDの診断と治療には、患者の経験を踏まえた包括的なアプローチが重要であり、臨床現場での認識向上と診断基準の普及が必要である。",
+      "summary_short_ja": "機能的神経障害（FND）は、脳のネットワーク機能障害により生じる神経精神疾患で、多様な生物心理社会的要因が関与する。症状は震えの同期や注意散漫など一貫性のない特徴を持ち、従来の神経生理学や解剖学と一致しない。FNDは除外診断ではなく、多くの表現型に対して診断基準が確立されている。",
+      "disease": "fnd",
+      "section": "diagnosis"
+    }
+  ]
 }

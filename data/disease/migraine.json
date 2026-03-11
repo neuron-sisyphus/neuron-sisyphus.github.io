@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41650361",
+      "doi": "10.1212/WNL.0000000000214656",
+      "title": "Unveiling Resting-State Functional Connectivity Patterns in Patients With Migraine: A REFORM Study.",
+      "abstract": "fMRI has proven useful in dissecting the neurobiological underpinnings of migraine. However, the existing evidence is limited by small samples, use of suboptimal statistical thresholds, and different methods of clinical data acquisition. Given these limitations, we hypothesized that a large, well-characterized sample would allow a clearer distinction between resting-state functional connectivity (rs-FC) alterations specific to migraine and those related to migraine subtypes. Adults with migraine and age-matched and sex-matched healthy controls (HCs) underwent a single 3T rs-fMRI scan. We compared rs-FC between migraine and HCs, and across migraine subtypes, using multi-voxel pattern and seed-based analysis. General linear models and analysis of covariance tests with Bonferroni-adjusted cluster-wise family-wise error correction ( We analyzed rs-fMRI data from 264 participants with migraine (mean age 42 ± 12 years, 234 women) and 151 HCs (mean age 41 ± 11 years, 130 women). The multi-voxel pattern analysis identified significant rs-FC differences in a cluster within the bilateral middle cingulate cortex when comparing participants with migraine to HCs ( The identified rs-FC alterations between the middle cingulate cortex and occipital regions might represent a migraine-specific trait, suggesting an integration of nociceptive and visual processing. This discovery provides novel insights into the neurobiological underpinnings of migraine and proposes that altered cingulate-occipital rs-FC might serve as a potential biomarker for migraine.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41650361/",
+      "summary_ja": "背景：片頭痛の神経生物学的基盤を解明するため、fMRIによる安静時機能的結合性（rs-FC）の解析が有用とされるが、従来研究はサンプル数の少なさや統計的閾値の不適切さ、臨床データ取得方法の違いに制約があった。  \n方法：片頭痛患者264名（平均42歳、女性234名）と年齢・性別を一致させた健常対照151名（平均41歳、女性130名）に対し、3Tの安静時fMRIを実施。多ボクセルパターン解析およびシードベース解析を用い、片頭痛群と健常群間および片頭痛サブタイプ間のrs-FCを比較した。統計解析は一般線形モデルと共分散分析を用い、Bonferroni補正を適用。  \n結果：多ボクセルパターン解析により、両側中帯状皮質におけるrs-FCの有意差が認められ、特に中帯状皮質と後頭部領域間の結合性変化が片頭痛特異的な特徴として抽出された。  \n結論：中帯状皮質と後頭部のrs-FC変化は、疼痛処理と視覚処理の統合を示唆し、片頭痛の神経生物学的基盤の新たな知見を提供する。これらの結合性変化は片頭痛の潜在的バイオマーカーとなり得る。",
+      "summary_short_ja": "本研究は、264名の片頭痛患者と151名の健常者を対象に3T静止状態fMRIを用いて、片頭痛特有の脳機能結合パターンを解析した。結果、両側中帯状皮質と後頭部領域間の機能的結合の変化が片頭痛に特有であることを示し、痛覚と視覚処理の統合異常が示唆された。この結合異常は片頭痛の神経生物学的特徴および潜在的バイオマーカーとなり得る。",
+      "disease": "migraine",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41604607",
       "doi": "10.1212/WNL.0000000000214659",
       "title": "Long-Term Effectiveness and Persistence Factors of Anti-CGRP Monoclonal Antibodies in Migraine: 2-Year Results From the EUREkA Cohort.",

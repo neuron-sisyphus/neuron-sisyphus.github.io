@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41650362",
+      "doi": "10.1212/WNL.0000000000214403",
+      "title": "Clinical Insights Into CASPR1 and CASPR1/Contactin-1 Complex Autoimmune Nodopathies.",
+      "abstract": "Clinical phenotypes of neuropathies associated with contactin-associated protein-1 (CASPR1) or isolated CASPR1/contactin-1 (CNTN1)-complex-IgG are not well characterized, and we aimed to describe the same. Patient sera positive for CASPR1 or CASPR1/CNTN1-complex-IgG by cell-based assay (CBA) at Mayo Clinic Neuroimmunology Laboratory (January 1, 2010-May 31, 2024) was identified retrospectively and prospectively. Clinical and paraclinical data were collected. CASPR1/CNTN1-complex-IgG-positive sera were tested using tissue indirect immunofluorescence assay, murine teased nerve fibers, and ELISAs for CASPR1 and CNTN1 to elucidate antigenic targets. Patients were compared with CNTN1-IgG and NF155-IgG4 autoimmune nodopathy cohorts. Among 17 CASPR1 or isolated CASPR1/CNTN1-complex-IgG-seropositive patients identified, 14 had clinical data (CASPR1-IgG = 8 [50% males, median age 50 years], CASPR1/CNTN1-complex-IgG = 6 [67% males, median age 42 years]). Neuropathic pain was more common in CASPR1-IgG (88% vs 33%), while sensory ataxia was more frequent in CASPR1/CNTN1-complex-IgG cases (100% vs 75%). All showed primarily demyelinating electrophysiology (1 CASPR1/CNTN1-complex-IgG case presented as chronic inflammatory sensory polyradiculopathy). Intravenous immunoglobulin (IVIg) refractoriness occurred in 63% of CASPR1-IgG and 40% of CASPR1/CNTN1-complex-IgG. Rituximab was effective in 6 of 7 (86%) treated patients. One patient with CASPR1/CNTN1-complex-IgG who was refractory to multiple immunotherapies underwent allogenic hematopoietic stem cell transplant after which she was off immunotherapies and is in sustained remission for the past 10 years. CASPR1-IgG patients progressed faster to nadir than NF155-IgG4 ( CASPR1-IgG and CASPR1/CNTN1-complex-IgG neuropathies, though rare, usually have a rapidly progressive course. Both are frequently IVIg-refractory and respond to rituximab. Compared with NF155-IgG4 nodopathies, CASPR1-IgG exhibits faster progression, while some CASPR1/CNTN1-complex-IgG nodopathies can cause greater long-term disability.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41650362/",
+      "summary_ja": "背景：CASPR1およびCASPR1/CNTN1複合体に対する自己抗体を持つ神経障害の臨床像は十分に解明されていない。  \n方法：2010年から2024年までにMayo ClinicでCASPR1またはCASPR1/CNTN1複合体IgG陽性と判定された患者17名（うち14名に臨床データあり）を対象に、臨床・検査データを収集し、抗原特異性を免疫染色やELISAで解析。CNTN1-IgGおよびNF155-IgG4自己免疫性ノードパチー患者群と比較した。  \n結果：CASPR1-IgG陽性患者は神経障害性疼痛が多く（88%）、CASPR1/CNTN1複合体IgG陽性患者は感覚性運動失調が多かった（100%）。全例で主に脱髄性の電気生理学的所見を示し、IVIg抵抗性はCASPR1-IgG群で63%、複合体IgG群で40%。リツキシマブ治療は86%の患者で有効であり、1例は多剤抵抗性後に同種造血幹細胞移植で長期寛解を得た。CASPR1-IgG患者はNF155-IgG4患者よりも急速に症状が進行した。  \n結論：CASPR1およびCASPR1/CNTN1複合体IgG関連神経障害は稀だが急速進行性で、IVIg抵抗性が多い一方リツキシマブに良好に反応する。CASPR1-IgGはNF155-IgG4より進行が速く、複合体IgGは長期的な障害が大きい場合がある。",
+      "summary_short_ja": "CASPR1およびCASPR1/CNTN1複合体に関連する自己免疫性神経障害は稀であるが、急速に進行することが多い。CASPR1-IgG陽性患者は神経痛が多く、CASPR1/CNTN1複合体陽性患者は感覚性運動失調が顕著である。両者とも主に脱髄性の電気生理学的所見を示し、静脈内免疫グロブリン療法（IVIg）に抵抗性が高いが、リツキシマブ治療には良好に反応する。NF155-IgG4関連疾患と比較すると、CASPR1-IgGはより速い進行を示し、CASPR1/CNTN1複合体は長期的な障害が大きい場合がある。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41791023",
       "doi": "10.1212/WNL.0000000000214708",
       "title": "Genetic Determinants of Multiple Sclerosis Susceptibility in People From Diverse Ancestral Backgrounds.",
