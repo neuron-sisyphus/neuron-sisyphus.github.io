@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41805402",
+      "doi": "10.1002/alz.12870",
+      "title": "Individual-Level Factors Associated With 10-Year Incidence of Alzheimer Disease and Related Dementias in the VA Million Veteran Program.",
+      "abstract": "Approximately 450,000 Veterans are living with Alzheimer disease and related dementias (ADRD), and the high prevalence of ADRD represents a major public health challenge for the Veterans Health Administration. While advancing age and genetic predisposition are well-established ADRD risk factors, growing evidence suggests that additional modifiable factors may also play an important role. This study leveraged data from the VA Million Veteran Program (MVP) to (1) estimate 10-year incidence of ADRD and (2) evaluate associations between a broad range of individual-level risk and resilience factors and incident ADRD in a large, nationally representative sample of Veterans. This retrospective cohort study included Veterans aged ≥65 years at MVP enrollment who completed the MVP Baseline Survey and had VA electronic health record (EHR) data available. Individual-level variables including sociodemographic factors, military-specific characteristics, military environmental exposures (MEEs), health conditions, and health behaviors were characterized using MVP Baseline Survey data and supplemented with EHR data as available. The primary outcome was ADRD, which was determined using a validated algorithm based on International Classification of Diseases diagnosis codes extracted from the EHR. Associations between each risk/resilience factor and incident ADRD were examined using separate Cox regression models adjusted for age, sex, and education. The sample included 245,949 Veterans (age: mean 73.16, SD 6.84 years; 2.59% female). Approximately 4.56% (n = 11,216) of the sample developed ADRD over 10 years. History of traumatic brain injury (TBI; hazard ratio [HR] 2.96, 95% CI 2.76-3.17), depression (HR 2.93, 95% CI 2.82-3.04), and alcohol use disorder (AUD; HR 2.35, 95% CI 2.19-2.53) were the health factors most strongly associated with ADRD. ADRD risk was also elevated among Veterans with a history of exposure to Agent Orange (HR 1.09, 95% CI 1.03-1.14), chemical/biological warfare agents (HR 1.31, 95% CI 1.23-1.39), and pyridostigmine bromide tablets (HR 1.67, 95% CI 1.44-1.93). Findings identified TBI, depression, AUD, and MEEs as key variables associated with ADRD in Veterans. These factors may represent important targets for prevention and intervention efforts aimed at improving the long-term health of aging Veterans. Additional work is needed to clarify the mechanisms through which these factors influence ADRD risk and to establish whether observed associations are causal.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41805402/",
+      "summary_ja": "背景：米国退役軍人約45万人がアルツハイマー病および関連認知症（ADRD）を患っており、その高い有病率は退役軍人医療機関にとって大きな公衆衛生上の課題である。加齢や遺伝的素因以外にも、修正可能なリスク因子の影響が示唆されている。  \n方法：VAミリオンベテランプログラム（MVP）のデータを用い、65歳以上の退役軍人245,949名を対象に10年間のADRD発症率を推定し、社会人口学的要因、軍事特有の環境曝露、健康状態、行動など多様な個人レベルの因子とADRD発症の関連を後ろ向きコホート研究で検討した。  \n結果：対象者の4.56％（11,216名）が10年以内にADRDを発症。外傷性脳損傷（HR 2.96）、うつ病（HR 2.93）、アルコール使用障害（HR 2.35）が最も強く関連した。また、枯れ葉剤（HR 1.09）、化学・生物兵器曝露（HR 1.31）、ピリドスチグミン臭化物（HR 1.67）もリスク増加と関連した。  \n結論：外傷性脳損傷、うつ病、アルコール使用障害、軍事環境曝露が退役軍人のADRDリスクに重要な影響を与えており、これらは予防・介入の重要なターゲットとなる可能性がある。今後、因果関係の解明と発症メカニズムの詳細な検討が求められる。",
+      "summary_short_ja": "本研究は、米国退役軍人を対象に10年間のアルツハイマー病および関連認知症（ADRD）の発症率と個別リスク要因を検討した。約24.6万人の65歳以上退役軍人を分析し、外傷性脳損傷、うつ病、アルコール使用障害、エージェントオレンジなどの軍事環境曝露がADRD発症リスクを有意に高めることを示した。これらの要因は予防・介入の重要なターゲットとなりうるが、因果関係の解明が今後の課題である。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41671519",
       "doi": "10.1212/WNL.0000000000214677",
       "title": "Associations of Lifetime Cognitive Enrichment With Incident Alzheimer Disease Dementia, Cognitive Aging, and Cognitive Resilience.",
