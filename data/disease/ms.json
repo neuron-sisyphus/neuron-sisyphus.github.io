@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41818658",
+      "doi": "10.1212/WNL.0000000000214792",
+      "title": "Prevalence and Relative Proportions of Multiple Sclerosis, Neuromyelitis Optica Spectrum Disorder, and Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease in the Republic of Korea.",
+      "abstract": "To provide the clinically validated, nationwide estimates of multiple sclerosis (MS), neuromyelitis optica spectrum disorder (NMOSD), and myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) in Korea, and to describe their relative proportions. From January to March 2025, 47 referral hospitals participating in a nationwide hospital-based registry identified actively followed patients with MS, NMOSD, or MOGAD. Diagnoses followed international criteria, and antibody status was confirmed using validated CBAs. Actively followed patients had ≥1 outpatient visit in the prior 6 months. Centers provided demographics, treatments, and Expanded Disability Status Scale. Prevalence used national population data. A total of 4,196 patients were identified, 1,799 MS, 1,616 NMOSD, and 781 MOGAD (ratio 2.3:2.1:1). Mean age at onset was 33.4 ± 12.0 years for MS, 42.7 ± 14.7 for NMOSD, and 41.7 ± 17.8 for MOGAD, and the female-to-male ratios were 2.2:1 for MS, 5.1:1 for NMOSD (6.5:1 in aquaporin-4-IgG positive cases), and 1.5:1 for MOGAD. Crude prevalence estimates were 3.48, 3.13, and 1.51 per 100,000, respectively. This nationwide registry demonstrates a distinctive Korean CNS inflammatory demyelinating disease profile, with a relatively higher proportion of NMOSD and MOGAD reflecting the low prevalence of MS in East Asia.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41818658/",
+      "summary_ja": "背景：多発性硬化症（MS）、視神経脊髄炎スペクトラム障害（NMOSD）、およびミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）は中枢神経系の炎症性脱髄疾患であり、その国内有病率と相対的割合は地域差が大きい。  \n方法：2025年1～3月に韓国全国の47の紹介病院が参加する病院ベースの登録システムを用い、国際基準に基づく診断と抗体検査（CBAs）で確定したMS、NMOSD、MOGAD患者を抽出。直近6か月以内に外来受診歴のある患者を対象とし、人口統計、治療内容、障害度（EDSS）を収集。国勢データを用いて有病率を算出した。  \n結果：計4,196例（MS 1,799例、NMOSD 1,616例、MOGAD 781例）が登録され、患者比は約2.3：2.1：1。発症年齢中央値はMSが33.4歳、NMOSDが42.7歳、MOGADが41.7歳。女性比はMSで2.2倍、NMOSDで5.1倍（抗アクアポリン4-IgG陽性例は6.5倍）、MOGADで1.5倍。粗有病率はMSが3.48、NMOSDが3.13、MOGADが1.51/10万人。  \n結論：韓国における中枢神経炎症性脱髄疾患の特徴的な分布が示され、東アジアでMSの有病率が低い一方でNMOSDおよびMOGADの割合が相対的に高いことが明らかとなった。",
+      "summary_short_ja": "韓国における多発性硬化症（MS）、視神経脊髄炎スペクトラム障害（NMOSD）、ミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）の全国的な有病率と比率を調査した。2025年初頭に47病院で4,196例を確認し、MSが1,799例、NMOSDが1,616例、MOGADが781例で比率は2.3:2.1:1。MSの発症平均年齢は33.4歳、NMOSDは42.7歳、MOGADは41.7歳。女性比率はNMOSDが特に高く、各疾患の有病率はそれぞれ3.48、3.13、1.51/10万人であった。東アジア特有の疾患分布を示す。",
+      "disease": "ms",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41650362",
       "doi": "10.1212/WNL.0000000000214403",
       "title": "Clinical Insights Into CASPR1 and CASPR1/Contactin-1 Complex Autoimmune Nodopathies.",
