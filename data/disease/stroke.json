@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41824925",
+      "doi": "10.1212/WNL.0000000000214752",
+      "title": "Circulating Biomarkers of Neurodegeneration and All-Cause and Dementia-Specific Mortality.",
+      "abstract": "Blood-based biomarkers offer a widely available, scalable, and noninvasive method to study neurodegeneration. However, the association between blood-based biomarkers of neurodegeneration and long-term risk of mortality, as well as dementia-specific mortality in a racially diverse cohort, remains understudied. The goal of this study was to determine whether baseline biomarkers of neurodegeneration are associated with long-term risk of all-cause and dementia-specific mortality in a biracial cohort. The REasons for Geographic and Racial Differences in Stroke cohort study enrolled 30,239 Black and White participants across the continental United States from 2003 to 2007, with ongoing follow-up. Plasma neurofilament light chain (NfL), total tau, glial fibrillary acidic protein (GFAP), and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) were measured in baseline plasma from a random sample of participants. All-cause mortality, dementia-specific mortality, cardiovascular-specific mortality, and other causes of death were adjudicated and classified using medical records, the Social Security Death Index, and the National Death Index. Cause-specific Cox regression models accounting for competing risks were used to calculate hazard ratios (HRs) of outcomes for each biomarker separately. A total of 917 participants had a mean baseline age of 67.4 years (SD 12.1), 49.4% were female, and 48.6% self-identified as Black. With a mean follow-up of 11.1 (SD 5.7) years, 51.0% (477/935) of participants died and 9.2% experienced dementia-specific mortality (86/935). No associations were observed for total tau. In fully adjusted models for other biomarkers, HRs of all-cause mortality per standard deviation increments were 1.93 (95% CI 1.48-2.52) for GFAP, 1.90 (95% CI 1.55-2.32) for NfL, and 1.23 (95% CI 1.09-1.37) for UCH-L1. Furthermore, GFAP (HR 5.66, 95% CI 2.91-11.00) and NfL (HR 2.72, 95% CI 1.57-4.71) were associated with dementia-specific mortality in fully adjusted models. GFAP (HR 2.06, 95% CI 1.22-3.49) and NfL (HR 2.16, 95% CI 1.66-2.81) were also associated with cardiovascular-specific mortality in fully adjusted models. Plasma biomarkers of neurodegeneration, particularly GFAP and NfL, were associated with increased risk of all-cause, dementia-specific, and cardiovascular-specific mortality in a biracial cohort. These associations should be considered when assessing links between these biomarkers and other outcomes, as well as when used in clinical practice.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41824925/",
+      "summary_ja": "背景：血液中の神経変性バイオマーカーは非侵襲的かつ広く利用可能な指標であるが、人種多様な集団における長期の全死亡および認知症特異的死亡との関連は十分に検討されていない。  \n方法：米国の黒人・白人混合コホート（REasons for Geographic and Racial Differences in Stroke）から無作為抽出した917名（平均年齢67.4歳、約半数が黒人）を対象に、血漿中の神経変性マーカー（NfL、総タウ、GFAP、UCH-L1）を測定し、平均11.1年の追跡期間中の死亡リスクとの関連を競合リスクを考慮したCox回帰モデルで解析した。  \n結果：総タウは死亡リスクと関連しなかったが、GFAP、NfL、UCH-L1は全死亡リスクと有意に関連した。特にGFAP（HR 5.66）とNfL（HR 2.72）は認知症特異的死亡リスクとも強く関連し、さらに心血管特異的死亡リスクとも関連が認められた。  \n結論：血漿中の神経変性バイオマーカー、特にGFAPとNfLは、全死亡および認知症・心血管疾患による死亡リスクの増加と関連しており、これらのバイオマーカーを臨床や研究で用いる際にはこれらの関連性を考慮すべきである。",
+      "summary_short_ja": "本研究は、血中の神経変性バイオマーカー（GFAP、NfL、UCH-L1）が、二つの人種グループを含むコホートにおいて、全死亡リスクおよび認知症特異的死亡リスクと関連するかを検証した。約11年の追跡で、GFAPとNfLは全死亡、認知症特異的死亡、心血管死亡のリスク上昇と有意に関連し、総タウは関連しなかった。これらのバイオマーカーは臨床評価や研究において重要な指標となる。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41818652",
       "doi": "10.1212/WNL.0000000000214704",
       "title": "Incidence of Childhood Stroke and Association With Recent Infection: A Population-Based Study Using Linked Data.",

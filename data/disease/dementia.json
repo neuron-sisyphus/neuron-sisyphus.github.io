@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41824927",
+      "doi": "10.1212/WNL.0000000000214772",
+      "title": "Association of White Matter Hyperintensities, Regional Brain Glucose Metabolism, and Cognitive Impairment in Aβ-Negative Patients.",
+      "abstract": "Periventricular white matter hyperintensities (PWMHs) and regional brain glucose hypometabolism have each been linked to cognitive impairment, but their interplay independent of β-amyloid (Aβ) is unclear. This study examines whether PWMHs relate to region-specific cortical hypometabolism and metabolism mediates domain-specific cognition in Aβ-negative individuals. This retrospective cross-sectional study included 141 Aβ-negative patients with mild cognitive impairment (MCI) older than 50 years and 83 normal controls (NCs). All participants underwent  The MCI and NC groups did not differ in age or sex. Greater PWMH burden correlated with lower FDG uptake, strongest in the posterior cingulate cortex (PCC) (β = -0.14; 95% CI -0.20 to -0.09;  The effect of PWMHs on executive dysfunction was mediated by cortical hypometabolism, whereas memory dysfunction was directly driven by PWMHs. These findings suggest that incorporating",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41824927/",
+      "summary_ja": "背景：脳の周囲白質高信号（PWMHs）と特定脳領域のグルコース代謝低下は認知障害と関連するが、β-アミロイド（Aβ）陰性患者における両者の関係は不明である。  \n方法：50歳以上のAβ陰性軽度認知障害（MCI）患者141名と正常対照83名を対象に、PWMHsの負荷と脳の部位別グルコース代謝（FDG-PET）および認知機能の関連を後ろ向き横断研究で解析した。  \n結果：PWMHsの負荷増加は後帯状皮質（PCC）を中心にFDG取り込みの低下と有意に関連した（β = -0.14）。PWMHsは実行機能障害に対しては皮質代謝低下を介して影響し、記憶障害には直接的に影響を及ぼした。  \n結論：Aβ陰性患者において、PWMHsは特定脳領域の代謝低下を通じて認知機能障害に寄与し、実行機能と記憶障害で異なるメカニズムが示唆された。これらの知見は認知障害の病態理解と診断に有用である。",
+      "summary_short_ja": "本研究は、β-アミロイド陰性の軽度認知障害（MCI）患者141名と健常者83名を対象に、脳室周囲白質高信号（PWMHs）と領域特異的な脳のグルコース代謝低下、および認知機能障害の関連を検討した。PWMHsの増加は後帯状皮質の代謝低下と強く関連し、実行機能障害は代謝低下を介して影響を受ける一方、記憶障害はPWMHsの直接的影響によることが示された。",
+      "disease": "dementia",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41805402",
       "doi": "10.1002/alz.12870",
       "title": "Individual-Level Factors Associated With 10-Year Incidence of Alzheimer Disease and Related Dementias in the VA Million Veteran Program.",
