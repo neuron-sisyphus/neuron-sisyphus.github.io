@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-15",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41824927",
+      "doi": "10.1212/WNL.0000000000214772",
+      "title": "Association of White Matter Hyperintensities, Regional Brain Glucose Metabolism, and Cognitive Impairment in Aβ-Negative Patients.",
+      "abstract": "Periventricular white matter hyperintensities (PWMHs) and regional brain glucose hypometabolism have each been linked to cognitive impairment, but their interplay independent of β-amyloid (Aβ) is unclear. This study examines whether PWMHs relate to region-specific cortical hypometabolism and metabolism mediates domain-specific cognition in Aβ-negative individuals. This retrospective cross-sectional study included 141 Aβ-negative patients with mild cognitive impairment (MCI) older than 50 years and 83 normal controls (NCs). All participants underwent  The MCI and NC groups did not differ in age or sex. Greater PWMH burden correlated with lower FDG uptake, strongest in the posterior cingulate cortex (PCC) (β = -0.14; 95% CI -0.20 to -0.09;  The effect of PWMHs on executive dysfunction was mediated by cortical hypometabolism, whereas memory dysfunction was directly driven by PWMHs. These findings suggest that incorporating",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41824927/",
+      "summary_ja": "背景：脳の周囲白質高信号（PWMHs）と特定脳領域のグルコース代謝低下は認知障害と関連するが、β-アミロイド（Aβ）陰性患者における両者の関係は不明である。  \n方法：50歳以上のAβ陰性軽度認知障害（MCI）患者141名と正常対照83名を対象に、PWMHsの負荷と脳の部位別グルコース代謝（FDG-PET）および認知機能の関連を後ろ向き横断研究で解析した。  \n結果：PWMHsの負荷増加は後帯状皮質（PCC）を中心にFDG取り込みの低下と有意に関連した（β = -0.14）。PWMHsは実行機能障害に対しては皮質代謝低下を介して影響し、記憶障害には直接的に影響を及ぼした。  \n結論：Aβ陰性患者において、PWMHsは特定脳領域の代謝低下を通じて認知機能障害に寄与し、実行機能と記憶障害で異なるメカニズムが示唆された。これらの知見は認知障害の病態理解と診断に有用である。",
+      "summary_short_ja": "本研究は、β-アミロイド陰性の軽度認知障害（MCI）患者141名と健常者83名を対象に、脳室周囲白質高信号（PWMHs）と領域特異的な脳のグルコース代謝低下、および認知機能障害の関連を検討した。PWMHsの増加は後帯状皮質の代謝低下と強く関連し、実行機能障害は代謝低下を介して影響を受ける一方、記憶障害はPWMHsの直接的影響によることが示された。",
+      "disease": "dementia",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41824926",
+      "doi": "10.1212/WNL.0000000000214762",
+      "title": "Occupational Exposure to Industrial Dust and Rates of Multiple Sclerosis.",
+      "abstract": "Exposure to lung irritants such as smoking and organic solvents has been associated with increased risk of multiple sclerosis (MS), particularly among genetically susceptible individuals. The aim of this study was to investigate the association between occupational exposure to industrial dust and MS and to assess potential interactions with smoking and  We conducted a Swedish population-based case-control study. Patients with incident MS age 16-70 years were consecutively identified by neurologists at 40 clinics (2005-2015). Eligibility criteria for participants were age 16-70 years, residence in Sweden, and a neurologist-confirmed diagnosis of MS according to the McDonald criteria. Controls without MS were randomly sampled from the national population register using density sampling and frequency-matched to cases on age, sex, and residential area. Occupational dust exposure was assessed using questionnaire data. Logistic regression was used to estimate odds ratios (ORs) and 95% CIs. Additive interactions between dust exposure and smoking and between dust exposure and  The analytic sample included 2,070 participants and 2,899 controls. The mean age at index was 34.4 years for participants and 35.4 years for controls. Women comprised 72.5% of participants and 75.1% of controls. Industrial dust exposure was associated with increased rate of MS (OR 1.30, 95% CI 1.05-1.63), with a dose-response relationship with duration (OR per 1-year exposure 1.03, 95% CI 1.00-1.06). Evidence of additive interactions was observed between dust exposure and smoking (AP 0.32, 95% CI 0.03-0.62) and between dust exposure and  Occupational dust exposure was associated with increased rate of MS, particularly in combination with smoking and HLA-DRB1*15:01, suggesting joint effects of occupational, environmental, and genetic risk factors. The reliance on self-reported occupational histories and potential residual confounding are important limitations. Further studies are warranted to clarify underlying mechanisms and to inform preventive strategies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41824926/",
+      "summary_ja": "背景：喫煙や有機溶剤などの肺刺激物への曝露は、多発性硬化症（MS）のリスク増加と関連し、特に遺伝的感受性を持つ個人で顕著である。本研究は、職業的な工業粉塵曝露とMSの関連性、および喫煙や遺伝子型（HLA-DRB1*15:01）との相互作用を検討することを目的とした。\n\n方法：スウェーデンの16～70歳の新規MS患者2,070名と対照2,899名を対象に、40の神経科クリニックで2005～2015年に症例対照研究を実施。職業歴は質問票で評価し、ロジスティック回帰でオッズ比（OR）を算出。曝露と喫煙・遺伝子型の加法的相互作用も解析した。\n\n結果：工業粉塵曝露はMS発症率の増加と関連（OR 1.30、95%CI 1.05-1.63）し、曝露期間の延長に伴う用量反応関係も認められた。粉塵曝露と喫煙（AP 0.32、95%CI 0.03-0.62）、および粉塵曝露とHLA-DRB1*15:01の間に加法的相互作用が示された。\n\n結論：職業的工業粉塵曝露はMSリスクを高め、特に喫煙や遺伝的素因と組み合わさることでリスクが増大する可能性が示唆された。自己申告による曝露評価や残存交絡の可能性が限界であり、今後の研究でメカニズム解明と予防策の検討が求められる。",
+      "summary_short_ja": "本研究はスウェーデンの症例対照研究により、職業的な工業粉塵曝露が多発性硬化症（MS）の発症率増加と関連し、曝露期間の長さに比例することを示した。特に喫煙および遺伝的リスク因子HLA-DRB1*15:01との相互作用が認められ、職業的・環境的・遺伝的要因の複合的影響が示唆された。ただし自己申告による曝露評価や交絡因子の影響に限界があり、さらなる研究が必要である。",
+      "disease": "ms",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41824925",
+      "doi": "10.1212/WNL.0000000000214752",
+      "title": "Circulating Biomarkers of Neurodegeneration and All-Cause and Dementia-Specific Mortality.",
+      "abstract": "Blood-based biomarkers offer a widely available, scalable, and noninvasive method to study neurodegeneration. However, the association between blood-based biomarkers of neurodegeneration and long-term risk of mortality, as well as dementia-specific mortality in a racially diverse cohort, remains understudied. The goal of this study was to determine whether baseline biomarkers of neurodegeneration are associated with long-term risk of all-cause and dementia-specific mortality in a biracial cohort. The REasons for Geographic and Racial Differences in Stroke cohort study enrolled 30,239 Black and White participants across the continental United States from 2003 to 2007, with ongoing follow-up. Plasma neurofilament light chain (NfL), total tau, glial fibrillary acidic protein (GFAP), and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) were measured in baseline plasma from a random sample of participants. All-cause mortality, dementia-specific mortality, cardiovascular-specific mortality, and other causes of death were adjudicated and classified using medical records, the Social Security Death Index, and the National Death Index. Cause-specific Cox regression models accounting for competing risks were used to calculate hazard ratios (HRs) of outcomes for each biomarker separately. A total of 917 participants had a mean baseline age of 67.4 years (SD 12.1), 49.4% were female, and 48.6% self-identified as Black. With a mean follow-up of 11.1 (SD 5.7) years, 51.0% (477/935) of participants died and 9.2% experienced dementia-specific mortality (86/935). No associations were observed for total tau. In fully adjusted models for other biomarkers, HRs of all-cause mortality per standard deviation increments were 1.93 (95% CI 1.48-2.52) for GFAP, 1.90 (95% CI 1.55-2.32) for NfL, and 1.23 (95% CI 1.09-1.37) for UCH-L1. Furthermore, GFAP (HR 5.66, 95% CI 2.91-11.00) and NfL (HR 2.72, 95% CI 1.57-4.71) were associated with dementia-specific mortality in fully adjusted models. GFAP (HR 2.06, 95% CI 1.22-3.49) and NfL (HR 2.16, 95% CI 1.66-2.81) were also associated with cardiovascular-specific mortality in fully adjusted models. Plasma biomarkers of neurodegeneration, particularly GFAP and NfL, were associated with increased risk of all-cause, dementia-specific, and cardiovascular-specific mortality in a biracial cohort. These associations should be considered when assessing links between these biomarkers and other outcomes, as well as when used in clinical practice.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41824925/",
+      "summary_ja": "背景：血液中の神経変性バイオマーカーは非侵襲的かつ広く利用可能な指標であるが、人種多様な集団における長期の全死亡および認知症特異的死亡との関連は十分に検討されていない。  \n方法：米国の黒人・白人混合コホート（REasons for Geographic and Racial Differences in Stroke）から無作為抽出した917名（平均年齢67.4歳、約半数が黒人）を対象に、血漿中の神経変性マーカー（NfL、総タウ、GFAP、UCH-L1）を測定し、平均11.1年の追跡期間中の死亡リスクとの関連を競合リスクを考慮したCox回帰モデルで解析した。  \n結果：総タウは死亡リスクと関連しなかったが、GFAP、NfL、UCH-L1は全死亡リスクと有意に関連した。特にGFAP（HR 5.66）とNfL（HR 2.72）は認知症特異的死亡リスクとも強く関連し、さらに心血管特異的死亡リスクとも関連が認められた。  \n結論：血漿中の神経変性バイオマーカー、特にGFAPとNfLは、全死亡および認知症・心血管疾患による死亡リスクの増加と関連しており、これらのバイオマーカーを臨床や研究で用いる際にはこれらの関連性を考慮すべきである。",
+      "summary_short_ja": "本研究は、血中の神経変性バイオマーカー（GFAP、NfL、UCH-L1）が、二つの人種グループを含むコホートにおいて、全死亡リスクおよび認知症特異的死亡リスクと関連するかを検証した。約11年の追跡で、GFAPとNfLは全死亡、認知症特異的死亡、心血管死亡のリスク上昇と有意に関連し、総タウは関連しなかった。これらのバイオマーカーは臨床評価や研究において重要な指標となる。",
+      "disease": "stroke",
+      "section": "prognosis"
+    }
+  ]
+}
