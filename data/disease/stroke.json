@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41843860",
+      "doi": "10.1212/WNL.0000000000214801",
+      "title": "CTA-Based Plaque-RADS to Assess Etiologic Role of Nonstenotic Carotid Plaques in Patients With Embolic Stroke of Undetermined Source.",
+      "abstract": "Nonstenotic (<50%) carotid plaques (NSCPs) are increasingly recognized as potential embolic sources in embolic stroke of undetermined source (ESUS), but their etiologic role remains uncertain because of limited data and the lack of standardized definition of high-risk plaque. We evaluated the clinical applicability and reliability of a modified CT angiography (CTA)-based Plaque-Reporting and Data System (RADS) classification for characterizing NSCPs in ESUS and examined the association between high-risk NSCPs and stroke laterality, the coexistence of competing stroke mechanisms, and the risk of stroke recurrence. We conducted a single-center cohort study (January 2016-June 2025) including consecutive ESUS patients with unilateral anterior circulation stroke and neck CTA, retrospectively and prospectively enrolled. NSCPs were classified using a modified CTA-based Plaque-RADS: (1) normal vessel wall; (2) maximum wall thickness (MWT) <3 mm; (3) MWT ≥3 mm (3ab) or ulceration (3c); (4) intraplaque hemorrhage (4a) or intraluminal thrombus (4c). Patients were stratified according to the presence of ipsilateral high-risk Plaque-RADS (categories 3-4) vs ipsilateral low-risk Plaque-RADS (categories 1-2). Inter-rater agreement for CTA-based Plaque-RADS was assessed, and associations between high-risk Plaque-RADS and stroke side, competing embolic sources, and recurrent ischemic events were evaluated with multivariable regression and survival analyses. Among 512 patients (median age 70 years, 47.8% women), 109 (21.3%) had ipsilateral high-risk and 403 (78.7%) had low-risk Plaque-RADS scores. Inter-rater agreement was excellent (Cohen κ = 0.83,  CTA-based Plaque-RADS can be reliably applied in routine clinical practice to categorize NSCPs in ESUS. Ipsilateral high-risk NSCPs are strongly associated with the index stroke side, lower prevalence of competing cardioembolic sources, and increased ipsilateral recurrence, supporting their role as a distinct causal mechanism within ESUS and underscoring the need for randomized trials on secondary prevention.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41843860/",
+      "summary_ja": "背景：非狭窄性（50％未満）頸動脈プラーク（NSCP）が原因不明の塞栓性脳卒中（ESUS）における塞栓源として注目されているが、その病因的役割は不明確であり、高リスクプラークの標準的定義も確立していない。  \n方法：単一施設で2016年1月から2025年6月までに前方循環の片側ESUS患者512例を対象に、頸部CTAを用いた修正版Plaque-RADS分類（カテゴリー1～4）でNSCPを評価し、評価者間一致度や高リスクプラーク（カテゴリー3-4）と脳卒中側、他の塞栓源の共存、再発リスクとの関連を多変量解析および生存分析で検討した。  \n結果：患者の21.3％が片側に高リスクプラークを有し、評価者間一致度は極めて高かった（κ=0.83）。高リスクプラークは脳卒中発症側と強く関連し、心原性塞栓源の共存は少なく、同側の再発リスクが増加していた。  \n結論：CTAベースのPlaque-RADSは臨床で信頼性高くNSCPを分類可能であり、高リスクNSCPはESUSの独立した病因機序として重要である。二次予防のための無作為化試験の必要性が示唆された。",
+      "summary_short_ja": "本研究は、非狭窄性頸動脈プラーク（NSCP）が原因不明の塞栓性脳卒中（ESUS）に果たす役割を評価するため、修正CTAベースのPlaque-RADS分類の臨床的有用性と信頼性を検証した。512例のESUS患者を対象に解析し、高リスクNSCPは発症側の脳卒中と強く関連し、競合する塞栓源の頻度が低く、再発リスクも高いことを示した。Plaque-RADSは臨床でのNSCP評価に有効であり、二次予防のための無作為試験の必要性を示唆する。",
+      "disease": "stroke",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41824925",
       "doi": "10.1212/WNL.0000000000214752",
       "title": "Circulating Biomarkers of Neurodegeneration and All-Cause and Dementia-Specific Mortality.",

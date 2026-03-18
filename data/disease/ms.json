@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41843863",
+      "doi": "10.1212/WNL.0000000000214753",
+      "title": "Frequency of AQP4 and MOG Antibodies in Patients With Optic Neuritis Fulfilling Minimal New Multiple Sclerosis MRI Criteria.",
+      "abstract": "Recent revisions to multiple sclerosis (MS) diagnostic criteria include the optic nerve as a site of dissemination in space, enabling this diagnosis in patients with acute optic neuritis (ON) and a single additional MS-typical location on MRI if dissemination in time (DIT) is demonstrated. We aimed to assess the frequency of non-MS diagnoses in this context. We retrospectively analyzed consecutive patients with inaugural acute ON and at least 1 MS-typical lesion in a single brain location on baseline MRI across 3 French centers. All patients met DIT criteria and underwent aquaporin-4 (AQP4) and myelin oligodendrocyte glycoprotein (MOG) antibody testing. Final diagnoses were based on clinical, radiologic, and follow-up data. Among 96 patients (mean age 35.8 years; 70.8% female), 73 (76.0%) were diagnosed with MS and 23 (24.0%) with MOG antibody-associated disease (n = 18) or neuromyelitis optica spectrum disorder. Longitudinally extensive lesions, bilateral involvement, chiasmal enhancement, or optic perineuritis were observed in 100% of non-MS patients and 24.6% of patients with MS (difference 75.4%, 95% CI: 64.3-86.6;  AQP4 and MOG antibody testing, along with careful orbital MRI interpretation, is recommended in patients with ON meeting minimal new MS criteria.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41843863/",
+      "summary_ja": "背景：多発性硬化症（MS）の診断基準改訂により、視神経が病変の空間的拡散部位に含まれ、急性視神経炎（ON）患者でMRIにMS典型病変が1か所あれば時間的拡散（DIT）を示すことでMS診断が可能となった。しかし、この基準下での非MS疾患の頻度は不明であった。  \n方法：フランスの3施設で、初発急性ON患者96名（平均年齢35.8歳、女性70.8％）を対象に、ベースラインMRIでMS典型病変が1か所以上ある患者を後ろ向きに解析。全員がDIT基準を満たし、AQP4抗体およびMOG抗体検査を実施。最終診断は臨床、画像、経過観察に基づく。  \n結果：96例中73例（76.0％）がMS、23例（24.0％）がMOG抗体関連疾患（18例）または視神経脊髄炎スペクトラム障害と診断された。非MS群は長大病変、両側性病変、視交叉の造影効果、視神経周囲炎を100％認めたのに対し、MS群は24.6％であった（差75.4％、95％CI:64.3-86.6）。  \n結論：新しいMS診断基準を満たすON患者では、AQP4およびMOG抗体検査と詳細な眼窩MRI評価が推奨される。",
+      "summary_short_ja": "急性視神経炎（ON）で新しい多発性硬化症（MS）MRI基準を満たす患者96例を解析した結果、76％がMS、24％がMOG抗体関連疾患または視神経脊髄炎スペクトラム障害と診断された。非MS患者は長大病変や両側性病変、視交叉の造影効果などを示し、AQP4およびMOG抗体検査と詳細な眼窩MRI評価が重要とされた。",
+      "disease": "ms",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41824926",
       "doi": "10.1212/WNL.0000000000214762",
       "title": "Occupational Exposure to Industrial Dust and Rates of Multiple Sclerosis.",

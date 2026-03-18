@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41838966",
+      "doi": "10.1212/WNL.0000000000214774",
+      "title": "Peri-Ictal MRI Abnormalities and Risk of Unprovoked Seizures After De Novo Status Epilepticus.",
+      "abstract": "Status epilepticus (SE) is a neurologic emergency with possible long-term sequelae, including the development of epilepsy. We aimed to determine whether peri-ictal MRI abnormalities (PMA) are associated with unprovoked seizures after de novo SE. Adults without epilepsy and a first nonhypoxic SE were included from a prospective database of the Christian Doppler University Hospital, Salzburg, Austria. MRI scans performed within 48 hours of SE diagnosis were evaluated for PMA on diffusion-weighted imaging (DWI), T2-weighted fluid-attenuated inversion recovery (FLAIR), and arterial spin labeling (ASL). The outcome was unprovoked seizures, assessed by retrospective review of hospital records and telephone interviews. Cumulative risk of seizures stratified by PMA occurrence (PMA on DWI/FLAIR, hyperperfusion on ASL, no PMA) was evaluated through survival analysis. Multivariable analysis using logistic regression was conducted to assess the influence of PMA, etiology, semiology, and ictal EEG patterns on seizure occurrence. Among 135 patients included (median age 70 [interquartile range (IQR) 58-80] years and 55% female), 43 (32%) experienced seizures during a median follow-up of 23 (IQR 9-39) months. The cumulative seizure probability at 1 and 4 years was 34% (95% CI 17-47) and 61% (95% CI 37-75) in patients with PMA on DWI/FLAIR; 0% and 13% (95% CI 0-29) in patients with hyperperfusion on ASL; and 25% (95% CI 14-34) and 36% (95% CI 19-49) in those without PMA. Other SE features associated with higher seizure risk were treatment refractoriness (odds ratio [OR] 2.93, 95% CI 1.23-6.98,  PMA on DWI or FLAIR were independently linked to a cumulative seizure risk exceeding 60% after de novo SE, consistent with a diagnosis of epilepsy. The findings of our study may help guide long-term treatment decisions in patients with de novo SE.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41838966/",
+      "summary_ja": "背景：てんかん重積状態（SE）は神経学的緊急事態であり、後にてんかん発症のリスクがある。今回、初発非低酸素性SE患者における発作周囲期MRI異常（PMA）が、非誘発性発作の発症と関連するかを検討した。  \n方法：オーストリアのChristian Doppler大学病院の前向きデータベースから、てんかん既往のない成人135例（中央値年齢70歳）を対象に、SE診断後48時間以内に撮影された拡散強調画像（DWI）、T2強調FLAIR、動脈スピンラベリング（ASL）を評価。PMAの有無別に生存分析を行い、発作発症リスクを比較。多変量ロジスティック回帰で他因子の影響も検討した。  \n結果：中央値23ヶ月の追跡で43例（32%）が非誘発性発作を発症。DWI/FLAIRでPMAを示した群は1年後の発作累積リスク34%、4年後は61%に達し、ASL過灌流群やPMAなし群より有意に高かった。治療抵抗性も発作リスク増加と関連した。  \n結論：DWIまたはFLAIRでのPMAは、初発SE後の高い非誘発性発作リスク（60%以上）と独立して関連し、てんかん診断に一致する。これらの知見は初発SE患者の長期治療方針決定に有用である。",
+      "summary_short_ja": "初発の非低酸素性てんかん重積状態（SE）患者135名を対象に、発作周囲のMRI異常（PMA）がその後の非誘発性発作リスクと関連するか検討した。DWI/FLAIRでPMAを認めた群は1年後34%、4年後61%が発作を経験し、ASL過灌流群やPMA非認め群より高リスクであった。PMAは独立した発作リスク因子であり、初発SE後の長期治療方針決定に有用と示唆された。",
+      "disease": "epilepsy",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41818657",
       "doi": "10.1212/WNL.0000000000214760",
       "title": "International Consensus on the Evaluation and Management of Hypothalamic Hamartomas: Results From a Modified Delphi Survey.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41843859",
+      "doi": "10.1212/WNL.0000000000214779",
+      "title": "Contingency of Plasma Dementia Biomarkers on Cognitive Profiles for Prognosis of Incident Dementia: The ARIC Study.",
+      "abstract": "Plasma biomarkers such as phospho-tau species are increasingly used in clinical practice for the diagnosis of Alzheimer disease (AD). Phosphorylated-tau at threonine 181 (p-tau181) values also provide prognostic information about incident dementia. Cognitive status similarly conveys prognostic information, but the relationship between plasma biomarkers for AD and cognitive status requires clarification. Participants from the Atherosclerosis Risk in Communities (ARIC) study who were adjudicated as free of dementia in 2011-2013 had plasma samples analyzed for p-tau181 and other biomarkers. Participants were surveilled for incident dementia through December 31, 2022. Cumulative incidence curves, Cox models, and Fine-Gray models were used to evaluate the independent and combined discriminatory accuracy of cognitive status and plasma biomarkers for incident dementia. The sample comprised 1,577 ARIC participants (age 76.5 years, 60% women, 73% White, 27% Black). The risk of incident dementia was higher in persons with a baseline status of mild cognitive impairment (covariate-adjusted hazard ratio [HR] 2.94, 95% CI 2.61-3.33) compared with those who were cognitively unimpaired independent of biomarker status. The risk of dementia was also higher in persons with more abnormal concentrations of p-tau181 and other biomarkers independent of cognitive status. When age, cognitive status, and p-tau181 were included in the same models, the risk was attenuated relative to models where only cognitive status or plasma biomarkers were included. For continuous p-tau181 concentrations, the covariate-adjusted HR without cognitive status was 1.45 (95% CI 1.36-1.54), but when cognitive status was included, the HR decreased to 1.37 (95% CI 1.29-1.46). Models showed that when combined with age, p-tau181 alone, cognitive status alone, or the combination of p-tau181 and cognitive status had similar discriminatory accuracy. Cognitive status and plasma biomarker concentrations convey independent but overlapping information about the risk of incident dementia. Although cognitive status and plasma p-tau181 have similar discriminatory accuracies, the far lower incidence rate of dementia in persons who are initially cognitively unimpaired highlights the importance of an accurate clinical diagnosis.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41843859/",
+      "summary_ja": "背景：アルツハイマー病（AD）の診断において、血漿中のリン酸化タウ（p-tau181）などのバイオマーカーが注目されているが、認知機能状態との関係は明確でない。  \n方法：認知症がないと判定されたARIC研究参加者1,577名（平均年齢76.5歳）を対象に、2011-2013年に採取した血漿中のp-tau181などのバイオマーカーを測定し、2022年まで認知症発症を追跡。認知機能状態とバイオマーカーの独立および併用による認知症予測能を統計モデルで評価した。  \n結果：軽度認知障害（MCI）群は認知機能正常群に比べ認知症リスクが約3倍高く（HR 2.94）、p-tau181の異常値も認知機能状態に関係なくリスク上昇に寄与した。年齢、認知機能状態、p-tau181を同時に考慮するとリスク推定はやや低下したが、認知機能状態単独、p-tau181単独、両者併用のいずれも同程度の予測精度を示した。  \n結論：認知機能状態と血漿p-tau181は認知症リスクに関して独立かつ重複する情報を提供し、両者は同等の予測能力を持つ。特に認知機能正常者の認知症発症率が低いことから、正確な臨床診断の重要性が示唆された。",
+      "summary_short_ja": "本研究は、認知機能状態と血漿中のリン酸化タウ（p-tau181）などのバイオマーカーが、認知症発症リスクの予測において独立かつ重複した情報を提供することを示した。認知機能障害や異常なp-tau181濃度はそれぞれ発症リスクを高めるが、両者を組み合わせた予測精度は単独使用と同程度であった。認知機能が正常な場合の発症率が低いことから、正確な臨床診断の重要性が強調される。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41824927",
       "doi": "10.1212/WNL.0000000000214772",
       "title": "Association of White Matter Hyperintensities, Regional Brain Glucose Metabolism, and Cognitive Impairment in Aβ-Negative Patients.",
