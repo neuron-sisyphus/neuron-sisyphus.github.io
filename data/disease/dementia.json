@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41849727",
+      "doi": "10.1212/WNL.0000000000214805",
+      "title": "Type 1 Diabetes and Incident Dementia: An Analysis in the All of Us Cohort.",
+      "abstract": "Although diabetes mellitus (DM) is a well-established determinant of dementia risk, most studies have evaluated type 2 DM (T2DM) or any DM. The influence of type 1 DM (T1DM) on dementia risk remains unclear. We evaluated associations of T1DM and T2DM, separately, with incident dementia using linked electronic health records (EHRs). This prospective cohort study used previously collected survey and EHR data from the All of Us (AoU) cohort, a convenience sample of US adults. Eligible participants were 50 years or older and completed baseline surveys. Enrollment began in 2017, with data available through October 2023, along with records before enrollment. Mean follow-up from baseline was 2.4 years. We developed an algorithm to distinguish DM type based on count of T1DM encounters. This algorithm was validated against 2 reference measures: self-reported diabetes type and C-peptide values. Using AoU data, we classified participants as having no DM, T1DM, or T2DM. We ascertained incident dementia using ICD-9, ICD-10, and Systematized Nomenclature of Medicine codes in participants' EHRs. We estimated hazard ratios (HRs) and 95% CIs for the association of diabetes type with incident dementia using Cox proportional hazards models. Among 283,772 participants (mean [SD] age 64.62 [8.96] years; 56.7% women), 60.3% identified as non-Hispanic White and 13.3% as Hispanic/Latino. Optimal DM classification algorithm cutoffs varied by reference standard: self-reported diabetes: ≥1 T1DM EHR encounter (sensitivity: 0.59; specificity: 0.90) and C-peptide: ≥3 T1DM EHR encounters (sensitivity: 0.76; specificity: 0.79). Defining T1DM as having ≥1 T1DM encounter, 5,442 participants had T1DM. Compared with those without DM, participants with T1DM had higher dementia incidence (sociodemographic-adjusted HR 2.82; 95% CI 2.28-3.48) and those with T2DM also had elevated risk (sociodemographic-adjusted HR 2.08; 95% CI 2.87-2.31). Results were similar across sex, race, and ethnicity strata. In AoU, DM was associated with elevated dementia risk, with the highest risk among those with T1DM. These findings highlight the need to better understand mechanisms tying T1DM to dementia.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41849727/",
+      "summary_ja": "背景：糖尿病（DM）は認知症リスクの既知の因子であるが、これまでの研究は主に2型糖尿病（T2DM）や糖尿病全般を対象としており、1型糖尿病（T1DM）と認知症リスクの関連は不明であった。  \n方法：米国成人を対象としたAll of Us（AoU）コホートの電子カルテ（EHR）と調査データを用い、50歳以上の参加者約28万人を平均2.4年間追跡。T1DMとT2DMを区別するアルゴリズムを開発・検証し、ICDコードにより新規認知症発症を判定。コックス比例ハザードモデルで糖尿病タイプ別の認知症リスクを評価した。  \n結果：T1DM患者5,442人は、糖尿病なし群と比較し認知症発症リスクが有意に高く（調整後ハザード比2.82、95%CI 2.28-3.48）、T2DM患者もリスク上昇が認められた（調整後HR 2.08、95%CI 2.87-2.31）。性別、人種、民族別でも同様の傾向を示した。  \n結論：T1DMは認知症リスクを特に高めることが示され、T1DMと認知症の関連メカニズムの解明が重要である。",
+      "summary_short_ja": "本研究は米国のAll of Usコホートを用い、1型糖尿病（T1DM）と2型糖尿病（T2DM）が認知症発症リスクに与える影響を検討した。50歳以上の約28万人を対象に電子カルテ情報から糖尿病タイプを分類し、認知症発症を追跡。T1DM患者は非糖尿病者に比べ認知症リスクが約2.8倍、T2DM患者も約2.1倍高かった。性別・人種を問わず同様の傾向が認められ、T1DMと認知症の関連解明の重要性が示された。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41843859",
       "doi": "10.1212/WNL.0000000000214779",
       "title": "Contingency of Plasma Dementia Biomarkers on Cognitive Profiles for Prognosis of Incident Dementia: The ARIC Study.",
