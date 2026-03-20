@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41855454",
+      "doi": "10.1212/WNL.0000000000214671",
+      "title": "Systolic Blood Pressure Trajectory and Outcomes in Acute Intracerebral Hemorrhage: Pooled Analysis of the 4 INTERACT and ATACH-II Clinical Trials.",
+      "abstract": "While moderate and rapid systolic blood pressure (SBP) lowering was associated with better functional outcomes after intracerebral hemorrhage (ICH), large reductions in SBP within 1 hour, for example, reductions from >200 to <140 mm Hg, diminished or even reversed these beneficial effects. We aimed to define the optimal trajectory of SBP control in relation to favorable functional outcomes after acute ICH. We conducted a pooled analysis of individual patient-level data from all 4 Intensive Blood Pressure Reduction in Acute Cerebral Hemorrhage Trial (INTERACT) and second Antihypertensive Treatment of Acute Cerebral Hemorrhage (ATACH-II) trials, which were international, randomized, open-label, blinded, end point-assessed, controlled trials that determined the effectiveness of early intensive SBP control in acute ICH. Latent class analysis grouped SBP trajectories over the first 24 hours (9 measurements) into defined clusters. The primary outcome was functional recovery at 90 days after randomization, defined as modified Rankin Scale (mRS) scores of 3-6. Logistic regression models with adjustment for baseline covariates and trial were used to determine associations between SBP cluster trajectories and outcomes in INTERACT, with validation in ATACH-II. A total of 11,269 patients (INTERACT n = 10,269; ATACH-II n = 1,000; mean age 62.4 years; female 36.4%) with at least 1 postrandomization SBP reading were included. Six SBP trajectories were identified: low, moderate-to-low, moderate, high, high-to-moderate, and high-to-low. Compared with the low SBP group, associations with poor functional outcome (mRS scores 3-6) increased progressively across other groups in INTERACT ( Distinct SBP trajectories over 24 hours defined prognosis after ICH, with a severe hypertensive group having the highest odds of death or disability, regardless of the BP-lowering strategy used. These findings highlight the importance of well-controlled but tailored SBP management strategies after ICH. This study provides Class III evidence that distinct SBP trajectories over 24 hours are associated with prognosis after acute ICH, with a severe hypertensive group having the highest odds of poor functional outcome, regardless of the BP-lowering strategy used. (INTERACT1 NCT00226096; INTERACT2 NCT00716079; INTERACT3 NCT03209258; INTERACT4 NCT03790800; ATACH-2 NCT01176565).",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41855454/",
+      "summary_ja": "背景：急性脳内出血（ICH）後の収縮期血圧（SBP）管理は機能的予後に影響するが、過度の急激な血圧低下は逆効果となる可能性がある。  \n方法：INTERACTおよびATACH-IIの4つの国際ランダム化比較試験から個別患者データを統合解析し、発症後24時間のSBP変動パターンを潜在クラス分析で分類。主要評価項目は90日後の修正Rankinスケール（mRS）3-6による機能的回復不良とした。ロジスティック回帰でSBP軌跡と予後の関連を検討し、INTERACTで解析後、ATACH-IIで検証を行った。  \n結果：11,269例（平均年齢62.4歳、女性36.4%）を解析し、6つのSBP軌跡（低値、低中値、中値、高値、高中値、高低値）を同定。低値群と比較し、SBPが高い群ほど機能的回復不良のリスクが段階的に増加した。特に重度高血圧群は死亡または障害のリスクが最も高かった。  \n結論：急性ICH後の24時間にわたるSBP軌跡は予後を予測し、過度の高血圧は不良転帰と関連する。血圧管理は個別化しつつ適切にコントロールすることが重要である。",
+      "summary_short_ja": "急性脳内出血（ICH）患者11,269例を対象に、4つのINTERACT試験とATACH-II試験のデータを統合解析し、発症後24時間の収縮期血圧（SBP）変動パターンと90日後の機能的予後の関連を検討した。6つのSBP軌跡が特定され、高値持続群は死亡や障害のリスクが最も高かった。過度な急激なSBP低下は利益を減じるため、適切かつ個別化したSBP管理が重要であることを示した。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41843860",
       "doi": "10.1212/WNL.0000000000214801",
       "title": "CTA-Based Plaque-RADS to Assess Etiologic Role of Nonstenotic Carotid Plaques in Patients With Embolic Stroke of Undetermined Source.",

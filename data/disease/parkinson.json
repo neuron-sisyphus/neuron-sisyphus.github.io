@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41855450",
+      "doi": "10.1212/WNL.0000000000214811",
+      "title": "Striatal Dopamine Transporter and Rest Tremor in Parkinson Disease: A Clinical Validation.",
+      "abstract": "The mechanisms underlying tremor generation in Parkinson disease (PD) remain unclear. Previously, we demonstrated a connection between rest tremor amplitude and higher dopamine transporter (DAT) binding in the ipsilateral striatum among the Parkinson Progression Markers Initiative cohort. Here, we investigated the association of parkinsonian motor symptoms with striatal DAT binding in a sizable and clinically representative sample of patients with parkinsonian signs to validate the previously observed ipsilateral relationship in PD. This observational cross-sectional study included right-handed patients referred for [ At the end of the follow-up period, of the 414 patients included (median age 68 years [IQR 14], 49.4% female), 148 were evaluated to have PD and 79 other forms of parkinsonism with striatal DAT deficit. In total, 187 patients had normal binding. Among the patients with PD, left and right rest tremor amplitudes were positively associated with ipsilateral striatal DAT binding (β = +0.12 [95% CI +0.05, +0.19] and +0.10 [+0.05, +0.15] specific binding ratio [SBR] per point;  These findings confirm the positive association between rest tremor amplitude and ipsilateral striatal DAT binding in a clinical sample of PD patients. However, the non-PD groups were diagnostically heterogeneous, limiting conclusions about disease specificity.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41855450/",
+      "summary_ja": "背景：パーキンソン病（PD）における振戦の発生メカニズムは未解明である。以前の研究で、PD患者の同側線条体におけるドパミントランスポーター（DAT）結合の増加と安静時振戦の振幅に関連が示唆された。  \n方法：本研究は、パーキンソン症状を呈する右利き患者414名（中央値年齢68歳、女性49.4％）を対象とした横断的観察研究で、線条体DAT結合とパーキンソン症状の関連を検証した。  \n結果：414名中、148名がPD、79名が線条体DAT欠損を伴う他のパーキンソン症候群と診断され、187名は正常なDAT結合を示した。PD患者では左右の安静時振戦振幅が同側線条体DAT結合と正の相関を示した（β=+0.12および+0.10、95％信頼区間いずれもプラス）。  \n結論：PD患者の臨床サンプルにおいて、安静時振戦振幅と同側線条体DAT結合の正の関連が確認された。ただし、非PD群の診断が多様であるため、疾患特異性についての結論は限定的である。",
+      "summary_short_ja": "本研究はパーキンソン病（PD）患者における安静時振戦と線条体ドパミントランスポーター（DAT）結合の関連を検証した。414名の患者を対象に解析した結果、PD患者では左右の安静時振戦振幅が同側の線条体DAT結合と正の相関を示した。一方、非PD群は診断的に多様であり、疾患特異性の判断は困難であった。これにより、PDにおける振戦発生機序の一端が示唆された。",
+      "disease": "parkinson",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41661604",
       "doi": "10.1007/s12603-011-0139-9",
       "title": "Coffee and Tea Intake, Dementia Risk, and Cognitive Function.",

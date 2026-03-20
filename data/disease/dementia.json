@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41855452",
+      "doi": "10.1212/WNL.0000000000214773",
+      "title": "Association of an Aquaporin-4 Haplotype With Cognition, Brain Volume, and Dementia Risk in Community-Dwelling Individuals Without Dementia.",
+      "abstract": "The aquaporin-4 (AQP4) water channel plays an integral role in clearing brain waste. However, little is known about whether variations in the  This study included participants from 2 prospective cohort studies. First, participants from the original, offspring, new offspring spouse, and generation 3 cohorts from the Framingham Heart Study (FHS; enrolled 1948-2005) were included with dementia follow-up until 2022. Original FHS participants were from Framingham, Massachusetts at the time of enrollment. Analyses were replicated for brain MRI outcomes and incident dementia with UK Biobank participants (enrolled 2006-2010) who were followed until 2022. All participants were dementia-free at the time of cognitive assessment, brain MRI, and commencement of dementia follow-up. Linear regression models were conducted to analyze the associations between  The FHS sample comprised 3,847 participants (65% homozygote major, 31% heterozygote, 4% homozygote minor) with cognitive testing (mean age 61 ± 11 years; 54% women); 3,332 had brain MRI. Heterozygotes displayed better verbal episodic memory (β = 0.32, 95% CI 0.09-0.55,  Carrying at least 1 minor allele at an",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41855452/",
+      "summary_ja": "背景：アクアポリン-4（AQP4）は脳内の老廃物除去に重要な水チャネルであるが、その遺伝的多型が認知機能や脳容積、認知症リスクに与える影響は不明である。  \n方法：フラミンガム心臓研究（FHS）とUKバイオバンクの認知症非罹患者を対象に、AQP4ハプロタイプと認知機能、脳MRI所見、認知症発症リスクの関連を検討した。FHSでは3,847名（平均年齢61歳、54%女性）、うち3,332名が脳MRIを実施。線形回帰モデルを用いて解析を行い、UKバイオバンクで結果の再現性を確認した。  \n結果：FHSではヘテロ接合型が言語性エピソード記憶で優れた成績を示し（β=0.32、95%CI 0.09-0.55）、脳容積も有意に大きかった。UKバイオバンクでも同様の傾向が認められた。さらに、少なくとも1つのマイナーアレルを保有する群で認知症発症リスクが低減した。  \n結論：AQP4の特定ハプロタイプは認知機能の維持や脳容積の保持、認知症リスクの低減に関連しており、脳の老廃物除去機構が認知症予防に寄与する可能性が示唆された。",
+      "summary_short_ja": "本研究は、アクアポリン-4（AQP4）遺伝子ハプロタイプと認知機能、脳容積、認知症リスクの関連を、認知症未発症の地域在住者を対象に検討した。フラミンガム心臓研究およびUKバイオバンクのデータを用い、AQP4の遺伝的多型が言語性エピソード記憶の向上や脳容積の維持と関連し、認知症発症リスクの低減に寄与する可能性を示した。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41849727",
       "doi": "10.1212/WNL.0000000000214805",
       "title": "Type 1 Diabetes and Incident Dementia: An Analysis in the All of Us Cohort.",
