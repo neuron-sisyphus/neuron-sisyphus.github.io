@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41861278",
+      "doi": "10.1212/WNL.0000000000214745",
+      "title": "Impact of Basal Ganglia Perivascular Spaces on Ischemic and Hemorrhagic Risks in Patients Taking Antithrombotic Therapies.",
+      "abstract": "Enlarged perivascular spaces (ePVSs) are considered to increase the risk of stroke. However, data regarding the benefits and risks of antithrombotic therapy in patients with ePVSs are currently limited. This study assessed the association between ePVSs and the risks of hemorrhagic or ischemic events in patients taking antithrombotic agents. This prospective, multicenter observational study enrolled patients with cerebrovascular or cardiovascular diseases who had newly started or were continuing to take oral antithrombotic agents at 52 hospitals across Japan between 2016 and 2019. Baseline multimodal MRI was performed for all of the study participants. The images were then centrally evaluated for cerebral small vessel disease (SVD), including white matter hyperintensities, cerebral microbleeds, lacunes, and basal ganglia-enlarged perivascular spaces (BGPVSs). BGPVSs were categorized as 0, 1-10, 11-20, or ≥21. Outcomes included major bleeding, intracranial hemorrhage, ischemic events, ischemic stroke, and mortality. Multivariable Cox proportional hazards models were used for the BGPVSs (in categorical and ordinal forms), adjusted for patient demographics, vascular risk factors, and other SVD markers. Of the total 5,065 patients (1,663 women; median age 74 [interquartile range 67-81] years), antiplatelets and anticoagulants were administered at the baseline to 3,820 (75.4%) and 1,502 (29.7%) patients, respectively. Their BGPVS distributions were as follows: 0, 475 (9.4%); 1-10, 2,615 (51.6%); 11-20, 1,267 (25.0%); and 21+, 708 patients (14.0%). Over a median follow-up period of 2.0 (interquartile range 1.8-2.0) years, we noted 266 ischemic events, 188 ischemic strokes, 92 major bleeding events, 54 intracranial hemorrhages, and 198 deaths. Higher BGPVS was associated with an increased risk of major bleeding (BGPVS ≥21: adjusted hazard ratio [aHR] 4.04, 95% CI 1.17-13.92; per-unit increase: aHR 1.38, 95% CI 1.07-1.77) and ischemic stroke (BGPVS ≥21: aHR 2.58, 95% CI 1.21-5.50; per-unit increase: aHR 1.28, 95% CI 1.07-1.53) but was not significantly associated with higher risks of ischemic events, intracranial hemorrhage, or mortality. Higher BGPVS burdens are associated with higher risks of ischemic stroke and major bleeding in patients receiving antithrombotic therapy. BGPVSs may serve as useful imaging biomarkers for vascular risk assessment and personalized therapy.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41861278/",
+      "summary_ja": "背景：拡大した基底核周囲血管腔（BGPVSs）は脳卒中リスク増加とされるが、抗血栓療法患者におけるその影響は不明である。  \n方法：2016～2019年に日本の52病院で、抗血栓薬を新規または継続服用中の脳血管・心血管疾患患者5,065名を対象に前向き多施設観察研究を実施。MRIで白質病変や微小出血、ラクーン、BGPVSsを評価し、BGPVSsを0、1-10、11-20、21以上に分類。主要出血、脳内出血、虚血イベント、虚血性脳卒中、死亡を追跡。多変量Coxモデルで解析。  \n結果：中央値2年の追跡で、266件の虚血イベント、188件の虚血性脳卒中、92件の主要出血、54件の脳内出血、198件の死亡を確認。BGPVSsが21以上の群は主要出血リスク（調整ハザード比4.04）および虚血性脳卒中リスク（同2.58）が有意に増加。虚血イベント全体や脳内出血、死亡リスクとは関連しなかった。  \n結論：抗血栓療法患者において高負荷のBGPVSsは虚血性脳卒中と主要出血リスクの増加と関連し、血管リスク評価や個別化治療のための有用な画像バイオマーカーとなり得る。",
+      "summary_short_ja": "本研究は、抗血栓療法を受ける脳血管・心血管疾患患者において、基底核周囲血管周囲腔（BGPVS）の拡大が虚血性脳卒中および重大出血リスクと関連することを示した。5,065例を対象に2年間追跡し、BGPVSが多いほど虚血性脳卒中と重大出血の発生率が有意に増加したが、全体の虚血イベントや頭蓋内出血、死亡リスクとは関連しなかった。BGPVSは血管リスク評価や個別化治療の指標となりうる。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41855454",
       "doi": "10.1212/WNL.0000000000214671",
       "title": "Systolic Blood Pressure Trajectory and Outcomes in Acute Intracerebral Hemorrhage: Pooled Analysis of the 4 INTERACT and ATACH-II Clinical Trials.",
