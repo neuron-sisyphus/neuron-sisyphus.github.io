@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41698165",
+      "doi": "10.1212/WNL.0000000000214743",
+      "title": "Global & Community Health: Diagnosis and Management of Multiple Sclerosis in Nepal: Overcoming Barriers Through Local Adaptations.",
+      "abstract": "Multiple sclerosis (MS) is the most common demyelinating disease of the CNS and disproportionately affects younger individuals, yet it remains underdiagnosed and undertreated in many low and middle-income countries. We describe key barriers to timely diagnosis and effective management of MS in Nepal, including limited public and clinician awareness; restricted access to neurologic care, MRI, and essential laboratory testing; and the high cost of long-term treatment. We also outline practical, context-specific adaptations such as simplified diagnostic pathways, use of affordable immunosuppressive therapies, and sustained advocacy by the Multiple Sclerosis Society of Nepal to improve access and affordability. Our experience illustrates pragmatic, low-cost strategies that may support more equitable MS care in resource-constrained settings.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41698165/",
+      "summary_ja": "背景：多発性硬化症（MS）は中枢神経系の脱髄疾患で若年層に多いが、低・中所得国では診断や治療が遅れがちである。  \n方法：ネパールにおけるMSの診断・管理の障壁を調査し、現地の状況に応じた適応策を検討した。具体的には、医療従事者や一般の認知度の低さ、神経内科受診やMRI検査、必要な検査へのアクセス制限、長期治療の高コストを挙げている。  \n結果：簡略化した診断手順や、手頃な免疫抑制剤の活用、ネパール多発性硬化症協会による継続的な啓発活動が、診断・治療の遅れを改善し、医療アクセスと費用負担の軽減に寄与した。  \n結論：資源制約のある環境でも、現地に適した低コストの実践的戦略を導入することで、MS患者への公平な医療提供が可能であることを示した。",
+      "summary_short_ja": "多発性硬化症（MS）は若年層に多い中枢神経脱髄疾患であるが、ネパールでは診断・治療が遅れがちである。主な障壁は、医療者・一般の認知不足、神経科受診やMRI検査の制限、高額な治療費である。著者らは、簡素化した診断手順や低価格の免疫抑制薬の活用、MS協会による継続的な啓発活動など、現地に適した実践的対策を提案し、資源制約下での公平なMS医療の推進を示した。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41687049",
+      "doi": "10.1177/13524585241245313",
+      "title": "Performance of the 2024 McDonald Criteria in Patients Under Evaluation for Suspected Multiple Sclerosis.",
+      "abstract": "The 2024 McDonald criteria provide new recommendations for multiple sclerosis (MS) diagnosis, but validation of the criteria is lacking. We wanted to investigate the application and performance of the 2024 McDonald criteria in patients with suspected MS seen in routine clinical practice. We retrospectively identified patients referred with clinical and/or radiologic suspicion for MS between January and December 2024. All patients had a minimum diagnostic evaluation with brain and spinal cord MRI. The 2017 McDonald criteria were applied prospectively, and the 2024 McDonald criteria were applied retrospectively after the initial diagnostic workup and at last follow-up. We investigated (1) the number of patients diagnosed with MS using the 2017 McDonald criteria or the 2024 McDonald criteria, and (2) the diagnostic performance of the 2024 McDonald criteria when applied during the initial diagnostic workup, with an MS diagnosis using the 2017 McDonald criteria as the reference-standard. In 347 patients (mean age 39.4 years, 66% female) with suspected MS followed up for mean 15.3 (range 8-20) months, 73 (21%) had alternative disorders and were excluded. After applying the 2024 McDonald criteria in the remaining 274 patients, more patients were diagnosed with MS after the initial diagnostic workup (220 vs 172,  Use of the 2024 McDonald allows for earlier MS diagnosis, but also more frequent diagnosis including in patients with radiologically isolated syndrome. The revised criteria have similar performance across the lifespan. Limitations include the lack of data on central vein sign and kappa free light chains, and missing optic nerve assessment in some patients.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41687049/",
+      "summary_ja": "背景：2024年版McDonald基準は多発性硬化症（MS）診断の新たな推奨を示すが、その妥当性は未検証である。  \n方法：2024年1～12月にMS疑いで紹介された347例を対象に、脳・脊髄MRIを用いた診断評価を実施。2017年基準は前向きに、2024年基準は後ろ向きに適用し、診断数と初期診断時の性能を比較した。  \n結果：平均追跡期間15.3か月で、21％に他疾患を認め除外。残る274例で2024年基準適用後は初期診断でMS患者数が172例から220例に増加。2024年基準は放射線学的孤立症候群も含め早期診断を可能にし、年齢層を問わず同等の診断性能を示した。  \n結論：2024年McDonald基準はMSの早期診断を促進し、より多くの患者を診断可能とするが、中心静脈徴候やκフリーライトチェーンのデータ欠如、視神経評価の未実施などの制約がある。",
+      "summary_short_ja": "2024年版マクドナルド基準は、多発性硬化症（MS）の早期診断を可能にし、2017年版よりも多くの患者をMSと診断した。347例中274例を対象に検証し、初期診断時の適用で220例がMSと診断された。新基準は生涯を通じて安定した診断性能を示すが、中心静脈徴候やカッパフリーライトチェーンのデータ欠如、視神経評価の不足が課題である。",
+      "disease": "ms",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41855451",
       "doi": "10.1212/WNL.0000000000214778",
       "title": "Resting-State EEG Microstates as Dynamic Biomarkers of Network Dysfunction and Cognitive Impairment in Patients With Multiple Sclerosis.",
@@ -90,21 +120,6 @@
       "summary_short_ja": "多民族背景の多発性硬化症（MS）感受性の遺伝的要因を調査した。本研究は英国在住の南アジア系およびアフリカ系のMS患者676名とUKバイオバンクのデータを用い、単一塩基多型やHLA遺伝子の関連を解析した。主要組織適合複合体領域の遺伝子変異が全祖先集団でMS感受性に関連し、遺伝的構造は共通の病態機序を示す。多様な集団での大規模研究がMSの遺伝的理解を深めると結論づけた。",
       "disease": "ms",
       "section": "epidemiology"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "41698165",
-      "doi": "10.1212/WNL.0000000000214743",
-      "title": "Global & Community Health: Diagnosis and Management of Multiple Sclerosis in Nepal: Overcoming Barriers Through Local Adaptations.",
-      "abstract": "Multiple sclerosis (MS) is the most common demyelinating disease of the CNS and disproportionately affects younger individuals, yet it remains underdiagnosed and undertreated in many low and middle-income countries. We describe key barriers to timely diagnosis and effective management of MS in Nepal, including limited public and clinician awareness; restricted access to neurologic care, MRI, and essential laboratory testing; and the high cost of long-term treatment. We also outline practical, context-specific adaptations such as simplified diagnostic pathways, use of affordable immunosuppressive therapies, and sustained advocacy by the Multiple Sclerosis Society of Nepal to improve access and affordability. Our experience illustrates pragmatic, low-cost strategies that may support more equitable MS care in resource-constrained settings.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Mar-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41698165/",
-      "summary_ja": "背景：多発性硬化症（MS）は中枢神経系の脱髄疾患で若年層に多いが、低・中所得国では診断や治療が遅れがちである。  \n方法：ネパールにおけるMSの診断・管理の障壁を調査し、現地の状況に応じた適応策を検討した。具体的には、医療従事者や一般の認知度の低さ、神経内科受診やMRI検査、必要な検査へのアクセス制限、長期治療の高コストを挙げている。  \n結果：簡略化した診断手順や、手頃な免疫抑制剤の活用、ネパール多発性硬化症協会による継続的な啓発活動が、診断・治療の遅れを改善し、医療アクセスと費用負担の軽減に寄与した。  \n結論：資源制約のある環境でも、現地に適した低コストの実践的戦略を導入することで、MS患者への公平な医療提供が可能であることを示した。",
-      "summary_short_ja": "多発性硬化症（MS）は若年層に多い中枢神経脱髄疾患であるが、ネパールでは診断・治療が遅れがちである。主な障壁は、医療者・一般の認知不足、神経科受診やMRI検査の制限、高額な治療費である。著者らは、簡素化した診断手順や低価格の免疫抑制薬の活用、MS協会による継続的な啓発活動など、現地に適した実践的対策を提案し、資源制約下での公平なMS医療の推進を示した。",
-      "disease": "ms",
-      "section": "treatment"
     },
     {
       "source": "pubmed",

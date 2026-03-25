@@ -3,6 +3,51 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41740083",
+      "doi": "10.1016/B978-0-12-420118-7.00013-5",
+      "title": "Dynamic Smoking Patterns and Risk of Parkinson Disease and All-Cause Mortality: A Competing Risk Analysis Approach.",
+      "abstract": "Smoking has been reported to be inversely associated with Parkinson disease (PD). However, the higher premature mortality among smokers may act as a competing risk, potentially confounding the inverse association. Because smoking behavior is dynamic, the long-term impact of changes among current smokers remains unclear. We investigated the association between longitudinal changes in smoking status and the risks of PD and all-cause mortality using a competing risk framework and an age-based time scale with left truncation. This large-scale retrospective cohort study included current smokers aged 40 years or older who participated in all 3 examination periods of the Korean National Health Screening. Based on longitudinal changes from the initial smoking status to 2 subsequent time points, participants were categorized into 4 groups: persistent smokers, recent quitters, sustained quitters, and relapsed smokers. Cumulative incidence functions for PD were estimated, with all-cause mortality as a competing event, and subdistribution hazard ratios (sHRs) with 95% CIs were obtained using Fine-Gray models. Data were obtained from 410,489 eligible participants (mean age 51.7 ± 9.0 years; 93.5% male). During a median 9.1-year follow-up, persistent smokers exhibited the lowest risk of PD. Both recent quitters and sustained quitters had higher PD risk than persistent smokers (sHR 1.60 [1.41-1.82] and 1.61 [1.42-1.81]), whereas relapsed smokers did not differ from persistent smokers (sHR 1.05 [0.87-1.28]). For all-cause mortality, recent and sustained quitters had 3% and 17% lower risks, respectively, compared with persistent smokers, whereas relapsed smokers showed no significant difference. The observed pattern of PD risk was suggested to be primarily associated with current smoking status rather than cumulative smoking exposure, as relapsed smokers and recent quitters, who had the same number of smoking time points, showed distinctly different risks. Furthermore, 1 time point (∼2 years) of short-term abstinence did not attenuate the protective association. Mortality was lowest in sustained quitters while recent quitters showed a marginal trend toward lower risk, supporting the benefit of early cessation. Interpretation should be cautious because smoking status was assessed at 3 time points, subsequent changes were unknown, and most participants were male.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41740083/",
+      "summary_ja": "背景：喫煙はパーキンソン病（PD）と逆相関すると報告されているが、喫煙者の早期死亡が競合リスクとして影響し、関連性の解釈を複雑にしている。喫煙行動は動的であり、長期的な変化の影響は不明である。  \n方法：韓国国民健康診断の40歳以上の現喫煙者41万人超を対象に、3回の検診時点での喫煙状態の変化に基づき「持続喫煙者」「最近禁煙者」「持続禁煙者」「再喫煙者」の4群に分類。競合リスク解析（Fine-Grayモデル）を用いてPD発症と全死亡リスクを評価した。  \n結果：中央値9.1年の追跡で、持続喫煙者が最もPDリスクが低く、最近禁煙者・持続禁煙者はそれぞれ約1.6倍のリスク増加を示した。再喫煙者のリスクは持続喫煙者と差がなかった。死亡リスクは持続禁煙者が最も低く、最近禁煙者もわずかに低かった。短期禁煙（約2年）ではPDリスクの低減効果は見られなかった。  \n結論：PDリスクの低減は累積喫煙量よりも現喫煙状態に強く関連し、短期禁煙では保護効果が得られにくい。一方、死亡リスク低減は禁煙の継続が重要である。解析は喫煙状態が3時点のみで男性主体のため慎重な解釈が必要である。",
+      "summary_short_ja": "本研究は、韓国の40歳以上の現喫煙者41万人超を対象に、喫煙パターンの変化とパーキンソン病（PD）および全死亡リスクの関連を競合リスク解析で検討した。持続喫煙者はPDリスクが最も低く、禁煙者はPDリスクが高い一方、死亡リスクは禁煙者で低下した。短期禁煙（約2年）ではPDリスクの低減効果は見られず、PDリスクは現喫煙状態に強く依存することが示唆された。",
+      "disease": "parkinson",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41730149",
+      "doi": "10.1016/j.jns.2024.122926",
+      "title": "Incidence and Survival Rates of Frontotemporal Lobar Degeneration: Population-Based Registry Study.",
+      "abstract": "Frontotemporal lobar degeneration (FTLD) can present as a behavioral or language variant (bvFTLD or a primary progressive aphasia [PPA], or as a syndrome with parkinsonism, such as corticobasal syndrome [CBS] or progressive supranuclear palsy [PSP]). The incidence of FTLD varies in epidemiologic studies, reaching 3 per 100,000 person-years. Only few data exist regarding survival times. We evaluated incidence and survival rates in a population-based registry with high coverage in Southern Germany. The epidemiologic ALS-FTLD registry Swabia covers a population of 8.4 million inhabitants in south-west Germany. Raw and age-standardized incidence rates, as well as incidence rate ratios (IRR) with 95% CIs were calculated. Median survival time was estimated for different FTLD variants using the Kaplan-Meier method. Between 2015 and 2022, 515 patients with FTLD (mean age at diagnosis 68.0 ± 9.5 years, 59.8% men) were registered. The median diagnostic delay was 24.8 months. The most common variant was bvFTLD (n = 185, 35.9%; 66.5% men), followed by PPA (n = 147, 28.5%; 51.0% men), PSP (n = 133, 25.8%; 62.9% men), and CBS (n = 22, 4.3%; 50% men). The overall FTLD incidence was 0.77 (95% CI 0.71-0.84), and the age-standardized incidence was 0.76 (95% CI 0.69-0.82) per 100.000 person-years. The age-standardized incidence was higher in men than in women, with an IRR of 1.73 (95% CI 1.44-2.00). In men, incidence increased from the age 50 years, primarily due to bvFTD, whereas in women this rise was primarily due to PSP. The median survival (N = 392) from diagnosis was 53.6 months (95% CI 50.9-62.0) overall, 73.1 months (95% CI 63.6-82.8) for patients with PPA, 42.8 months (95% CI 35.1-64.3) for patients with bvFTD, and 49.5 months (95% CI 39.2-53.7) for patients with PPS/CBS. We observed a raw incidence rate of 0.77, thus considerably lower than in most previous reports. Incidence was substantially higher in men than in women. The prognosis from the time of diagnosis depended highly on the specific FTLD subtype. Our data are based on the large sample size and high capture rate of a central European population-based registry.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41730149/",
+      "summary_ja": "【背景】前頭側頭葉変性症（FTLD）は行動異常型（bvFTLD）、進行性失語症（PPA）、およびパーキンソニズムを伴う症候群（CBS、PSP）として現れるが、発症率や生存期間に関するデータは限られている。  \n【方法】ドイツ南西部の840万人を対象としたALS-FTLD登録システムにより、2015～2022年に登録された515例のFTLD患者の発症率と生存率を解析。年齢調整発症率や発症率比（IRR）、Kaplan-Meier法による生存期間中央値を算出した。  \n【結果】全体の年齢調整発症率は100,000人年あたり0.76で、男性は女性より1.73倍高かった。男性は50歳以降にbvFTLDが増加し、女性はPSPの増加が主因であった。生存期間中央値は全体で約54か月、PPAで73か月、bvFTLDで43か月、PSP/CBSで50か月であった。  \n【結論】FTLDの発症率は従来報告より低く、男性で高頻度であることが示された。診断後の予後はFTLDの亜型により大きく異なる。大規模な地域登録に基づく信頼性の高い疫学データである。",
+      "summary_short_ja": "本研究はドイツ南部の人口ベース登録を用いて、前頭側頭葉変性症（FTLD）の発症率と生存率を調査した。2015～2022年に515例を登録し、全体の発症率は人口10万人年あたり0.77で、男性が女性より1.73倍高かった。主な亜型は行動変異型bvFTLD、進行性失語症PPA、進行性核上性麻痺PSPで、生存期間は亜型により異なり、PPAが最も長かった。診断後の予後は亜型依存性であることが示された。",
+      "disease": "parkinson",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41707111",
+      "doi": "10.1212/WNL.0000000000214770",
+      "title": "How Are Synaptic Vesicle Exocytosis and Endocytosis Affected in Parkinson Disease?",
+      "abstract": "Synaptic vesicle exocytosis and endocytosis are 2 fundamental processes that involve the coordinated and timely activity of many proteins and protein-lipid interactions. Alpha-synuclein (α-Syn) regulates several steps of these processes. Impaired exocytosis and endocytosis are important consequences of Parkinson disease (PD), reflecting both loss of function of normal α-Syn and toxic gain of function of abnormal α-Syn aggregates. Studies in familial forms of PD indicate that abnormal functions of other critical proteins such as leucine repeat rich kinase 2 also impair normal synaptic vesicular trafficking and contribute to synaptic dysfunction and secondary neurodegeneration.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Mar-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41707111/",
+      "summary_ja": "背景：シナプス小胞のエキソサイトーシスとエンドサイトーシスは、多数のタンパク質や脂質の相互作用によって調節される基本的な神経伝達過程である。α-シヌクレイン（α-Syn）はこれらの過程の複数段階を制御している。  \n方法：パーキンソン病（PD）におけるシナプス小胞の機能障害を、α-Synの正常機能喪失と異常凝集体による毒性獲得機能の観点から検討し、家族性PDに関連する他の重要タンパク質、特にルイシンリピートリッチキナーゼ2（LRRK2）の異常機能がシナプス小胞輸送に与える影響を調査した。  \n結果：PDでは、α-Synの異常がエキソサイトーシスとエンドサイトーシスの障害を引き起こし、シナプス機能不全をもたらすことが示された。さらに、LRRK2などの他のタンパク質の異常もシナプス小胞の正常な輸送を妨げ、神経変性を促進することが明らかとなった。  \n結論：PDにおけるシナプス小胞の機能障害は、α-Synの機能異常と他の関連タンパク質の異常が複合的に関与しており、これらの分子機構の解明が病態理解と治療戦略の開発に重要である。",
+      "summary_short_ja": "シナプス小胞のエキソサイトーシスとエンドサイトーシスは多くのタンパク質の協調的な働きによる基本的過程であり、α-シヌクレイン（α-Syn）がこれらの過程を調節する。パーキンソン病（PD）では、正常なα-Synの機能喪失と異常なα-Syn凝集体の毒性獲得により、これらの過程が障害される。さらに、LRRK2など他の重要タンパク質の異常もシナプス機能障害と神経変性に寄与する。",
+      "disease": "parkinson",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41855450",
       "doi": "10.1212/WNL.0000000000214811",
       "title": "Striatal Dopamine Transporter and Rest Tremor in Parkinson Disease: A Clinical Validation.",
@@ -45,21 +90,6 @@
       "summary_short_ja": "本研究は南ドイツの人口ベース登録データを用いて、前頭側頭葉変性症（FTLD）の発症率と生存率を調査した。2015～2022年に515例を登録し、全体の年齢調整発症率は10万人年あたり0.76で、男性が女性より1.73倍高かった。診断後の中央値生存期間は約54か月で、亜型により差があり、PPAが最長、bvFTLDが最短であった。発症率は従来報告より低く、性別や亜型による予後差が明確であった。",
       "disease": "parkinson",
       "section": "epidemiology"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "41707111",
-      "doi": "10.1212/WNL.0000000000214770",
-      "title": "How Are Synaptic Vesicle Exocytosis and Endocytosis Affected in Parkinson Disease?",
-      "abstract": "Synaptic vesicle exocytosis and endocytosis are 2 fundamental processes that involve the coordinated and timely activity of many proteins and protein-lipid interactions. Alpha-synuclein (α-Syn) regulates several steps of these processes. Impaired exocytosis and endocytosis are important consequences of Parkinson disease (PD), reflecting both loss of function of normal α-Syn and toxic gain of function of abnormal α-Syn aggregates. Studies in familial forms of PD indicate that abnormal functions of other critical proteins such as leucine repeat rich kinase 2 also impair normal synaptic vesicular trafficking and contribute to synaptic dysfunction and secondary neurodegeneration.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Mar-24",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41707111/",
-      "summary_ja": "背景：シナプス小胞のエキソサイトーシスとエンドサイトーシスは、多数のタンパク質や脂質の相互作用によって調節される基本的な神経伝達過程である。α-シヌクレイン（α-Syn）はこれらの過程の複数段階を制御している。  \n方法：パーキンソン病（PD）におけるシナプス小胞の機能障害を、α-Synの正常機能喪失と異常凝集体による毒性獲得機能の観点から検討し、家族性PDに関連する他の重要タンパク質、特にルイシンリピートリッチキナーゼ2（LRRK2）の異常機能がシナプス小胞輸送に与える影響を調査した。  \n結果：PDでは、α-Synの異常がエキソサイトーシスとエンドサイトーシスの障害を引き起こし、シナプス機能不全をもたらすことが示された。さらに、LRRK2などの他のタンパク質の異常もシナプス小胞の正常な輸送を妨げ、神経変性を促進することが明らかとなった。  \n結論：PDにおけるシナプス小胞の機能障害は、α-Synの機能異常と他の関連タンパク質の異常が複合的に関与しており、これらの分子機構の解明が病態理解と治療戦略の開発に重要である。",
-      "summary_short_ja": "シナプス小胞のエキソサイトーシスとエンドサイトーシスは多くのタンパク質の協調的な働きによる基本的過程であり、α-シヌクレイン（α-Syn）がこれらの過程を調節する。パーキンソン病（PD）では、正常なα-Synの機能喪失と異常なα-Syn凝集体の毒性獲得により、これらの過程が障害される。さらに、LRRK2など他の重要タンパク質の異常もシナプス機能障害と神経変性に寄与する。",
-      "disease": "parkinson",
-      "section": "prognosis"
     }
   ]
 }

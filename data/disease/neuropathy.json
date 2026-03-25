@@ -1,4 +1,20 @@
 {
   "disease": "neuropathy",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41875382",
+      "doi": "10.1212/WNL.0000000000214830",
+      "title": "Clinical Reasoning: A 67-Year-Old Man With Exercise Intolerance and Progressive Weakness.",
+      "abstract": "A 67-year-old man with long-standing HIV on antiretroviral therapy, type 2 diabetes with polyneuropathy, and hyperlipidemia on statin and fibrate therapy presented with difficulty walking and exercise intolerance. Examination revealed new hamstring weakness superimposed on chronic distal weakness and sensory loss. Initial laboratory testing showed elevated creatine kinase, which persisted despite discontinuation of statin and fibrate therapy. In this article, we review the approach to adult-onset myopathy and explore diagnostic challenges when clinical and diagnostic testing seem discordant, emphasizing a stepwise approach to localization, differential diagnosis, and targeted testing.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41875382/",
+      "summary_ja": "背景：67歳の男性が、長期のHIV感染（抗レトロウイルス療法中）、2型糖尿病による多発性神経障害、脂質異常症（スタチンおよびフィブラート服用）を背景に、歩行困難と運動耐容能低下を訴えた。  \n方法：身体検査で慢性の遠位筋力低下と感覚障害に加え、新たにハムストリング筋の筋力低下を認めた。血液検査ではクレアチンキナーゼ（CK）値が上昇し、スタチンとフィブラートの中止後も改善しなかった。  \n結果：臨床症状と検査結果の不一致が認められ、成人発症筋症の診断において局在診断、鑑別診断、目的を絞った検査の段階的アプローチが重要であることが示された。  \n結論：成人発症筋症の診断は複雑であり、臨床所見と検査所見の乖離がある場合でも、系統的な評価を通じて正確な診断と適切な治療方針の決定が可能である。",
+      "summary_short_ja": "67歳の男性が、長期のHIV治療中で糖尿病性多発神経障害や脂質異常症を併発し、歩行困難と運動耐容能低下を訴えた。検査で新たなハムストリング筋力低下と慢性的な末梢筋力低下・感覚障害が確認され、クレアチンキナーゼ値の上昇が認められたが、脂質低下薬中止後も改善しなかった。本論文は成人発症筋症の診断過程と臨床検査の不一致に対する段階的アプローチを解説する。",
+      "disease": "neuropathy",
+      "section": "diagnosis"
+    }
+  ]
 }
