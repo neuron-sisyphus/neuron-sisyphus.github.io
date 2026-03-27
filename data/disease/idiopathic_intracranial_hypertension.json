@@ -1,4 +1,20 @@
 {
   "disease": "idiopathic_intracranial_hypertension",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41881051",
+      "doi": "10.1212/WNL.0000000000214832",
+      "title": "Idiopathic Intracranial Hypertension Prevalence and Hormonal Contraception: A Meta-Analysis.",
+      "abstract": "Women's health advice in people living with idiopathic intracranial hypertension (IIH) is inconsistent, primarily due to an enduring concern that hormonal contraception (HC), including oral contraceptive pills (OCPs) and hormonal intrauterine devices (IUDs), might be associated with a higher prevalence of IIH. This systematic review and meta-analysis examines whether a meaningful association exists between HC use and IIH prevalence. Systematic searches of Ovid MEDLINE, Embase, and the Cochrane Library were conducted from their inception to May 14, 2025. Gray literature and citation lists were also reviewed. Observational studies comparing HC use among women with IIH to controls without IIH were included. Noncomparative studies and pharmacovigilance analyses were excluded. Two independent reviewers conducted data extraction, assessed the quality of studies using the Newcastle-Ottawa Scale, and appraised the certainty of evidence using the Grading of Recommendations, Assessment, Development, and Evaluation framework. A random-effects meta-analysis using the Mantel-Haenszel method in Review Manager 5.4 was conducted to evaluate the association between HC use and IIH prevalence, the primary outcome of interest, with leave-one-out sensitivity analyses and subgroup analyses stratified by HC modality. A total of 13 studies (n The meta-analysis found no significant association between HC use and IIH prevalence, with consistent results across various HC modalities. This evidence provides confidence to reassure patients with IIH and clinicians that the directed use of HC should be continued as appropriate. The limited quality of available evidence and considerable heterogeneity highlights the necessity for large-scale, well-designed studies, particularly in diverse patient populations, to validate these findings.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41881051/",
+      "summary_ja": "【背景】特発性頭蓋内高血圧症（IIH）患者に対する女性の健康指導は一貫性を欠き、経口避妊薬（OCP）やホルモン内避妊具（IUD）を含むホルモン避妊法（HC）がIIHの発症率を高める可能性への懸念が根強い。  \n【方法】Ovid MEDLINE、Embase、Cochrane Libraryを用いて2025年5月までの関連観察研究を系統的に検索し、IIH患者と非患者のHC使用状況を比較した13件の研究を対象にメタアナリシスを実施。研究の質はNewcastle-Ottawa Scaleで評価し、証拠の確実性はGRADEで検討。ランダム効果モデルを用い、HCの種類別のサブグループ解析も行った。  \n【結果】HC使用とIIH発症率の間に有意な関連は認められず、各種HCモダリティにおいても一貫した結果が得られた。  \n【結論】IIH患者に対してHCの使用を継続することは安全であると示唆されるが、利用可能な証拠の質が限定的かつ異質性が高いため、多様な患者集団を対象とした大規模で質の高い研究が必要である。",
+      "summary_short_ja": "特発性頭蓋内圧亢進症（IIH）とホルモン避妊法（HC）の関連性を検討した13件の観察研究を対象としたメタ解析により、HC使用とIIHの有病率に有意な関連は認められなかった。経口避妊薬やホルモンIUDを含む各種HCモダリティでも同様の結果であり、IIH患者へのHC使用継続は安心して推奨できる。ただし、研究の質や異質性に限界があり、多様な集団を対象とした大規模研究が今後必要である。",
+      "disease": "idiopathic_intracranial_hypertension",
+      "section": "epidemiology"
+    }
+  ]
 }

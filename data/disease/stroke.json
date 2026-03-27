@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41886712",
+      "doi": "10.1212/WNL.0000000000214831",
+      "title": "Functional Outcome Following Blood Pressure Drops Within 24 Hours After Successful Mechanical Thrombectomy.",
+      "abstract": "The optimal target blood pressure (BP) during and after mechanical thrombectomy (MT) for acute ischemic stroke remains uncertain. While BP drops during MT are associated with worse outcomes, evidence on postprocedural BP instability is limited. We aimed to assess the impact of BP drops within the first 24 hours after MT on functional outcome. Retrospective observational study analyzing data from 2 tertiary stroke centers, gathered between October 2020 and September 2022 within the German Stroke Registry Endovascular Treatment, a national prospective registry of patients receiving MT for ischemic stroke. High-resolution BP data of patients who reached successful recanalization at the end of MT (modified Thrombolysis in Cerebral Infarction [mTICI] ≥2b) were obtained using stroke unit monitoring. BP drops were defined as systolic BP decreases of ≥40 mm Hg occurring within 1 hour during the first 24 hours after groin puncture. Primary outcome was level of disability at 3 months, assessed on the modified Rankin Scale (mRS shift analysis). Secondary outcomes included early neurologic deterioration (defined as an increase of 4 or more points on the National Institutes of Health Stroke Scale (NIHSS) between admission and 24-hour assessment) and death at 3 months. Associations between BP drops and functional outcomes were evaluated using multivariable ordinal and binary logistic regression. Among 300 patients analyzed (median age 77 years [interquartile range (IQR) 65-83], 46.0% female, median admission NIHSS 13 points [IQR 7-17]), 123 patients (41.0%) had at least 1 drop, including 77 patients (62.6%) with 1 drop and 46 patients (37.4%) with 2 or more drops. BP drops were independently associated with worse functional outcome, both in binary (drops vs no drops; adjusted common odds ratio [OR] 1.66 [95% CI 1.02-2.70]) and count-based analysis (adjusted common OR per +1 drop; 1.33 [95% CI 1.05-1.69]). Patients with drops more often had early neurologic deterioration (22.2% vs 13.4%; adjusted OR 2.22 [95% CI 1.03-4.78]). BP drops were not associated with death at 3 months (adjusted OR 1.25, 95% CI 0.66-2.40). BP drops within 24 hours after successful MT are associated with worse functional outcome. Targeted measures to prevent or mitigate BP drops should be explored in future studies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41886712/",
+      "summary_ja": "背景：急性虚血性脳卒中に対する機械的血栓回収術（MT）中および術後の最適な血圧管理は不明であり、特に術後24時間以内の血圧低下の影響に関するエビデンスは限られている。  \n方法：ドイツの2つの三次脳卒中センターで2020年10月から2022年9月までにMTを受け、成功再開通（mTICI≥2b）を達成した300例の患者データを後ろ向き観察研究で解析。術後24時間以内に1時間以内で収縮期血圧が40mmHg以上低下した場合を血圧低下と定義し、3か月後の機能的転帰（mRS）や早期神経症状悪化（NIHSSの4点以上増加）、死亡率との関連を多変量ロジスティック回帰で評価した。  \n結果：41.0%の患者に血圧低下が認められ、血圧低下は3か月後の機能的転帰悪化（調整後OR 1.66）および早期神経症状悪化（22.2% vs 13.4%、調整後OR 2.22）と有意に関連したが、死亡率とは関連しなかった。  \n結論：成功したMT後24時間以内の血圧低下は機能的予後悪化と関連するため、血圧低下の予防・軽減を目的とした管理戦略の検討が必要である。",
+      "summary_short_ja": "急性虚血性脳卒中に対する機械的血栓除去術（MT）後24時間以内の血圧低下が機能的予後に与える影響を後ろ向きに検討した。300例中41％で血圧低下が認められ、これが3か月後の障害度悪化や早期神経症状悪化と有意に関連した。一方、死亡率との関連は認められなかった。MT後の血圧低下防止が予後改善に重要であり、今後の対策検討が必要である。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41712884",
       "doi": "10.1212/WNL.0000000000214655",
       "title": "Contrast-Associated Acute Kidney Injury After Thrombectomy for Ischemic Stroke: Prognostic Impact and CAN-REST Predictive Score.",

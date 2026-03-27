@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41886713",
+      "doi": "10.1212/WNL.0000000000214863",
+      "title": "Eptinezumab With Patient Education for Chronic Migraine and Medication-Overuse Headache: The Randomized, Placebo-Controlled RESOLUTION Trial.",
+      "abstract": "Medication-overuse headache (MOH) commonly co-occurs with and complicates chronic migraine (CM). This trial evaluated efficacy and safety of eptinezumab, an anti-calcitonin gene-related peptide monoclonal antibody for migraine prevention-combined with a standardized brief educational intervention (BEI)-in adults with CM and MOH. We report results from the 12-week placebo-controlled period, of which weeks 1-4 was the primary time point. The phase 4, double-blind, placebo-controlled RESOLUTION trial was conducted at 76 specialist clinics across 11 countries. Eligible participants were adults diagnosed with CM and MOH and were randomized 1:1 to eptinezumab 100 mg IV with BEI or placebo IV with BEI. The primary end point was mean change from baseline in monthly migraine days (MMDs; weeks 1-4). Key secondary end points (multiplicity-controlled) included changes from baseline in monthly headache days, monthly days with acute migraine medication use, and average daily pain, as well as fulfillment of thresholds defining CM and MOH. Treatment-emergent adverse events (TEAEs) were assessed. Between July 2022 and March 2025, 608 participants were randomized, and 596 (98%) completed the placebo-controlled period. Of 604 participants treated, 517 (86%) were female and 87 (14%) were male; the mean age was 45.5 years (SD 12.0). The primary end point, mean change from baseline in MMDs (weeks 1-4), favored eptinezumab with BEI vs placebo with BEI (-6.9 vs -3.7; group difference -3.2; 95% CI -4.2 to -2.2;  In adults with CM and MOH who also received patient education, eptinezumab was statistically superior to placebo on the primary and all key secondary end points, reducing disease burden as early as weeks 1-4 and throughout weeks 1-12. Eptinezumab was generally well tolerated, with no new safety signals identified. Together, data from this trial indicate that eptinezumab in combination with patient education is an effective treatment for reducing disease burden in patients living with CM complicated by medication overuse. ClinicalTrials.gov Identifier: NCT05452239 (clinicaltrials.gov/study/NCT05452239); EudraCT Number: 2021-003049-40 (clinicaltrialsregister.eu/ctr-search/search?query=2021-003049-40); EU CTR Number: 2024-510729-24-00 (euclinicaltrials.eu/search-for-clinical-trials/?lang=en&EUCT=2024-510729-24-00). EudraCT Number obtained: May 25, 2021. ClinicalTrials.gov Identifier obtained: July 6, 2022. First patient enrolled: July 1, 2022. This clinical trial provides Class I evidence that eptinezumab with patient education is superior to placebo with patient education in reducing MMDs in adults with CM and MOH.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41886713/",
+      "summary_ja": "背景：慢性片頭痛（CM）に薬物乱用頭痛（MOH）が併発すると治療が困難になる。本試験は、抗カルシトニン遺伝子関連ペプチド抗体であるエプチネズマブと標準化された簡易教育介入（BEI）の併用効果を評価した。  \n方法：11か国の76施設で、CMかつMOHと診断された成人608名を対象に、エプチネズマブ100mg静注＋BEI群とプラセボ静注＋BEI群に1:1で無作為割付。主要評価項目は投与後1～4週の月間片頭痛日数（MMD）のベースラインからの変化。副次評価項目には月間頭痛日数、急性薬使用日数、平均日痛みなどを含む。安全性も評価。  \n結果：596名（98%）が12週間の盲検期間を完了。エプチネズマブ群はMMDが-6.9日、プラセボ群は-3.7日で、群間差は-3.2日（95%CI -4.2～-2.2）と有意に改善。副次評価項目もすべてエプチネズマブ群で優位に改善。安全性は良好で新たな懸念なし。  \n結論：CMとMOHを有する成人において、患者教育と併用したエプチネズマブはプラセボよりも有意に片頭痛日数を減少させ、疾患負荷軽減に効果的かつ安全な治療法である。",
+      "summary_short_ja": "慢性片頭痛（CM）と薬物乱用頭痛（MOH）を有する成人を対象に、抗CGRP抗体エプチネズマブと患者教育（BEI）の併用効果を検証した二重盲検プラセボ対照試験（RESOLUTION試験）で、エプチネズマブ群はプラセボ群に比べて1～4週目の月間片頭痛日数が有意に減少した（-6.9日対-3.7日）。副作用は軽微で安全性も良好であった。エプチネズマブと患者教育の併用は、CMとMOH患者の症状軽減に有効であることが示された。",
+      "disease": "migraine",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41650361",
       "doi": "10.1212/WNL.0000000000214656",
       "title": "Unveiling Resting-State Functional Connectivity Patterns in Patients With Migraine: A REFORM Study.",
