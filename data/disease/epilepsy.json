@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41915870",
+      "doi": "10.1212/WNL.0000000000214791",
+      "title": "Genetic Etiologies of Epilepsies With Status Epilepticus: Insights From the Italian Pediatric Status Epilepticus Group Cohort.",
+      "abstract": "Genetic factors are major contributors to pediatric epilepsy, but their role in status epilepticus (SE) remains incompletely defined. We aimed to characterize the clinical and genetic landscape of pediatric epilepsy complicated by SE in a large cohort, and to identify clinical features associated with genetic etiologies. We conducted a retrospective, multicenter, exploratory cohort study by selecting patients aged 1 month-18 years who experienced SE from the Italian Pediatric Status Epilepticus (IPSE) group database (2010-2022). SE and epilepsy syndromes were defined according to International League Against Epilepsy criteria. From the IPSE dataset, we included only patients with epilepsy whose etiology was classified as genetic (confirmed or presumed) or nongenetic (lesional, autoimmune, metabolic-acquired, infectious, or unknown). Clinical data were collected using standardized electronic case report forms. Of 1,071 children in the IPSE cohort, 790 with SE and epilepsy were included (median age at SE onset 3.9 years, interquartile range 1.3-8.1; 44% female). A genetic etiology was confirmed or presumed in 519 (66%). Compared with those with nongenetic etiologies (n = 271), patients with genetic epilepsies presented with SE at a younger age (median 3.4 vs 4.8 years, q = 0.003) and more often had epilepsy with both focal and generalized seizures (31% vs 13%,  In this large real-world cohort, two-thirds of children with epilepsy and SE had a genetic etiology, most commonly channelopathies. Younger age at SE and epilepsy with both focal and generalized seizure were linked to genetic causes. Despite limitations in testing strategies and retrospective design, these findings highlight the importance of systematic genetic investigation in pediatric epilepsies presenting SE.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41915870/",
+      "summary_ja": "背景：小児てんかんにおける遺伝的要因は重要であるが、てんかん重積状態（SE）における役割は十分に解明されていない。  \n方法：イタリア小児てんかん重積状態グループ（IPSE）のデータベース（2010-2022年）から、1か月～18歳のSEを経験したてんかん患者790例を後ろ向き多施設コホート研究として解析した。てんかん症候群は国際抗てんかん連盟基準に準拠し、遺伝性（確定または推定）と非遺伝性（病変性、自己免疫、代謝性、感染性、原因不明）に分類した。  \n結果：対象の66％（519例）が遺伝性てんかんと判定された。遺伝性群は非遺伝性群（271例）に比べてSE発症年齢が若く（中央値3.4歳 vs 4.8歳、p=0.003）、焦点性と全般性の両方の発作を呈する割合が高かった（31％ vs 13％）。チャネル病が最も多かった。  \n結論：小児てんかん重積状態の約3分の2は遺伝的要因が関与しており、若年発症や多様な発作型が遺伝性を示唆する。検査方法や研究デザインの制約はあるものの、SEを伴う小児てんかんでは系統的な遺伝子検査の重要性が示された。",
+      "summary_short_ja": "イタリア小児てんかん重積症グループの大規模コホート研究で、てんかんと重積状態（SE）を呈した790例のうち66％が遺伝性てんかんと判明した。遺伝性群は非遺伝性群よりもSE発症年齢が若く、焦点性と全般性発作の併存が多かった。主にチャネル病が多く、遺伝子検査の体系的実施が小児てんかんSEの診断に重要であることが示された。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41838966",
       "doi": "10.1212/WNL.0000000000214774",
       "title": "Peri-Ictal MRI Abnormalities and Risk of Unprovoked Seizures After De Novo Status Epilepticus.",
