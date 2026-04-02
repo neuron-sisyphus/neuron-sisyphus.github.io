@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41921124",
+      "doi": "10.1212/WNL.0000000000214806",
+      "title": "Diagnostic Value of the Kappa Free Light Chain Index to Distinguish MOGAD, NMOSD, and MS.",
+      "abstract": "The differential diagnosis between aquaporin-4-immunoglobulin G-positive neuromyelitis optica spectrum disorder (AQP4-NMOSD), myelin oligodendrocyte glycoprotein (MOG) antibody-associated disease (MOGAD), and multiple sclerosis (MS) can be complex. Kappa free light chain index (KFLC-Index) emerged as an effective biomarker for distinguishing patients with MS from patients with other conditions. The main aim of this study was to assess the diagnostic performance of KFLC-Index in differentiating MOGAD, AQP4-NMOSD, and MS and to compare it with CSF-restricted oligoclonal bands (OCB) performance. We conducted a retrospective case-control study involving 18 French centers through our national NOMADMUS database. Patients were eligible if they received MOGAD or AQP4-NMOSD diagnosis and if OCB status and KFLC-Index levels were available or could be measured retrospectively. As a comparator, we included a group of patients with MS from the Lyon center. We included 303 patients with 140 MOGAD, 37 AQP4-NMOSD, and 126 MS. The sex ratio F/M was 1/1 in the MOGAD group, 5/1 in the NMOSD group, and 4/1 in the MS group. The median age was 38 years in the MOGAD group, 52 in the NMOSD group, and 32 in the MS group. The median KFLC-Index (interquartile range) was the lowest in the MOGAD group (0.60 [0.33-2.09]) with 71% of undetectable CSF-KFLC, intermediate in the NMOSD group (8.85 [3.04-16.78]), and the highest in the MS group (49.90 [16.31-113.39]). KFLC-Index had very good diagnostic performance in differentiating MOGAD from MS (area under the curve [AUC] 0.93, 95% CI 0.9-0.96) with an optimal threshold of 5.7 (95% CI 4.74-6.85), a sensitivity of 0.89 (0.83-0.94), and a specificity of 0.89 (0.83-0.94). KFLC-Index had good performance in differentiating NMOSD from MS (AUC 0.82, 95% CI 0.74-0.88) and MOGAD from NMOSD (AUC 0.77, 95% CI 0.69-0.86). KFLC-Index did not significantly outperformed OCB in separating MOGAD from MS and NMOSD from MS; however, the combination of the 2 tests was more performant than used separately. KFLC-Index is a valuable tool in distinguishing MS from AQP4-NMOSD and MOGAD and provides additional information to that given by OCB. We suggest that KFLC-Index as an additional supporting criterion for the differential diagnosis between MOGAD and MS.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41921124/",
+      "summary_ja": "背景：アクアポリン-4抗体陽性視神経脊髄炎スペクトラム障害（AQP4-NMOSD）、ミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）、多発性硬化症（MS）の鑑別は困難である。方法：フランスの18施設からなるNOMADMUSデータベースを用いた後ろ向き症例対照研究で、MOGAD、AQP4-NMOSD、MS患者計303名（MOGAD 140、AQP4-NMOSD 37、MS 126）を対象に、脳脊髄液中のカッパ自由軽鎖指数（KFLC-Index）と制限性オリゴクローナルバンド（OCB）の診断性能を比較した。結果：KFLC-Indexの中央値はMOGAD群で最も低く（0.60）、NMOSD群で中間（8.85）、MS群で最も高かった（49.90）。MOGADとMSの鑑別においてKFLC-IndexはAUC 0.93、感度89％、特異度89％と高い診断性能を示した。NMOSDとMS、MOGADとNMOSDの鑑別でも良好な性能を示したが、OCB単独と比較して有意な優位性はなかった。ただし、KFLC-IndexとOCBの併用は単独より優れていた。結論：KFLC-IndexはMSとAQP4-NMOSDおよびMOGADの鑑別に有用であり、OCBと併用することで診断精度が向上するため、MOGADとMSの鑑別の補助的指標として推奨される。",
+      "summary_short_ja": "本研究は、MOG抗体関連疾患（MOGAD）、AQP4抗体陽性視神経脊髄炎スペクトラム障害（AQP4-NMOSD）、多発性硬化症（MS）の鑑別におけるカッパ自由軽鎖指数（KFLC-Index）の診断価値を検討した。303例を対象に解析し、KFLC-IndexはMSとMOGADの鑑別に高い精度（AUC 0.93）を示し、NMOSDとの鑑別にも有用であった。OCB検査との併用で診断能が向上し、KFLC-Indexは鑑別診断の補助的指標として有望である。",
+      "disease": "ms",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41698165",
       "doi": "10.1212/WNL.0000000000214743",
       "title": "Global & Community Health: Diagnosis and Management of Multiple Sclerosis in Nepal: Overcoming Barriers Through Local Adaptations.",

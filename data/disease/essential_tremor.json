@@ -1,4 +1,20 @@
 {
   "disease": "essential_tremor",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41914664",
+      "doi": "10.1111/ene.70535",
+      "title": "Staged Bilateral Magnetic Resonance-Guided Focused Ultrasound Thalamotomy for Essential Tremor: Prospective Single-Centre Cohort and Systematic Review With Meta-Analysis.",
+      "abstract": "Staged bilateral Magnetic Resonance-guided Focused Ultrasound (MRgFUS) thalamotomy is an incisionless option for medication-refractory essential tremor (ET). While the efficacy and safety of unilateral MRgFUS are established, evidence for bilateral treatment remains limited. To evaluate the efficacy and safety of staged bilateral MRgFUS in a prospective single-centre observational cohort and to perform a systematic review and meta-analysis of the literature. Consecutive ET patients undergoing second-side MRgFUS were prospectively assessed. The primary efficacy endpoint was the longitudinal change in Clinical Rating Scale for Tremor (CRST) A + B scores for the treated hand after FUS2, while safety was evaluated by collecting and grading adverse events (AEs). A systematic review identified published bilateral MRgFUS series; efficacy data were meta-analysed, while AEs were reported descriptively. Fifteen patients (60% men; mean age 74.1 ± 8.9 years) underwent FUS2 28.9 ± 22.5 months after first-side treatment. At the 12-month evaluation, CRST A + B decreased from 21.0 to 8.8 (-58%), CRST C from 7.3 to 1.9 (-74.2%), and QUEST from 30.5 to 9.5 (-68.7%). Head and voice tremor were reduced by 73.8% and 40.3%, respectively. AEs were predominantly mild (95.2%) and transient (88%). Cognition at 1 year was globally preserved, with a selective decline in verbal episodic memory. Meta-analysis confirmed significant improvement in tremor severity. Staged bilateral MRgFUS thalamotomy was associated with sustained tremor reduction, including midline tremor, functional improvement and acceptability, with a manageable safety profile. Overall, consistent with literature, these findings support its potential role as a therapeutic option in selected ET patients.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41914664/",
+      "summary_ja": "背景：薬物治療抵抗性の本態性振戦（ET）に対し、切開を伴わない磁気共鳴誘導集束超音波（MRgFUS）視床切開術の片側治療は有効かつ安全とされるが、両側治療のエビデンスは限られている。  \n方法：単一施設で両側MRgFUSを段階的に施行したET患者15名を前向きに観察し、治療後12か月の振戦評価尺度（CRST）や生活の質（QUEST）、副作用を評価した。さらに、既存文献の系統的レビューとメタアナリシスを実施し、両側MRgFUSの有効性と安全性を検証した。  \n結果：第2側治療後12か月でCRST A+Bスコアは58％減少し、CRST CやQUESTもそれぞれ74.2％、68.7％改善。頭部振戦は73.8％、声の振戦は40.3％減少した。副作用は主に軽度かつ一過性で、認知機能は全体的に維持されたが、言語性エピソード記憶に選択的な低下が認められた。メタアナリシスでも振戦の有意な改善が確認された。  \n結論：段階的両側MRgFUS視床切開術は持続的な振戦軽減と機能改善をもたらし、安全性も管理可能であることから、選択されたET患者に対する有望な治療選択肢となり得る。",
+      "summary_short_ja": "本研究は、薬物抵抗性本態性振戦患者に対する段階的両側MRガイド集束超音波視床切開術（MRgFUS）の有効性と安全性を前向き単施設コホートとメタ解析で評価した。15例で12ヶ月後に振戦スコアが約58％改善し、頭部・声の振戦も減少。副作用は主に軽度かつ一過性で認知機能は概ね維持された。メタ解析でも振戦改善が確認され、機能改善と安全性を両立する有望な治療法と示唆された。",
+      "disease": "essential_tremor",
+      "section": "treatment"
+    }
+  ]
 }

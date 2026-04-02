@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41902353",
+      "doi": "10.1111/ene.70542",
+      "title": "MIDAS and HIT-6 Questionnaires Versus Headache Diaries for Monitoring Treatment Response to Erenumab in Migraine: A REFORM Study.",
+      "abstract": "Headache diaries are the gold standard for assessing preventive migraine treatments but can be burdensome. The Migraine Disability Assessment (MIDAS) and the six-item Headache Impact Test (HIT-6) offer alternatives for monitoring treatment response, though their effectiveness in identifying treatment responders is unclear relative to diary-based measures. This study evaluated how well MIDAS and HIT-6 distinguish responders from non-responders to erenumab, and aimed to determine cut-off scores that best align with a ≥ 50% reduction in monthly migraine days (MMDs). This prospective, open-label study enrolled adults with migraine who received 140 mg erenumab for 24 weeks. Treatment response was a ≥ 50% reduction in MMDs based on diary data. MIDAS and HIT-6 were completed at baseline, Week 12, and Week 24. Discriminative ability and optimal cut-offs were determined using receiver operating characteristic curve analysis. Among 582 participants, 300 individuals (52%) achieved a ≥ 50% reduction in MMDs. MIDAS and HIT-6 demonstrated fair discriminative ability in identifying treatment responders, with area under the curve values ranging from 0.71 to 0.77. The optimal MIDAS cut-offs were either a 16-point absolute reduction (78% sensitivity, 60% specificity) or a 49% relative reduction (82% sensitivity, 64% specificity). For HIT-6, optimal thresholds included an 8-point reduction (53% sensitivity, 84% specificity) or a 12% relative reduction (54% sensitivity, 84% specificity). Sensitivity analyses using alternative response definitions confirmed the primary findings. Although MIDAS and HIT-6 contribute meaningful information on treatment-related disability reduction, these retrospective tools lack sufficient precision to replace prospective headache diaries in assessing response to erenumab. NCT04603976.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41902353/",
+      "summary_ja": "背景：片頭痛の予防治療効果を評価する際、頭痛日誌がゴールドスタンダードだが負担が大きい。MIDASおよびHIT-6は代替手段として用いられるが、治療反応者の識別能力は不明であった。  \n方法：片頭痛患者582名にエレヌマブ140mgを24週間投与し、頭痛日誌で月間片頭痛日数（MMDs）が50％以上減少した者を治療反応者と定義。MIDASとHIT-6をベースライン、12週、24週で実施し、ROC解析で識別能力と最適カットオフを検討した。  \n結果：52％が治療反応者となり、MIDASとHIT-6は反応者識別においてAUC0.71～0.77の中程度の性能を示した。MIDASの最適カットオフは絶対16点減少（感度78％、特異度60％）または相対49％減少（感度82％、特異度64％）。HIT-6は絶対8点減少（感度53％、特異度84％）または相対12％減少（感度54％、特異度84％）が最適であった。  \n結論：MIDASとHIT-6は治療関連の障害軽減を示す有用な情報を提供するが、エレヌマブの治療反応評価において頭痛日誌の代替としては精度が不十分である。",
+      "summary_short_ja": "本研究は、片頭痛治療薬エレヌマブの効果判定において、頭痛日記に代わるMIDASおよびHIT-6質問票の有用性を検証した。582名中52％が月間片頭痛日数を50％以上減少させ、MIDASとHIT-6は治療反応者の識別に一定の能力（AUC 0.71～0.77）を示したが、感度・特異度の最適カットオフ値を設定しても頭痛日記の代替には不十分であった。",
+      "disease": "migraine",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41889112",
+      "doi": "10.1111/ene.70584",
+      "title": "Interictal and Ictal Cognitive Performance in Episodic and Chronic Migraine.",
+      "abstract": "Cognitive dysfunction is a disabling feature of migraine, affecting attention, memory, and executive functions. Differences between episodic and chronic migraine, as well as between interictal and ictal periods, remain unclear. We aimed to compare interictal cognitive performance in episodic and chronic migraine with healthy controls and to evaluate intra-individual changes during attacks. In this cross-sectional study with within-subject repeated measures, migraine patients (32 EM, 32 CM) and 30 matched healthy controls underwent standardized cognitive testing (Mini Mental State Examination, Clock Drawing Test, Stroop Test, Digit Span Forward/Backward Tests) assessing attention, short-term and working memory, and executive function along with Beck Depression Inventory. Migraine cohorts were evaluated interictally (≥ 72 h attack-free) and again within the first 3 h of an untreated spontaneous migraine attack. Interictally, CM patients demonstrated significant impairments in attention, short-term memory, and working memory compared to healthy controls. EM patients, however, showed no cognitive dysfunction except for working memory. During migraine attacks, all cognitive domains deteriorated significantly in both groups. The magnitude of cognitive decline during an attack did not differ between EM and CM. Attack severity was associated with greater cognitive decline during attacks in the general migraine group, but this association was more pronounced in EM than in CM. Migraine is a neurobiological disorder with cognitive consequences that extend beyond pain. Our findings highlight the importance of incorporating cognitive assessment into routine migraine management and reveal the need for longitudinal studies to elucidate the underlying mechanisms of cognitive dysfunction in migraine.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41889112/",
+      "summary_ja": "背景：片頭痛は注意力、記憶、実行機能に影響を及ぼす認知機能障害を伴うが、発作間欠期（間欠期）と発作期（発作期）、および反復性（エピソード性）と慢性片頭痛間の認知機能の違いは不明である。  \n方法：エピソード性片頭痛（EM）32例、慢性片頭痛（CM）32例、健康対照30例を対象に、Mini Mental State ExaminationやStroop Testなど標準化された認知機能検査を実施。片頭痛患者は発作間欠期（発作から72時間以上空いた状態）と発作開始3時間以内の未治療発作期に評価した。  \n結果：間欠期では、CM群が注意力、短期記憶、作業記憶で有意な障害を示したのに対し、EM群は作業記憶のみ軽度の障害を認めた。発作期には両群とも全認知領域で著しい機能低下が見られたが、その程度に群間差はなかった。発作の重症度は認知機能低下の程度と関連し、特にEM群で強く認められた。  \n結論：片頭痛は痛みを超えた神経生物学的疾患であり、認知機能障害が重要な特徴である。臨床管理に認知評価を組み込む必要があり、認知障害の機序解明のための縦断的研究が求められる。",
+      "summary_short_ja": "片頭痛患者の認知機能を発作間欠期と発作期で比較した結果、慢性片頭痛（CM）は注意力や短期・作業記憶に有意な障害が認められたが、反復性片頭痛（EM）は作業記憶のみ影響を受けた。発作時には両群で全認知機能が著しく低下し、発作の重症度と認知機能低下の関連はEMでより顕著であった。片頭痛は痛み以外にも認知障害を伴い、臨床管理に認知評価の導入が重要である。",
+      "disease": "migraine",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41886713",
       "doi": "10.1212/WNL.0000000000214863",
       "title": "Eptinezumab With Patient Education for Chronic Migraine and Medication-Overuse Headache: The Randomized, Placebo-Controlled RESOLUTION Trial.",

@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41913562",
+      "doi": "10.1111/ene.70580",
+      "title": "Effect of Eplontersen in Patients With Hereditary Transthyretin Amyloidosis With Polyneuropathy Across Genetic Variants: An Exploratory Analysis From the NEURO-TTRansform Trial.",
+      "abstract": "This exploratory analysis of the NEURO-TTRansform Phase 3 trial evaluated the efficacy of eplontersen in patients with hereditary transthyretin (ATTRv) amyloidosis with polyneuropathy by genetic variant. Changes from baseline in NEURO-TTRansform primary endpoints serum transthyretin (TTR) at Week 65, modified Neuropathy Impairment Score+7 (mNIS+7) composite score, and Norfolk Quality of Life-Diabetic Neuropathy (Norfolk QoL-DN) total score at Week 66 were evaluated in patients with early-onset (aged < 50 years) and late-onset (aged ≥ 50 years) Val30Met (p.Val50Met) or non-Val30Met ATTRv amyloidosis with polyneuropathy. Secondary endpoints from NEURO-TTRansform were also evaluated by genetic variant. In total, 144 patients with early-onset (n = 54) or late-onset (n = 31) Val30Met or non-Val30Met (n = 59), ATTRv amyloidosis with polyneuropathy were randomized to eplontersen. A further 60 patients from NEURO-TTR with early-onset (n = 16) or late-onset (n = 17) Val30Met or non-Val30Met (n = 27), served as a historical placebo group. The mean percentage difference (95% confidence interval) in serum TTR was -79.9 (-87.8, -72.0), -85.0 (-93.3, -76.6), and -70.6 (-77.7, -63.5) with eplontersen versus placebo in the early- and late-onset Val30Met, and non-Val30Met groups, respectively. Across subgroups, the change from baseline to Week 66 in mNIS+7 composite score was generally well maintained, and the Norfolk QoL-DN total score improved with eplontersen versus worsening with placebo. The Polyneuropathy Disability score was maintained in most patients. From baseline to Week 65, the modified body mass index was maintained with eplontersen compared to a marked reduction (worsening) for placebo. Findings were suggestive of consistent benefits in reducing neuropathy impairment and improving QoL with eplontersen versus historical placebo, across TTR variants. ClinicalTrials.gov: NCT04136184, NCT01737398.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41913562/",
+      "summary_ja": "背景：遺伝性トランスサイレチンアミロイドーシス（ATTRv）による多発ニューロパチーは遺伝子変異により多様な臨床経過を示すが、治療効果の変異別評価は限られている。  \n方法：NEURO-TTRansform第3相試験の探索的解析として、早発型（50歳未満）および晩発型（50歳以上）のVal30Met変異および非Val30Met変異を有するATTRv患者144名にエプロンテセンを投与し、血清トランスサイレチン（TTR）濃度、修正神経障害スコア（mNIS+7）、Norfolk QoL-DNスコアを66週まで評価。歴史的プラセボ群60名と比較した。  \n結果：エプロンテセン群は全変異タイプで血清TTRが大幅に減少（約70～85％）、mNIS+7スコアの悪化抑制およびNorfolk QoL-DNスコアの改善が認められた。多発ニューロパチー障害スコアや修正BMIも維持され、プラセボ群は悪化傾向を示した。  \n結論：エプロンテセンは遺伝子変異の違いにかかわらず、ATTRv多発ニューロパチー患者の神経障害進行抑制と生活の質改善に一貫した効果を示した。",
+      "summary_short_ja": "NEURO-TTRansform試験の探索的解析により、遺伝子変異型に関わらず、エプロンテセンは遺伝性トランスサイレチンアミロイドーシス（ATTRv）患者の血清TTRを大幅に低下させ、神経障害スコア（mNIS+7）や生活の質（Norfolk QoL-DN）を改善した。早期・晩期発症のVal30Metおよび非Val30Met変異群で効果が認められ、体重指数の維持も示された。エプロンテセンは多様な遺伝子変異を持つATTRv患者の神経障害進行抑制とQOL改善に有効であることが示唆された。",
+      "disease": "neuropathy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41882981",
+      "doi": "10.1111/ene.70585",
+      "title": "Fluoroquinolone-Associated Peripheral and Central Nervous System-Related Disorders: A Large German Claims-Based Cohort Study.",
+      "abstract": "To examine the association between newly prescribed fluoroquinolones (FQ) and the occurrence of polyneuropathy and certain neuropsychiatric events. German statutory health insurance-based cohort study (2013-2019) of patients exposed to FQ compared to different reference antibiotics. Patients with an incident antibiotic prescription were followed up for 365 days after initial dispensing. Outcomes were defined by incident diagnoses of polyneuropathy/other peripheral nervous system-related diseases (PNS), depression/other affective disorders (DEP), mood-related symptoms (MOOD), somnolence/stupor/coma (SSC), and consciousness-related symptoms (CONSCIOUS). Piece-wise exponential additive mixed models adjusted for person-time, age, comorbidities, year, and quarter of cohort entry were applied. The outcome-specific cohorts included 10.7-14.3 million antibiotic episodes of which 1.7% had incident PNS, 4.8% DEP, 1.5% MOOD, 0.6% SSC, 0.8% CONSCIOUS. Relative risks for these outcomes ranged from 1.04 to 1.10 for FQ versus reference antibiotics. Stratified by gender and age groups, relative risk for PNS was high in ≤ 39-year-old males (aHR = 1.31 [95% 1.19; 1.45]), for MOOD and CONSCIOUS in 40-69-year-old females (aHR = 1.12 [1.08; 1.15], aHR = 1.14 [1.09; 1.19]) for DEP in ≥ 70-year-old males (aHR = 1.16 [1.14; 1.19]), whereas relative risk for SSC was high in ≤ 39-year-old females (aHR = 1.24 [1.10; 1.40]). FQ-associated PNS was mainly comprised of drug-induced polyneuropathy (aHR = 1.68 [1.58; 1.79]). Relative risks for each endpoint varied by choice of active comparator. FQ episodes were associated with an increased risk for neurological and neuropsychiatric events, especially within the first 92 days after initial dispensing. Risk estimates vary by age and gender subgroups.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41882981/",
+      "summary_ja": "背景：ニューキノロン系抗菌薬（FQ）の使用と多発性神経障害や神経精神症状の発症との関連を検討した。  \n方法：2013～2019年のドイツの保険請求データを用い、FQ処方患者と他の抗菌薬処方患者を比較。抗菌薬処方後365日間追跡し、多発性神経障害（PNS）、うつ病などの感情障害（DEP）、気分関連症状（MOOD）、傾眠・昏睡（SSC）、意識障害（CONSCIOUS）の新規診断をアウトカムとした。年齢・性別・併存疾患などを調整した解析を実施。  \n結果：約1,070万～1,430万の抗菌薬処方エピソードのうち、PNSは1.7%、DEPは4.8%、MOODは1.5%、SSCは0.6%、CONSCIOUSは0.8%で発症。FQ使用群は対照抗菌薬群と比べて相対リスクが1.04～1.10とわずかに上昇。年齢・性別別では、39歳以下男性のPNSリスク上昇（aHR=1.31）、40～69歳女性のMOOD・CONSCIOUSリスク上昇、70歳以上男性のDEPリスク上昇、39歳以下女性のSSCリスク上昇が認められた。特に薬剤性多発性神経障害のリスクが高かった（aHR=1.68）。  \n結論：FQ使用は神経・神経精神系イベントのリスク増加と関連し、特に投与後92日以内にリスクが高い。リスクは年齢・性別により異なるため、慎重な使用が求められる。",
+      "summary_short_ja": "ドイツの保険データを用いた大規模コホート研究で、ニューキノロン系抗菌薬（FQ）使用後の多発性神経障害や神経精神症状の発症リスクを検討した。FQ使用群は他抗菌薬群に比べ、末梢神経障害や抑うつ、意識障害などのリスクが1.04～1.10倍増加し、特に若年男性の多発性神経障害や中年女性の気分障害、高齢男性の抑うつで顕著であった。発症は投与後92日以内に多い。",
+      "disease": "neuropathy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41875382",
       "doi": "10.1212/WNL.0000000000214830",
       "title": "Clinical Reasoning: A 67-Year-Old Man With Exercise Intolerance and Progressive Weakness.",

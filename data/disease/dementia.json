@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41921123",
+      "doi": "10.1212/WNL.0000000000214782",
+      "title": "Risk of Alzheimer Dementia After High-Dose vs Standard-Dose Influenza Vaccination.",
+      "abstract": "Previous studies, including large cohort analyses comparing vaccinated and unvaccinated adults, suggest that routine immunizations such as inactivated influenza vaccines (IIVs) may reduce Alzheimer dementia (AD) risk. Whether AD risk differs after high-dose IIV (H-IIV) vs standard-dose IIV (S-IIV) remains unexamined. We hypothesized that AD risk would be lower among adults ≥65 years after H-IIV compared with S-IIV. This retrospective cohort study analyzed data spanning 2014-2019 from IQVIA PharMetrics Plus for Academics, a US health care claims database. Eligible participants were ≥65 years with ≥2 years of continuous medical and pharmaceutical coverage and no previous diagnostic or pharmacotherapeutic indicators of cognitive impairment. Vaccinations were identified by name and Current Procedural Terminology codes. Participants were followed for up to 3 years postvaccination. Incident AD was defined using International Classification of Diseases codes and AD medication dispenses (anticholinesterase inhibitors, memantine). We emulated a target trial using sequential nested trials to align eligibility, treatment assignment, and time-zero with vaccination dates, preventing immortal time bias. Inverse probability weighting adjusted for measured confounding, emulated randomization, and mitigated selection bias. Effects were estimated as risk difference, number needed to treat (NNT), risk ratio; 95% CIs were obtained via bootstrapping. Secondary analyses examined potential effect modifiers such as sex. The H-IIV group included 120,775 unique participants (185,183 person-trials; mean age 74.4 years, SD 5.5; 57.3% female), and the S-IIV group included 44,022 participants (53,918 person-trials; mean age 73.0, SD 6.1; 56.4% female). H-IIV was associated with significantly lower AD risk during months 1-25 postvaccination (minimum NNT = 185.2 at 25 months). After sex stratification, risk reduction persisted longer among women (months 1-13, minimum NNT = 416.7) than men (months 17-24, significant only in intention-to-treat analysis, minimum NNT = 232.6). High-dose influenza vaccination is associated with reduced AD risk compared with standard-dose vaccination in adults ≥65 years, with a stronger effect among women. Significant study limitations included duration of follow-up (≤3 years) and lack of sociodemographic, lifestyle, biomarker, and mortality data. Further research is needed to clarify whether the observed difference reflects protection against influenza infection or non-infection-related mechanisms. This study provides Class II evidence that treatment with H-IIV vs S-IIV was associated with decreased incident dementia in individuals ≥65 years of age captured in this US health care claims database.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41921123/",
+      "summary_ja": "背景：従来の研究では、不活化インフルエンザワクチン（IIV）がアルツハイマー型認知症（AD）リスクを低減する可能性が示唆されているが、高用量（H-IIV）と標準用量（S-IIV）でのリスク差は未検証であった。  \n方法：2014～2019年の米国医療請求データベースを用い、65歳以上で認知機能障害の既往がない参加者を対象に後ろ向きコホート研究を実施。H-IIV群（12万名超）とS-IIV群（4万名超）に分け、最大3年間追跡。AD発症は診断コードと薬剤投与情報で判定。交絡因子調整に逆確率重み付けを用い、性別による効果修飾も検討した。  \n結果：H-IIV接種者は接種後1～25か月間にわたりADリスクが有意に低下（最小NNT=185.2）。性別解析では女性で効果がより長期間持続（1～13か月、最小NNT=416.7）、男性では17～24か月に限定的に認められた。  \n結論：65歳以上の高齢者において、高用量インフルエンザワクチン接種は標準用量と比較しAD発症リスクを低減し、特に女性で効果が強いことが示された。ただし、追跡期間の短さや生活習慣情報欠如などの制約があり、今後は感染防御以外のメカニズムの解明が必要である。",
+      "summary_short_ja": "65歳以上の高齢者を対象に、高用量インフルエンザワクチン（H-IIV）と標準用量ワクチン（S-IIV）接種後のアルツハイマー型認知症（AD）発症リスクを比較した後ろ向きコホート研究。H-IIV接種群はS-IIV群に比べ、接種後1～25か月間にわたりADリスクが有意に低下し、特に女性で効果が強かった。追跡期間は最大3年で、社会経済的要因などの調整は不十分。さらなる検証が必要とされるが、高用量ワクチン接種はAD予防に有望な可能性を示した。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41906489",
+      "doi": "10.1111/ene.70556",
+      "title": "Subjective Memory Impairment in the General Adult Population: Associations With Early-Life Cognition, Concurrent Objective Memory, Dementia Risk Factors.",
+      "abstract": "Subjective memory impairment (SMI) is used as a proxy for objective memory, although their relationship remains unclear. Moreover, SMI is suggested to be a risk factor for dementia. This study investigated associations between SMI and (1) concurrent objective memory performance, (2) early-life general cognitive abilities (GCA), and (3) if SMI and objective memory scores were associated with distinct or overlapping sociodemographic, health, and lifestyle risk factors for dementia. 2690 participants between 30 and 90 years from the general, geographical population study HUNT4 were included. SMI scores were from the Meta-Memory-Questionnaire. Verbal, spatial, and ability to differentiate between similar representations (pattern separation) were tested concurrently. GCA was from conscription at age 18. We implemented multiple imputation and inverse probability weighting from the entire population to account for selection bias. Higher SMI scores were associated with verbal memory and GCA, but not spatial or pattern separation memory. There was an interaction between sex and verbal memory on SMI, with men reporting higher SMI than women at similar lower verbal memory performance. Higher SMI scores were associated with higher age, blood pressure, depression, sleep, fatigue, and chronic pain, but not APOE4 or lifestyle variables. All memory tests were positively associated with each other and negatively with age. Diabetes was associated with verbal memory. In the general population, SMI was weakly linked to concurrent verbal memory and GCA in adolescence. Health, in particular mental health, was highly associated with SMI but not objective memory performance. Thus, SMI is a complement to memory testing, not a proxy.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41906489/",
+      "summary_ja": "背景：主観的記憶障害（SMI）は客観的記憶の代替指標として用いられるが、その関連性は不明瞭であり、認知症リスク因子とも示唆されている。  \n方法：30～90歳の一般成人2690名を対象に、SMI（Meta-Memory-Questionnaire）、言語的・空間的記憶および類似表象識別能力（パターンセパレーション）を同時に評価。18歳時の一般認知能力（GCA）データも用い、多重代入法と逆確率重み付けで選択バイアスを調整した。  \n結果：SMIは言語的記憶およびGCAと関連したが、空間的記憶やパターンセパレーションとは関連せず、性別と相互作用が認められ、同程度の言語記憶低下でも男性の方がSMIが高かった。SMIは高齢、血圧、うつ、睡眠障害、疲労、慢性痛と関連したが、APOE4や生活習慣とは関連しなかった。全ての記憶テストは互いに正の相関を示し、年齢とは負の相関があった。糖尿病は言語記憶と関連。  \n結論：一般集団においてSMIは言語的記憶および青年期のGCAと弱く関連し、主に精神的健康状態と強く関連するため、SMIは客観的記憶検査の代替ではなく補完的指標である。",
+      "summary_short_ja": "主観的記憶障害（SMI）は客観的記憶の代替指標として用いられるが、その関連性は不明確である。本研究は一般成人2690名を対象に、SMIと同時期の客観的記憶、青年期の認知能力、認知症リスク因子との関連を検討した。SMIは言語記憶および青年期の認知能力と弱く関連し、性別や精神健康状態（うつ、疲労、慢性痛）とも関連したが、空間記憶や生活習慣とは関連しなかった。SMIは記憶検査の補完指標であり、単なる代替指標ではないことが示された。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41719494",
       "doi": "10.1212/WNL.0000000000214703",
       "title": "Neuroimaging Biomarkers of Disease Progression and Cognitive Change in Patients With Retinal Vasculopathy With Cerebral Leukoencephalopathy.",

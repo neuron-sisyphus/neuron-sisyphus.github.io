@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41885058",
+      "doi": "10.1111/ene.70578",
+      "title": "Baseline Cerebral Small Vessel Disease Predicting Long-Term Cognitive Decline in Transient Ischemic Attack Patients.",
+      "abstract": "Cerebral small vessel disease (CSVD) is a common incidental MRI finding in patients with transient ischemic attack (TIA) and stroke and has been linked to cognitive decline. This study investigated the prevalence of CSVD imaging biomarkers in TIA patients and their association with cognitive performance over 3 years. We included 246 TIA patients from the INSPiRE-TMS study (ClinicalTrials.gov: NCT01586702). CSVD was assessed on baseline 3 T MRI using a composite score (0-4) including white matter hyperintensities (WMH), lacunes, cerebral microbleeds (CMBs), and enlarged perivascular spaces (PVS). Cognitive performance was evaluated using the Montreal Cognitive Assessment (MoCA) at baseline and annually for 3 years. At least one CSVD imaging biomarker was present in 58.5% of patients. Lacunes (36.6%) were the most common, followed by PVS (28.1%), WMH (19.5%), and CMBs (17.9%). Higher CSVD-score was independently associated with greater cognitive decline over 3 years (β = -0.52, 95% CI -0.95- -0.08, p = 0.020), along with older age (β = -0.08, 95% CI -0.13 to -0.03, p = 0.001). CMB burden was the strongest predictive component of the CSVD-score (β = 0.42, 95% CI -0.63 to -0.22, p < 0.001). CSVD-score was particularly associated with decline in the memory domain (adjusted β of -0.18, 95% CI -0.32 to -0.04, p = 0.015). CSVD imaging markers are present in over half of TIA patients and are independently associated with cognitive decline up to 3 years, with the strongest effect on memory. Whether the presence of CMBs is the strongest predictive imaging biomarker of cognitive decline in TIA patients requires confirmation in further studies.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41885058/",
+      "summary_ja": "背景：一過性脳虚血発作（TIA）患者において、脳の小血管病変（CSVD）は認知機能低下と関連するとされるが、その長期的影響は不明である。  \n方法：INSPiRE-TMS研究に参加した246名のTIA患者を対象に、ベースラインの3T MRIで白質高信号（WMH）、ラクナ梗塞、微小出血（CMB）、拡大血管周囲腔（PVS）を評価し、CSVD合成スコア（0-4）を算出。認知機能はモントリオール認知評価（MoCA）でベースラインおよび3年間毎年測定した。  \n結果：58.5%の患者に少なくとも1つのCSVDマーカーを認め、ラクナ梗塞が最も多く36.6%、次いでPVS（28.1%）、WMH（19.5%）、CMB（17.9%）であった。CSVDスコアの高さは3年間の認知機能低下と独立して関連し（β＝-0.52、p＝0.020）、特に記憶機能の低下に強く影響した。CMBの負荷が最も強い予測因子であった。  \n結論：TIA患者の半数以上にCSVDマーカーが存在し、これらは長期的な認知機能低下と関連する。特にCMBの存在が認知低下の強力な予測因子である可能性が示唆され、今後の検証が必要である。",
+      "summary_short_ja": "一過性脳虚血発作（TIA）患者246名を対象に、脳小血管病変（CSVD）のMRI所見と3年間の認知機能低下の関連を検討した。58.5％にCSVDマーカーが認められ、特に脳微小出血（CMB）が認知低下の強い予測因子であった。CSVDスコアの上昇は記憶機能を中心とした認知機能の悪化と独立して関連し、CSVDはTIA患者の長期的認知予後に重要な影響を与えることが示唆された。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41886712",
       "doi": "10.1212/WNL.0000000000214831",
       "title": "Functional Outcome Following Blood Pressure Drops Within 24 Hours After Successful Mechanical Thrombectomy.",
