@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41923432",
+      "doi": "10.1111/ene.70566",
+      "title": "Trans-Synaptic Retrograde Retinal Degeneration After Post-Chiasmatic Stroke: A Systematic Review of Empirical Evidence.",
+      "abstract": "Retrograde trans-synaptic degeneration (RTSD) refers to the progressive loss of retinal cells following damage to the post-geniculate visual pathway. The advent of optical coherence tomography (OCT) has allowed the measurement and quantification of retinal layers, in turn providing compelling evidence of RTSD in stroke patients and highlighting that assessing the temporal and functional evolution of RTSD has important clinical implications. We conducted a systematic review up until 7th July 2025 to summarize the OCT evidence on post-stroke RTSD. Eligible articles on this topic were searched in PubMed, Web of Science, and Scopus databases. Twenty-eight papers, involving 888 patients and 624 healthy controls, were included, and their results were systematically described and qualitatively analyzed. Overall, literature shows that RTSD is a frequent outcome of post-chiasmatic strokes. RTSD is operationalized by measuring the thickness of the peripapillary retinal nerve fiber and macular layers. The latter appears to be a more robust structural biomarker, showing more consistent findings across studies, with its magnitude better correlating with patients' visual field defects. RTSD starts early after the stroke's onset and progresses for several years, with severity depending on lesion location and extension. Future investigations are needed to draw more robust conclusions on RTSD temporal dynamics, clarifying the relation between structural and functional loss. Current literature highlights the need to consider the RTSD among the primary outcomes of post-chiasmatic stroke, given its implications on clinical management and neurorehabilitation, making the longitudinal assessment of this degenerative process crucial for prevention.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41923432/",
+      "summary_ja": "背景：後視床視覚路損傷後に網膜細胞が進行性に失われる逆行性シナプス間変性（RTSD）が注目されている。光干渉断層計（OCT）の発展により、網膜層の計測が可能となり、脳卒中患者におけるRTSDの実証的証拠が増加している。方法：2025年7月7日までにPubMed、Web of Science、Scopusで関連論文を検索し、合計28報（患者888名、健常者624名）を対象に系統的レビューを実施した。結果：RTSDは後視床視覚路損傷後に頻繁に認められ、視神経乳頭周囲の網膜神経線維層厚および黄斑層厚の測定で評価された。特に黄斑層厚は視野欠損との相関が強く、より信頼性の高い構造的バイオマーカーであった。RTSDは発症早期から始まり数年にわたり進行し、病変の部位や範囲により重症度が異なる。結論：RTSDの時間的経過や構造的・機能的損失の関係を明確にするため、さらなる研究が必要である。RTSDは後視床視覚路損傷の主要な臨床アウトカムとして考慮すべきであり、神経リハビリテーションや予防のために長期的評価が重要である。",
+      "summary_short_ja": "後視床視覚路損傷後に生じる逆行性経シナプス網膜変性（RTSD）は、光干渉断層計（OCT）により網膜層の厚さ測定で検出され、視野欠損と相関する重要な構造的バイオマーカーである。28報の研究（888例）から、RTSDは発症早期から進行し、病変部位や範囲により重症度が異なることが示された。RTSDの経時的評価は臨床管理や神経リハビリに不可欠であり、さらなる研究が求められる。",
+      "disease": "stroke",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41885058",
       "doi": "10.1111/ene.70578",
       "title": "Baseline Cerebral Small Vessel Disease Predicting Long-Term Cognitive Decline in Transient Ischemic Attack Patients.",

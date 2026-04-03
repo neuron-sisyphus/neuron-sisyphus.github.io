@@ -18,6 +18,21 @@
     },
     {
       "source": "pubmed",
+      "pmid": "41923420",
+      "doi": "10.1111/ene.70590",
+      "title": "Low Sensitivity of Neuropsychological Scales Hinder Detection of Potential Benefit of Treatments in Alzheimer's Disease: A Position Paper.",
+      "abstract": "Despite the advent of Disease Modifying Therapies (DMTs) for Alzheimer's Disease (AD), the approval and commercialization of anti-amyloid monoclonal antibodies has been slow and contentious, particularly in Europe. The primary source of debate is the discrepancy between robust biological effects-namely, effective β-amyloid clearance-and modest clinical improvements, which, although statistically significant, often fail to reach the minimal clinically important difference (MCID) compared to placebo. This paper highlights a confounding factor in the interpretation of the results of clinical trials: limited sensitivity of neuropsychological outcome measures. These tools, developed in the 1980s and only marginally updated, are not suited to detect subtle but meaningful cognitive changes in early disease stages. The ADAS-Cog, the most commonly used cognitive endpoint, suffers from a substantial ceiling effect, impairing its ability to capture cognitive decline over short durations in prodromal populations. Likewise, functional scales such as the CDR-SB are inherently insensitive in mild cognitive impairment (MCI), as functional independence is, by definition, preserved. Moreover, the use of composite multidomain scales with high baseline scores may mask domain-specific improvements, further limiting a drug's capacity to reach MCID thresholds. Methodological limitations risk undervaluing the therapeutic impact of treatment, particularly in trials targeting early or preclinical phases where changes are subtle and domain-specific. Urgent reconsideration of outcome measures is necessary to ensure accurate assessment of clinical efficacy and to avoid prematurely discarding potentially beneficial therapies.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Apr",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41923420/",
+      "summary_ja": "背景：アルツハイマー病（AD）に対する疾患修飾療法（DMT）の登場にもかかわらず、抗アミロイドモノクローナル抗体の承認・普及は欧州を中心に遅れている。主な論争点は、生物学的効果（βアミロイドの効果的除去）と臨床的改善の乖離にある。  \n方法：本論文は、臨床試験結果の解釈を困難にしている要因として、神経心理学的評価尺度の感度の低さに着目。1980年代に開発され、ほとんど更新されていない評価ツールの限界を検証した。  \n結果：最も一般的な認知機能評価尺度ADAS-Cogは天井効果が強く、前駆期の認知低下を短期間で捉えにくい。機能評価尺度CDR-SBも軽度認知障害（MCI）では感度が低く、複合多領域尺度は基準値が高いため、特定領域の改善を見逃しやすい。  \n結論：評価尺度の感度不足により、特に早期・前臨床段階の治療効果が過小評価されるリスクがある。臨床効果の正確な評価と有望な治療の早期廃棄防止のため、評価方法の見直しが急務である。",
+      "summary_short_ja": "アルツハイマー病治療薬の臨床試験で、神経心理学的評価尺度の感度不足が治療効果検出を妨げている。特にADAS-CogやCDR-SBは初期段階の微細な認知変化や機能低下を捉えにくく、統計的有意差があっても臨床的意義を示しにくい。これにより、早期や前臨床期を対象とした治療の真の効果が過小評価される恐れがあり、評価尺度の見直しが急務である。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41906489",
       "doi": "10.1111/ene.70556",
       "title": "Subjective Memory Impairment in the General Adult Population: Associations With Early-Life Cognition, Concurrent Objective Memory, Dementia Risk Factors.",
