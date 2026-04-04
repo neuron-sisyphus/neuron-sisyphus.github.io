@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41931727",
+      "doi": "10.1212/WNL.0000000000214709",
+      "title": "Case Fatality of Subarachnoid Hemorrhage by Aneurysm Location: A Population-Based Study From Finland and New Zealand.",
+      "abstract": "According to region-specific hospital-based studies, the location of ruptured intracranial aneurysm (RIA) influences the case fatality rate (CFR) of aneurysmal subarachnoid hemorrhage (SAH). However, little is known about whether CFRs vary by RIA location in population-based studies that include prehospital SAH deaths. We assessed whether CFRs and CFR-trends differ by RIA location using whole population data from Finland and New Zealand. We used externally validated administrative databases to identify all nonhospitalized and hospitalized SAH cases in Finland and New Zealand from 2001 to 2017. Using the ICD-10, we categorized RIAs into anterior communicating artery (Acom) (ICD-10 I60.2), internal carotid artery (ICA) (I60.0/I60.3), middle cerebral artery (MCA) (I60.1), and vertebrobasilar artery (VBA) (I60.4/I60.5) locations. To validate the location-specific SAH diagnoses, we used external hospital- and population-based datasets and autopsy data. We calculated sudden death rates (those occurring before admission to a ward) and overall 30-day CFRs, and computed age-, sex, and country-adjusted risk ratios using a Poisson regression model with 95% CIs. Among 13,470 SAH cases (5,056 from New Zealand; median age 58 years; 61.3% women), 26.6% had Acom, 18.4% ICA, 29.5% MCA, 11.5% VBA, and 14.0% other/unspecified RIAs. The overall 30-day CFRs were the greatest for VBA (54.1%), followed by MCA (40.5%), Acom (29.1%), and ICA (28.5%) RIAs. Location-specific sudden death rates were 33.0%, 21.6%, 11.9%, and 9.9%, respectively. Between 2001-2003 and 2015-2017, overall 30-day CFRs declined significantly for VBA (24%, 95% CI 13%-34%) and MCA (15%, 95% CI 5%-24%) RIAs. Location-specific differences in CFRs were similar between countries, but temporal decreases were observed only in Finland. Between 2001-2003 and 2014-2017, the proportion of VBA RIAs increased by 35.9% (from 10.3% to 14.0%). SAH CFRs vary significantly by RIA location, with VBA and MCA RIAs having the greatest CFRs, mainly due to high sudden death rates. It is unclear whether aneurysms with these high-risk locations could benefit from improved primary/secondary prevention or prehospital management strategies. These findings cannot be directly applied to the preventive treatment of unruptured intracranial aneurysms.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41931727/",
+      "summary_ja": "【背景】破裂脳動脈瘤（RIA）によるくも膜下出血（SAH）の致死率（CFR）は、病院ベースの地域研究で動脈瘤の部位によって異なることが示されているが、救急搬送前の死亡例を含む人口ベースの研究は少ない。  \n【方法】フィンランドとニュージーランドの全人口データ（2001～2017年）を用い、ICD-10コードでRIAを前交通動脈（Acom）、内頸動脈（ICA）、中大脳動脈（MCA）、椎骨脳底動脈（VBA）に分類。入院前突然死率と30日CFRを算出し、年齢・性別・国を調整したリスク比をポアソン回帰で分析した。  \n【結果】13,470例中、VBAの30日CFRが54.1%で最も高く、次いでMCA（40.5%）、Acom（29.1%）、ICA（28.5%）であった。突然死率もVBAが最も高く33.0%。2001-2003年から2015-2017年にかけて、VBAとMCAのCFRは有意に低下したが、この傾向はフィンランドのみで観察された。VBAの割合は増加傾向にあった。  \n【結論】SAHの致死率は動脈瘤の部位によって大きく異なり、特にVBAとMCAは突然死率が高い。これら高リスク部位の動脈瘤に対する予防や救急対応の改善が必要かもしれないが、未破裂動脈瘤の予防治療への直接的な示唆とはならない。",
+      "summary_short_ja": "本研究はフィンランドとニュージーランドの全人口データを用い、破裂脳動脈瘤（RIA）の部位別にくも膜下出血（SAH）の致死率（CFR）を検討した。VBA（椎骨脳底動脈）とMCA（中大脳動脈）部位のRIAは突然死率が高く、30日CFRも最も高かった。2001-2017年でVBAとMCAのCFRは有意に減少したが、国別ではフィンランドのみで観察された。RIA部位による致死率差は大きく、予防や救急対応の改善が課題である。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41923432",
       "doi": "10.1111/ene.70566",
       "title": "Trans-Synaptic Retrograde Retinal Degeneration After Post-Chiasmatic Stroke: A Systematic Review of Empirical Evidence.",
