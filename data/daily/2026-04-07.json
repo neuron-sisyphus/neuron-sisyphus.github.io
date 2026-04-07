@@ -1,0 +1,20 @@
+{
+  "date": "2026-04-07",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41941704",
+      "doi": "10.1212/WNL.0000000000214834",
+      "title": "Industry Payments and Prescribing of Brand-Name Multiple Sclerosis Medications in Medicare.",
+      "abstract": "Industry payments to clinicians influence prescribing, limiting use of lower-cost generics, and leading to nonadherence. This study of prescribing for multiple sclerosis examined whether payments from brand-name drug manufacturers were associated with prescribing of brand-name glatiramer and dimethyl fumarate after generics became available. This cross-sectional study used 2021-2022 Open Payments data and 2022-2023 Medicare Part D prescription data. Payments from Teva (glatiramer) and Biogen (dimethyl fumarate) were categorized as none, <$1,000, or ≥$1,000. The outcome was the proportion of brand-name prescriptions per clinician, categorized as low (<20%), medium (20%-79%), or high (≥80%). Associations were assessed using multinomial logistic regression, adjusting for prescriber type, prescription volume, and geographic region. Among 2,675 glatiramer and 2,138 dimethyl fumarate prescribers, 1,026 (38.4%) and 1,238 (57.9%) received payments, respectively. Receiving ≥$1,000 in payments was associated with a greater odds of high brand-name prescribing for glatiramer (adjusted odds ratio [aOR] 4.21, 95% CI 1.81-9.81,  Payments to clinicians were associated with lower uptake of generic versions of 2 MS drugs, resulting in higher spending by patients and the US health care system.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41941704/",
+      "summary_ja": "背景：製薬業界からの医師への支払いは処方行動に影響を与え、低コストのジェネリック薬の使用を妨げ、患者の服薬遵守を低下させる可能性がある。本研究は、多発性硬化症（MS）治療薬のブランド名薬に対する支払いが、ジェネリック薬が利用可能になった後のブランド名薬の処方に関連するかを検証した。\n\n方法：2021-2023年のOpen PaymentsデータとMedicare Part D処方データを用いた横断研究。グラチラマー（Teva製）とジメチルフマル酸（Biogen製）に対する支払いを「なし」「1,000ドル未満」「1,000ドル以上」に分類し、医師ごとのブランド名薬処方割合を「低（<20%）」「中（20%-79%）」「高（≥80%）」に分け、多項ロジスティック回帰で処方医種別や処方量、地域を調整して関連を分析。\n\n結果：グラチラマー処方医2,675人中38.4%、ジメチルフマル酸処方医2,138人中57.9%が支払いを受けた。1,000ドル以上の支払いを受けた医師は、グラチラマーの高頻度ブランド名処方のオッズが4.21倍（95%CI 1.81-9.81）と有意に高かった。\n\n結論：製薬業界からの支払いはMS治療薬のジェネリック薬の普及を妨げ、患者および米国医療システムの医療費増加に寄与している可能性が示された。",
+      "summary_short_ja": "多発性硬化症治療薬の処方において、製薬企業からの支払いがブランド薬の処方増加と関連することを調査した。2021-2023年のデータ分析で、テバ社とバイオジェン社から1,000ドル以上の支払いを受けた医師は、ジェネリック薬よりもブランド薬を高頻度に処方する傾向が強く、患者および医療制度の費用増加に寄与していることが示された。",
+      "disease": "ms",
+      "section": "treatment"
+    }
+  ]
+}
