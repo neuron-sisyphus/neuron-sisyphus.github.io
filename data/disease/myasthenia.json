@@ -1,4 +1,35 @@
 {
   "disease": "myasthenia",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41945881",
+      "doi": "10.1212/WNL.0000000000214865",
+      "title": "Efficacy of Pyridostigmine in Myasthenia Gravis: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial.",
+      "abstract": "Pyridostigmine, an acetylcholinesterase inhibitor, is a symptomatic drug approved for the treatment of myasthenia gravis (MG), but no randomized controlled trials substantiate its widespread use. We aimed to assess the efficacy and cost utility of pyridostigmine in patients with anti-acetylcholine receptor-positive MG (AChR MG). A randomized, double-blind, placebo-controlled crossover trial was conducted at Leiden University Medical Center, a tertiary center for the treatment of MG in the Netherlands. Main eligibility criteria were current use of pyridostigmine and a stable dose of other MG treatments. Participants were assigned to a sequence of 2 treatment periods for 5 days separated by a 2-day washout, in which patients either first received placebo and then pyridostigmine, or vice versa. Pyridostigmine dosing matched each participant's prestudy regimen. The primary outcome was change in the Myasthenia Gravis Impairment Index (MGII) score. Secondary efficacy outcome measures included the Myasthenia Gravis Activities of Daily Living (MG-ADL) scale, the Quantitative Myasthenia Gravis (QMG) score, and the revised 15-item Myasthenia Gravis Quality of Life (MG-QOL15r) questionnaire. For the post hoc cost-utility analysis, a mathematical model was developed to translate the observed study results into long-term annual effect on societal costs and quality-adjusted life years (QALYs). A total of 19 patients (median age 59 years, 58% female) were recruited between March 23, 2023, and February 21, 2024. The estimated mean difference in the MGII score between pyridostigmine and placebo interventions was 5.3 (95% CI 1.9-8.7,  This trial showed that, in patients with AChR MG chronically treated with pyridostigmine, pyridostigmine demonstrated benefit over placebo across all efficacy outcome measures and substantially reduced societal costs. The trial was registered at EudraCT (2021-004110-20, registration date: July 12, 2022) and ClinicalTrials.gov (NCT05919407, registration date: June 16, 2023). First patient enrolled: March 23, 2023. This study provides Class I evidence that, in adults with AChR ab-positive ocular or generalized MG on stable standard-of-care therapy and currently using pyridostigmine, pyridostigmine improves MG symptoms compared with placebo.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945881/",
+      "summary_ja": "背景：重症筋無力症（MG）は抗アセチルコリン受容体陽性患者に対し、ピリドスチグミンが広く使用されているが、ランダム化比較試験による有効性の裏付けは不足していた。  \n方法：オランダのライデン大学医療センターで、ピリドスチグミンを現在使用中かつ他の治療が安定している19名の患者を対象に、二重盲検プラセボ対照クロスオーバー試験を実施。各患者は5日間のピリドスチグミン投与期間と5日間のプラセボ投与期間を2日間のウォッシュアウトを挟んで順序を変えて受けた。主要評価項目はMyasthenia Gravis Impairment Index（MGII）の変化。副次評価にはMG-ADL、QMGスコア、MG-QOL15rを用いた。  \n結果：MGIIスコアの平均差はピリドスチグミン群でプラセボ群より5.3ポイント改善（95%CI 1.9-8.7）であり、全ての評価指標で有意な改善を示した。さらに、長期的な社会的コストも大幅に削減された。  \n結論：抗AChR陽性MG患者の標準治療下でのピリドスチグミン使用は、プラセボと比較して症状を有意に改善し、社会的コスト削減にも寄与することがClass Iエビデンスとして示された。",
+      "summary_short_ja": "本ランダム化二重盲検プラセボ対照クロスオーバー試験は、抗アセチルコリン受容体陽性重症筋無力症（AChR MG）患者19名を対象にピリドスチグミンの有効性を検証した。結果、ピリドスチグミンはプラセボに比べて症状改善（MGIIスコア差5.3）を示し、日常生活機能や生活の質も向上させた。また、社会的コストを大幅に削減することが示された。安定した標準治療下でのピリドスチグミンの使用は、AChR MG患者の症状改善に有効であることがClass Iエビデンスとして示された。",
+      "disease": "myasthenia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41945880",
+      "doi": "10.1212/WNL.0000000000214715",
+      "title": "Efficacy and Safety of Amifampridine in Myasthenia Gravis: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial.",
+      "abstract": "Amifampridine, a short-acting potassium-channel blocker, is the first-line treatment for Lambert-Eaton myasthenic syndrome. Its benefit as add-on to pyridostigmine in acetylcholine receptor (AChR)-positive myasthenia gravis (MG) has been proposed, but no randomized controlled trials have been conducted. We aimed to evaluate the efficacy and safety of amifampridine in AChR-MG with insufficient symptom control on pyridostigmine. A randomized, double-blind, placebo-controlled crossover trial was conducted at Leiden University Medical Center, a tertiary center for the treatment of MG in the Netherlands, as part 2 of the IMPACT-MG trial. Eligible patients had either completed part 1 (pyridostigmine vs placebo) or failed the initial 2-day pyridostigmine washout, and had an Myasthenia Gravis Impairment Index (MGII) score >10. Participants were randomized (1:1:1) to 1 of 3 treatment sequences. Each treatment period lasted 5 days, with a 2-day washout between treatments, during which participants received either 30 mg or 60 mg of amifampridine modified release, or placebo. The primary outcome was the difference in MGII score between the 2 amifampridine dosages and placebo. Pharmacokinetics, safety, and tolerability were assessed throughout the trial. Between March 2023 and April 2024, 20 patients were enrolled (median age 60 years, 55% female). For the MGII score, the estimated mean differences were -1.0 (95% CI -4.1 to 2.0,  The addition of amifampridine to pyridostigmine was not superior to treatment with pyridostigmine alone and was associated with a higher incidence of adverse events. The trial was registered at EudraCT (2021-004110-20, registration date: July 12, 2022) and ClinicalTrials.gov (NCT05919407, registration date: June 16, 2023). First patient enrolled: March 23, 2023. This study provides Class I evidence that in patients with AChRAb+ MG, the addition of amifampridine to pyridostigmine was not superior to treatment with pyridostigmine alone and was associated with a higher incidence of adverse events.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945880/",
+      "summary_ja": "背景：アミファンプリジンはランバート・イートン筋無力症候群の第一選択薬であり、アセチルコリン受容体陽性重症筋無力症（AChR-MG）においてピリドスチグミンへの追加効果が提案されているが、無作為化比較試験は未実施であった。  \n方法：オランダのライデン大学医療センターで、AChR-MG患者20名（MGIIスコア＞10）を対象に、アミファンプリジン30mg・60mgおよびプラセボを用いた二重盲検プラセボ対照クロスオーバー試験を実施。各治療期間は5日間、治療間に2日間のウォッシュアウトを設けた。主要評価項目はMGIIスコアの変化であり、安全性と薬物動態も評価した。  \n結果：アミファンプリジン追加群のMGIIスコア改善はプラセボ群と有意差がなく（平均差−1.0、95%CI −4.1～2.0）、副作用の発現率は高かった。  \n結論：AChR抗体陽性MG患者において、ピリドスチグミン単独治療に対しアミファンプリジンの追加は有効性を示さず、副作用リスクが増加するため推奨されない。",
+      "summary_short_ja": "アセチルコリン受容体陽性重症筋無力症（AChR-MG）患者において、ピリドスチグミン単独治療にアミファンプリジンを追加する効果と安全性を検証した無作為二重盲検プラセボ対照クロスオーバー試験を実施。20例を対象に評価した結果、アミファンプリジン追加は症状改善に優れず、副作用の発現率が高かった。従って、AChR-MG治療においてアミファンプリジンの追加は推奨されない。",
+      "disease": "myasthenia",
+      "section": "treatment"
+    }
+  ]
 }

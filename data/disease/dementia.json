@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41945879",
+      "doi": "10.1212/WNL.0000000000214859",
+      "title": "Extent of Tau and Its Cognitive Implications in Patients With Cerebral Amyloid Angiopathy Without Cognitive Impairment.",
+      "abstract": "Despite a well-established amyloid-tau neurodegeneration cascade in Alzheimer disease (AD), the extent and mechanistic relevance of tau pathology in cerebral amyloid angiopathy (CAA), a disease of vascular amyloid deposition, remain unclear. Focusing on patients with CAA without cognitive impairment to minimize concurrent AD pathology, we hypothesized that tau extent would be greater in patients with CAA than in healthy controls (HCs), largely attributable to amyloid burden, but it would not be associated with CAA-related imaging markers or cognitive scores in CAA. This cross-sectional study included patients with CAA and age-matched and sex-matched HCs, none of whom had cognitive impairment or dementia. All participants underwent brain MRI, Pittsburgh compound B (PiB)-PET for amyloid, and  The mean age of patients with CAA (n = 50) was 70.3 ± 7.6 years and of HCs was 69.7 ± 7.5 years ( Our results suggest that tau extent is mainly driven by age and vascular amyloid among patients with CAA and that tau extent is not related to CAA-related imaging markers or cognitive scores. These findings further support the view that tau does not affect CAA-specific disease mechanisms among patients with CAA without cognitive impairment.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945879/",
+      "summary_ja": "背景：アルツハイマー病（AD）ではアミロイドとタウの神経変性連鎖が知られているが、血管性アミロイド沈着を特徴とする脳アミロイド血管症（CAA）におけるタウ病理の範囲やその意義は不明である。方法：認知障害のないCAA患者（n=50）と年齢・性別を一致させた健常対照群（HC）を対象に、脳MRI、Pittsburgh化合物B（PiB）PETによるアミロイド評価を行い、タウの範囲と認知機能との関連を検討した。結果：CAA患者の平均年齢は70.3歳、HCは69.7歳であり、タウの範囲はCAA患者でHCより大きかったが、これは主に年齢と血管性アミロイド負荷によるものであった。一方、タウの範囲はCAA特有の画像マーカーや認知機能スコアとは関連しなかった。結論：認知障害のないCAA患者において、タウの広がりは主に年齢と血管性アミロイドに依存し、CAA特有の病態や認知機能には影響しないことが示された。これは、タウがCAAの病態メカニズムに直接関与しないことを支持する知見である。",
+      "summary_short_ja": "認知障害のない脳アミロイド血管症（CAA）患者と健常者を比較した結果、CAA患者のタウ蛋白蓄積は主に加齢と血管性アミロイド負荷によって増加するが、CAA特有の画像マーカーや認知機能とは関連しなかった。これは、認知障害のないCAA患者においてタウ病理がCAAの病態進行に直接関与しないことを示唆している。",
+      "disease": "dementia",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41921123",
       "doi": "10.1212/WNL.0000000000214782",
       "title": "Risk of Alzheimer Dementia After High-Dose vs Standard-Dose Influenza Vaccination.",
