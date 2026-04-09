@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41950435",
+      "doi": "10.1212/WNL.0000000000214916",
+      "title": "Plant-Based Dietary Patterns and Risk of Alzheimer Disease and Related Dementias in the Multiethnic Cohort Study.",
+      "abstract": "Plant-based diets have been linked to slower cognitive decline, but data on long-term dietary changes and from diverse populations are limited. The primary aim of this study was to examine plant-based dietary patterns and their change over time in relation to Alzheimer disease and related dementias (ADRDs). This prospective longitudinal analysis of the Multiethnic Cohort Study, based in Hawaii and California (primarily Los Angeles County), included data on African American, Japanese American, Latino, Native Hawaiian, and White participants who completed food frequency questionnaires at baseline (1993-1996; age 45-75 years) and at 10-year follow-up (2003-2008) and whose Medicare claims were linked to identify incident ADRDs. A priori indices for the overall plant-based diet index (PDI), the healthful plant-based diet index (hPDI), and the unhealthful plant-based diet index (uPDI) were analyzed in Cox regression models for ADRD. The analysis included 92,849 participants (mean age 59.2 years, 55.1% female, 21,478 with ADRDs) for the baseline diet and 45,065 participants (8,360 with ADRDs) for the 10-year dietary change. For the baseline diet, comparing the highest vs lowest quintile, PDI and hPDI were associated with 12% (hazard ratio [HR] 0.88; 95% CI 0.85-0.92) and 7% (HR 0.93; 95% CI 0.89-0.97) lower risks of ADRD, respectively, whereas uPDI was related to a 6% higher risk (HR 1.06; 95% CI 1.01-1.10). For the dietary change over time, the strongest association with ADRD was observed for uPDI rather than for PDI or hPDI. Compared with those with a stable score (<0.5 SD change), participants with a large increase in uPDI (≥1 SD) showed a 25% higher risk (HR 1.25; 95% CI 1.15-1.36) and those with a large decrease in uPDI showed an 11% lower risk (HR 0.89; 95% CI 0.84-0.94). The associations between the plant-based diet indices and ADRD were generally similar by age group (<60 vs ≥60 years at baseline), race and ethnicity, or  These findings suggest that adopting plant-based diets, specifically refraining from low-quality plant-based diets, even at an older age, is associated with a lower risk of ADRDs.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41950435/",
+      "summary_ja": "背景：植物由来の食事パターンは認知機能の低下抑制と関連が示唆されているが、多様な人種集団における長期的な食事変化と認知症リスクの関連は不明である。  \n方法：ハワイとカリフォルニアを拠点とする多民族コホート研究において、アフリカ系アメリカ人、日本人アメリカ人、ラテン系、ネイティブハワイアン、白人の92,849名（平均年齢59.2歳）が1993-1996年と10年後の2003-2008年に食事頻度調査を実施。メディケア請求データと連結し、アルツハイマー病および関連認知症（ADRD）の発症を追跡。植物ベースの食事指数（PDI）、健康的植物ベース食指数（hPDI）、非健康的植物ベース食指数（uPDI）を用いてCox回帰分析を行った。  \n結果：ベースラインでPDIとhPDIの高い群はADRDリスクがそれぞれ12％、7％低く、uPDIの高い群は6％リスクが高かった。10年間の食事変化では、uPDIの増加が25％リスク上昇、減少が11％リスク低下と最も強い関連を示した。年齢、人種、民族別でも類似の傾向が認められた。  \n結論：特に質の低い植物ベース食を避けることは、高齢期でもADRDリスク低減に寄与する可能性がある。",
+      "summary_short_ja": "多民族コホート研究において、植物性食品中心の食事パターンとアルツハイマー病・関連認知症（ADRD）のリスクを調査した。健康的な植物ベースの食事（hPDI）はADRDリスクを7～12％低減し、不健康な植物ベースの食事（uPDI）はリスクを6～25％増加させた。特にuPDIの増減がリスクに強く影響し、年齢や人種を問わず同様の傾向が認められた。質の高い植物性食の継続的な摂取がADRD予防に有効と示唆される。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41950468",
+      "doi": "10.1212/WNL.0000000000214804",
+      "title": "Effect of Cognitive Reserve on Age at Symptom Onset and Cognitive Decline in Individuals With Dominantly Inherited Alzheimer Disease.",
+      "abstract": "Cognitive reserve has been shown to modulate the onset and progression of Alzheimer disease (AD) symptoms. Although its role in sporadic AD is well-studied, how cognitive reserve influences the timing and progression of symptoms in dominantly inherited AD (DIAD) remains unclear. This study aimed to quantify cognitive reserve in DIAD carriers and test whether higher cognitive reserve is associated with later symptom onset and slower functional decline. We analyzed data from the Dominantly Inherited Alzheimer's Network study. Cognitive reserve was modeled using a residual-based latent variable approach, decomposing cognitive performance into demographic (CogD), biomarker (CogB), and reserve or residual (CogR) components. Primary outcomes were age at clinical symptom onset (CDR >0) and longitudinal change in the Clinical Dementia Rating-Sum of Boxes (CDR-SBs). Data were analyzed using Cox proportional hazards models and linear mixed-effects models, adjusting for estimated years from onset (EYO). A total of 710 Dominantly Inherited Alzheimer Network (DIAN) participants were included in the analysis, comprising 271 non-DIAD carriers (nMC), 284 asymptomatic DIAD carriers (aMC), and 155 symptomatic DIAD carriers. In asymptomatic carriers, using a zero-inflation model adjusted for EYO showed that a 1 SD increase in the reserve component (CogR) was associated with a 4.06-fold increase in the odds of being clinically unimpaired (CDR-SB = 0; 95% CI 1.84-8.95). Similarly, a 1 SD increase in the demographic (CogD) and biomarker (CogB) components increased the odds of being CDR-SB = 0 by 2.60 (95% CI 1.10-6.16) and 5.16 (95% CI 2.00-13.33), respectively. Among symptomatic carriers, only the reserve and the biomarker components were significant. A 1 SD increase in CogR was associated with a 0.81-fold reduction in baseline CDR-SB score (95% CI 0.72-0.92), and a 1 SD increase in CogB was associated with a 0.60-fold reduction in CDR-SB (95% CI 0.50-0.71). Our findings indicate that higher cognitive reserve values are associated with delayed conversion to mild cognitive impairment and slower progression on clinical dementia rating scales. These findings suggest that cognitive reserve plays a protective role in modifying the clinical trajectory of genetically determined AD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41950468/",
+      "summary_ja": "背景：認知予備力（cognitive reserve）はアルツハイマー病（AD）の症状発現や進行に影響を与えることが知られているが、遺伝性AD（DIAD）におけるその役割は不明であった。  \n方法：Dominantly Inherited Alzheimer's Network（DIAN）研究のデータ710例（非保因者271例、無症状保因者284例、症候性保因者155例）を用い、認知機能を人口統計学的要因（CogD）、バイオマーカー（CogB）、予備力成分（CogR）に分解。症状発現年齢と臨床認知症評価尺度（CDR-SB）の経時変化をCox比例ハザードモデルおよび線形混合効果モデルで解析した。  \n結果：無症状保因者では、CogRの1標準偏差増加が臨床的無症状状態（CDR-SB=0）である確率を4.06倍に増加させた。CogDおよびCogBもそれぞれ2.60倍、5.16倍の増加を示した。症候性保因者ではCogRとCogBが有意で、CogRの増加はCDR-SBスコアの低下（0.81倍）、CogBの増加はさらに顕著な低下（0.60倍）と関連した。  \n結論：認知予備力の高さは遺伝性ADにおける症状発現の遅延および認知機能低下の進行抑制に寄与し、遺伝的に決定されたADの臨床経過を修飾する保護因子として重要であることが示された。",
+      "summary_short_ja": "本研究は、優性遺伝性アルツハイマー病（DIAD）における認知予備力（cognitive reserve）が症状発現年齢や認知機能低下に与える影響を検証した。710名のDIAD関連者を対象に、認知予備力を人口統計学的要因、バイオマーカー、残差成分に分解し解析。認知予備力が高いほど症状発現が遅れ、臨床的認知機能低下の進行も緩やかであることが示された。認知予備力は遺伝性ADの臨床経過修飾に保護的役割を果たすと結論づけられる。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41945879",
       "doi": "10.1212/WNL.0000000000214859",
       "title": "Extent of Tau and Its Cognitive Implications in Patients With Cerebral Amyloid Angiopathy Without Cognitive Impairment.",
