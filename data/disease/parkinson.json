@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41955557",
+      "doi": "10.1212/WNL.0000000000214873",
+      "title": "Neurovascular Unit Dysfunction and Cerebral Small Vessel Disease in Parkinson Disease: A Systematic Review and a Meta Analysis.",
+      "abstract": "Parkinson disease (PD) pathogenesis remains incompletely understood; beyond nigrostriatal loss, nondopaminergic mechanisms including neurovascular unit dysfunction may contribute to disability. Cerebral small vessel disease (CSVD) burden reflects neurovascular dysfunction in the form of white matter hyperintensities (WMH), lacunes, cerebral microbleeds (CMB), and enlarged perivascular spaces (ePVS). In PD cohorts, CSVD burden correlates with worse motor and gait scores. The aim of the study was to explore whether patients with PD exhibit greater CSVD burden than healthy controls (HC). We conducted a PRISMA-conformant systematic review and meta-analysis of studies including adults with idiopathic PD and a HC group that presented data comparing CSVD burden in these 2 groups. Six databases (MEDLINE, Embase, CINAHL Plus, CENTRAL, Scopus, and Web of Science) were searched on May 14 and 15, 2024. Two reviewers independently screened records, extracted data, and assessed risk of bias, with discrepancies resolved by consensus. Continuous outcomes were pooled as standardized mean differences (SMD); dichotomous outcomes as odds ratios (ORs). We evaluated small-study effects for pooled analyses with 10 or more studies using funnel plots and Egger regression test. We examined 13,403 records. Forty-six studies (45 cross-sectional) met inclusion criteria, totaling 3,817 PD and 2,593 HC (mean ages: 66.9 and 66.5, respectively). WMH volume (k = 21) was higher in PD (SMD 0.36, 95% CI 0.11-0.62). Visual ratings also indicated higher WMH in PD: global (k = 14) SMD 0.27 (95% CI 0.08-0.46); periventricular (k = 11) SMD 0.32 (95% CI 0.12-0.51); deep (k = 8) SMD 0.20 (95% CI 0.09-0.31). Differences in CMB (k = 6; OR 1.18, 95% CI 0.57-2.42) and lacunes (k = 4; OR 1.48, 95% CI 0.58-3.78) were not significant. ePVS results were heterogeneous but trended toward greater burden in PD, most notably in the midbrain (k = 3; SMD 1.80, 0.15-3.44). Overall evidence quality was rated as low, reflecting the observational nature of the included studies. Our analysis showed PD to be associated with greater WMH burden and increased midbrain ePVS. Pooled differences in CMB and lacunes were not significant. Substantial heterogeneity and cross-sectional designs limit certainty; standardized imaging and prospective cohorts are needed to define mechanisms and clinical implications.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41955557/",
+      "summary_ja": "背景：パーキンソン病（PD）の病態は完全には解明されておらず、神経血管ユニット（NVU）機能障害が障害進行に関与すると考えられている。脳小血管病（CSVD）は白質高信号（WMH）、ラクーン、微小出血（CMB）、拡大血管周囲腔（ePVS）などで表され、PD患者の運動機能悪化と関連する。  \n方法：PRISMA基準に準拠し、PD患者と健常対照（HC）を比較したCSVD負荷に関する研究を6データベースから系統的に検索・メタ解析した。合計46研究（PD 3,817例、HC 2,593例）を対象とした。  \n結果：PD群はWMH体積（標準化平均差[SMD]0.36）および視覚評価による全体・脳室周囲・深部WMH（SMD 0.20～0.32）が有意に高かった。CMBおよびラクーンの差は有意でなかった。ePVSは中脳でPD群に多い傾向（SMD 1.80）を示したが、結果は異質性が大きかった。  \n結論：PDはWMH負荷の増加および中脳のePVS増加と関連するが、CMBやラクーンの差は明確でない。観察研究中心で異質性が高いため、標準化された画像解析と前向き研究が必要である。",
+      "summary_short_ja": "パーキンソン病（PD）患者は健常者に比べ、白質高信号（WMH）や中脳の拡大血管周囲腔（ePVS）の負荷が有意に高いことが示された。一方、脳微小出血（CMB）やラクーンの差は有意でなかった。これらは神経血管ユニット機能障害を反映し、PDの運動障害に寄与する可能性があるが、研究の異質性や横断的デザインにより結論は限定的であり、標準化された画像解析と前向き研究が必要である。",
+      "disease": "parkinson",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41740083",
       "doi": "10.1016/B978-0-12-420118-7.00013-5",
       "title": "Dynamic Smoking Patterns and Risk of Parkinson Disease and All-Cause Mortality: A Competing Risk Analysis Approach.",
