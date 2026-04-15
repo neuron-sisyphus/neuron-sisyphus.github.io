@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41980229",
+      "doi": "10.1212/WNL.0000000000214833",
+      "title": "Cognitive and Brain Reserve as Modifiers of Early Alzheimer Disease-Related Cognitive Vulnerability.",
+      "abstract": "Maintaining cognitive function despite the presence of Alzheimer disease (AD) pathology is the foundation of cognitive reserve. Although the theory of cognitive reserve is strongly supported by empirical research, the field lacks standardized, validated methods for quantifying cognitive and brain reserve. We tested whether associations between AD pathology and cognitive function were modified by proxy measures of cognitive reserve (years of education, socioeconomic status; SES) and brain reserve (brain-predicted age difference, and a volumetric AD signature). We hypothesized that greater structural brain integrity, higher education, and higher SES would attenuate the association between greater AD pathology and poorer cognitive performance. This cross-sectional study analyzed baseline data from a multisite randomized clinical trial, which was conducted at 3 US universities and enrolled cognitively unimpaired, physically inactive, community-dwelling adults. AD pathology was measured via plasma assays for phosphorylated tau (p-tau)-217 in the whole cohort, and PET for β-amyloid (Aβ) in a subset of participants as a secondary analysis. The primary outcome of cognitive function was evaluated by a comprehensive cognitive assessment. SES was measured via the MacArthur Socioeconomic Status Index, and magnetic resonance imaging was used to calculate brain-predicted age difference (brain-PAD) and a volumetric AD signature. Data were analyzed using linear regression models with interaction terms for moderation analyses. A total of 621 participants (aged 69.9 ± 3.8, 71% female) had available data for the main analyses and 355 had PET Centiloid data available. Brain-PAD moderated the association between AD pathology (measured by p-tau217) and multiple cognitive domains, including episodic memory (β = -0.09 [-0.16 to -0.02]), processing speed (β = -0.08 [-0.15 to -0.01]), working memory (β = -0.10 [-0.18 to -0.03]), and executive function/attentional control (β = -0.08 [-0.15 to -0.01]). Specifically, the negative association of greater AD pathology with poorer cognition was weakest in individuals with younger appearing brains. A latent SES score also moderated the relationship between p-tau217 and episodic memory (β = 0.08 [0.01-0.16]), but this did not survive correction for multiple comparisons. Neither years of education nor the volumetric AD signature moderated pathology-cognition associations. These results support the hypothesis that higher cognitive and brain reserve may help buffer the cognitive consequences of AD pathology. Strategies to increase both cognitive and brain reserve could help to boost resilience against emerging AD pathology; however, longitudinal studies are needed to confirm these conclusions.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41980229/",
+      "summary_ja": "背景：アルツハイマー病（AD）病理があっても認知機能を維持する認知予備力の理論は支持されているが、認知予備力や脳予備力を定量化する標準的手法は不足している。  \n方法：認知予備力の代理指標（教育年数、社会経済的地位：SES）と脳予備力（脳予測年齢差、AD特異的体積指標）がAD病理と認知機能の関連を修飾するかを検証した。対象は認知障害のない高齢者621名で、血漿中のリン酸化タウ217（p-tau217）や一部でPETによるβアミロイド測定を行い、包括的認知評価を実施。線形回帰モデルで相互作用を分析した。  \n結果：脳予測年齢差（brain-PAD）はp-tau217と複数の認知領域（エピソード記憶、処理速度、作業記憶、実行機能）間の負の関連を緩和し、若い脳を持つ人ほどAD病理の認知影響が小さかった。SESもエピソード記憶に対する修飾効果を示したが、多重比較補正後は有意でなかった。教育年数や体積的AD指標は修飾効果を示さなかった。  \n結論：高い認知予備力および脳予備力はAD病理による認知機能低下を緩和する可能性があり、これらを高める戦略はADに対する認知的レジリエンス向上に有望である。ただし、因果関係解明には縦断研究が必要である。",
+      "summary_short_ja": "本研究は、アルツハイマー病（AD）病理と認知機能の関連に対し、認知予備力（教育年数、社会経済的地位）および脳予備力（脳の予測年齢差、体積的AD指標）が修飾因子となるかを検証した。結果、脳の若々しさを示す指標がAD病理と認知低下の関連を緩和し、社会経済的地位も一部で影響を示したが、教育年数や体積的指標は影響しなかった。これらは認知・脳予備力がAD病理の認知影響を緩和する可能性を示唆し、予備力向上がAD耐性強化に寄与する可能性がある。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41855452",
+      "doi": "10.1212/WNL.0000000000214773",
+      "title": "Association of an Aquaporin-4 Haplotype With Cognition, Brain Volume, and Dementia Risk in Community-Dwelling Individuals Without Dementia.",
+      "abstract": "The aquaporin-4 (AQP4) water channel plays an integral role in clearing brain waste. However, little is known about whether variations in the  This study included participants from 2 prospective cohort studies. First, participants from the original, offspring, new offspring spouse, and generation 3 cohorts from the Framingham Heart Study (FHS; enrolled 1948-2005) were included with dementia follow-up until 2022. Original FHS participants were from Framingham, Massachusetts at the time of enrollment. Analyses were replicated for brain MRI outcomes and incident dementia with UK Biobank participants (enrolled 2006-2010) who were followed until 2022. All participants were dementia-free at the time of cognitive assessment, brain MRI, and commencement of dementia follow-up. Linear regression models were conducted to analyze the associations between  The FHS sample comprised 3,847 participants (65% homozygote major, 31% heterozygote, 4% homozygote minor) with cognitive testing (mean age 61 ± 11 years; 54% women); 3,332 had brain MRI. Heterozygotes displayed better verbal episodic memory (β = 0.32, 95% CI 0.09-0.55,  Carrying at least 1 minor allele at an",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41855452/",
+      "summary_ja": "背景：アクアポリン-4（AQP4）は脳内の老廃物除去に重要な水チャネルであるが、その遺伝的多型が認知機能や脳容積、認知症リスクに与える影響は不明である。  \n方法：フラミンガム心臓研究（FHS）とUKバイオバンクの認知症非罹患者を対象に、AQP4ハプロタイプと認知機能、脳MRI所見、認知症発症リスクの関連を検討した。FHSでは3,847名（平均年齢61歳、54%女性）、うち3,332名が脳MRIを実施。線形回帰モデルを用いて解析を行い、UKバイオバンクで結果の再現性を確認した。  \n結果：FHSではヘテロ接合型が言語性エピソード記憶で優れた成績を示し（β=0.32、95%CI 0.09-0.55）、脳容積も有意に大きかった。UKバイオバンクでも同様の傾向が認められた。さらに、少なくとも1つのマイナーアレルを保有する群で認知症発症リスクが低減した。  \n結論：AQP4の特定ハプロタイプは認知機能の維持や脳容積の保持、認知症リスクの低減に関連しており、脳の老廃物除去機構が認知症予防に寄与する可能性が示唆された。",
+      "summary_short_ja": "本研究は、アクアポリン-4（AQP4）遺伝子ハプロタイプと認知機能、脳容積、認知症リスクの関連を、認知症未発症の地域在住者を対象に検討した。フラミンガム心臓研究およびUKバイオバンクのデータを用い、AQP4の遺伝的多型が言語性エピソード記憶の向上や脳容積の維持と関連し、認知症発症リスクの低減に寄与する可能性を示した。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41950435",
       "doi": "10.1212/WNL.0000000000214916",
       "title": "Plant-Based Dietary Patterns and Risk of Alzheimer Disease and Related Dementias in the Multiethnic Cohort Study.",
@@ -105,21 +135,6 @@
       "summary_short_ja": "RVCL-Sは単一遺伝子による加齢性脳小血管病で、血管性認知症や視力低下を引き起こす。本研究は前向きコホートで脳MRIと認知機能検査を用い、病態進行を評価した。白質病変量は年率31.3%増加し、認知機能では処理速度が最も著しく低下した。酸素抽出率（OEF）が白質病変の進行と関連し、組織の低酸素虚血が病態に関与することを示唆。OEFはRVCL-Sや他の脳小血管病の進行予測バイオマーカーとして有望である。",
       "disease": "dementia",
       "section": "imaging"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "41855452",
-      "doi": "10.1212/WNL.0000000000214773",
-      "title": "Association of an Aquaporin-4 Haplotype With Cognition, Brain Volume, and Dementia Risk in Community-Dwelling Individuals Without Dementia.",
-      "abstract": "The aquaporin-4 (AQP4) water channel plays an integral role in clearing brain waste. However, little is known about whether variations in the  This study included participants from 2 prospective cohort studies. First, participants from the original, offspring, new offspring spouse, and generation 3 cohorts from the Framingham Heart Study (FHS; enrolled 1948-2005) were included with dementia follow-up until 2022. Original FHS participants were from Framingham, Massachusetts at the time of enrollment. Analyses were replicated for brain MRI outcomes and incident dementia with UK Biobank participants (enrolled 2006-2010) who were followed until 2022. All participants were dementia-free at the time of cognitive assessment, brain MRI, and commencement of dementia follow-up. Linear regression models were conducted to analyze the associations between  The FHS sample comprised 3,847 participants (65% homozygote major, 31% heterozygote, 4% homozygote minor) with cognitive testing (mean age 61 ± 11 years; 54% women); 3,332 had brain MRI. Heterozygotes displayed better verbal episodic memory (β = 0.32, 95% CI 0.09-0.55,  Carrying at least 1 minor allele at an",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Apr-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41855452/",
-      "summary_ja": "背景：アクアポリン-4（AQP4）は脳内の老廃物除去に重要な水チャネルであるが、その遺伝的多型が認知機能や脳容積、認知症リスクに与える影響は不明である。  \n方法：フラミンガム心臓研究（FHS）とUKバイオバンクの認知症非罹患者を対象に、AQP4ハプロタイプと認知機能、脳MRI所見、認知症発症リスクの関連を検討した。FHSでは3,847名（平均年齢61歳、54%女性）、うち3,332名が脳MRIを実施。線形回帰モデルを用いて解析を行い、UKバイオバンクで結果の再現性を確認した。  \n結果：FHSではヘテロ接合型が言語性エピソード記憶で優れた成績を示し（β=0.32、95%CI 0.09-0.55）、脳容積も有意に大きかった。UKバイオバンクでも同様の傾向が認められた。さらに、少なくとも1つのマイナーアレルを保有する群で認知症発症リスクが低減した。  \n結論：AQP4の特定ハプロタイプは認知機能の維持や脳容積の保持、認知症リスクの低減に関連しており、脳の老廃物除去機構が認知症予防に寄与する可能性が示唆された。",
-      "summary_short_ja": "本研究は、アクアポリン-4（AQP4）遺伝子ハプロタイプと認知機能、脳容積、認知症リスクの関連を、認知症未発症の地域在住者を対象に検討した。フラミンガム心臓研究およびUKバイオバンクのデータを用い、AQP4の遺伝的多型が言語性エピソード記憶の向上や脳容積の維持と関連し、認知症発症リスクの低減に寄与する可能性を示した。",
-      "disease": "dementia",
-      "section": "prognosis"
     },
     {
       "source": "pubmed",
