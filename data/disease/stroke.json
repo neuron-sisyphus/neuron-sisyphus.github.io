@@ -33,21 +33,6 @@
     },
     {
       "source": "pubmed",
-      "pmid": "41974022",
-      "doi": "10.1212/WNL.0000000000214758",
-      "title": "Competing Stroke Etiologies and Outcomes After Breakthrough Ischemic Stroke on Oral Anticoagulants in Patients With Atrial Fibrillation.",
-      "abstract": "Patients with atrial fibrillation (AF) who experience an ischemic stroke despite oral anticoagulation (OAC) face a high risk of recurrence and bleeding. We aimed to compare 90-day outcomes between patients with and without competing stroke etiologies after a breakthrough ischemic stroke while on OAC for AF. ASPERA-R retrospectively enrolled adults (>18 years) with AF who experienced a breakthrough ischemic stroke, defined as either first or recurrent event, occurring on continuous OAC (last intake ≤48 hours), across 35 centers from February 2020 to February 2025. Patients' eligibility required imaging-confirmed ischemic stroke, baseline vessel imaging, and a standardized 90-day follow-up. Patients with inadequate anticoagulant dosing or poor adherence were excluded. Competing etiologies were defined as any additional mechanism coexisting with cardioembolism and plausibly contributing to the index stroke. The primary outcome was 90-day recurrent ischemic stroke; secondary outcomes included modified Rankin Scale shift, myocardial infarction, and vascular and all-cause death. Bleedings were also evaluated. We performed inverse probability weighting to balance baseline covariates and applied Cox or regression models to compare outcomes. Among 1,649 patients (mean age 78 years, 47.8% male), 24.3% had competing etiologies, most commonly large artery atherosclerosis (59.9%). Considering the weighted population, 90-day recurrent ischemic stroke occurred more often in those with competing etiologies (6.0% vs 2.7%; adjusted hazard ratio [aHR] 2.62, 95% CI 2.01-3.42;  One in 4 patients with AF and breakthrough ischemic stroke on OAC had competing etiologies, most often large artery atherosclerosis. These patients showed higher risk of recurrent stroke, functional dependence, mortality, and bleeding, highlighting the need for development of individualized secondary prevention. Main study limitations include observational retrospective design and incomplete data on on-treatment anticoagulation quality. ClinicalTrials.gov NCT06823466.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-May-12",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41974022/",
-      "summary_ja": "背景：心房細動（AF）患者が経口抗凝固薬（OAC）服用中に虚血性脳卒中を発症すると、再発や出血リスクが高い。本研究は、OAC服用中に脳卒中を起こしたAF患者において、心原性塞栓症以外の競合する脳卒中原因（競合病因）の有無による90日後の転帰を比較することを目的とした。\n\n方法：35施設で2020年2月から2025年2月までに、OACを継続服用（最終服用48時間以内）し、画像診断で虚血性脳卒中が確認された成人AF患者1,649例を後ろ向きに登録。抗凝固薬の適正投与・服薬遵守が確認された症例を対象とし、競合病因は心原性塞栓症に加えて脳卒中に寄与すると考えられる他の病態と定義。主要評価項目は90日以内の再発虚血性脳卒中、二次評価項目に機能障害（修正Rankin尺度）、心筋梗塞、血管死・全死亡、出血を含む。\n\n結果：対象患者の24.3％に競合病因が認められ、そのうち59.9％が大動脈硬化症であった。競合病因群は非競合群に比べ、90日以内の再発虚血性脳卒中発生率が6.0％対2.7％（調整ハザード比2.62、95％CI 2.01-3.42）と有意に高く、機能依存度の増加、死亡率および出血リスクも高かった。\n\n結論：AF患者のOAC服用中の突破性虚血性脳卒中の約4分の1に競合病因が存在し、特に大動脈硬化症が多い。これら患者は再発リスクや合併症が高いため、個別化された二次予防戦略の開発が必要である。研究は後ろ向き観察研究であり、抗凝固薬の治療品質データが不完全な点が限界である。",
-      "summary_short_ja": "心房細動患者の抗凝固療法中に発症した脳梗塞（突破性脳梗塞）では、約4分の1に心原性塞栓症以外の競合する病因（主に大動脈硬化症）が存在した。これらの患者は90日以内の再発脳梗塞リスクや機能障害、死亡率、出血リスクが有意に高く、個別化された二次予防の重要性が示された。ただし観察研究で抗凝固管理の詳細が不十分な点が限界である。",
-      "disease": "stroke",
-      "section": "prognosis"
-    },
-    {
-      "source": "pubmed",
       "pmid": "41861278",
       "doi": "10.1212/WNL.0000000000004042",
       "title": "Impact of Basal Ganglia Perivascular Spaces on Ischemic and Hemorrhagic Risks in Patients Taking Antithrombotic Therapies.",
@@ -73,6 +58,21 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/41855454/",
       "summary_ja": "背景：急性脳内出血（ICH）後の収縮期血圧（SBP）管理は機能的予後に影響を与えるが、過度な急激な血圧低下は逆効果となる可能性がある。最適なSBP制御の軌跡を明らかにすることを目的とした。  \n方法：4つの国際的ランダム化比較試験（INTERACT1-4およびATACH-II）から個別患者データを統合解析し、発症後24時間のSBP変動パターンを潜在クラス分析で6群に分類。90日後の機能的回復（修正Rankinスケール3-6）との関連を多変量ロジスティック回帰で検討し、INTERACTで解析後、ATACH-IIで検証した。  \n結果：11,269例（平均年齢62.4歳、女性36.4%）を解析。SBP軌跡は「低値」「中等度から低値」「中等度」「高値」「高値から中等度」「高値から低値」の6群に分類された。低SBP群と比較し、高SBP群ほど機能障害リスクが増加し、特に重度高血圧群は死亡または障害のオッズが最も高かった。  \n結論：ICH後24時間のSBP軌跡は予後を左右し、過度な高血圧は不良転帰のリスクを高める。血圧管理は個別化しつつ適切にコントロールすることが重要である。",
       "summary_short_ja": "急性脳内出血（ICH）患者11,269例のデータを4つの国際臨床試験から統合解析し、24時間の収縮期血圧（SBP）変動パターンを6群に分類した。低SBP群と比較し、高SBP群は機能的回復不良（mRS 3-6）のリスクが有意に高く、急激な大幅降圧は利益を減少させた。適切かつ個別化されたSBP管理がICH後の予後改善に重要であることを示した。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41974022",
+      "doi": "10.1212/WNL.0000000000214758",
+      "title": "Competing Stroke Etiologies and Outcomes After Breakthrough Ischemic Stroke on Oral Anticoagulants in Patients With Atrial Fibrillation.",
+      "abstract": "Patients with atrial fibrillation (AF) who experience an ischemic stroke despite oral anticoagulation (OAC) face a high risk of recurrence and bleeding. We aimed to compare 90-day outcomes between patients with and without competing stroke etiologies after a breakthrough ischemic stroke while on OAC for AF. ASPERA-R retrospectively enrolled adults (>18 years) with AF who experienced a breakthrough ischemic stroke, defined as either first or recurrent event, occurring on continuous OAC (last intake ≤48 hours), across 35 centers from February 2020 to February 2025. Patients' eligibility required imaging-confirmed ischemic stroke, baseline vessel imaging, and a standardized 90-day follow-up. Patients with inadequate anticoagulant dosing or poor adherence were excluded. Competing etiologies were defined as any additional mechanism coexisting with cardioembolism and plausibly contributing to the index stroke. The primary outcome was 90-day recurrent ischemic stroke; secondary outcomes included modified Rankin Scale shift, myocardial infarction, and vascular and all-cause death. Bleedings were also evaluated. We performed inverse probability weighting to balance baseline covariates and applied Cox or regression models to compare outcomes. Among 1,649 patients (mean age 78 years, 47.8% male), 24.3% had competing etiologies, most commonly large artery atherosclerosis (59.9%). Considering the weighted population, 90-day recurrent ischemic stroke occurred more often in those with competing etiologies (6.0% vs 2.7%; adjusted hazard ratio [aHR] 2.62, 95% CI 2.01-3.42;  One in 4 patients with AF and breakthrough ischemic stroke on OAC had competing etiologies, most often large artery atherosclerosis. These patients showed higher risk of recurrent stroke, functional dependence, mortality, and bleeding, highlighting the need for development of individualized secondary prevention. Main study limitations include observational retrospective design and incomplete data on on-treatment anticoagulation quality. ClinicalTrials.gov NCT06823466.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41974022/",
+      "summary_ja": "背景：心房細動（AF）患者が経口抗凝固薬（OAC）服用中に虚血性脳卒中を発症すると、再発や出血リスクが高い。本研究は、OAC服用中に脳卒中を起こしたAF患者において、心原性塞栓症以外の競合する脳卒中原因（競合病因）の有無による90日後の転帰を比較することを目的とした。\n\n方法：35施設で2020年2月から2025年2月までに、OACを継続服用（最終服用48時間以内）し、画像診断で虚血性脳卒中が確認された成人AF患者1,649例を後ろ向きに登録。抗凝固薬の適正投与・服薬遵守が確認された症例を対象とし、競合病因は心原性塞栓症に加えて脳卒中に寄与すると考えられる他の病態と定義。主要評価項目は90日以内の再発虚血性脳卒中、二次評価項目に機能障害（修正Rankin尺度）、心筋梗塞、血管死・全死亡、出血を含む。\n\n結果：対象患者の24.3％に競合病因が認められ、そのうち59.9％が大動脈硬化症であった。競合病因群は非競合群に比べ、90日以内の再発虚血性脳卒中発生率が6.0％対2.7％（調整ハザード比2.62、95％CI 2.01-3.42）と有意に高く、機能依存度の増加、死亡率および出血リスクも高かった。\n\n結論：AF患者のOAC服用中の突破性虚血性脳卒中の約4分の1に競合病因が存在し、特に大動脈硬化症が多い。これら患者は再発リスクや合併症が高いため、個別化された二次予防戦略の開発が必要である。研究は後ろ向き観察研究であり、抗凝固薬の治療品質データが不完全な点が限界である。",
+      "summary_short_ja": "心房細動患者の抗凝固療法中に発症した脳梗塞（突破性脳梗塞）では、約4分の1に心原性塞栓症以外の競合する病因（主に大動脈硬化症）が存在した。これらの患者は90日以内の再発脳梗塞リスクや機能障害、死亡率、出血リスクが有意に高く、個別化された二次予防の重要性が示された。ただし観察研究で抗凝固管理の詳細が不十分な点が限界である。",
       "disease": "stroke",
       "section": "prognosis"
     },
