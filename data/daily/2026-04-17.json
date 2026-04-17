@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-17",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "41990307",
+      "doi": "10.1212/WNL.0000000000214810",
+      "title": "Characterizing Individuals Fulfilling Clinical Criteria for Limbic-Predominant Age-Related TDP-43 Encephalopathy in a Tertiary Memory Clinic.",
+      "abstract": "Limbic-predominant age-related TDP-43 encephalopathy (LATE) is characterized by an amnestic- and limbic-predominant phenotype, which can mimic Alzheimer disease (AD). In a memory clinic cohort, we tested whether clinical criteria for LATE can detect a clinical profile of LATE that is distinct from AD. In this retrospective examination of a longitudinal memory clinic cohort from the Alzheimer Center Amsterdam, we included individuals with mild cognitive impairment (MCI) and dementia (aged >50 years). We classified individuals based on baseline data on cognition, atrophy, amyloid-status, and tau-status into Probable- and Possible-LATE, co-occurring LATE and AD (LATE-AD), and AD (without LATE). Next, we compared these groups on demographics, clinical features, cognition, and atrophy. Of 3,606 individuals (mean age at baseline 66 [SD 6], 49.2% female) available for classification, we classified 56 (1.6%) as Probable-LATE, 115 (3.2%) as Possible-LATE, 127 (3.5%) as LATE-AD, and 1,675 (46.5%) as AD. Individuals with Probable-LATE progressed slower than AD on mini-mental state examination (MMSE) (sβ [SE] = 0.12 [0.05],  Using an operationalization of clinical criteria for LATE, 8.2% of participants with MCI or dementia from our tertiary memory clinic were classified as Possible-LATE, Probable-LATE, or LATE-AD. Probable-LATE was characterized by a milder disease course than AD, whereas LATE-AD was characterized by a more aggressive disease course. This underscores the value of the proposed clinical criteria in identifying individuals with suspected LATE, who have distinct clinical trajectories from AD. Our findings, therefore, support the use of these criteria to improve diagnostic and prognostic accuracy in the memory clinic.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41990307/",
+      "summary_ja": "背景：Limbic-predominant age-related TDP-43 encephalopathy（LATE）は、記憶障害を主としアルツハイマー病（AD）と類似した臨床像を示す疾患であるが、両者の鑑別は困難である。  \n方法：アルツハイマーセンター・アムステルダムの記憶クリニックに通院する50歳以上の軽度認知障害（MCI）および認知症患者3,606名を対象に、認知機能、萎縮、アミロイドおよびタウの状態に基づき、Probable-LATE、Possible-LATE、LATE-AD（LATEとADの併存）、AD（LATEなし）に分類した。各群の人口統計学的特徴、臨床症状、認知機能、萎縮の違いを比較した。  \n結果：対象者のうち、1.6%がProbable-LATE、3.2%がPossible-LATE、3.5%がLATE-AD、46.5%がADに分類された。Probable-LATE群はAD群に比べて認知機能低下の進行が緩徐であったのに対し、LATE-AD群はより進行が速かった。  \n結論：臨床基準を用いることで、LATEを疑う患者を識別可能であり、ADとは異なる臨床経過を示すことが明らかとなった。これにより、記憶クリニックにおける診断・予後予測の精度向上が期待される。",
+      "summary_short_ja": "本研究は、三次記憶クリニックの認知障害患者を対象に、LATE（辺縁優位加齢性TDP-43脳症）の臨床基準を用いてAD（アルツハイマー病）と異なる臨床像を検証した。3606名中8.2%がLATE関連群に分類され、Probable-LATEはADより進行が緩やかで、LATE-ADはより進行が速いことが示された。これにより、LATEの臨床基準は診断・予後評価の精度向上に有用であることが示唆された。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41985110",
+      "doi": "10.1016/j.autneu.2025.103258",
+      "title": "Cognitive Fluctuations, Neuropsychiatric Burden, and Quality of Life in Moderate-Advanced Dementia With Lewy Bodies: The Role of Dysautonomia.",
+      "abstract": "Cognitive fluctuations are reported in 90% of individuals with dementia with Lewy bodies (DLB) and along with dysautonomia, are a key source of disability. Through this effort, we sought to investigate the relationship between autonomic burden and cognitive fluctuations, neuropsychiatric burden and quality of life in moderate-advanced DLB. This multicenter, prospective, observational, longitudinal cohort study, Predicting ACcurately End-of-Life in Dementia With Lewy Bodies and Promoting Quality End-of-Life Experiences (PACE-DLB), was conducted in the United States to study individuals with moderate-advanced DLB. The primary exposure for the current analysis was time-varying total autonomic burden, as measured by the autonomic symptom checklist (ASC) at baseline and follow-up visits. The primary outcomes were cognitive fluctuations measured by Clinician Assessment of Fluctuations (CAF) scores and neuropsychiatric burden as measured by Neuropsychiatric Inventory Questionnaire (NPI-Q) scores. Secondary outcomes included quality of life (QoL) captured through the Quality of Life-Alzheimer's Disease scale. Mixed-effects regression analyses were conducted to assess the effect of autonomic burden on each primary outcome, with age, sex, education, Charlson Comorbidity Index, anticholinergic burden, levodopa equivalent daily dosage, and EPWORTH sleepiness scale scores adjusted as potential confounders. We additionally conducted modified graphical network model analyses. A total of 189 patients with 745 longitudinal observations were included in the analysis. Mean age of the cohort was 74.92 years (SD 7.77 years) with 22% female participants. At baseline, ASC was directly associated with CAF (RC = 0.16; 95% CI 0.01-0.31;  Autonomic burden correlates with severity of cognitive fluctuations and neuropsychiatric burden in moderate-advanced DLB. It also correlates with the QoL of the caregiver over time. These results encourage investigation into novel potential therapeutic avenues in moderate-advanced DLB.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41985110/",
+      "summary_ja": "背景：レビー小体型認知症（DLB）では認知の変動が90％にみられ、自律神経障害（ディスオートノミア）とともに障害の主要因とされる。本研究は、中等度から進行期のDLB患者における自律神経負荷と認知変動、神経精神症状負荷、生活の質（QoL）との関連を検討した。  \n方法：米国の多施設共同前向き観察コホート研究PACE-DLBにて、189名の中等度～進行期DLB患者を対象に、自律神経症状チェックリスト（ASC）による自律神経負荷を基準および追跡時に測定。認知変動はClinician Assessment of Fluctuations（CAF）、神経精神症状負荷はNeuropsychiatric Inventory Questionnaire（NPI-Q）、QoLはQuality of Life-Alzheimer's Disease尺度で評価。混合効果回帰分析により年齢・性別などを調整し関連を解析。  \n結果：745件の縦断的観察で、自律神経負荷は認知変動（CAFスコア）および神経精神症状負荷（NPI-Qスコア）と有意に正の相関を示した。また、介護者のQoLにも影響を及ぼすことが示された。  \n結論：中等度から進行期DLBにおいて、自律神経負荷は認知変動や神経精神症状の重症度と関連し、介護者のQoLにも影響を与える。これらの知見は新たな治療法開発の可能性を示唆する。",
+      "summary_short_ja": "レビー小体型認知症（DLB）の中等度から進行期患者189名を対象に、自律神経障害の負担が認知の変動や神経精神症状、生活の質（QoL）に与える影響を縦断的に調査した。自律神経負担は認知変動や神経精神症状の重症度と有意に関連し、介護者のQoLにも影響を及ぼすことが示された。これらの知見は、DLBの新たな治療法開発の可能性を示唆している。",
+      "disease": "parkinson",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41985109",
+      "doi": "10.1212/WNL.0000000000214936",
+      "title": "Acute Environmental Triggers and Intermediate-Term Modulators of Emergency Migraine-Related Health Care Encounters.",
+      "abstract": "Migraine activity is shaped not only by the biological vulnerability but also by environmental factors that may influence susceptibility and contribute to fluctuations in migraine occurrence, although the evidence remains inconsistent. We aimed to evaluate the intermediate-term and short-term effects of environmental exposures on migraine activity and to examine a conceptual layered model comprising biological vulnerability, intermediate-term environmental modulators, and acute triggers. We conducted a population-based case-crossover study among patients with migraine identified from the Negev Migraine Cohort (2000-2023), using electronic medical records from Clalit Health Services and Soroka University Medical Center. Eligible participants were adult patients (≥18 years) residing in Be'er Sheva, Israel, with migraine diagnoses or triptan prescriptions. Daily exposure to air pollutants and meteorologic conditions were obtained from fixed monitoring stations. Outcomes were emergency migraine-related encounters as a marker of triggered events and quarterly triptan use as a marker for disease activity. Intermediate-term modulators were defined as weekly climatic conditions hypothesized to modify the short-term effects of daily exposures. Associations were evaluated using conditional logistic and Poisson regression. The analysis included 7,032 adult patients with migraine residing in Be'er Sheva. Short-term exposure to nitrogen dioxide (NO Short-term and cumulative exposure to ambient air pollution and climatic factors were associated with increased migraine activity. Although these findings support a layered model of environmental modulation of migraine activity, their generalizability is limited by the use of emergency health care encounters as a proxy outcome, underscoring the need for further research using complementary measures.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41985109/",
+      "summary_ja": "背景：片頭痛の発症は生物学的脆弱性だけでなく、環境要因によっても影響を受けるが、その証拠は一貫していない。本研究は、環境曝露の中期および短期的影響を評価し、生物学的脆弱性、中期的環境調整因子、急性誘発因子からなる多層モデルを検証することを目的とした。  \n方法：イスラエルのベールシェバ在住の成人片頭痛患者7,032名を対象に、2000～2023年の電子医療記録を用いたケースクロスオーバー研究を実施。大気汚染物質（特に二酸化窒素）や気象条件のデータを固定観測局から取得し、緊急片頭痛関連受診を急性誘発イベントの指標、四半期ごとのトリプタン使用量を疾患活動性の指標とした。中期的調整因子は週単位の気候条件で定義。条件付きロジスティック回帰およびポアソン回帰で関連を解析。  \n結果：短期的および累積的な大気汚染曝露と気象因子は片頭痛活動性の増加と有意に関連した。特に二酸化窒素の曝露が急性発作の誘発に寄与することが示唆された。  \n結論：環境要因は片頭痛活動性に多層的に影響を与えることが支持されたが、緊急受診を代理指標としたため一般化には限界があり、補完的指標を用いたさらなる研究が必要である。",
+      "summary_short_ja": "本研究は、イスラエル・ベールシェバ在住の7,032人の片頭痛患者を対象に、大気汚染や気象条件が片頭痛活動に与える短期および中期の影響を調査した。特に二酸化窒素などの大気汚染物質への曝露が、緊急医療受診やトリプタン使用増加と関連し、片頭痛発症の環境的トリガーおよび調整因子の多層モデルを支持した。ただし、緊急受診を指標としたため一般化には限界があり、さらなる研究が必要である。",
+      "disease": "migraine",
+      "section": "epidemiology"
+    }
+  ]
+}

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41990307",
+      "doi": "10.1212/WNL.0000000000214810",
+      "title": "Characterizing Individuals Fulfilling Clinical Criteria for Limbic-Predominant Age-Related TDP-43 Encephalopathy in a Tertiary Memory Clinic.",
+      "abstract": "Limbic-predominant age-related TDP-43 encephalopathy (LATE) is characterized by an amnestic- and limbic-predominant phenotype, which can mimic Alzheimer disease (AD). In a memory clinic cohort, we tested whether clinical criteria for LATE can detect a clinical profile of LATE that is distinct from AD. In this retrospective examination of a longitudinal memory clinic cohort from the Alzheimer Center Amsterdam, we included individuals with mild cognitive impairment (MCI) and dementia (aged >50 years). We classified individuals based on baseline data on cognition, atrophy, amyloid-status, and tau-status into Probable- and Possible-LATE, co-occurring LATE and AD (LATE-AD), and AD (without LATE). Next, we compared these groups on demographics, clinical features, cognition, and atrophy. Of 3,606 individuals (mean age at baseline 66 [SD 6], 49.2% female) available for classification, we classified 56 (1.6%) as Probable-LATE, 115 (3.2%) as Possible-LATE, 127 (3.5%) as LATE-AD, and 1,675 (46.5%) as AD. Individuals with Probable-LATE progressed slower than AD on mini-mental state examination (MMSE) (sβ [SE] = 0.12 [0.05],  Using an operationalization of clinical criteria for LATE, 8.2% of participants with MCI or dementia from our tertiary memory clinic were classified as Possible-LATE, Probable-LATE, or LATE-AD. Probable-LATE was characterized by a milder disease course than AD, whereas LATE-AD was characterized by a more aggressive disease course. This underscores the value of the proposed clinical criteria in identifying individuals with suspected LATE, who have distinct clinical trajectories from AD. Our findings, therefore, support the use of these criteria to improve diagnostic and prognostic accuracy in the memory clinic.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41990307/",
+      "summary_ja": "背景：Limbic-predominant age-related TDP-43 encephalopathy（LATE）は、記憶障害を主としアルツハイマー病（AD）と類似した臨床像を示す疾患であるが、両者の鑑別は困難である。  \n方法：アルツハイマーセンター・アムステルダムの記憶クリニックに通院する50歳以上の軽度認知障害（MCI）および認知症患者3,606名を対象に、認知機能、萎縮、アミロイドおよびタウの状態に基づき、Probable-LATE、Possible-LATE、LATE-AD（LATEとADの併存）、AD（LATEなし）に分類した。各群の人口統計学的特徴、臨床症状、認知機能、萎縮の違いを比較した。  \n結果：対象者のうち、1.6%がProbable-LATE、3.2%がPossible-LATE、3.5%がLATE-AD、46.5%がADに分類された。Probable-LATE群はAD群に比べて認知機能低下の進行が緩徐であったのに対し、LATE-AD群はより進行が速かった。  \n結論：臨床基準を用いることで、LATEを疑う患者を識別可能であり、ADとは異なる臨床経過を示すことが明らかとなった。これにより、記憶クリニックにおける診断・予後予測の精度向上が期待される。",
+      "summary_short_ja": "本研究は、三次記憶クリニックの認知障害患者を対象に、LATE（辺縁優位加齢性TDP-43脳症）の臨床基準を用いてAD（アルツハイマー病）と異なる臨床像を検証した。3606名中8.2%がLATE関連群に分類され、Probable-LATEはADより進行が緩やかで、LATE-ADはより進行が速いことが示された。これにより、LATEの臨床基準は診断・予後評価の精度向上に有用であることが示唆された。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41980229",
       "doi": "10.1212/WNL.0000000000214833",
       "title": "Cognitive and Brain Reserve as Modifiers of Early Alzheimer Disease-Related Cognitive Vulnerability.",
