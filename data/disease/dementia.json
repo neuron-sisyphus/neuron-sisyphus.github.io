@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41996657",
+      "doi": "10.1212/WNL.0000000000214929",
+      "title": "Differences in Survival Associated With the First Antiseizure Medication in People With Dementia and Epilepsy.",
+      "abstract": "Epilepsy is an increasingly recognized comorbidity in neurocognitive disorders. Although experts recommend newer antiseizure medications (ASMs), whether there are real-world benefits of selecting particular ASMs for epilepsy in dementia remains unknown. Our objective was to examine whether different ASMs are associated with differences in survival in persons with epilepsy and dementia. A cohort study was conducted using Swedish national registers. We included individuals with dementia who received ASM treatment after a diagnosis of epilepsy after January 1, 2006. Data were analyzed until December 2023. Dispensed ASMs (Anatomical Therapeutic Code N03) were used to identify treatment; patients were categorized as starting one of the 4 most common ASMs (carbamazepine, levetiracetam, lamotrigine, valproate) or other ASMs. Recurrent prescriptions were used to determine treatment duration. Associations between all-cause death and ASMs were assessed by Cox proportional hazards regression. We also assessed causes of death and the risk of cardiovascular death. In Sweden, between 2006 and 2023, we included 5,764 individuals (2,811 men [48.8%] and 2,953 women [51.2%]) using their first ASM after a diagnosis of epilepsy and dementia. Carbamazepine (n = 1,578) was the most common ASM before 2015 and levetiracetam (n = 2098) most common thereafter. In Kaplan-Meier analyses and Cox regression models adjusting for age, sex, year of ASM start, and comorbidities, valproate (n = 746) was associated with increased adjusted hazard ratio (aHR) of death (1.34, 95% CI 1.20-1.48), in contrast to lamotrigine (n = 922, aHR: 0.84, 95% CI 0.75-0.93) and levetiracetam (n = 2098, aHR: 0.93, 95% CI 0.85-1.03). The risks were similar in analyses using restricted mean survival time, propensity score-matched sets of participants, balancing weights in regression models, and cases with epilepsy onset in existing dementia. Cardiovascular causes of death were more common among users of valproate or carbamazepine than among users of lamotrigine and levetiracetam. Compared with carbamazepine, valproate was associated with increased risk of cardiovascular death (aHR: 1.30; 95% CI 1.11-1.52) while lamotrigine (aHR 0.79; 95% CI 0.66-0.94) was associated with a reduced risk. In this population-wide cohort study, use of valproate was associated with the highest risk of death in persons with epilepsy and dementia. Lamotrigine and, in some models, levetiracetam were associated with better survival than both valproate and carbamazepine. This provides real-world support for existing expert guidelines.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41996657/",
+      "summary_ja": "背景：認知症患者におけるてんかんは重要な併存症であり、新しい抗てんかん薬（ASM）の使用が推奨されているが、実際の生存率への影響は不明であった。  \n方法：スウェーデンの全国登録データを用い、2006年以降にてんかんと診断されASM治療を開始した認知症患者5,764人を対象に、カルバマゼピン、レベチラセタム、ラモトリギン、バルプロ酸の4種類のASMとその他のASMの使用と生存率の関連をコックス回帰モデルで解析した。年齢、性別、併存疾患などを調整し、死亡原因や心血管死のリスクも評価した。  \n結果：バルプロ酸使用者は死亡リスクが最も高く（調整ハザード比1.34）、ラモトリギン（0.84）およびレベチラセタム（0.93）使用者はより良好な生存率を示した。心血管死はバルプロ酸およびカルバマゼピン使用者で多く、ラモトリギン使用者はリスクが低かった。  \n結論：認知症とてんかんを有する患者において、バルプロ酸の使用は死亡リスクを増加させる一方、ラモトリギンやレベチラセタムは生存率改善に寄与する可能性があり、専門家のガイドラインを支持する実証的証拠を提供した。",
+      "summary_short_ja": "認知症とてんかんを併発する患者5,764名を対象に、最初に使用した抗てんかん薬（ASM）と生存率の関連を調査した。結果、バルプロ酸は死亡リスクを有意に増加させ（aHR 1.34）、心血管死のリスクも高かった。一方、ラモトリギンは死亡リスクを低減（aHR 0.84）し、レベチラセタムも生存率改善傾向を示した。これらは専門家の推奨を支持する実世界データである。",
+      "disease": "dementia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41990307",
       "doi": "10.1212/WNL.0000000000214810",
       "title": "Characterizing Individuals Fulfilling Clinical Criteria for Limbic-Predominant Age-Related TDP-43 Encephalopathy in a Tertiary Memory Clinic.",

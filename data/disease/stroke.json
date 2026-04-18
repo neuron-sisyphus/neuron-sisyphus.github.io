@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41996656",
+      "doi": "10.1212/WNL.0000000000214866",
+      "title": "Cost-Effectiveness of Thrombectomy With or Without Alteplase in Large Vessel Occlusion Stroke: A Meta-Analysis Considering Time-to-Treatment.",
+      "abstract": "In stroke patients directly admitted to thrombectomy-capable centers, the value of intravenous thrombolysis (IVT) with alteplase before thrombectomy is time dependent. While early IVT may improve outcomes, delayed IVT administration lowers the likelihood of benefit. To date, no previous cost-effectiveness study has considered onset-to-treatment time. This study evaluated the cost-effectiveness of intravenous (IV) alteplase plus thrombectomy vs thrombectomy alone in patients admitted directly to thrombectomy-capable centers across 16 countries, stratified by onset-to-IVT time. A decision tree integrated with a Markov model estimated costs, quality-adjusted life years (QALYs), and incremental net monetary benefit (INMB) over 15 years. A willingness-to-pay threshold of one gross domestic product per capita was applied for each country. Effectiveness data were derived from individual patient data from 6 trials including patients with anterior circulation large-vessel occlusion eligible for both IVT and thrombectomy who presented directly to thrombectomy-capable centers. Costs were obtained from a literature review. Onset-to-IVT time was categorized as <140, 140-169, 170-199, and ≥200 minutes. One-way sensitivity and probabilistic sensitivity analyses were performed to check robustness of results. Ninety-day functional outcome distributions from 2,268 patients (median age 71 years; 44% female) were used to model cost-effectiveness in a hypothetical cohort of 10,000 patients. Without accounting for onset-to-IVT time, IV alteplase plus thrombectomy seemed cost-effective in 13 countries (INMB: $85-$3,618; 50-65% probability of cost-effectiveness) and not cost-effective in the United States, China, and Vietnam, with modest health gains (0.06-0.08 QALYs per patient). Time-stratified analyses revealed that IVT plus thrombectomy was cost-effective in 16 countries when onset-to-IVT time was <140 minutes (INMB: $615-$30,645; 82%-98% probability) and at 140-169 minutes (INMB: $86-$16,918; 51%-77% probability). However, IV alteplase plus thrombectomy was no longer cost-effective in 8 countries at 170-199 minutes. Universally, the INMB was negative for onset-to-IVT times exceeding 200 minutes. Cost-effectiveness of IV alteplase plus thrombectomy varies per country and onset-to-IVT time. IV alteplase plus thrombectomy is cost-effective when IVT can be administered within 170 minutes from symptom onset. Cost-effectiveness of IV alteplase plus thrombectomy diminishes progressively with longer onset-to-IVT times and becomes detrimental after 200 minutes.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41996656/",
+      "summary_ja": "背景：大血管閉塞脳卒中患者において、血栓回収療法（thrombectomy）前のアルテプラーゼによる静脈内血栓溶解療法（IVT）の効果は、治療開始までの時間に依存するが、これまで発症から治療開始までの時間を考慮した費用対効果分析はなかった。  \n方法：16か国の血栓回収可能施設に直接搬送された患者を対象に、IVアルテプラーゼ＋血栓回収療法と血栓回収療法単独の費用対効果を、発症からIVT開始までの時間別（<140分、140-169分、170-199分、≥200分）にメタ解析とマルコフモデルで評価。効果は6つの臨床試験の個別患者データから取得し、費用は文献レビューに基づく。  \n結果：発症からIVT開始まで140分未満では16か国すべてでIVT併用が費用対効果的（INMB：615～30,645ドル、確率82～98％）。140～169分でも多くの国で費用対効果が認められたが、170～199分では8か国で費用対効果が消失。200分以上では全ての国で費用対効果がマイナスとなった。  \n結論：IVアルテプラーゼ併用血栓回収療法は、発症からIVT開始まで170分以内であれば費用対効果的であるが、時間経過とともに効果が減少し、200分を超えると逆効果となる。",
+      "summary_short_ja": "本研究は、大血管閉塞脳卒中患者における血栓回収療法（thrombectomy）前のアルテプラーゼ静注療法（IVT）の費用対効果を、発症から治療開始までの時間別に16か国で評価した。発症からIVT開始が170分以内の場合、IVT併用は多くの国で費用対効果が高いが、170分を超えると効果が低下し、200分以上では逆効果となることが示された。治療開始時間が費用対効果を左右する重要因子である。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41980228",
       "doi": "10.1212/WNL.0000000000214924",
       "title": "A Nationwide Study of Pyruvate Dehydrogenase Complex Deficiency in Sweden: Epidemiology, Genotype-Phenotype Correlations, and Survival.",

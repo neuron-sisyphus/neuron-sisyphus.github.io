@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41996661",
+      "doi": "10.1212/WNL.0000000000214812",
+      "title": "Functional Reorganization of Corticostriatal Connectivity Across the Degree of Nigrostriatal Degeneration in Parkinson Disease.",
+      "abstract": "In Parkinson disease (PD), deafferentation of nigral dopaminergic neurons to the striatum leads to striatal dopamine depletion and impaired direct and indirect basal ganglia pathways, which in turn reduce thalamocortical excitation and ultimately lead to parkinsonism. Therefore, understanding the manifestation of motor deficits requires the evaluation of degree of striatal dopamine depletion and the related changes in striatal functional connectivity (FC) as the nigrostriatal system degenerates. In this cross-sectional study, we recruited 326 patients with PD and 29 patients with idiopathic REM sleep behavior disorder who underwent brain resting-state functional MRI,  The more affected side of the posterior caudate showed elevated FC with the primary motor cortex and paracentral lobule, which was present before approximately 50% putaminal dopamine depletion, peaked around this depletion level, and disappeared when caudate dopamine was abnormally reduced. The more affected side of the posterior putamen showed reduced FC with the superior parietal cortex, precuneus, and cuneus when putaminal dopamine depletion reached approximately 50%, after which the motor symptoms deteriorated linearly. In summary, our study demonstrated that the FC between the posterior caudate and primary motor cortex was elevated from the prodromal to early stages of PD, a period in which motor symptom progression remained relatively slow. The FC between the posterior putamen and motor cortex remained unchanged, while its connectivity with the posterior cortical regions declined from the onset of motor symptoms, coinciding with the accelerated progression of motor deterioration. Collectively, our study demonstrated that corticostriatal connectivity undergoes functional reorganization across the different stages of PD, which is associated with motor symptoms.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41996661/",
+      "summary_ja": "背景：パーキンソン病（PD）では、黒質ドーパミン作動性ニューロンの線条体への入力障害により線条体のドーパミンが枯渇し、基底核の直接・間接経路が障害されることで運動障害が生じる。運動症状の発現には線条体ドーパミン枯渇度とそれに伴う機能的結合（FC）の変化を評価する必要がある。  \n方法：PD患者326名と特発性REM睡眠行動異常症患者29名を対象に、安静時機能的MRIを用いて線条体と皮質のFCを解析した。  \n結果：影響の強い側の後部尾状核は、線条体ドーパミンが約50％枯渇する前から一次運動野とのFCが増加し、この増加は枯渇度50％付近でピークに達し、その後尾状核ドーパミンが異常に低下すると消失した。一方、影響の強い側の後部被殻は、ドーパミン枯渇が約50％に達した時点で上頭頂皮質などとのFCが低下し、その後運動症状の悪化が直線的に進行した。  \n結論：PDの進行に伴い、尾状核と一次運動野間のFCは前駆期から初期にかけて増加し運動症状の進行は緩やかであるが、被殻と後部皮質間のFCは運動症状発現時から低下し、運動障害の進行加速に関連する。これにより、PDの異なる病期で皮質線条体結合の機能的再編成が起こることが示された。",
+      "summary_short_ja": "本研究はパーキンソン病（PD）患者326名とREM睡眠行動異常症患者29名の脳機能的MRIを用い、黒質線条体系の変性度に伴う線条体の機能的結合（FC）の変化を解析した。線条体ドーパミン減少により、後尾状核と一次運動野間のFCは初期に増加し、運動症状の進行が緩やかな時期に認められた。一方、後被殻と後頭皮質間のFCは運動症状発現時から低下し、症状悪化と連動した。これらはPD進行に伴う皮質線条体結合の機能的再編成を示す。",
+      "disease": "parkinson",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41985110",
       "doi": "10.1016/j.autneu.2025.103258",
       "title": "Cognitive Fluctuations, Neuropsychiatric Burden, and Quality of Life in Moderate-Advanced Dementia With Lewy Bodies: The Role of Dysautonomia.",
