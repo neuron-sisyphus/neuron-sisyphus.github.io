@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42013406",
+      "doi": "10.1212/WNL.0000000000214937",
+      "title": "Heterogeneity in the Analysis of the ALSFRS-R in ALS Clinical Trials and its Effect on the Validity and Precision of Trial Conclusions.",
+      "abstract": "Disability rating scales play a pivotal role in clinical trials, but there is a notable lack of guidance on how to analyze these scales. Using amyotrophic lateral sclerosis as a case study, our aim was to explore how disability rating scales have been analyzed in completed clinical trials and to assess how these different approaches influence both the risk of false-positive findings and the statistical power to detect true treatment effects. We searched PubMed and Embase to systematically identify randomized, placebo-controlled clinical trials using the revised ALS functional rating scale (ALSFRS-R) as primary end point, with ≥20 randomly assigned patients and ≥12-weeks of follow-up. Data were extracted on the statistical analysis approaches and strategies for handling missing data. Variability in statistical methods was mapped to the various research questions that the trials aimed to address. A simulation study assessed how each statistical method influenced validity (false-positive rate) and precision (statistical power), using the Ceftriaxone trial data set to model a realistic trial scenario. Our analysis included 45 randomized clinical trials, comprising a total sample size of 7,338 patients, and identified 39 distinct statistical methods using a mixture of longitudinal and cross-sectional techniques. Most trials (55.6%) did not use all available (longitudinal) ALSFRS-R measurements, resulting in suboptimal utilization of patient data and reduced statistical precision. Applying the different statistical methods to the same trial data set resulted in large differences in the estimated treatment effect size, ranging from a negative 1.33 to a positive 2.33 SD difference. Among the methods used, 38.9% (95% CI 24.8%-55.1%) were at risk of increasing false-positive rates, potentially contributing to the erroneous advancement of ineffective treatments. Statistical power of valid strategies varied widely, ranging from 17.9% to 78.2%. Our results demonstrate considerable variability in statistical methods, with the choice of method able to influence the estimated treatment effects, potentially resulting in misleading conclusions and uncertainty about treatment effects. This limits the interpretability and comparability of clinical trials and influences clinical decision-making and drug development. Establishing statistical consensus recommendations could improve the utility of disability scales in clinical trials and accelerate progress toward effective therapies for neurodegenerative diseases.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42013406/",
+      "summary_ja": "背景：ALS（筋萎縮性側索硬化症）の臨床試験において、障害評価尺度であるALSFRS-Rの解析方法に統一的な指針がなく、その解析手法の多様性が試験結果の妥当性や精度に影響を与えている可能性がある。  \n方法：PubMedおよびEmbaseで、ALSFRS-Rを主要評価項目とした無作為化プラセボ対照試験（患者数20名以上、追跡期間12週以上）を系統的に検索し、45試験7,338例のデータを抽出。解析手法や欠測データ処理法の多様性を調査し、シミュレーションで偽陽性率や統計的検出力への影響を評価した。  \n結果：39種類の解析手法が確認され、55.6%の試験は全ての縦断的データを活用しておらず、統計的精度が低下。解析手法により治療効果推定値は-1.33から+2.33標準偏差まで大きく変動。38.9%の手法は偽陽性率増加のリスクがあり、検出力は17.9%から78.2%と幅広かった。  \n結論：ALSFRS-R解析法の多様性は治療効果推定に大きな影響を及ぼし、誤った結論や解釈の困難さを招く。統計解析の標準化が臨床試験の信頼性向上と神経変性疾患治療の進展に寄与すると示唆される。",
+      "summary_short_ja": "ALS臨床試験における障害評価尺度ALSFRS-Rの解析方法は多様で、45試験7,338例を分析した結果、39種類の統計手法が用いられていた。多くは縦断データを十分活用せず、偽陽性率の増加や統計的検出力の低下を招いていた。解析手法の違いにより治療効果の推定値は大きく変動し、誤った結論や治療効果の不確実性を生じさせている。統計解析の標準化が必要と示唆された。",
+      "disease": "als",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41955555",
       "doi": "10.1212/WNL.0000000000214835",
       "title": "The Muscle Cramp Impact Index: A Patient-Centered Scale for the Assessment of Muscle Cramps.",
