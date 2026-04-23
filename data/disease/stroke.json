@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42018962",
+      "doi": "10.1212/WNL.0000000000214985",
+      "title": "The Relationship Between Sleep, Cognition, and Dementia Risk in People With Focal Epilepsy.",
+      "abstract": "Sleep disruption and cognitive impairment are important comorbidities of focal epilepsy. However, the nature to which sleep affects cognition and long-term dementia risk in focal epilepsy, compared with other brain conditions, remains unclear. We examined the relationship between sleep, cognition, and dementia risk in patients with focal epilepsy compared with healthy controls and stroke patients. We conducted an analysis of the prospective UK Biobank cohort study, with baseline assessments performed between 2006 and 2010 and follow-up until 2021. Study groups were mutually exclusive participants with focal epilepsy and stroke at baseline assessment and healthy controls. Sleep characteristics included reports of sleep duration, obstructive sleep apnea, insomnia, napping, and dozing. Main outcomes were risk of incident all-cause dementia and Alzheimer disease from Cox proportional hazard modeling and comparison of executive function measures and brain total hippocampal and gray matter volumes using generalized linear modeling. We examined a sample of 482,207 participants, aged between 38 and 72 years (mean [SD] 57.6 [8.1] years; 53.8% female), without dementia at baseline and a nested imaging subsample of 42,345 participants. Optimal sleep duration (6-8 hours) was associated with better executive function in control, focal epilepsy, and stroke groups. The impact of optimal sleep was significantly higher in individuals with focal epilepsy compared with controls (interaction term,  Optimal sleep modified both cognitive performance and dementia risk in individuals with focal epilepsy compared with stroke patients and healthy controls. Based on self-reported sleep data, these findings suggest that improving sleep may be an impactful intervention to improve cognition and reduce dementia risk particularly in focal epilepsy.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42018962/",
+      "summary_ja": "背景：局所てんかん患者では睡眠障害と認知機能障害が重要な併存症であるが、睡眠が認知機能や長期的な認知症リスクに与える影響は他の脳疾患と比較して不明である。  \n方法：2006～2010年に英国バイオバンクで実施された前向きコホート研究を用い、局所てんかん患者、脳卒中患者、健常者の睡眠特性（睡眠時間、閉塞性睡眠時無呼吸、不眠、昼寝、居眠り）と認知機能、認知症発症リスクの関連を解析した。対象は38～72歳の482,207名（うち42,345名は脳画像データあり）。  \n結果：最適な睡眠時間（6～8時間）は全群で実行機能の向上と関連し、局所てんかん群でその効果が健常者より有意に大きかった。最適睡眠は認知機能だけでなく認知症リスクも修飾し、局所てんかん患者において特に顕著であった。  \n結論：自己申告による睡眠改善は、局所てんかん患者の認知機能向上および認知症リスク低減に有効な介入となり得る。",
+      "summary_short_ja": "焦点てんかん患者において、睡眠の質と認知機能、認知症リスクの関係をUKバイオバンクの大規模コホートで検討した。最適な睡眠時間（6～8時間）は認知機能の向上と認知症リスク低減に関連し、特に焦点てんかん患者でその効果が顕著であった。これらの結果は、睡眠改善が焦点てんかん患者の認知機能維持と認知症予防に有効な介入となり得ることを示唆している。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41996656",
       "doi": "10.1212/WNL.0000000000214866",
       "title": "Cost-Effectiveness of Thrombectomy With or Without Alteplase in Large Vessel Occlusion Stroke: A Meta-Analysis Considering Time-to-Treatment.",

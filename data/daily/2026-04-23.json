@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-23",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42018962",
+      "doi": "10.1212/WNL.0000000000214985",
+      "title": "The Relationship Between Sleep, Cognition, and Dementia Risk in People With Focal Epilepsy.",
+      "abstract": "Sleep disruption and cognitive impairment are important comorbidities of focal epilepsy. However, the nature to which sleep affects cognition and long-term dementia risk in focal epilepsy, compared with other brain conditions, remains unclear. We examined the relationship between sleep, cognition, and dementia risk in patients with focal epilepsy compared with healthy controls and stroke patients. We conducted an analysis of the prospective UK Biobank cohort study, with baseline assessments performed between 2006 and 2010 and follow-up until 2021. Study groups were mutually exclusive participants with focal epilepsy and stroke at baseline assessment and healthy controls. Sleep characteristics included reports of sleep duration, obstructive sleep apnea, insomnia, napping, and dozing. Main outcomes were risk of incident all-cause dementia and Alzheimer disease from Cox proportional hazard modeling and comparison of executive function measures and brain total hippocampal and gray matter volumes using generalized linear modeling. We examined a sample of 482,207 participants, aged between 38 and 72 years (mean [SD] 57.6 [8.1] years; 53.8% female), without dementia at baseline and a nested imaging subsample of 42,345 participants. Optimal sleep duration (6-8 hours) was associated with better executive function in control, focal epilepsy, and stroke groups. The impact of optimal sleep was significantly higher in individuals with focal epilepsy compared with controls (interaction term,  Optimal sleep modified both cognitive performance and dementia risk in individuals with focal epilepsy compared with stroke patients and healthy controls. Based on self-reported sleep data, these findings suggest that improving sleep may be an impactful intervention to improve cognition and reduce dementia risk particularly in focal epilepsy.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42018962/",
+      "summary_ja": "背景：局所てんかん患者では睡眠障害と認知機能障害が重要な併存症であるが、睡眠が認知機能や長期的な認知症リスクに与える影響は他の脳疾患と比較して不明である。  \n方法：2006～2010年に英国バイオバンクで実施された前向きコホート研究を用い、局所てんかん患者、脳卒中患者、健常者の睡眠特性（睡眠時間、閉塞性睡眠時無呼吸、不眠、昼寝、居眠り）と認知機能、認知症発症リスクの関連を解析した。対象は38～72歳の482,207名（うち42,345名は脳画像データあり）。  \n結果：最適な睡眠時間（6～8時間）は全群で実行機能の向上と関連し、局所てんかん群でその効果が健常者より有意に大きかった。最適睡眠は認知機能だけでなく認知症リスクも修飾し、局所てんかん患者において特に顕著であった。  \n結論：自己申告による睡眠改善は、局所てんかん患者の認知機能向上および認知症リスク低減に有効な介入となり得る。",
+      "summary_short_ja": "焦点てんかん患者において、睡眠の質と認知機能、認知症リスクの関係をUKバイオバンクの大規模コホートで検討した。最適な睡眠時間（6～8時間）は認知機能の向上と認知症リスク低減に関連し、特に焦点てんかん患者でその効果が顕著であった。これらの結果は、睡眠改善が焦点てんかん患者の認知機能維持と認知症予防に有効な介入となり得ることを示唆している。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42018961",
+      "doi": "10.1212/WNL.0000000000214989",
+      "title": "Virtual vs In-Person Neurologic Ambulatory Care: A Case-Control Study of Subsequent Health Care Utilization.",
+      "abstract": "Implementation of telemedicine expanded options for outpatient neurology care. It remains uncertain which new neurology patients can be appropriately evaluated virtually. We compared subsequent health care utilization after virtual vs in-person new patient neurology visits across 3 academic medical centers. We conducted a retrospective multicenter cohort study of adults with a new outpatient neurology visit from September 2020 through December 2021 using the Vizient Clinical Data Base and Clinical Practice Solutions Center databases. Virtual and in-person patients were matched 1:1 using propensity scores incorporating demographics, clinical characteristics, time period, and previous health care utilization. Outcomes were analyzed overall and stratified by neurologic chief complaint category and institution. We compared rates of subsequent neurologic clinic follow-up, emergency department (ED) visits, and hospitalizations after virtual and in-person encounters. Testing and all-cause ED visits/hospitalizations were also assessed. We identified 10,428 virtual and 36,767 in-person neurology new outpatient visits. After propensity score matching, 8,202 virtual visits were matched to 8,202 in-person visits. Neurology follow-up within 90 days did not differ between virtual and in-person visits (24.6% vs 23.7%,  In this propensity score-matched multicenter cohort, new neurology patients seen virtually had similar downstream utilization as those seen in-person, including comparable 90-day follow-up and similar neurologic and all-cause ED visits and hospitalizations. Although follow-up varied modestly by chief complaint and testing was more frequent after some in-person visits, no major differences emerged overall.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42018961/",
+      "summary_ja": "背景：遠隔医療の導入により、神経内科の外来診療の選択肢が拡大したが、新規患者のうちどの症例が適切に遠隔診療で評価可能かは不明である。  \n方法：2020年9月から2021年12月までの3つの大学病院における新規神経内科外来患者を対象に、遠隔診療と対面診療の患者を傾向スコアマッチングで1対1にマッチさせ、診療後の医療利用状況を後ろ向きに比較した。主な評価項目は90日以内の神経内科再診、救急受診、入院の発生率である。  \n結果：10,428件の遠隔診療と36,767件の対面診療のうち、8,202件ずつをマッチング。90日以内の神経内科再診率は遠隔24.6％、対面23.7％で差はなかった。救急受診や入院率も両群で類似していた。主訴別や施設別で若干の差はあったが、全体として大きな違いは認められなかった。  \n結論：新規神経内科患者において、遠隔診療は対面診療と比較してその後の医療利用に大きな差がなく、適切な診療形態の一つとして有効である可能性が示された。",
+      "summary_short_ja": "本研究は、3つの大学病院で新規神経内科外来患者のバーチャル診療と対面診療後の医療利用を比較した。傾向スコアマッチングにより8202例ずつ比較した結果、90日以内の神経内科再診率や救急受診・入院率に有意差はなかった。主訴別や検査頻度に若干の差はあったが、全体としてバーチャル診療は対面診療と同等の医療利用パターンを示した。",
+      "disease": "other",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42013406",
+      "doi": "10.1212/WNL.0000000000214937",
+      "title": "Heterogeneity in the Analysis of the ALSFRS-R in ALS Clinical Trials and its Effect on the Validity and Precision of Trial Conclusions.",
+      "abstract": "Disability rating scales play a pivotal role in clinical trials, but there is a notable lack of guidance on how to analyze these scales. Using amyotrophic lateral sclerosis as a case study, our aim was to explore how disability rating scales have been analyzed in completed clinical trials and to assess how these different approaches influence both the risk of false-positive findings and the statistical power to detect true treatment effects. We searched PubMed and Embase to systematically identify randomized, placebo-controlled clinical trials using the revised ALS functional rating scale (ALSFRS-R) as primary end point, with ≥20 randomly assigned patients and ≥12-weeks of follow-up. Data were extracted on the statistical analysis approaches and strategies for handling missing data. Variability in statistical methods was mapped to the various research questions that the trials aimed to address. A simulation study assessed how each statistical method influenced validity (false-positive rate) and precision (statistical power), using the Ceftriaxone trial data set to model a realistic trial scenario. Our analysis included 45 randomized clinical trials, comprising a total sample size of 7,338 patients, and identified 39 distinct statistical methods using a mixture of longitudinal and cross-sectional techniques. Most trials (55.6%) did not use all available (longitudinal) ALSFRS-R measurements, resulting in suboptimal utilization of patient data and reduced statistical precision. Applying the different statistical methods to the same trial data set resulted in large differences in the estimated treatment effect size, ranging from a negative 1.33 to a positive 2.33 SD difference. Among the methods used, 38.9% (95% CI 24.8%-55.1%) were at risk of increasing false-positive rates, potentially contributing to the erroneous advancement of ineffective treatments. Statistical power of valid strategies varied widely, ranging from 17.9% to 78.2%. Our results demonstrate considerable variability in statistical methods, with the choice of method able to influence the estimated treatment effects, potentially resulting in misleading conclusions and uncertainty about treatment effects. This limits the interpretability and comparability of clinical trials and influences clinical decision-making and drug development. Establishing statistical consensus recommendations could improve the utility of disability scales in clinical trials and accelerate progress toward effective therapies for neurodegenerative diseases.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42013406/",
+      "summary_ja": "背景：ALS（筋萎縮性側索硬化症）の臨床試験において、障害評価尺度であるALSFRS-Rの解析方法に統一的な指針がなく、その解析手法の多様性が試験結果の妥当性や精度に影響を与えている可能性がある。  \n方法：PubMedおよびEmbaseで、ALSFRS-Rを主要評価項目とした無作為化プラセボ対照試験（患者数20名以上、追跡期間12週以上）を系統的に検索し、45試験7,338例のデータを抽出。解析手法や欠測データ処理法の多様性を調査し、シミュレーションで偽陽性率や統計的検出力への影響を評価した。  \n結果：39種類の解析手法が確認され、55.6%の試験は全ての縦断的データを活用しておらず、統計的精度が低下。解析手法により治療効果推定値は-1.33から+2.33標準偏差まで大きく変動。38.9%の手法は偽陽性率増加のリスクがあり、検出力は17.9%から78.2%と幅広かった。  \n結論：ALSFRS-R解析法の多様性は治療効果推定に大きな影響を及ぼし、誤った結論や解釈の困難さを招く。統計解析の標準化が臨床試験の信頼性向上と神経変性疾患治療の進展に寄与すると示唆される。",
+      "summary_short_ja": "ALS臨床試験における障害評価尺度ALSFRS-Rの解析方法は多様で、45試験7,338例を分析した結果、39種類の統計手法が用いられていた。多くは縦断データを十分活用せず、偽陽性率の増加や統計的検出力の低下を招いていた。解析手法の違いにより治療効果の推定値は大きく変動し、誤った結論や治療効果の不確実性を生じさせている。統計解析の標準化が必要と示唆された。",
+      "disease": "als",
+      "section": "treatment"
+    }
+  ]
+}
