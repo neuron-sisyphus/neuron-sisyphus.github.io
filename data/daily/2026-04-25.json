@@ -1,0 +1,35 @@
+{
+  "date": "2026-04-25",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42030518",
+      "doi": "10.1212/WNL.0000000000214875",
+      "title": "Postapproval Study for Brain-Responsive Neurostimulation for Drug-Resistant Focal Epilepsy: Three-Year Efficacy and Interim Safety Results.",
+      "abstract": "Neuromodulation therapies are approved for the treatment of focal epilepsy based on data from randomized controlled trials (RCTs). After approval of a responsive direct brain stimulation device (The RNS System for focal epilepsy), the Food and Drug Administration required a prospective study to evaluate whether real-world safety and effectiveness differed from outcomes in the RCT. This open-labeled study enrolled adult participants who met the RNS System-approved indication for use. The primary effectiveness end point was median percent change in seizure frequency at 3 years of treatment. Interim safety is presented; the primary safety endpoint analysis will be conducted at 5 years. Across 32 US epilepsy centers, 324 patients (mean age 37.1, 59.6% female individuals) were implanted and 271 completed 3 years of follow-up. The median percent reduction in seizure frequency at 6 months was 62% and 82% at 3 years ( This prospective real-world study contributes to the body of evidence that adjunctive direct brain-responsive neurostimulation provides significant and sustained reductions in the frequency of focal seizures. Seizure reductions were greater and were achieved faster than in the RCT and long-term treatment trials but were similar to a more recent retrospective multicenter real-world study. As in the preapproval studies, treatment was well-tolerated and safe, and the SUDEP rate was low. The RNS System showed similar safety and improved seizure outcomes in real-world use compared with the RCT. Improvements in efficacy may reflect changes in programming practices. Future research efforts will focus on using the brain data obtained by the device to optimize detection and stimulation paradigms for each patient. ClinicalTrials.gov, NCT02403843, submitted March 26, 2015. This study provides Class IV evidence that in adults with refractory focal-onset seizures, direct brain-responsive neurostimulation reduces seizure frequency without serious adverse events up to 3 years.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42030518/",
+      "summary_ja": "背景：薬物抵抗性局所てんかんに対する神経調節療法として、脳反応型直接刺激装置（RNSシステム）が承認されたが、実臨床での安全性・有効性の検証が求められた。  \n方法：米国32施設でRNSシステム適応の成人324名を対象に前向きオープンラベル研究を実施し、3年間の発作頻度の中央値変化を主要評価項目とした。安全性の中間解析も報告。  \n結果：271名が3年追跡を完了し、発作頻度は6か月で中央値62％減、3年で82％減少した。RCTや長期治療試験よりも発作減少効果が早期かつ大きく、最近の後ろ向き多施設研究と同等であった。治療は良好に忍容され、安全性も高く、SUDEP（突然死）率は低かった。  \n結論：実臨床においてもRNSシステムは安全かつ有効であり、プログラミングの進歩が効果向上に寄与している可能性がある。今後は装置から得られる脳データを活用し、個別最適化を目指す研究が期待される。",
+      "summary_short_ja": "薬物抵抗性局所てんかんに対する脳応答型神経刺激（RNSシステム）の3年間の実臨床効果と中間安全性を検証した前向き研究。324名が対象で、3年後の発作頻度は中央値で82％減少し、RCTよりも早期かつ大幅な改善を示した。安全性も良好で重篤な有害事象は少なく、SUDEP率も低かった。実臨床での有効性と安全性が確認され、今後は個別最適化に向けた脳データ活用が期待される。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42030516",
+      "doi": "10.1212/WNL.0000000000214803",
+      "title": "Association of MRI-Visible Perivascular Spaces With Longitudinal Cognitive Decline Over a Decade.",
+      "abstract": "Cerebral small vessel disease (SVD) is the most common vascular contributor to dementia. SVD markers often coexist, contributing to difficulty assessing their independent contributions to cognitive domains. MRI-visible perivascular spaces (PVSs) are an emerging SVD marker visualized by MRI. We previously showed that basal ganglia PVSs cross-sectionally contribute to worse cognition, independent of other SVD markers. To further characterize the clinical relevance of PVS, we studied its role as a unique SVD marker of longitudinal cognitive decline. Participants without stroke or dementia were included in the Vanderbilt Memory and Aging Project, a longitudinal observational cohort study based in Nashville, TN. Participants completed 3T MRI at study entry to measure SVD burden (PVS volume fraction, white matter hyperintensities volume, lacune counts, and cerebral microbleeds counts). PVS volumes were segmented using a deep learning algorithm. Participants underwent comprehensive serial neuropsychological testing over an 11-year follow-up period (mean follow-up = 4.9 ± 3.1 years). Each SVD marker was related to longitudinal neuropsychological performances using a linear mixed-effects model adjusting for age, sex, race/ethnicity, education, baseline cognitive status, apolipoprotein E-ε4 presence, Framingham Stroke Risk Profile, and intracranial volume. Head-to-head comparisons simultaneously tested multiple statistically significant SVD markers. Among participants (n = 750, age 68 ± 9 years, 52% female), higher basal ganglia PVS burden at baseline was associated with worse longitudinal performances in Boston Naming Test (β = -29.63; 95% CI -56.66 to -2.60), Animal Naming (β = -33.09; 95% CI -65.66 to -0.51), Wechsler Adult Intelligence Scale IV Coding (β = -86.36; 95% CI -150.9 to -21.82), executive function composite (β = -9.51; 95% CI -14.33 to -4.68), Hooper Visual Organization Test (β = -26.06; 95% CI -50.53 to -1.59), and episodic memory composite (β = -7.05; 95% CI -11.9 to -2.21). In head-to-head comparisons, basal ganglia PVS remained independent associations with executive function composite (β = -7.47; 95% CI -12.84 to -2.10) and Hooper Visual Organization Test (β = -22.11; 95% CI -42.38 to -1.85). Basal ganglia PVS burden independently contributes to worse longitudinal executive function and visuospatial skills independent of other SVD markers, highlighting PVS as an emerging marker of domain-specific cognitive decline in aging. Although causation cannot be established, findings further support PVS as a vascular contributor to deep brain structure damage underlying cognitive decline over time.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42030516/",
+      "summary_ja": "背景：脳の小血管病（SVD）は認知症の主要な血管性要因であり、複数のSVDマーカーが共存するため、それぞれの認知機能への独立した影響評価が困難である。MRIで可視化される周血管腔（PVS）は新たなSVDマーカーとして注目されている。  \n方法：脳卒中や認知症のない750名（平均年齢68歳）を対象に、3テスラMRIでPVSや他のSVDマーカー（白質高信号、ラクーン、微小出血）を計測し、深層学習でPVS体積を抽出。平均約5年間にわたり詳細な神経心理検査を繰り返し実施し、線形混合効果モデルで認知機能の経時変化とSVDマーカーの関連を解析した。  \n結果：基底核のPVS負荷が高いほど、言語、実行機能、視空間認知、エピソード記憶の経時的低下と有意に関連。特に実行機能と視空間認知では他のSVDマーカーの影響を調整しても独立した関連が認められた。  \n結論：基底核PVSは他のSVDマーカーとは独立して、加齢に伴う特定認知領域の低下に寄与する新たな血管性認知機能障害の指標であり、深部脳構造の血管障害を反映している可能性が示唆された。",
+      "summary_short_ja": "MRIで可視化される基底核周囲血管周囲腔（PVS）は、脳小血管病（SVD）の新たなマーカーであり、認知機能低下に独立して関連することが示された。750名の高齢者を11年間追跡し、PVS負荷が高いほど実行機能や視空間認知の経時的低下が顕著であった。PVSは他のSVDマーカーと独立して認知機能低下に寄与し、加齢に伴う特定認知領域の障害の重要な指標となる可能性が示唆された。",
+      "disease": "stroke",
+      "section": "prognosis"
+    }
+  ]
+}
