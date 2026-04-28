@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42044225",
+      "doi": "10.1161/STROKEAHA.125.054389",
+      "title": "Preterm Delivery and Long-Term Risk of Maternal Stroke: Systematic Review and Meta-Analysis.",
+      "abstract": "Adverse pregnancy outcomes are linked to increased risk of maternal cardiovascular disease. However, the association between preterm delivery (PTD) and long-term risk of stroke in the mother remains uncertain, particularly in the case of spontaneous PTD. A systematic review and meta-analysis were performed to provide an up-to-date synthesis of the evidence on the association between PTD and long-term maternal stroke. PubMed, CINAHL, and Web of Science were searched for relevant articles published between January 1, 2000, and May 6, 2025. Eligible studies included cohort and case-control studies examining populations of parous women. Primary exposure was defined as any PTD; secondary exposures were spontaneous PTD and medically indicated PTD. The primary outcome was defined as any stroke; secondary outcomes were ischemic and hemorrhagic stroke. Two reviewers screened studies, extracted data, and performed quality assessments. Pooled unadjusted and adjusted effect estimates (as defined by the original study) were calculated separately using random effects inverse variance models. Eleven thousand twenty-five studies were screened for eligibility. Across 21 studies including a total of 8.7 million participants, PTD was consistently associated with increased stroke risk. The follow-up period ranged from 8 to 57 years. The primary meta-analysis demonstrated a positive association between any PTD and any stroke (adjusted risk ratio [aRR], 1.66 [95% CI, 1.34-2.05]). A high level of heterogeneity was observed ( Women who have experienced a PTD, including spontaneous PTD, may be at increased risk of stroke in later life. These women may benefit from targeted cardio-metabolic preventive interventions postpartum to reduce their risk.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42044225/",
+      "summary_ja": "背景：妊娠中の異常は母体の心血管疾患リスク増加と関連するが、早産（PTD）と母体の長期的な脳卒中リスクの関連性、特に自然早産の場合は不明確であった。  \n方法：2000年1月から2025年5月までのPubMed、CINAHL、Web of Scienceでの関連研究を系統的にレビューし、コホートおよび症例対照研究を対象にメタ解析を実施。主な曝露は任意の早産、二次曝露は自然早産および医療的早産。主要アウトカムは全脳卒中、二次アウトカムは虚血性および出血性脳卒中。21研究、約870万人の女性を解析。  \n結果：追跡期間は8～57年で、早産は脳卒中リスクの有意な増加と関連（調整後リスク比1.66、95%信頼区間1.34-2.05）。自然早産もリスク増加に寄与。異質性は高かった。  \n結論：早産経験女性は将来的に脳卒中リスクが高く、産後の心代謝予防介入が有益である可能性が示唆された。",
+      "summary_short_ja": "早産（PTD）は母親の長期的な脳卒中リスク増加と関連するか不明だったが、21件の研究（870万人対象）のメタ解析で、PTD経験者は脳卒中リスクが有意に高いことが示された（調整後リスク比1.66）。特に自然早産でもリスク増加が認められ、産後の心血管代謝予防介入が有効と考えられる。追跡期間は8～57年であった。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42030516",
       "doi": "10.1212/WNL.0000000000214803",
       "title": "Association of MRI-Visible Perivascular Spaces With Longitudinal Cognitive Decline Over a Decade.",
