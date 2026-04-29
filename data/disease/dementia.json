@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41950468",
+      "doi": "10.1080/13803395.2010.493151",
+      "title": "Effect of Cognitive Reserve on Age at Symptom Onset and Cognitive Decline in Individuals With Dominantly Inherited Alzheimer Disease.",
+      "abstract": "Cognitive reserve has been shown to modulate the onset and progression of Alzheimer disease (AD) symptoms. Although its role in sporadic AD is well-studied, how cognitive reserve influences the timing and progression of symptoms in dominantly inherited AD (DIAD) remains unclear. This study aimed to quantify cognitive reserve in DIAD carriers and test whether higher cognitive reserve is associated with later symptom onset and slower functional decline. We analyzed data from the Dominantly Inherited Alzheimer's Network study. Cognitive reserve was modeled using a residual-based latent variable approach, decomposing cognitive performance into demographic (CogD), biomarker (CogB), and reserve or residual (CogR) components. Primary outcomes were age at clinical symptom onset (CDR >0) and longitudinal change in the Clinical Dementia Rating-Sum of Boxes (CDR-SBs). Data were analyzed using Cox proportional hazards models and linear mixed-effects models, adjusting for estimated years from onset (EYO). A total of 710 Dominantly Inherited Alzheimer Network (DIAN) participants were included in the analysis, comprising 271 non-DIAD carriers (nMC), 284 asymptomatic DIAD carriers (aMC), and 155 symptomatic DIAD carriers. In asymptomatic carriers, using a zero-inflation model adjusted for EYO showed that a 1 SD increase in the reserve component (CogR) was associated with a 4.06-fold increase in the odds of being clinically unimpaired (CDR-SB = 0; 95% CI 1.84-8.95). Similarly, a 1 SD increase in the demographic (CogD) and biomarker (CogB) components increased the odds of being CDR-SB = 0 by 2.60 (95% CI 1.10-6.16) and 5.16 (95% CI 2.00-13.33), respectively. Among symptomatic carriers, only the reserve and the biomarker components were significant. A 1 SD increase in CogR was associated with a 0.81-fold reduction in baseline CDR-SB score (95% CI 0.72-0.92), and a 1 SD increase in CogB was associated with a 0.60-fold reduction in CDR-SB (95% CI 0.50-0.71). Our findings indicate that higher cognitive reserve values are associated with delayed conversion to mild cognitive impairment and slower progression on clinical dementia rating scales. These findings suggest that cognitive reserve plays a protective role in modifying the clinical trajectory of genetically determined AD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41950468/",
+      "summary_ja": "背景：認知予備力（cognitive reserve）はアルツハイマー病（AD）の症状発現や進行に影響を与えることが知られているが、遺伝性AD（DIAD）におけるその役割は不明であった。  \n方法：Dominantly Inherited Alzheimer's Network（DIAN）データを用い、認知機能を人口統計学的要因（CogD）、バイオマーカー（CogB）、予備力成分（CogR）に分解し、認知予備力の影響を解析。主要評価項目は症状発現年齢（CDR>0）と臨床認知症評価尺度（CDR-SB）の経時変化とした。  \n結果：710名の参加者（非保因者271名、無症状保因者284名、症状保因者155名）を解析。無症状保因者では、CogRの1標準偏差増加が臨床的無症状状態（CDR-SB=0）のオッズを4.06倍に増加させた。CogDおよびCogBも有意に関連。症状保因者ではCogRとCogBが有意で、CogRの増加は基準時のCDR-SBスコアを低下させた。  \n結論：認知予備力の高さは症状発現の遅延および認知機能低下の進行抑制に関連し、遺伝性ADの臨床経過を修飾する保護因子として重要であることが示された。",
+      "summary_short_ja": "本研究は、遺伝性アルツハイマー病（DIAD）における認知予備力が症状発現年齢や認知機能低下に与える影響を検証した。710名のDIAD参加者を対象に、認知予備力を人口統計学的要因、バイオマーカー、残差成分に分解し解析。認知予備力の高い者は症状発現が遅れ、認知機能低下も緩やかであった。これにより、認知予備力が遺伝性ADの臨床経過を修飾する保護因子であることが示唆された。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41945879",
+      "doi": "10.1212/WNL.0000000000214859",
+      "title": "Extent of Tau and Its Cognitive Implications in Patients With Cerebral Amyloid Angiopathy Without Cognitive Impairment.",
+      "abstract": "Despite a well-established amyloid-tau neurodegeneration cascade in Alzheimer disease (AD), the extent and mechanistic relevance of tau pathology in cerebral amyloid angiopathy (CAA), a disease of vascular amyloid deposition, remain unclear. Focusing on patients with CAA without cognitive impairment to minimize concurrent AD pathology, we hypothesized that tau extent would be greater in patients with CAA than in healthy controls (HCs), largely attributable to amyloid burden, but it would not be associated with CAA-related imaging markers or cognitive scores in CAA. This cross-sectional study included patients with CAA and age-matched and sex-matched HCs, none of whom had cognitive impairment or dementia. All participants underwent brain MRI, Pittsburgh compound B (PiB)-PET for amyloid, and  The mean age of patients with CAA (n = 50) was 70.3 ± 7.6 years and of HCs was 69.7 ± 7.5 years ( Our results suggest that tau extent is mainly driven by age and vascular amyloid among patients with CAA and that tau extent is not related to CAA-related imaging markers or cognitive scores. These findings further support the view that tau does not affect CAA-specific disease mechanisms among patients with CAA without cognitive impairment.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945879/",
+      "summary_ja": "背景：アルツハイマー病（AD）ではアミロイドとタウの神経変性連鎖が知られているが、血管性アミロイド沈着を特徴とする脳アミロイド血管症（CAA）におけるタウ病理の範囲やその意義は不明である。方法：認知障害のないCAA患者（n=50）と年齢・性別を一致させた健常対照群（HC）を対象に、脳MRI、Pittsburgh化合物B（PiB）PETによるアミロイド評価を行い、タウの範囲と認知機能との関連を検討した。結果：CAA患者の平均年齢は70.3歳、HCは69.7歳であり、タウの範囲はCAA患者でHCより大きかったが、これは主に年齢と血管性アミロイド負荷によるものであった。一方、タウの範囲はCAA特有の画像マーカーや認知機能スコアとは関連しなかった。結論：認知障害のないCAA患者において、タウの広がりは主に年齢と血管性アミロイドに依存し、CAA特有の病態や認知機能には影響しないことが示された。これは、タウがCAAの病態メカニズムに直接関与しないことを支持する知見である。",
+      "summary_short_ja": "認知障害のない脳アミロイド血管症（CAA）患者と健常者を比較した結果、CAA患者のタウ蛋白蓄積は主に加齢と血管性アミロイド負荷によって増加するが、CAA特有の画像マーカーや認知機能とは関連しなかった。これは、認知障害のないCAA患者においてタウ病理がCAAの病態進行に直接関与しないことを示唆している。",
+      "disease": "dementia",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41996657",
       "doi": "10.1212/WNL.0000000000214929",
       "title": "Differences in Survival Associated With the First Antiseizure Medication in People With Dementia and Epilepsy.",
@@ -90,21 +120,6 @@
       "summary_short_ja": "本研究は、優性遺伝性アルツハイマー病（DIAD）における認知予備力（cognitive reserve）が症状発現年齢や認知機能低下に与える影響を検証した。710名のDIAD関連者を対象に、認知予備力を人口統計学的要因、バイオマーカー、残差成分に分解し解析。認知予備力が高いほど症状発現が遅れ、臨床的認知機能低下の進行も緩やかであることが示された。認知予備力は遺伝性ADの臨床経過修飾に保護的役割を果たすと結論づけられる。",
       "disease": "dementia",
       "section": "prognosis"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "41945879",
-      "doi": "10.1212/WNL.0000000000214859",
-      "title": "Extent of Tau and Its Cognitive Implications in Patients With Cerebral Amyloid Angiopathy Without Cognitive Impairment.",
-      "abstract": "Despite a well-established amyloid-tau neurodegeneration cascade in Alzheimer disease (AD), the extent and mechanistic relevance of tau pathology in cerebral amyloid angiopathy (CAA), a disease of vascular amyloid deposition, remain unclear. Focusing on patients with CAA without cognitive impairment to minimize concurrent AD pathology, we hypothesized that tau extent would be greater in patients with CAA than in healthy controls (HCs), largely attributable to amyloid burden, but it would not be associated with CAA-related imaging markers or cognitive scores in CAA. This cross-sectional study included patients with CAA and age-matched and sex-matched HCs, none of whom had cognitive impairment or dementia. All participants underwent brain MRI, Pittsburgh compound B (PiB)-PET for amyloid, and  The mean age of patients with CAA (n = 50) was 70.3 ± 7.6 years and of HCs was 69.7 ± 7.5 years ( Our results suggest that tau extent is mainly driven by age and vascular amyloid among patients with CAA and that tau extent is not related to CAA-related imaging markers or cognitive scores. These findings further support the view that tau does not affect CAA-specific disease mechanisms among patients with CAA without cognitive impairment.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Apr-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41945879/",
-      "summary_ja": "背景：アルツハイマー病（AD）ではアミロイドとタウの神経変性連鎖が知られているが、血管性アミロイド沈着を特徴とする脳アミロイド血管症（CAA）におけるタウ病理の範囲やその意義は不明である。方法：認知障害のないCAA患者（n=50）と年齢・性別を一致させた健常対照群（HC）を対象に、脳MRI、Pittsburgh化合物B（PiB）PETによるアミロイド評価を行い、タウの範囲と認知機能との関連を検討した。結果：CAA患者の平均年齢は70.3歳、HCは69.7歳であり、タウの範囲はCAA患者でHCより大きかったが、これは主に年齢と血管性アミロイド負荷によるものであった。一方、タウの範囲はCAA特有の画像マーカーや認知機能スコアとは関連しなかった。結論：認知障害のないCAA患者において、タウの広がりは主に年齢と血管性アミロイドに依存し、CAA特有の病態や認知機能には影響しないことが示された。これは、タウがCAAの病態メカニズムに直接関与しないことを支持する知見である。",
-      "summary_short_ja": "認知障害のない脳アミロイド血管症（CAA）患者と健常者を比較した結果、CAA患者のタウ蛋白蓄積は主に加齢と血管性アミロイド負荷によって増加するが、CAA特有の画像マーカーや認知機能とは関連しなかった。これは、認知障害のないCAA患者においてタウ病理がCAAの病態進行に直接関与しないことを示唆している。",
-      "disease": "dementia",
-      "section": "imaging"
     },
     {
       "source": "pubmed",

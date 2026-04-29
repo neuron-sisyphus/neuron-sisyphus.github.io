@@ -3,21 +3,6 @@
   "items": [
     {
       "source": "pubmed",
-      "pmid": "41855451",
-      "doi": "10.1212/WNL.0000000000214778",
-      "title": "Resting-State EEG Microstates as Dynamic Biomarkers of Network Dysfunction and Cognitive Impairment in Patients With Multiple Sclerosis.",
-      "abstract": "Multiple sclerosis (MS) is characterized by large-scale brain network dysfunctions. EEG microstate analysis may track these dynamics. We investigated whether microstates could distinguish patients with MS from healthy volunteers, and cognitively impaired from cognitively preserved (CP) patients. For this cross-sectional observational study, we recruited participants from the Policlinico Umberto I Multiple Sclerosis Center (Rome). We compared microstates of patients with relapsing-remitting MS (Expanded Disability Status Scale [EDSS] score <3, no relapses within 30 days) with those of age-matched and sex-matched healthy volunteers. We also compared cognitively impaired and preserved patients. Group comparisons were performed on microstate temporal parameters and topographies (topographic analysis of variance). Classification used stepwise linear discriminant analysis (LDA). We enrolled 88 patients with MS (60 women, mean age 42.75 years) and 46 healthy volunteers (23 women, mean age 33.7 years). Compared with healthy volunteers (n = 45, 23 women, mean age 33.7 years), patients with MS (n = 46, 25 women, mean age 34.6 years) showed greater explained variance ( EEG microstates reveal behaviorally relevant alterations in patients with MS, supporting their utility as sensitive markers of large-scale functional network reorganization associated with clinical disability.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Apr-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41855451/",
-      "summary_ja": "背景：多発性硬化症（MS）は大規模な脳ネットワーク機能障害を特徴とし、脳波（EEG）マイクロステート解析がその動的変化を捉える可能性がある。  \n方法：ローマのPoliclinico Umberto I MSセンターで再発寛解型MS患者（EDSSスコア3未満、30日以内の再発なし）と年齢・性別を一致させた健常者を対象に、EEGマイクロステートの時間的パラメータとトポグラフィーを比較した。また、認知障害の有無による患者間比較も行い、段階的線形判別分析（LDA）で分類を試みた。  \n結果：MS患者（n=88、平均年齢42.75歳）は健常者（n=46、平均年齢33.7歳）に比べ、マイクロステートの説明分散が大きく、認知障害のある患者と認知保持患者間でも有意差が認められた。  \n結論：EEGマイクロステートはMS患者の行動関連変化を反映し、臨床的障害に伴う大規模機能ネットワークの再編成を敏感に示す動的バイオマーカーとして有用である。",
-      "summary_short_ja": "多発性硬化症（MS）患者の安静時EEGマイクロステートを解析し、健常者との脳ネットワーク機能の違いや認知障害の有無を検討した。MS患者は健常者に比べマイクロステートの時間的特徴や分布に有意差があり、認知障害の識別にも有用であった。これにより、EEGマイクロステートはMSに伴う大規模ネットワーク機能障害や認知機能低下の動的バイオマーカーとして有望であることが示された。",
-      "disease": "ms",
-      "section": "imaging"
-    },
-    {
-      "source": "pubmed",
       "pmid": "41941704",
       "doi": "10.1212/WNL.0000000000214834",
       "title": "Industry Payments and Prescribing of Brand-Name Multiple Sclerosis Medications in Medicare.",
@@ -30,6 +15,21 @@
       "summary_short_ja": "多発性硬化症治療薬の処方において、製薬企業からの支払いがブランド薬の処方増加と関連することを調査した。2021-2023年のデータ分析で、テバ社とバイオジェン社から1,000ドル以上の支払いを受けた医師は、ジェネリック薬よりもブランド薬を高頻度に処方する傾向が強く、患者および医療制度の費用増加に寄与していることが示された。",
       "disease": "ms",
       "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "41855451",
+      "doi": "10.1212/WNL.0000000000214778",
+      "title": "Resting-State EEG Microstates as Dynamic Biomarkers of Network Dysfunction and Cognitive Impairment in Patients With Multiple Sclerosis.",
+      "abstract": "Multiple sclerosis (MS) is characterized by large-scale brain network dysfunctions. EEG microstate analysis may track these dynamics. We investigated whether microstates could distinguish patients with MS from healthy volunteers, and cognitively impaired from cognitively preserved (CP) patients. For this cross-sectional observational study, we recruited participants from the Policlinico Umberto I Multiple Sclerosis Center (Rome). We compared microstates of patients with relapsing-remitting MS (Expanded Disability Status Scale [EDSS] score <3, no relapses within 30 days) with those of age-matched and sex-matched healthy volunteers. We also compared cognitively impaired and preserved patients. Group comparisons were performed on microstate temporal parameters and topographies (topographic analysis of variance). Classification used stepwise linear discriminant analysis (LDA). We enrolled 88 patients with MS (60 women, mean age 42.75 years) and 46 healthy volunteers (23 women, mean age 33.7 years). Compared with healthy volunteers (n = 45, 23 women, mean age 33.7 years), patients with MS (n = 46, 25 women, mean age 34.6 years) showed greater explained variance ( EEG microstates reveal behaviorally relevant alterations in patients with MS, supporting their utility as sensitive markers of large-scale functional network reorganization associated with clinical disability.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41855451/",
+      "summary_ja": "背景：多発性硬化症（MS）は大規模な脳ネットワーク機能障害を特徴とし、脳波（EEG）マイクロステート解析がその動的変化を捉える可能性がある。  \n方法：ローマのPoliclinico Umberto I MSセンターで再発寛解型MS患者（EDSSスコア3未満、30日以内の再発なし）と年齢・性別を一致させた健常者を対象に、EEGマイクロステートの時間的パラメータとトポグラフィーを比較した。また、認知障害の有無による患者間比較も行い、段階的線形判別分析（LDA）で分類を試みた。  \n結果：MS患者（n=88、平均年齢42.75歳）は健常者（n=46、平均年齢33.7歳）に比べ、マイクロステートの説明分散が大きく、認知障害のある患者と認知保持患者間でも有意差が認められた。  \n結論：EEGマイクロステートはMS患者の行動関連変化を反映し、臨床的障害に伴う大規模機能ネットワークの再編成を敏感に示す動的バイオマーカーとして有用である。",
+      "summary_short_ja": "多発性硬化症（MS）患者の安静時EEGマイクロステートを解析し、健常者との脳ネットワーク機能の違いや認知障害の有無を検討した。MS患者は健常者に比べマイクロステートの時間的特徴や分布に有意差があり、認知障害の識別にも有用であった。これにより、EEGマイクロステートはMSに伴う大規模ネットワーク機能障害や認知機能低下の動的バイオマーカーとして有望であることが示された。",
+      "disease": "ms",
+      "section": "imaging"
     },
     {
       "source": "pubmed",

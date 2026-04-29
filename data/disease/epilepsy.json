@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41945878",
+      "doi": "10.1634/THEONCOLOGIST.2018-0028",
+      "title": "Role of Tocilizumab in Severe CNS Inflammatory Presentations in Children.",
+      "abstract": "Anti-interleukin 6 receptor (anti-IL6R) therapies have been proven to reduce relapse rates in patients with neuromyelitis optica spectrum disorder and are under investigation in myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD). One anti-IL6R therapy, tocilizumab (TCZ), has been reported as a treatment option in cases of life-threatening MOGAD attacks. The aim of this study was to further evaluate the safety and effectiveness of IV-TCZ for acute and severe CNS inflammatory events in children. This retrospective study reviewed medical records of children younger than 18 years treated with IV-TCZ for acute-severe CNS inflammation at the Children's Hospital of Philadelphia between 2022 and 2025, excluding those with new-onset refractory status epilepticus without evidence of CNS inflammation. Clinical features, imaging, serum and CSF profiles, treatments, and outcomes were assessed, with primary evaluation of TCZ response within 72 hours postadministration. Eleven patients were included, of whom 8 demonstrated clinical improvement within 72 hours of IV-TCZ administration. Outcomes included rapid intracranial pressure reduction, recovery in relapsing optic neuritis and myelitis, and improvement in RANBP2-related acute necrotizing encephalopathy. No acute adverse effects were observed. One patient died despite immunotherapy. CSF cytokine panels showed elevated IL-6 in 5 patients, with normal serum IL-6 concentrations. Three of the 5 showed a response to TCZ. TCZ may offer potential benefit in select neuroinflammatory conditions, although clinical trials are needed to confirm its efficacy and guide use in such scenarios. This study provides Class IV evidence that TCZ improves clinical outcomes in children with acute-severe CNS inflammatory events.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41945878/",
+      "summary_ja": "背景：抗インターロイキン6受容体（anti-IL6R）療法は、視神経脊髄炎スペクトラム障害やミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）における再発抑制効果が示されている。トシリズマブ（TCZ）は、生命を脅かす重症MOGAD発作の治療選択肢として報告されているが、小児の重度中枢神経系（CNS）炎症に対する安全性と有効性の検証が必要である。  \n方法：2022～2025年にフィラデルフィア小児病院で急性重症CNS炎症に対しIV-TCZを投与された18歳未満の小児11例の後ろ向き医療記録を解析。新規発症の難治性てんかん重積状態でCNS炎症の証拠がない症例は除外。臨床所見、画像、血清・髄液検査、治療経過、72時間以内のTCZ反応を評価。  \n結果：11例中8例が投与後72時間以内に臨床改善を示し、頭蓋内圧の迅速低下、再発性視神経炎・脊髄炎の回復、RANBP2関連急性壊死性脳症の改善が認められた。急性副作用はなく、1例は免疫療法下で死亡。髄液IL-6は5例で上昇し、そのうち3例がTCZに反応。血清IL-6は正常範囲内であった。  \n結論：TCZは小児の急性重症CNS炎症に対し臨床的利益をもたらす可能性があるが、効果の確証と適応指針策定にはさらなる臨床試験が必要である。本研究はClass IVのエビデンスとしてTCZの有用性を示している。",
+      "summary_short_ja": "本研究は、小児の重度中枢神経炎症に対する抗IL-6受容体薬トシリズマブ（TCZ）の安全性と有効性を後ろ向きに検討した。11例中8例が投与後72時間以内に臨床改善を示し、頭蓋内圧の迅速低下や視神経炎・脊髄炎の回復が認められた。副作用はなく、一部で髄液中IL-6上昇が確認された。TCZは特定の神経炎症疾患に有用の可能性があるが、さらなる臨床試験が必要である。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42030518",
       "doi": "10.1212/WNL.0000000000214875",
       "title": "Postapproval Study for Brain-Responsive Neurostimulation for Drug-Resistant Focal Epilepsy: Three-Year Efficacy and Interim Safety Results.",
