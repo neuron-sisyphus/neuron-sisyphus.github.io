@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41931746",
+      "doi": "10.1136/bmj.m131",
+      "title": "Long-Term Exposure to Ambient Air Pollution and Incident Amyotrophic Lateral Sclerosis: A Prospective Cohort Analysis of the UK Biobank.",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease with a complex etiology. Although a range of genetic and lifestyle factors have been implicated, the potential role of environmental airborne pollution exposure is uncertain. This study examined the association between long-term ambient exposure to air pollutants and the incidence of ALS in UK Biobank participants. This prospective cohort study was based on the UK Biobank participants aged 40-69 years. The analytical sample comprised participants free of ALS at baseline and had complete data on air pollution exposure. Long-term exposure (2006-2021) to nitrogen dioxide (NO Among the 501,308 participants with a mean age of 56.5 (SD 8.1) years at baseline, 272,764 (54.4%) were female. Over a median follow-up of 8.4 years, 687 individuals developed ALS. We did not observe any associations for any of the examined pollutants and ALS risk. Specifically, the hazard ratios per SD increment for PM In this large population-based study with high statistical power, ambient air pollution was not a risk factor for the development of ALS.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Apr-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41931746/",
+      "summary_ja": "背景：筋萎縮性側索硬化症（ALS）は複雑な原因を持つ神経変性疾患であり、遺伝的要因や生活習慣以外に環境中の大気汚染が発症に関与する可能性が検討されているが、明確な関連は不明である。  \n方法：英国バイオバンクの40～69歳の参加者501,308名（女性54.4％）を対象に、2006年から2021年までの長期大気汚染（NO2、PM2.5など）曝露とALS発症の関連を前向きコホート解析で調査した。ALS発症者は追跡期間中央値8.4年で687名であった。  \n結果：大気汚染物質の曝露とALS発症リスクとの間に有意な関連は認められなかった。具体的には、PM2.5やNO2の標準偏差増加あたりのハザード比は統計的に有意ではなかった。  \n結論：大規模かつ統計的検出力の高い本研究において、環境中の大気汚染はALS発症のリスク因子とはならないことが示された。",
+      "summary_short_ja": "本研究はUKバイオバンクの40～69歳参加者約50万人を対象に、2006～2021年の長期大気汚染曝露と筋萎縮性側索硬化症（ALS）発症の関連を前向きに検討した。中央値8.4年の追跡で687例のALS発症があったが、窒素酸化物や微小粒子状物質などの大気汚染物質曝露とALSリスクに有意な関連は認められなかった。大気汚染はALS発症のリスク因子ではないと結論づけられた。",
+      "disease": "als",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42013406",
       "doi": "10.1212/WNL.0000000000214937",
       "title": "Heterogeneity in the Analysis of the ALSFRS-R in ALS Clinical Trials and its Effect on the Validity and Precision of Trial Conclusions.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42054604",
+      "doi": "10.1212/WNL.0000000000218008",
+      "title": "Neurology Wait Times After Primary Care or Emergency Department Visits Among the Commercially Insured Population in the United States: 2019-2023.",
+      "abstract": "Despite the importance of timely access to ambulatory specialty care, data regarding wait times to neurologists are largely lacking. This study examines wait times, and drivers of wait times, for new neurology office visits among commercially insured persons in the United States. We conducted a retrospective, repeated cross-sectional study using 2019-2023 data from the Merative MarketScan Commercial Database of approximately 20 million annual US enrollees. Enrollees with a new neurology visit, a primary care or emergency department (ED) visit in the prior 365 days, and continuous enrollment were included. The outcome was wait time in days for a new neurology visit following a primary care or ED visit. Mean (SD) and median (interquartile range [IQR]) wait times were reported by sex, race, neurologic condition, insurance type, and geographic region. Wait times were modeled using generalized estimating equations, clustering within metropolitan statistical areas (MSAs), and adjusted for demographic, insurance, clinical, and geographic variables. Between 2019 and 2023, 114,034 enrollees met our inclusion criteria, the mean age was 42.1 (SD = 16.1), and 65.6% were female. The average wait time for a new neurology visit was 49.7 days (SD = 65.4), and the median wait was 25.0 days (IQR = 9-62). Estimated wait times were shorter for female patients, compared with male patients (-7.0 days; 95% CI -7.8 to -6.2), and for stroke (-8.2 days; 95% CI -9.5 to -6.9), dizziness or vertigo (-7.8 days; 95% CI -10.4 to -5.1), and traumatic brain injury (-6.5 days; 95% CI -8.0 to -5.1) and longer for multiple sclerosis (+4.0 days; 95% CI 2.0-6.1). The Northeast Census region had the longest waits (+4.6 days; 95% CI 3.3-6.0). The proportion of non-Hispanic White race within a MSA was associated with reduced wait times (-0.2 days per MSA percent White; 95% CI -0.2 to -0.1). Enrollees with consumer driven health plans had the shortest wait times (-2.4 days; 95% CI -3.6 to -1.2). Neurologist density/100,000 enrollees was not associated with wait time (0.0 days: 95% CI -0.01 to 0.00). Wait times for new neurology appointments vary by sex, neurologic condition, insurance type, and geographic level variables.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42054604/",
+      "summary_ja": "背景：神経内科専門医への迅速な受診は重要であるが、米国の商業保険加入者における待機時間の実態は不明である。  \n方法：2019～2023年のMerative MarketScan商業保険データ（約2,000万人規模）を用い、新規神経内科受診者で過去1年以内にプライマリケアまたは救急受診歴があり継続加入している114,034名を対象に、受診までの待機日数を性別、人種、神経疾患、保険種別、地域別に分析。一般化推定方程式で多変量調整を行った。  \n結果：平均待機日数は49.7日、中央値は25日（IQR 9-62）であった。女性は男性より7日短く、脳卒中、めまい、外傷性脳損傷は待機時間が短い一方、多発性硬化症は4日長かった。北東部地域は最も待機時間が長く、MSA内の非ヒスパニック白人比率が高いほど待機時間は短かった。消費者主導型保険加入者は最も短い待機時間を示した。神経内科医の密度は待機時間に影響しなかった。  \n結論：新規神経内科受診の待機時間は性別、疾患種別、保険形態、地域特性により異なり、医師数だけでなく多様な要因が影響していることが示された。",
+      "summary_short_ja": "米国の商業保険加入者約11万人を対象に、2019～2023年の初診神経科受診までの待機時間を分析した。平均待機日数は約50日、中央値は25日で、女性や脳卒中、めまい、外傷性脳損傷患者は短く、多発性硬化症患者は長かった。地域差もあり、北東部で最長。保険種別や人種構成も影響し、神経科医の密度は待機時間に関連しなかった。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42044225",
       "doi": "10.1161/STROKEAHA.125.054389",
       "title": "Preterm Delivery and Long-Term Risk of Maternal Stroke: Systematic Review and Meta-Analysis.",
