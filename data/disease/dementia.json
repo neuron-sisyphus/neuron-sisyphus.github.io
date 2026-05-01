@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42060877",
+      "doi": "10.1212/WNL.0000000000214935",
+      "title": "Association of 24-Hour Blood Pressure Variability With Cognition and Brain MRI Markers of Structural Change in Adults in Mid- to Late-Life.",
+      "abstract": "Blood pressure (BP) fluctuates across the 24-hour period. High 24-hour BP variability (BPV) is associated with cardiovascular disease risk, yet its relevance for brain health is unclear. We aimed to examine associations between 24-hour BPV, cognition, and multimodal MRI markers of brain health, and whether these were modified by  In a cross-sectional study, dementia-free participants aged 55-80, from the community-based Brain and Cognitive Health (BACH) study in Melbourne, Australia, completed 24-hour ambulatory BP monitoring (ABPM) and hospital-based assessments: office BP, blood collection, neuropsychological testing, and brain MRI. ABPM variables included mean BP and coefficient of variation for 24-hour, awake, and asleep periods. Composites for global cognition and executive function were calculated. MRI markers included white matter hyperintensities (WMHs), brain volumetrics, cerebral blood flow, white matter free water, diffusion along the perivascular space, and blood-brain barrier water exchange rate. The primary outcomes were global cognition and WMH. We sought to partially replicate associations between ABPM and cognition in the HYpertension and gut PERmeability (HYPER) study, where cognition was assessed with the digital NIH Toolbox. Linear regressions were adjusted for demographic and vascular risk factors, with coefficients representing SD change in outcome per SD increase in exposure. In the BACH study (mean age = 67 years; 51% female; n = 225), higher 24-hour and awake BPV were associated with poorer global cognition (24-hour BPV: β = -0.152, 95% CI 0.278 to -0.027; awake BPV: -0.158, 95% CI -0.285 to -0.031) and executive function (24-hour BPV: β = -0.174, 95% CI-0.299 to -0.049; awake BPV: β = -0.168, 95% CI -0.294 to -0.042). BPV negatively associated with BBB  Higher BPV was associated with poorer global cognition and executive functioning, and compromised blood-brain barrier integrity, with additional associations evident only among",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42060877/",
+      "summary_ja": "背景：血圧は24時間で変動し、その変動性（BPV）が心血管疾患リスクと関連することは知られているが、脳の健康への影響は不明である。  \n方法：オーストラリアのコミュニティベースのBACH研究に参加した55～80歳の認知症非罹患者225名を対象に、24時間の血圧モニタリング（ABPM）、神経心理検査、脳MRIを実施した。血圧の平均値と変動係数を24時間、覚醒時、睡眠時で算出し、認知機能（全体認知と実行機能）とMRI指標（白質病変、脳容積、血流、血液脳関門の水交換率など）との関連を線形回帰で解析した。  \n結果：24時間および覚醒時のBPVが高いほど、全体認知（β=-0.152、-0.158）と実行機能（β=-0.174、-0.168）が低下し、血液脳関門の機能障害とも関連した。  \n結論：中高年成人において、24時間血圧変動の増加は認知機能低下および血液脳関門の障害と関連し、脳の健康維持におけるBPVの重要性が示唆された。",
+      "summary_short_ja": "本研究は、55～80歳の認知症非罹患者を対象に24時間血圧変動（BPV）と認知機能および脳MRIマーカーの関連を検討した。結果、24時間および覚醒時のBPVが高いほど、全般的認知機能と実行機能が低下し、血液脳関門の機能障害と関連した。これらの知見は脳の構造的変化や認知機能低下におけるBPVの重要性を示唆している。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41950468",
       "doi": "10.1080/13803395.2010.493151",
       "title": "Effect of Cognitive Reserve on Age at Symptom Onset and Cognitive Decline in Individuals With Dominantly Inherited Alzheimer Disease.",

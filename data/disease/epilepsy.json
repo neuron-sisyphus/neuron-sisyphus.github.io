@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42060883",
+      "doi": "10.1212/WNL.0000000000214939",
+      "title": "Temporal Trends and Regional Variations in Mortality of Adults With Status Epilepticus in the United States: A Retrospective Study From 1999 to 2020.",
+      "abstract": "With an incidence of 18.3-41 per 1,000 people in the United States, status epilepticus (SE) can frequently result in death. We aimed to investigate the mortality trends in SE in the United States stratified by age groups, sex, race/ethnicity, and geographic region. We retrieved data from the CDC-WONDER database for adults aged ≥25 years. Crude rates (CRs) and age-adjusted mortality rates (AAMRs) per 100,000 persons were calculated. We estimated the annual percent change (APC) in mortality rates to identify trends using ioinpoint regression. From 1999 to 2020, a total of 32,174 SE-related deaths were recorded in adults, 83.7% of which occurred in medical facilities. The AAMR displayed a period of stability from 1999 to 2007, followed by an increase until 2020. We observed the highest CRs among adults ≥65 years. Men showed higher AAMRs than women. Non-Hispanic (NH) Black people had the highest AAMR and the greatest rise in mortality, followed by NH Whites and Hispanics or Latinos. The South displayed the highest AAMR of all regions. SE-related mortality in adults has been rising with notable disparities. Addressing racial disparities and tailoring management strategies for high-risk groups are critical to curb SE.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42060883/",
+      "summary_ja": "背景：米国におけるてんかん重積状態（SE）は、人口1,000人あたり18.3～41件の発生率を持ち、死亡リスクが高い。本研究は、1999年から2020年までの成人（25歳以上）のSE関連死亡率の年次推移と、年齢、性別、人種・民族、地域別の差異を調査した。  \n方法：CDC-WONDERデータベースから成人のSE関連死亡データを収集し、人口10万人あたりの粗死亡率（CR）および年齢調整死亡率（AAMR）を算出。ジョインポイント回帰により年次変化率（APC）を分析した。  \n結果：1999～2020年に32,174件のSE関連死亡が記録され、その83.7％は医療施設内で発生。AAMRは1999～2007年に安定し、その後2020年まで増加傾向を示した。65歳以上で最も高いCRを示し、男性のAAMRは女性より高かった。非ヒスパニック系黒人が最も高いAAMRと増加率を示し、次いで非ヒスパニック系白人、ヒスパニック系が続いた。地域別では南部が最も高いAAMRを示した。  \n結論：成人のSE関連死亡率は増加傾向にあり、人種・地域間で顕著な格差が存在する。これらの格差是正と高リスク群への管理戦略の最適化が、SEによる死亡抑制に重要である。",
+      "summary_short_ja": "米国における成人のてんかん重積状態（SE）による死亡率を1999～2020年のCDCデータで分析した結果、65歳以上で最も高く、男性が女性より高率であった。人種別では非ヒスパニック系黒人が最も高く増加傾向が顕著で、地域別では南部が最も高かった。全体として2007年以降死亡率は上昇し、人種・地域間の格差解消と高リスク群への対策強化が重要とされた。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41945878",
       "doi": "10.1634/THEONCOLOGIST.2018-0028",
       "title": "Role of Tocilizumab in Severe CNS Inflammatory Presentations in Children.",

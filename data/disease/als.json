@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42060881",
+      "doi": "10.1212/WNL.0000000000214940",
+      "title": "Phosphorylated TDP-43 Pathology in Skin and Muscle Tissue of Patients With Amyotrophic Lateral Sclerosis.",
+      "abstract": "Phosphorylated TAR DNA-binding protein 43 (pTDP-43) is the pathologic hallmark of amyotrophic lateral sclerosis (ALS), yet no peripheral premortem biomarker is available. We evaluated pTDP-43 distribution in skin and tongue tissues and its association with ALS and clinical stage. This cross-sectional case-control study included patients with ALS meeting revised El Escorial criteria who underwent skin and tongue biopsies. Control groups included healthy controls (HC), patients with non-ALS neuropathy or neuronopathy (NANN), and patients with burning mouth syndrome (BMS). pTDP-43 was quantified in Meissner corpuscles (MC) and keratinocytes using standardized immunofluorescence. In MC, PGP (%), pTDP-43 (%), and the pTDP-43/PGP ratio were assessed. A subset of skin samples underwent western blot analysis. ALS severity was classified using King's staging system. Diagnostic performance was evaluated using receiver operating characteristic analysis. Fifty patients with ALS were included, median age 66.5 years, 36% female. Control groups included 20 HC, median age 60 years, 20% female, and 20 patients with NANN, median age 60 years, 50% female. Tongue biopsy was performed in 10 patients with ALS and 10 patients with BMS. pTDP-43 deposits were detected in ALS across epidermis and dermis structures, whereas they were almost absent in HC and low in NANN. Accordingly, MC pTDP-43% differed across groups (H = 53.30;  Peripheral pTDP-43 deposition distinguishes ALS from controls and reflects disease stage, supporting its potential role as a biomarker of ALS and disease severity. Larger and longitudinal studies are required for validation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42060881/",
+      "summary_ja": "背景：筋萎縮性側索硬化症（ALS）の病理学的特徴であるリン酸化TDP-43（pTDP-43）は、末梢での生前バイオマーカーが未確立である。  \n方法：改訂El Escorial基準を満たすALS患者50名と対照群（健康者20名、非ALS神経障害患者20名、燃焼口腔症患者10名）を対象に、皮膚および舌組織の生検を実施。免疫蛍光法でMeissner小体（MC）と角化細胞のpTDP-43を定量し、一部はウエスタンブロット解析も行った。ALSの重症度はKing’sステージで評価。  \n結果：ALS患者の表皮および真皮構造にpTDP-43沈着が認められ、対照群ではほとんど検出されなかった。MC内のpTDP-43割合は群間で有意差を示し、ALSの病期と相関した。  \n結論：末梢組織におけるpTDP-43沈着はALSの診断および病期評価に有用なバイオマーカーとなる可能性が示された。今後は大規模かつ縦断的研究による検証が必要である。",
+      "summary_short_ja": "本研究はALS患者の皮膚および舌組織におけるリン酸化TDP-43（pTDP-43）の分布を調査し、ALS診断および病期との関連を検討した。ALS患者では皮膚のMeissner小体や角化細胞にpTDP-43が蓄積し、対照群ではほとんど認められなかった。pTDP-43の蓄積はALSの病期と相関し、診断および重症度評価のバイオマーカーとしての可能性を示唆する。今後、大規模かつ縦断的研究による検証が必要である。",
+      "disease": "als",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41931746",
       "doi": "10.1136/bmj.m131",
       "title": "Long-Term Exposure to Ambient Air Pollution and Incident Amyotrophic Lateral Sclerosis: A Prospective Cohort Analysis of the UK Biobank.",
