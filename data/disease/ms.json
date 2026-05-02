@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42037489",
+      "doi": "10.1111/ene.70568",
+      "title": "Explainable Artificial Intelligence to Predict Neurocognitive Disorder Progression in Multiple Sclerosis Using MRI and Clinical Data.",
+      "abstract": "Cognitive impairment is common in multiple sclerosis (MS), yet the application of diagnostic frameworks of Neurocognitive Disorders (NCDs) is limited. Additionally, the integration of multimodal data for predicting cognitive outcomes using artificial intelligence (AI) remains underexplored. This study aimed to characterize NCDs in MS and predict cognitive worsening using an explainable deep learning model trained on MRI and clinical data. Two-hundred twenty-four MS patients and 115 healthy controls (HC) underwent 3.0 T MRI and clinical assessment at baseline. MS patients also completed neuropsychological testing, including estimation of z-cognitive reserve, at baseline and after a median follow-up of 3.4 (interquartile range = [2.0; 6.1]) years. MS patients were classified as Mild or Major NCD according to the Diagnostic and Statistical Manual of Mental Disorders criteria at baseline, and as \"stable\" or \"worsened\" based on cognitive changes at follow-up. A deep learning model was trained on baseline T1-weighted MRI, demographic, clinical, and brain volumetric data to predict cognitive decline, with explainability methods used to interpret the model's decisions. At baseline, 4% of patients had Mild and 11% Major NCD. At follow-up, 12% showed cognitive decline. The deep learning model predicted follow-up cognitive status with 90% accuracy. Explainability models identified the most relevant predictors, in order of importance: cortical gray matter volume, age, thalamic and hippocampal volumes, T2 lesion volume, and z-cognitive reserve. The proposed multimodal AI approach demonstrated robust performance and highlighted relevant brain regions associated with cognitive worsening, underscoring its potential for personalized cognitive assessment and monitoring in MS.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42037489/",
+      "summary_ja": "背景：多発性硬化症（MS）では認知機能障害が一般的であるが、神経認知障害（NCD）の診断枠組みの適用は限定的であり、MRIや臨床データを用いた多モーダルAIによる認知予測も十分に研究されていない。  \n方法：224名のMS患者と115名の健常者が3.0T MRIと臨床評価を受け、MS患者は神経心理検査を基にDSM基準で軽度または重度のNCDに分類された。中央値3.4年の追跡期間後、認知機能の変化により「安定」または「悪化」に分類。T1強調MRI、人口統計、臨床、脳容積データを用い、深層学習モデルで認知機能悪化を予測し、説明可能性手法でモデルの判断根拠を解析した。  \n結果：ベースラインで4％が軽度NCD、11％が重度NCD。追跡時に12％が認知機能低下を示した。モデルは90％の精度で認知状態を予測。重要な予測因子は皮質灰白質容積、年齢、視床・海馬容積、T2病変容積、認知予備力の順であった。  \n結論：多モーダルAIはMSにおける認知機能悪化の高精度予測を可能にし、関連脳領域の特定も示した。個別化認知評価・モニタリングへの応用が期待される。",
+      "summary_short_ja": "多発性硬化症（MS）患者の神経認知障害（NCD）進行を、MRIと臨床データを用いた説明可能な深層学習モデルで予測した。224名のMS患者を対象に、ベースラインと約3.4年後の認知機能を評価し、モデルは90％の精度で認知悪化を予測。重要な予測因子は皮質灰白質体積、年齢、視床・海馬体積、T2病変体積、認知予備力であり、個別化された認知評価・モニタリングへの応用が期待される。",
+      "disease": "ms",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41941704",
       "doi": "10.1212/WNL.0000000000214834",
       "title": "Industry Payments and Prescribing of Brand-Name Multiple Sclerosis Medications in Medicare.",
