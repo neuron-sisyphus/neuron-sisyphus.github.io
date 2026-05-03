@@ -48,6 +48,21 @@
     },
     {
       "source": "pubmed",
+      "pmid": "41948826",
+      "doi": "10.1038/nrcardio.2015.2",
+      "title": "Dental Flossing May Lower the Risk for Incident Ischemic Stroke, Cardioembolic Stroke Subtype, and Atrial Fibrillation.",
+      "abstract": "Prior studies have demonstrated an association between oral infection and both incident stroke and atrial fibrillation (AF), a major cause of cardioembolic stroke. However, the impact of preventive oral behaviors such as dental flossing on incident stroke and AF remains unclear. We evaluated the relationship between flossing, incident stroke subtypes, and AF from the ARIC study (Atherosclerosis Risk in Communities). We conducted a prospective cohort study using data from the ARIC study. Flossing was assessed via a structured questionnaire at visit 4 (1996-1998). Participants were censored at the first stroke, death, or loss-to-follow-up through December 31, 2021. Incident ischemic stroke and subtypes were evaluated using Cox proportional hazards models, adjusting for cardiovascular risk factors, education, regular brushing, dental care utilization, periodontal disease, and dental caries. Among 6200 dentate participants without prior stroke, 65% (n=4049) reported regular flossing. Flossers had significantly lower prevalence of vascular risk factors, periodontal disease, and dental caries at baseline. Flossers had lower IL (interleukin)-6 levels in crude analysis, but this difference was explained by confounding from age, body mass index, and smoking. CRP (C-reactive protein) levels did not differ between groups. During a median 23.7 years follow-up, 434 ischemic strokes occurred, including 146 thrombotic, 102 cardioembolic, 95 lacunar, and 91 other ischemic subtypes. Nonflossers had higher rates of both ischemic stroke (8.7% versus 6.1%) and nonstroke mortality (40.8% versus 34.5%). Flossing was associated with lower risk of ischemic stroke (adjusted hazard ratio, 0.77 [95% CI, 0.64-0.96]), cardioembolic stroke (adjusted hazard ratio, 0.60 [95% CI, 0.38-0.94]), and AF (adjusted hazard ratio, 0.88 [95% CI, 0.77-0.99]) with dose-response relationship ( Regular flossing was associated with a lower risk of ischemic stroke, primarily driven by reductions in cardioembolic stroke and AF, independent of other oral health behaviors. URL: https://www.clinicaltrials.gov; Unique identifier: NCT00005131.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-May",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41948826/",
+      "summary_ja": "背景：口腔感染は脳卒中や心房細動（AF）と関連するが、デンタルフロスなどの予防的口腔ケアがこれらの発症リスクに与える影響は不明である。  \n方法：ARIC研究のデータを用いた前向きコホート研究で、1996-1998年の調査時にフロス使用状況を質問し、最大23.7年間追跡。脳卒中発症とそのサブタイプ、AF発症との関連を多変量解析で評価した。  \n結果：6200名の歯保持者のうち65％が定期的にフロスを使用。フロス使用者は血管リスク因子や歯周病の有病率が低く、IL-6は年齢などの交絡因子調整後に差が消失。追跡期間中に434件の虚血性脳卒中が発生し、フロス非使用者は虚血性脳卒中および非脳卒中死亡率が高かった。フロス使用は虚血性脳卒中（調整ハザード比0.77）、特に心原性脳塞栓症（0.60）およびAF（0.88）のリスク低下と関連し、用量反応関係も認められた。  \n結論：定期的なデンタルフロス使用は、他の口腔ケア行動に依存せず、主に心原性脳卒中およびAFの発症リスクを低減し、虚血性脳卒中予防に有効である可能性が示された。",
+      "summary_short_ja": "歯間清掃（デンタルフロス）は、虚血性脳卒中、特に心原性脳塞栓症および心房細動（AF）の発症リスクを低減する可能性がある。ARIC研究の6200名の無脳卒中参加者を23.7年間追跡した結果、フロス使用者は非使用者に比べ虚血性脳卒中やAFの発症率が有意に低く、心血管リスク因子や他の口腔衛生行動を調整してもこの関連は維持された。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42054604",
       "doi": "10.1212/WNL.0000000000218008",
       "title": "Neurology Wait Times After Primary Care or Emergency Department Visits Among the Commercially Insured Population in the United States: 2019-2023.",
