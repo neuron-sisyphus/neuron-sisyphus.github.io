@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42081777",
+      "doi": "10.1212/WNL.0000000000214915",
+      "title": "Intrathecal Mesenchymal Stem Cells in Progressive Multiple Sclerosis: A Randomized, Double-Blind, Placebo-Controlled Trial (SMART-MS).",
+      "abstract": "There is an unmet need for neuroregenerative therapies in multiple sclerosis (MS). Mesenchymal stem cells (MSCs) have shown immunomodulatory and regenerative effects in preclinical models and early clinical studies. Intrathecal administration may enhance therapeutic potential by direct delivery to the CNS. However, randomized, placebo-controlled trials are needed to establish safety and efficacy. The objective of this trial was to assess whether a single intrathecal administration of autologous MSCs could provide evidence of a neuroregenerative effect in progressive MS. In this randomized, double-blind, placebo-controlled phase I/II trial (NCT04749667), patients with progressive MS enrolled at 4 Norwegian tertiary hospitals received a single intrathecal injection of autologous bone marrow-derived MSCs (1 × 10 A total of 18 patients were included (mean age 46.7 years; 55.6% female). No significant between-group difference was observed for the primary end point (β = -0.31, 95% CI -1.84 to 1.22,  A neuroregenerative effect was not detected, although interpretation may be limited by the small sample size. Adverse events suggest an acute localized inflammatory reaction after MSC administration. Our findings suggest that intrathecal administration of MSCs in progressive MS should be approached with caution in future studies. This study provides Class III evidence that, in patients with progressive multiple sclerosis, treatment with a single intrathecal administration of autologous mesenchymal stem cells does not provide neuroregenerative effect, as assessed by a composite evoked potential score. ClinicalTrials.gov (NCT04749667); registered February 8, 2021; first patient enrolled August 9, 2021.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42081777/",
+      "summary_ja": "背景：多発性硬化症（MS）における神経再生療法のニーズは高い。間葉系幹細胞（MSC）は免疫調節および再生効果が期待され、脳脊髄液内（髄腔内）投与により中枢神経系への直接的な治療効果が期待されるが、ランダム化プラセボ対照試験による安全性・有効性の検証が必要である。  \n方法：進行型MS患者18名（平均年齢46.7歳、女性55.6%）を対象に、4つのノルウェーの三次医療機関で自家骨髄由来MSCを単回髄腔内投与する二重盲検プラセボ対照第I/II相試験を実施した。  \n結果：主要評価項目である複合誘発電位スコアにおいて、MSC投与群とプラセボ群間で有意差は認められなかった（β = -0.31, 95% CI -1.84～1.22）。副作用としてMSC投与後に局所的な急性炎症反応が示唆された。  \n結論：単回の髄腔内MSC投与は進行型MS患者において神経再生効果を示さず、今後の研究では慎重な検討が必要である。",
+      "summary_short_ja": "進行性多発性硬化症（MS）患者18名を対象に、自家骨髄由来間葉系幹細胞（MSC）の単回脊髄内投与の神経再生効果を検証した無作為二重盲検プラセボ対照試験を実施した。主要評価項目に有意差は認められず、MSC投与後に局所的な急性炎症反応が示唆された。結果はサンプル数の制約もあり慎重な解釈が必要で、進行性MSに対するMSCの脊髄内投与は今後の研究で注意が求められる。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42037489",
       "doi": "10.1111/ene.70568",
       "title": "Explainable Artificial Intelligence to Predict Neurocognitive Disorder Progression in Multiple Sclerosis Using MRI and Clinical Data.",

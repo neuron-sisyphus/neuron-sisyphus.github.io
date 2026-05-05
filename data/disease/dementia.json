@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42081782",
+      "doi": "10.1212/WNL.0000000000214953",
+      "title": "What Does a Positive Alzheimer Disease Blood-Based Biomarker Result Mean in People With Mild Cognitive Impairment?",
+      "abstract": "Blood-based biomarkers (BBMs) for Alzheimer disease (AD) offer widely expanded access to biomarker-informed diagnoses in community settings that have previously lacked such resources. However, integrating them into current clinical diagnostic practice presents challenges, particularly in the diagnosis of mild cognitive impairment (MCI). Limited data are available to guide clinicians on when to test, how to counsel patients with MCI and a positive AD BBM result about their risk of dementia progression, or which evidence-based dementia prevention strategies or treatments to recommend. This Perspective article outlines the key challenges faced by clinicians and patients when addressing a diagnosis of \"MCI due to AD\" and offers suggestions for appropriate pretest counseling and future research directions to address current knowledge gaps.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42081782/",
+      "summary_ja": "背景：アルツハイマー病（AD）の血液バイオマーカー（BBM）は、これまで診断資源が乏しかった地域でもバイオマーカーに基づく診断を可能にするが、軽度認知障害（MCI）の診断への統合には課題がある。  \n方法：本論文は、MCI患者における陽性のAD BBM結果の意味を臨床医が理解し、適切に対応するための現状の問題点を整理し、検査前のカウンセリング方法や今後の研究課題を提案する視点論文である。  \n結果：MCI患者に対する検査の適切なタイミングや、陽性結果を受けた患者への認知症進行リスクの説明、エビデンスに基づく予防策や治療の推奨に関するデータが不足していることが明らかとなった。  \n結論：AD BBMの臨床導入には、患者への事前説明の標準化やリスク評価の明確化が必要であり、これらの知識ギャップを埋めるためのさらなる研究が求められる。",
+      "summary_short_ja": "アルツハイマー病（AD）の血液バイオマーカー（BBM）は、これまで診断資源が乏しかった地域での診断機会を拡大するが、軽度認知障害（MCI）診断への統合には課題がある。特に、検査の適時性や陽性結果を持つMCI患者へのリスク説明、効果的な予防・治療法の推奨に関する指針が不足している。本論文はこれらの課題を整理し、適切な事前カウンセリングや今後の研究方向を提案している。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42081781",
+      "doi": "10.1212/WNL.0000000000218009",
+      "title": "Cerebral Amyloid Angiopathy and Risk of Dementia in Patients With Cognitive Complaint.",
+      "abstract": "The frequency and cognitive trajectory of cerebral amyloid angiopathy (CAA) in patients from memory clinics is uncertain. We aimed to determine whether patients with CAA have an increased risk of dementia in nondemented individuals presenting with a cognitive complaint. We retrospectively analyzed data of the MEMENTO prospective cohort that enrolled outpatients from 26 centers in France presenting with a cognitive complaint and a Clinical Dementia Rating (CDR) scale score ≤0.5. Participants aged >50 years who had interpretable baseline brain MRI were eligible for this study and followed every 6 months for 5 years with systematic assessment of dementia. Based on MRI analysis, participants were classified into 4 categories using the Boston criteria V2.0 and V1.5: probable CAA, possible CAA, deep/mixed small vessel disease (SVD), or controls (without imaging markers of SVD). The primary outcome was the progression to dementia (Diagnostic and Statistical Manual of Mental Disorders, Fourth Revision criteria) evaluated by an expert committee. Cox proportional hazards models were used to determine hazard ratios (HRs) and CIs for the primary outcome. Of 2,323 MEMENTO participants, 2,136 (92%) were included in this study. The mean age (SD) at baseline was 71.3 (7.9) years and 1,320 (62%) were women. Probable CAA was diagnosed in 413 (19.3%) patients using the Boston criteria V2.0, and 144 (7.0%) using the Boston criteria V1.5. During a median follow-up of 5.0 years (interquartile range 3.1-5.1), 307 participants developed dementia. Compared with controls, patients with probable CAA according to the Boston criteria V2.0 (HR 1.73, 95% CI 1.23-2.42) and V1.5 (HR 2.23, 95% CI 1.56-3.20) had increased risk of dementia. After adjusting for age, sex, baseline Mini-Mental State Examination score and hippocampal volume, patients with probable CAA per Boston criteria V1.5 but not V2.0 had an increased risk of dementia compared with controls. This association was not significant when further adjusting with APOE ε4. CAA is a common condition in outpatients with mild cognitive symptoms. Patients with probable CAA according to the Boston criteria V1.5 but not V2.0 have increased risk of dementia. Further studies are required to externally validate these findings and evaluate potential mediation effect of APOE genotype.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42081781/",
+      "summary_ja": "背景：記憶外来を受診した認知症でない認知機能低下訴え患者における脳アミロイド血管症（CAA）の頻度と認知機能経過は不明である。  \n方法：フランスの26施設から認知機能低下を訴える50歳以上の外来患者2,136名を対象に、ベースライン脳MRIを解析し、Boston基準V2.0およびV1.5に基づき「確実なCAA」「可能なCAA」「深部/混合型小血管病変」「対照群」に分類。5年間隔6か月ごとに認知症発症を専門委員会が評価し、Cox比例ハザードモデルでリスクを解析した。  \n結果：確実なCAAはBoston基準V2.0で19.3％、V1.5で7.0％に認められた。5年の追跡期間中に307名が認知症を発症。対照群と比較し、確実なCAA群は両基準で認知症リスクが有意に増加（V2.0：HR1.73、V1.5：HR2.23）。年齢・性別・MMSE・海馬体積調整後はV1.5基準のCAA群のみリスク増加が有意であったが、APOE ε4遺伝子型を加えた調整では有意差が消失した。  \n結論：軽度認知症状患者においてCAAは一般的であり、Boston基準V1.5による確実なCAAは認知症リスク増加と関連する。APOE遺伝子型の影響を含めたさらなる検証が必要である。",
+      "summary_short_ja": "認知症を伴わない認知症状患者における脳アミロイド血管症（CAA）の頻度と認知機能の経過を検討した。フランスの26施設から2,136名を対象にMRIでCAAを評価し、5年間追跡した結果、Boston基準V1.5で診断された確実なCAA患者は認知症リスクが有意に増加したが、V2.0基準では調整後に有意差が消失した。CAAは軽度認知症状患者に多く、APOE遺伝子型の影響も示唆されるため、さらなる検証が必要である。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42060877",
       "doi": "10.1212/WNL.0000000000214935",
       "title": "Association of 24-Hour Blood Pressure Variability With Cognition and Brain MRI Markers of Structural Change in Adults in Mid- to Late-Life.",

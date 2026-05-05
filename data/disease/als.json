@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42081784",
+      "doi": "10.1212/WNL.0000000000218032",
+      "title": "Medical Assistance in Dying in ALS: Frequency, Survival, and Associations With Patient Characteristics in a Canadian Clinic.",
+      "abstract": "Medical assistance in dying (MAiD) has been available across Canada since 2016 for patients with amyotrophic lateral sclerosis (ALS). We aimed to characterize MAiD use, identify associated factors, and compare survival and location of death in a Canadian ALS cohort. We retrospectively reviewed patients with ALS followed at a Canadian multidisciplinary clinic who died between January 1, 2019 and December 31, 2024. Patient characteristics were described by MAiD status. Factors associated with MAiD utilization were evaluated using regression analyses, and survival and location of death were compared between patients who did and did not pursue MAiD. Of 255 patients (median age 67 years [IQR 60-75]; 42% female), 55 (21.6%) underwent MAiD. Percutaneous endoscopic gastrostomy (PEG) use was inversely associated with MAiD utilization (OR 0.34, 95% CI 0.15-0.78), whereas demographic and disease characteristics were not associated with MAiD. Survival from diagnosis to death was shorter among patients who underwent MAiD (median 12 vs 14 months;  MAiD is a common end-of-life option in ALS, reflecting patient values and is associated with lower PEG use, shorter postdiagnosis survival, and more frequent death at home.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42081784/",
+      "summary_ja": "背景：カナダでは2016年より筋萎縮性側索硬化症（ALS）患者に対する医療支援死（MAiD）が認められているが、その利用状況や関連因子、予後との関係は不明であった。  \n方法：カナダの多職種ALSクリニックで2019年から2024年までに死亡した255名の患者を対象に、MAiDの利用状況と患者特性を後ろ向きに解析した。MAiD利用に関連する因子を回帰分析で評価し、生存期間や死亡場所をMAiD利用群と非利用群で比較した。  \n結果：255名中55名（21.6%）がMAiDを選択した。経皮内視鏡的胃瘻造設（PEG）使用はMAiD利用と逆相関（オッズ比0.34）であったが、年齢や性別などの他の患者特性とは関連しなかった。診断から死亡までの中央値生存期間はMAiD群で12か月、非MAiD群で14か月と短かった。MAiD群は自宅での死亡が多かった。  \n結論：ALS患者におけるMAiDは一般的な終末期選択肢であり、患者の価値観を反映している。PEG使用の少なさ、短い生存期間、自宅死の頻度増加と関連していることが示された。",
+      "summary_short_ja": "カナダのALS患者255名を対象に、医療支援死（MAiD）の利用状況を調査した。21.6%がMAiDを選択し、経皮内視鏡的胃瘻造設術（PEG）使用はMAiD利用と逆相関した。MAiD利用者は診断から死亡までの期間が短く（中央値12か月）、自宅での死亡が多かった。MAiDはALS患者の価値観を反映した一般的な終末期選択肢であることが示された。",
+      "disease": "als",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42060881",
       "doi": "10.1212/WNL.0000000000214940",
       "title": "Phosphorylated TDP-43 Pathology in Skin and Muscle Tissue of Patients With Amyotrophic Lateral Sclerosis.",

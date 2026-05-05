@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42081783",
+      "doi": "10.1212/WNL.0000000000214981",
+      "title": "Metabolomic Profiles of Inflammation Associated With Incident Ischemic Stroke Risk in Women.",
+      "abstract": "Ischemic stroke (IS) accounts for 87% of all strokes and is a leading cause of disability worldwide. Women face higher lifetime IS risk and worse functional outcomes, yet predictive biomarkers remain limited. Moreover, inflammation is increasingly recognized as a contributor to IS pathogenesis, with inflammatory markers such as C-reactive protein (CRP) positively associated with IS. Yet, the metabolic pathways linking chronic inflammation to IS risk are poorly understood. We aimed to identify a metabolomic signature reflecting systemic inflammation and evaluate its association with incident IS in women. This study used nested case-control designs within the Nurses' Health Study (NHS), a prospective cohort of US female registered nurses aged 30-55 at enrollment. Using elastic net regression in a derivation cohort with inflammatory biomarker (high-sensitive CRP, interleukin 6, tumor necrosis factor receptor 2, adiponectin) and metabolomic data, we developed a metabolomic signature index of inflammation (i-MSI). The i-MSI's association with incident IS was examined in an independent NHS nested case-control study using conditional logistic regression, adjusting for cardiovascular risk factors. Generalizability to atherosclerotic disease was evaluated in a coronary heart disease (CHD) nested case-control study from the Women's Health Initiative (WHI). The derivation cohort included 1,699 women (mean age 58 years, 94% White). The i-MSI comprised 102 metabolites, with lysophosphatidylcholine species-promoters of endothelial activation, vascular inflammation, and plaque instability-contributing most significantly. In the independent IS case-control study (454 cases, 454 controls; mean age 66 years), women in the highest compared with lowest i-MSI quartile had a multivariable-adjusted odds ratio (OR) of 1.76 (95% CI 1.02-3.03) for IS, whereas each 1-SD increase in the i-MSI was associated with an OR of 1.35 (95% CI 1.09-1.67). In the WHI study (793 cases, 795 controls; mean age 67 years), each SD increase in the i-MSI was associated with an OR of 1.20 (95% CI 1.05-1.37) for CHD. An inflammatory metabolomic signature was associated with higher IS risk, independent of traditional cardiovascular disease risk factors, with consistent findings for CHD. Future studies should replicate these findings in other populations and evaluate whether these metabolites can improve risk stratification and serve as biomarkers for atherosclerotic cardiovascular diseases.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42081783/",
+      "summary_ja": "背景：虚血性脳卒中（IS）は全脳卒中の87％を占め、女性は生涯リスクが高く予測バイオマーカーが限られている。炎症がISの発症に関与することは知られているが、慢性炎症とISリスクを結ぶ代謝経路は不明である。  \n方法：米国の女性看護師を対象とした前向きコホート研究（Nurses' Health Study）内のネスト型症例対照研究で、炎症マーカー（高感度CRP、IL-6、TNF受容体2、アディポネクチン）と代謝物データを用い、エラスティックネット回帰で炎症を反映する代謝物シグネチャー（i-MSI）を作成。独立したIS症例対照研究でi-MSIとIS発症の関連を多変量調整後に検証し、さらに女性健康イニシアティブ（WHI）で冠動脈疾患（CHD）への一般化可能性を評価した。  \n結果：導出コホート（1699名、平均58歳）で102種類の代謝物からなるi-MSIを構築。IS症例対照研究（454例、454対照、平均66歳）では、i-MSI上位四分位群は下位群に比べISリスクが1.76倍（95％CI 1.02-3.03）であり、1標準偏差増加ごとに1.35倍（95％CI 1.09-1.67）増加。WHIのCHD研究（793例、795対照、平均67歳）でも1標準偏差増加で1.20倍（95％CI 1.05-1.37）のリスク上昇を示した。  \n結論：炎症に関連する代謝物シグネチャーは、従来の心血管リスク因子に独立して女性のISおよびCHDリスク上昇と関連した。今後、他集団での検証やリスク層別化・バイオマーカーとしての応用が期待される。",
+      "summary_short_ja": "本研究は、女性における慢性炎症と虚血性脳卒中（IS）リスクの関連を代謝物プロファイルで解析した。看護師健康研究（NHS）を用い、炎症マーカーと代謝物から炎症代謝物指標（i-MSI）を作成。i-MSIが高い女性はIS発症リスクが有意に上昇し、冠動脈疾患（CHD）でも同様の関連が認められた。炎症に基づく代謝物指標は従来のリスク因子に独立し、動脈硬化性心血管疾患の新たなバイオマーカー候補となる可能性が示唆された。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42059197",
       "doi": "10.1111/ene.70615",
       "title": "A Population-Based Study of Posterior Reversible Encephalopathy Syndrome and Reversible Cerebral Vasoconstriction Syndrome During Pregnancy and Puerperium.",
