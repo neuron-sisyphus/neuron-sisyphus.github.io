@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42085646",
+      "doi": "10.1212/WNL.0000000000214986",
+      "title": "Age-Specific Parkinson Disease Risk in Gaucher Disease Type 1: Data From the ICGG Gaucher Registry.",
+      "abstract": "Glucocerebrosidase ( Participants were patients with GD1 in the International Collaborative Gaucher Group Gaucher Registry, a global GD database, as of February 2024. We longitudinally collected data on clinical diagnosis of PD and dementia with Lewy bodies (DLB) and report of motor (rest tremor, falls) and nonmotor (cognitive impairment, REM sleep behavior disorder, loss of sense of smell, autonomic dysfunction) signs/symptoms. In addition to a conservative physician-based PD and DLB diagnosis, we created a liberal definition of possible parkinsonian syndrome (pPS; ≥2 signs/symptoms, PD, or DLB) to test whether previous low penetrance estimates stem from underdiagnosis. Patients were classified as pPS at earliest of the following dates: PD diagnosis, DLB diagnosis, or report of second sign/symptom. We separately estimated age-specific prevalence of PD and pPS using Kaplan-Meier survival curves. Among 1,618 patients with GD1 (median age at last follow-up 47.8 years; 53% female), 51 were diagnosed with PD and 86 as pPS. The age-specific prevalence (95% CI) of PD and pPS was 4.0% (2.7-5.7) and 6.0% (4.5-7.9) at 60 years and 12.2% (8.6-17.0) and 22.9% (17.1-30.1) at 80 years, respectively. Patients with 2 mild pathogenic  In this large cohort of 1,618 patients, approximately one-in-nine patients with GD1 were diagnosed with PD and more than one-in-five patients were diagnosed with PD/DLB or experienced movement disorder symptoms by 80 years. Most patients were from North America and Europe; generalizability to other regions is unknown. Our finding that most patients remain free of PD despite very low residual enzyme activity informs the hypothesis that acid ß-glucosidase levels directly predict risk of PD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42085646/",
+      "summary_ja": "背景：グルコセレブロシダーゼ欠損によるゴーシェ病タイプ1（GD1）はパーキンソン病（PD）リスクの増加と関連するが、年齢別リスクの詳細は不明であった。  \n方法：国際共同ゴーシェ病レジストリの1,618名のGD1患者（中央値年齢47.8歳）を対象に、PDおよびレビー小体型認知症（DLB）の診断と運動・非運動症状を縦断的に収集。保守的な医師診断に加え、2つ以上の症状を満たす可能性のあるパーキンソニズム症候群（pPS）定義を設定し、年齢別有病率をカプランマイヤー法で推定した。  \n結果：60歳時点でPDの有病率は4.0%、pPSは6.0%、80歳時点ではそれぞれ12.2%、22.9%であった。80歳までに約9人に1人がPDと診断され、5人に1人がPD/DLBまたは運動障害症状を呈した。  \n結論：GD1患者の多くは酵素活性が極めて低いにもかかわらずPDを発症しないことから、酸性β-グルコシダーゼレベルがPDリスクを直接予測するという仮説に示唆を与える。地域差の一般化は未検証である。",
+      "summary_short_ja": "国際ゴーシェ病登録の1,618名のタイプ1ゴーシェ病患者を対象に、パーキンソン病（PD）および類パーキンソン症候群（pPS）の年齢別有病率を調査した。80歳時点でPDの有病率は約12.2%、pPSは約22.9%であり、約5人に1人が運動障害症状を呈した。低酵素活性にもかかわらず多くはPDを発症せず、酵素レベルがPDリスク予測に直接関与する可能性を示唆した。",
+      "disease": "parkinson",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41996661",
       "doi": "10.1212/WNL.0000000000214812",
       "title": "Functional Reorganization of Corticostriatal Connectivity Across the Degree of Nigrostriatal Degeneration in Parkinson Disease.",

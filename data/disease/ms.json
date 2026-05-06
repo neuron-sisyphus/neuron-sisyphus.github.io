@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42085644",
+      "doi": "10.1212/WNL.0000000000214943",
+      "title": "Differences in Use of Disease-Modifying Therapies Between Patients With Late-Onset and Adult-Onset Relapsing-Remitting Multiple Sclerosis.",
+      "abstract": "The therapeutic strategy for late-onset multiple sclerosis (LOMS) with a relapsing-remitting onset remains unclear, potentially leading to underexposure to disease-modifying therapies (DMTs) compared with adult-onset multiple sclerosis (AOMS). We investigated the differences in DMT use between LOMS and AOMS within the French MS registry at comparable levels of disease severity. This retrospective cohort study used data extracted in December 2024 from the French MS registry on patients with relapsing-remitting onset MS between 1997 and 2023. The primary outcome was the annual probability of receiving a DMT according to age at MS onset, adjusted for disease severity. Secondary outcomes included the annual probability of receiving a highly effective DMT (HEDMT), each DMT separately, having ≥1 EDSS measurement, having ≥1 brain MRI, and DMT initiations and discontinuations. We used a longitudinal logistic model with generalized estimating equations and an inverse-probability-of-censoring weighting. A total of 36,148 were included patients; 26,540 (73.4%) were female, mean age was 33.5 years (SD, 9.7), and 2,308 (6.4%) were aged ≥50 at disease onset. Median follow-up was 10.8 years (interquartile range, 5.6-17.0). Patients with LOMS had a lower annual probability of receiving a DMT compared with patients with AOMS (73.7% vs 83.1%; odds ratio [OR], 0.57 [95% CI 0.52-0.62]). The difference was greater for HEDMT (24.6% vs 44.4%; OR, 0.41 [95% CI 0.36-0.46]). Patients with LOMS were more likely to receive teriflunomide and less likely to receive fumarates, S1PR modulators, natalizumab, or anti-CD20. Clinical and radiologic follow-up did not differ significantly between patients with LOMS and AOMS. The rate of DMT initiation was lower in patients with LOMS (0.13 vs 0.17 initiation per patient-year). Although the proportions of DMT discontinuation were similar (59.7% vs 60.4%, excluding pregnancy-related discontinuations), these discontinuations were more often attributed to a complete discontinuation strategy (27.9% vs 22.3%) and less often to an escalation strategy (9.2% vs 13.8%) in patients with LOMS. At comparable levels of disease severity, patients with LOMS were less likely to be treated with DMTs, particularly HEDMT, than patients with AOMS. This gap was driven both by fewer DMT initiations and more frequent complete discontinuations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42085644/",
+      "summary_ja": "背景：再発寛解型多発性硬化症（MS）における遅発型発症（LOMS）の治療戦略は不明瞭で、成人発症（AOMS）と比べて疾患修飾療法（DMT）の使用が少ない可能性がある。  \n方法：1997～2023年のフランスMS登録データ（36,148例）を用い、疾患重症度を調整した上でLOMS（発症年齢≥50歳）とAOMSのDMT使用状況を後ろ向きコホート研究で比較。主要評価項目は年ごとのDMT使用確率、二次評価項目に高効力DMT（HEDMT）使用率や検査頻度、DMT開始・中止率を含む。  \n結果：LOMS患者はAOMS患者に比べDMT使用率が低く（73.7% vs 83.1%、OR 0.57）、特にHEDMT使用率の差が顕著（24.6% vs 44.4%、OR 0.41）。LOMSはテリフルノミド使用が多く、フマル酸塩やS1PR調節薬、ナタリズマブ、抗CD20療法は少なかった。臨床・画像フォローは両群で差がなかった。DMT開始率はLOMSで低く（0.13 vs 0.17）、中止率は類似もLOMSは完全中止が多く、増強中止は少なかった。  \n結論：疾患重症度が同等でもLOMS患者はAOMS患者よりDMT、特にHEDMTの使用が少なく、これは開始率の低さと完全中止の多さによるものであった。",
+      "summary_short_ja": "本研究は、再発寛解型多発性硬化症（MS）における遅発型（LOMS）と成人発症型（AOMS）患者の疾患修飾療法（DMT）使用の違いをフランスMS登録データで比較した。LOMS患者はAOMS患者に比べ、同程度の病状でもDMT特に高効果DMTの使用率が有意に低く、開始頻度も少なかった。中止は両群で同程度だが、LOMSでは完全中止が多く、治療強化は少なかった。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42081777",
       "doi": "10.1212/WNL.0000000000214915",
       "title": "Intrathecal Mesenchymal Stem Cells in Progressive Multiple Sclerosis: A Randomized, Double-Blind, Placebo-Controlled Trial (SMART-MS).",
