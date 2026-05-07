@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42090640",
+      "doi": "10.1212/WNL.0000000000218035",
+      "title": "Glaucoma Risk Associated With Calcitonin Gene-Related Peptide Inhibitor Use in Migraine: A Multinational Cohort Study.",
+      "abstract": "Migraine has been linked to an increased risk of glaucoma, and our study aims to assess the temporal association between calcitonin gene-related peptide inhibitors (CGRPi) and the risks of glaucoma in individuals with migraine. This multinational retrospective cohort study included adults diagnosed with migraine who received migraine preventive medications in 2018-2024. Participants were categorized into the CGRPi group (erenumab, fremanezumab, galcanezumab, eptinezumab, atogepant, or rimegepant) and non-CGRPi group (valproate, topiramate, flunarizine, candesartan, lisinopril, metoprolol, propranolol, nadolol, amitriptyline, and venlafaxine). Crossovers were not allowed, and the non-CGRPi group included only individuals who never used CGRPi. The CGRPi and non-CGRPi groups were propensity score matched in a 1:1 ratio and were followed for up to 3 years to monitor the occurrence of incident glaucoma. The Cox proportional hazards model was used to compare the risk of glaucoma between CGRPi and non-CGRPi users, with results reported as hazard ratios (HRs) and 95% CIs. A total of 73,644 individuals were included in the final analysis. Compared with non-CGRPi users, CGRPi users experience a lower risk of glaucoma development (HR 0.75; 95% CI 0.61-0.92) within 3 years since its first prescription. Individuals using CGRPi also exhibit a reduced risk of glaucoma compared with those using topiramate (HR 0.73; 95% CI 0.59-0.90), valproate (HR 0.54; 95% CI 0.35-0.83), propranolol (HR 0.76; 95% CI 0.59-0.98), metoprolol (HR 0.76; 95% CI 0.59-0.98), lisinopril (HR 0.49; 95% CI 0.38-0.62), amitriptyline (HR 0.69; 95% CI 0.54-0.89), and venlafaxine (HR 0.68; 95% CI 0.50-0.91). In the analysis that further classified participants based on the specific CGRPi used, only users of monoclonal antibody CGRPi show a reduced risk of glaucoma compared with non-CGRPi users (HR 0.77; 95% CI 0.61-0.98). The reduced risk of glaucoma associated with CGRPi is also observed in older adults, women, and those with chronic migraine or migraine without aura. Among adults with migraine receiving preventive treatment, systemic use of CGRPi, particularly monoclonal antibody CGRPi, is associated with a reduced risk of glaucoma compared with the use of other migraine preventive medications. This is a Class II study demonstrating that CGRPi users with migraine have a lower risk of incident glaucoma when compared with non-CGRPi users with migraine.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42090640/",
+      "summary_ja": "背景：片頭痛は緑内障のリスク増加と関連しているが、カルシトニン遺伝子関連ペプチド阻害薬（CGRPi）使用と緑内障発症リスクの関係は不明である。  \n方法：2018～2024年に片頭痛と診断され予防薬を使用した成人7万3644人を対象に、多国籍後ろ向きコホート研究を実施。CGRPi群（エレヌマブ等）と非CGRPi群（バルプロ酸等）に分け、交差使用は除外。傾向スコアマッチングで1:1に調整し、最長3年間追跡して緑内障発症を評価。Cox比例ハザードモデルでリスク比較を行った。  \n結果：CGRPi使用者は非使用者に比べ緑内障発症リスクが有意に低く（HR 0.75、95%CI 0.61-0.92）、特にモノクローナル抗体型CGRPi使用者で顕著であった。年長者、女性、慢性片頭痛や前兆なし片頭痛患者でも同様の傾向が認められた。  \n結論：片頭痛患者において、CGRPi、特にモノクローナル抗体型の使用は他の予防薬に比べ緑内障発症リスクを低減させる可能性が示された。",
+      "summary_short_ja": "片頭痛患者におけるカルシトニン遺伝子関連ペプチド阻害薬（CGRPi）の使用と緑内障リスクを多国籍コホートで検討した結果、CGRPi使用者は非使用者に比べ3年間で緑内障発症リスクが有意に低下（HR 0.75）した。特にモノクローナル抗体型CGRPiで顕著であり、高齢者や女性、慢性片頭痛患者でも同様の傾向が認められた。CGRPiは他の片頭痛予防薬よりも緑内障リスク低減効果が示された。",
+      "disease": "migraine",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41985109",
       "doi": "10.1212/WNL.0000000000214936",
       "title": "Acute Environmental Triggers and Intermediate-Term Modulators of Emergency Migraine-Related Health Care Encounters.",

@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-07",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42090640",
+      "doi": "10.1212/WNL.0000000000218035",
+      "title": "Glaucoma Risk Associated With Calcitonin Gene-Related Peptide Inhibitor Use in Migraine: A Multinational Cohort Study.",
+      "abstract": "Migraine has been linked to an increased risk of glaucoma, and our study aims to assess the temporal association between calcitonin gene-related peptide inhibitors (CGRPi) and the risks of glaucoma in individuals with migraine. This multinational retrospective cohort study included adults diagnosed with migraine who received migraine preventive medications in 2018-2024. Participants were categorized into the CGRPi group (erenumab, fremanezumab, galcanezumab, eptinezumab, atogepant, or rimegepant) and non-CGRPi group (valproate, topiramate, flunarizine, candesartan, lisinopril, metoprolol, propranolol, nadolol, amitriptyline, and venlafaxine). Crossovers were not allowed, and the non-CGRPi group included only individuals who never used CGRPi. The CGRPi and non-CGRPi groups were propensity score matched in a 1:1 ratio and were followed for up to 3 years to monitor the occurrence of incident glaucoma. The Cox proportional hazards model was used to compare the risk of glaucoma between CGRPi and non-CGRPi users, with results reported as hazard ratios (HRs) and 95% CIs. A total of 73,644 individuals were included in the final analysis. Compared with non-CGRPi users, CGRPi users experience a lower risk of glaucoma development (HR 0.75; 95% CI 0.61-0.92) within 3 years since its first prescription. Individuals using CGRPi also exhibit a reduced risk of glaucoma compared with those using topiramate (HR 0.73; 95% CI 0.59-0.90), valproate (HR 0.54; 95% CI 0.35-0.83), propranolol (HR 0.76; 95% CI 0.59-0.98), metoprolol (HR 0.76; 95% CI 0.59-0.98), lisinopril (HR 0.49; 95% CI 0.38-0.62), amitriptyline (HR 0.69; 95% CI 0.54-0.89), and venlafaxine (HR 0.68; 95% CI 0.50-0.91). In the analysis that further classified participants based on the specific CGRPi used, only users of monoclonal antibody CGRPi show a reduced risk of glaucoma compared with non-CGRPi users (HR 0.77; 95% CI 0.61-0.98). The reduced risk of glaucoma associated with CGRPi is also observed in older adults, women, and those with chronic migraine or migraine without aura. Among adults with migraine receiving preventive treatment, systemic use of CGRPi, particularly monoclonal antibody CGRPi, is associated with a reduced risk of glaucoma compared with the use of other migraine preventive medications. This is a Class II study demonstrating that CGRPi users with migraine have a lower risk of incident glaucoma when compared with non-CGRPi users with migraine.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42090640/",
+      "summary_ja": "背景：片頭痛は緑内障のリスク増加と関連しているが、カルシトニン遺伝子関連ペプチド阻害薬（CGRPi）使用と緑内障発症リスクの関係は不明である。  \n方法：2018～2024年に片頭痛と診断され予防薬を使用した成人7万3644人を対象に、多国籍後ろ向きコホート研究を実施。CGRPi群（エレヌマブ等）と非CGRPi群（バルプロ酸等）に分け、交差使用は除外。傾向スコアマッチングで1:1に調整し、最長3年間追跡して緑内障発症を評価。Cox比例ハザードモデルでリスク比較を行った。  \n結果：CGRPi使用者は非使用者に比べ緑内障発症リスクが有意に低く（HR 0.75、95%CI 0.61-0.92）、特にモノクローナル抗体型CGRPi使用者で顕著であった。年長者、女性、慢性片頭痛や前兆なし片頭痛患者でも同様の傾向が認められた。  \n結論：片頭痛患者において、CGRPi、特にモノクローナル抗体型の使用は他の予防薬に比べ緑内障発症リスクを低減させる可能性が示された。",
+      "summary_short_ja": "片頭痛患者におけるカルシトニン遺伝子関連ペプチド阻害薬（CGRPi）の使用と緑内障リスクを多国籍コホートで検討した結果、CGRPi使用者は非使用者に比べ3年間で緑内障発症リスクが有意に低下（HR 0.75）した。特にモノクローナル抗体型CGRPiで顕著であり、高齢者や女性、慢性片頭痛患者でも同様の傾向が認められた。CGRPiは他の片頭痛予防薬よりも緑内障リスク低減効果が示された。",
+      "disease": "migraine",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42085649",
+      "doi": "10.1212/WNL.0000000000214949",
+      "title": "Amyloid PET Burden, CSF Biomarkers, and ",
+      "abstract": "Iatrogenic cerebral amyloid angiopathy (iCAA) is a rare form of CAA believed to result from β-amyloid (Aβ) transmission during neurosurgical procedures. We aimed to compare amyloid PET burden, CSF biomarkers, and  In this single-center, cross-sectional study, adults fulfilling diagnostic criteria for probable sCAA or iCAA who underwent amyloid PET and CSF assessment between 2021 and 2024 were included. Amyloid burden was quantified using Centiloid scaling of  Ninety-five patients were included (24 with iCAA, 71 with sCAA; median age 56.5 vs 70 years). Patients with iCAA showed significantly higher amyloid deposition (median Centiloid 57.3 vs 30.5;  Patients with iCAA exhibit higher amyloid burden and a distinct biomarker profile compared with those with sCAA, supporting a divergent-possibly exogenous-mechanism of amyloid propagation. SENECA, ClinicalTrials.gov Identifier: NCT04204642 (submitted on December 19, 2019).",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42085649/",
+      "summary_ja": "背景：医原性脳アミロイド血管症（iCAA）は、神経外科手術時のβ-アミロイド（Aβ）伝播に起因すると考えられる稀な脳アミロイド血管症（CAA）の一形態である。  \n方法：2021年から2024年にかけて、単一施設で診断基準を満たすiCAAおよび孤発性CAA（sCAA）の成人95名（iCAA 24名、sCAA 71名）を対象に、アミロイドPET検査と脳脊髄液（CSF）バイオマーカーを横断的に評価した。アミロイド蓄積はCentiloidスケールで定量化した。  \n結果：iCAA患者はsCAA患者に比べてアミロイド蓄積が有意に高く（中央値Centiloid値57.3対30.5）、CSFバイオマーカーも異なる特徴を示した。iCAA群の中央値年齢は56.5歳、sCAA群は70歳であった。  \n結論：iCAA患者はsCAA患者と比較してアミロイド負荷が高く、異なるバイオマーカープロファイルを示すことから、アミロイドの伝播機序が内因性とは異なり、外因性の可能性が示唆された。",
+      "summary_short_ja": "本研究は、医原性脳アミロイド血管症（iCAA）と孤発性脳アミロイド血管症（sCAA）患者を対象に、アミロイドPETと脳脊髄液（CSF）バイオマーカーを比較した。iCAA患者はsCAA患者よりもアミロイド蓄積が有意に高く、異なるバイオマーカープロファイルを示した。これにより、iCAAは外因性のアミロイド伝播機序が関与する可能性が示唆された。",
+      "disease": "other",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42085646",
+      "doi": "10.1212/WNL.0000000000214986",
+      "title": "Age-Specific Parkinson Disease Risk in Gaucher Disease Type 1: Data From the ICGG Gaucher Registry.",
+      "abstract": "Glucocerebrosidase ( Participants were patients with GD1 in the International Collaborative Gaucher Group Gaucher Registry, a global GD database, as of February 2024. We longitudinally collected data on clinical diagnosis of PD and dementia with Lewy bodies (DLB) and report of motor (rest tremor, falls) and nonmotor (cognitive impairment, REM sleep behavior disorder, loss of sense of smell, autonomic dysfunction) signs/symptoms. In addition to a conservative physician-based PD and DLB diagnosis, we created a liberal definition of possible parkinsonian syndrome (pPS; ≥2 signs/symptoms, PD, or DLB) to test whether previous low penetrance estimates stem from underdiagnosis. Patients were classified as pPS at earliest of the following dates: PD diagnosis, DLB diagnosis, or report of second sign/symptom. We separately estimated age-specific prevalence of PD and pPS using Kaplan-Meier survival curves. Among 1,618 patients with GD1 (median age at last follow-up 47.8 years; 53% female), 51 were diagnosed with PD and 86 as pPS. The age-specific prevalence (95% CI) of PD and pPS was 4.0% (2.7-5.7) and 6.0% (4.5-7.9) at 60 years and 12.2% (8.6-17.0) and 22.9% (17.1-30.1) at 80 years, respectively. Patients with 2 mild pathogenic  In this large cohort of 1,618 patients, approximately one-in-nine patients with GD1 were diagnosed with PD and more than one-in-five patients were diagnosed with PD/DLB or experienced movement disorder symptoms by 80 years. Most patients were from North America and Europe; generalizability to other regions is unknown. Our finding that most patients remain free of PD despite very low residual enzyme activity informs the hypothesis that acid ß-glucosidase levels directly predict risk of PD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42085646/",
+      "summary_ja": "背景：グルコセレブロシダーゼ欠損によるゴーシェ病タイプ1（GD1）はパーキンソン病（PD）リスクの増加と関連するが、年齢別リスクの詳細は不明であった。  \n方法：国際共同ゴーシェ病レジストリの1,618名のGD1患者（中央値年齢47.8歳）を対象に、PDおよびレビー小体型認知症（DLB）の診断と運動・非運動症状を縦断的に収集。保守的な医師診断に加え、2つ以上の症状を満たす可能性のあるパーキンソニズム症候群（pPS）定義を設定し、年齢別有病率をカプランマイヤー法で推定した。  \n結果：60歳時点でPDの有病率は4.0%、pPSは6.0%、80歳時点ではそれぞれ12.2%、22.9%であった。80歳までに約9人に1人がPDと診断され、5人に1人がPD/DLBまたは運動障害症状を呈した。  \n結論：GD1患者の多くは酵素活性が極めて低いにもかかわらずPDを発症しないことから、酸性β-グルコシダーゼレベルがPDリスクを直接予測するという仮説に示唆を与える。地域差の一般化は未検証である。",
+      "summary_short_ja": "国際ゴーシェ病登録の1,618名のタイプ1ゴーシェ病患者を対象に、パーキンソン病（PD）および類パーキンソン症候群（pPS）の年齢別有病率を調査した。80歳時点でPDの有病率は約12.2%、pPSは約22.9%であり、約5人に1人が運動障害症状を呈した。低酵素活性にもかかわらず多くはPDを発症せず、酵素レベルがPDリスク予測に直接関与する可能性を示唆した。",
+      "disease": "parkinson",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42085644",
+      "doi": "10.1212/WNL.0000000000214943",
+      "title": "Differences in Use of Disease-Modifying Therapies Between Patients With Late-Onset and Adult-Onset Relapsing-Remitting Multiple Sclerosis.",
+      "abstract": "The therapeutic strategy for late-onset multiple sclerosis (LOMS) with a relapsing-remitting onset remains unclear, potentially leading to underexposure to disease-modifying therapies (DMTs) compared with adult-onset multiple sclerosis (AOMS). We investigated the differences in DMT use between LOMS and AOMS within the French MS registry at comparable levels of disease severity. This retrospective cohort study used data extracted in December 2024 from the French MS registry on patients with relapsing-remitting onset MS between 1997 and 2023. The primary outcome was the annual probability of receiving a DMT according to age at MS onset, adjusted for disease severity. Secondary outcomes included the annual probability of receiving a highly effective DMT (HEDMT), each DMT separately, having ≥1 EDSS measurement, having ≥1 brain MRI, and DMT initiations and discontinuations. We used a longitudinal logistic model with generalized estimating equations and an inverse-probability-of-censoring weighting. A total of 36,148 were included patients; 26,540 (73.4%) were female, mean age was 33.5 years (SD, 9.7), and 2,308 (6.4%) were aged ≥50 at disease onset. Median follow-up was 10.8 years (interquartile range, 5.6-17.0). Patients with LOMS had a lower annual probability of receiving a DMT compared with patients with AOMS (73.7% vs 83.1%; odds ratio [OR], 0.57 [95% CI 0.52-0.62]). The difference was greater for HEDMT (24.6% vs 44.4%; OR, 0.41 [95% CI 0.36-0.46]). Patients with LOMS were more likely to receive teriflunomide and less likely to receive fumarates, S1PR modulators, natalizumab, or anti-CD20. Clinical and radiologic follow-up did not differ significantly between patients with LOMS and AOMS. The rate of DMT initiation was lower in patients with LOMS (0.13 vs 0.17 initiation per patient-year). Although the proportions of DMT discontinuation were similar (59.7% vs 60.4%, excluding pregnancy-related discontinuations), these discontinuations were more often attributed to a complete discontinuation strategy (27.9% vs 22.3%) and less often to an escalation strategy (9.2% vs 13.8%) in patients with LOMS. At comparable levels of disease severity, patients with LOMS were less likely to be treated with DMTs, particularly HEDMT, than patients with AOMS. This gap was driven both by fewer DMT initiations and more frequent complete discontinuations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42085644/",
+      "summary_ja": "背景：再発寛解型多発性硬化症（MS）における遅発型発症（LOMS）の治療戦略は不明瞭で、成人発症（AOMS）と比べて疾患修飾療法（DMT）の使用が少ない可能性がある。  \n方法：1997～2023年のフランスMS登録データ（36,148例）を用い、疾患重症度を調整した上でLOMS（発症年齢≥50歳）とAOMSのDMT使用状況を後ろ向きコホート研究で比較。主要評価項目は年ごとのDMT使用確率、二次評価項目に高効力DMT（HEDMT）使用率や検査頻度、DMT開始・中止率を含む。  \n結果：LOMS患者はAOMS患者に比べDMT使用率が低く（73.7% vs 83.1%、OR 0.57）、特にHEDMT使用率の差が顕著（24.6% vs 44.4%、OR 0.41）。LOMSはテリフルノミド使用が多く、フマル酸塩やS1PR調節薬、ナタリズマブ、抗CD20療法は少なかった。臨床・画像フォローは両群で差がなかった。DMT開始率はLOMSで低く（0.13 vs 0.17）、中止率は類似もLOMSは完全中止が多く、増強中止は少なかった。  \n結論：疾患重症度が同等でもLOMS患者はAOMS患者よりDMT、特にHEDMTの使用が少なく、これは開始率の低さと完全中止の多さによるものであった。",
+      "summary_short_ja": "本研究は、再発寛解型多発性硬化症（MS）における遅発型（LOMS）と成人発症型（AOMS）患者の疾患修飾療法（DMT）使用の違いをフランスMS登録データで比較した。LOMS患者はAOMS患者に比べ、同程度の病状でもDMT特に高効果DMTの使用率が有意に低く、開始頻度も少なかった。中止は両群で同程度だが、LOMSでは完全中止が多く、治療強化は少なかった。",
+      "disease": "ms",
+      "section": "treatment"
+    }
+  ]
+}
