@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42096673",
+      "doi": "10.1212/WNL.0000000000214984",
+      "title": "Antiseizure Medication Polytherapies During Pregnancy and the Risk of Congenital Malformations.",
+      "abstract": "The use of antiseizure medication (ASM) polytherapy has become increasingly common. However, it is known that there is an elevated risk of major congenital malformations (MCMs) in newborns after maternal use of select ASMs. This study characterizes the risk of MCMs in infants born to women using common ASM polytherapies during the first trimester. The study population was pregnant women enrolled in the North American AED Pregnancy Registry between 1997 and 2024. Phone interviews at enrollment, 7 months' gestation, and postpartum collected data on ASM use and maternal characteristics. ASM monotherapy or polytherapy exposure is defined by ASM or ASM combination use during the first 12 weeks of pregnancy. MCMs were confirmed by medical records and adjudicated by a blinded teratologist. The risk of MCMs was calculated among infants exposed to a specific ASM polytherapy during the first trimester of pregnancy and those exposed to lamotrigine (LTG) monotherapy. RRs and 95% CIs were estimated using logistic regression. In a population of 15,318 pregnant women taking ASM at conception, 2,348 (15.3%) used 2 or more ASMs during the first trimester, with 796 polytherapy-exposed pregnancies eligible for analysis (mean age 30 years). The most common monotherapy was lamotrigine (LTG) (n = 2,582, mean age 31 years). The most common polytherapy combination was levetiracetam-lamotrigine (LEV-LTG) (38.4%). Indication of analyzed ASM polytherapy use was largely epilepsy (98.5%). The prevalence of MCMs was 2.0% for the reference LTG monotherapy group. Compared with LTG monotherapy, the adjusted RR of MCM was 1.63 (95% CI 0.69-3.40) for levetiracetam-LTG, 0.78 (0.04-3.78) for levetiracetam-carbamazepine, 0.99 (0.05-5.29) for levetiracetam-lacosamide, 1.40 (0.22-4.97) for levetiracetam-topiramate, 1.21 (0.07-6.22) for levetiracetam-zonisamide, 3.25 (0.74-9.98) for LTG-carbamazepine, 4.54 (1.61-11.07) for LTG-topiramate, and 3.22 (0.74-9.79) for LTG-zonisamide. Among infants exposed to any ASM polytherapy, the most common MCMs were hypospadias (5 cases), ventricular septal defect (5 cases), and cleft lip/palate (4 cases). All cleft lip/palate cases occurred in combinations with either topiramate or zonisamide. Our findings suggest an increased risk of MCM associated with LTG-topiramate duotherapy compared with LTG monotherapy. Relative risk estimates were too imprecise for us to conclude on the teratogenicity of other analyzed polytherapy combinations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42096673/",
+      "summary_ja": "背景：抗てんかん薬（ASM）の多剤併用療法は増加しているが、特定のASM使用時に新生児の主要先天異常（MCM）リスクが高まることが知られている。本研究は、妊娠初期に一般的なASM多剤併用療法を使用した女性の新生児におけるMCMリスクを評価した。\n\n方法：1997～2024年に北米AED妊娠登録に登録された妊婦15,318名を対象に、妊娠初期12週までのASM単剤または多剤使用状況を電話調査で収集。MCMは医療記録で確認し、盲検の奇形専門医が評価。リスク比（RR）と95％信頼区間（CI）をロジスティック回帰で算出し、ラモトリギン（LTG）単剤群と比較した。\n\n結果：多剤併用群は2,348名（15.3％）、分析対象は796妊娠例。最も多い単剤はLTG（2,582例）、多剤併用はレベチラセタム（LEV）-LTG（38.4％）が最多。MCM発生率はLTG単剤群で2.0％。LTG-トピラマート併用群はRR 4.54（95％CI 1.61-11.07）で有意にリスク増加。その他の併用療法はRRの不確実性が大きく結論困難。主なMCMは尿道下裂、心室中隔欠損、口唇口蓋裂で、口唇口蓋裂はトピラマートまたはゾニサミド併用例に集中。\n\n結論：LTG-トピラマート併用はLTG単剤に比べてMCMリスクが増加する可能性が示唆されたが、他の多剤併用療法の催奇形性についてはさらなる検証が必要である。",
+      "summary_short_ja": "本研究は、妊娠初期に抗てんかん薬（ASM）ポリセラピーを使用した妊婦と新生児の主要先天異常（MCM）リスクを検討した。北米AED妊娠登録の15,318例中、15.3%がポリセラピーを使用。最も多い組み合わせはレベチラセタム-ラモトリギン（LEV-LTG）で、MCM発生率はLTG単剤群の2.0%と比較し、LTG-トピラマート併用群で有意にリスク増加（RR 4.54）が示された。他の組み合わせのリスクは不明瞭であった。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42060883",
       "doi": "10.1212/WNL.0000000000214939",
       "title": "Temporal Trends and Regional Variations in Mortality of Adults With Status Epilepticus in the United States: A Retrospective Study From 1999 to 2020.",

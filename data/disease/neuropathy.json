@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42096678",
+      "doi": "10.1212/WNL.0000000000218033",
+      "title": "Sensitivity of Nerve and Skin Biopsy and Fat Aspirate for Amyloid in Symptomatic Hereditary ATTR Amyloidosis With Peripheral Neuropathy.",
+      "abstract": "The aim of this study was to compare the sensitivity of nerve biopsy, fat aspirate, and skin biopsy in detecting amyloid in symptomatic hereditary transthyretin amyloidosis with peripheral neuropathy (ATTRv-PN). We identified patients with ATTRv-PN (2012-2023) seen at one of the Mayo Clinic 3 sites in Minnesota, Florida, and Arizona. Patients with symptomatic PN confirmed by a neurologist or EMG, who underwent an abdominal fat aspiration, skin biopsy, or nerve biopsy, were included. All patients had a pathogenic  Of the 195 patients with symptomatic ATTRv-PN seen, 111 were included. The median age was 64.2 years (interquartile range 56.9-70.1), and 74.8% were male. Fat aspirate was positive for amyloid in 50 of 103 patients (sensitivity 48.5%, 95% CI 0.39-0.59), skin biopsy in 17 of 32 (sensitivity 53.1%, 95% CI 0.35-0.71), and nerve biopsy in 20 of 21 (sensitivity 95%, 95% CI 0.76-1.0). Skin biopsy yielded a higher sensitivity (60% vs 24%;  Nerve biopsies are more sensitive than fat aspirate or skin biopsy for tissue diagnosis in this retrospective cohort of patients with symptomatic ATTRv-PN. Skin biopsy was slightly more sensitive than fat aspirate. This study provides Class IV evidence that a nerve biopsy, fat aspirate, and skin biopsy can accurately diagnose hereditary transthyretin amyloidosis in patients presenting with polyneuropathy. Nerve biopsies are more accurate than fat aspirates or skin biopsies in identifying patients with hereditary transthyretin amyloidosis.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42096678/",
+      "summary_ja": "背景：遺伝性トランスサイレチンアミロイドーシス（ATTRv）による末梢神経障害患者におけるアミロイド検出のため、神経生検、皮膚生検、脂肪吸引の感度を比較する必要があった。  \n方法：2012年から2023年にかけて、メイヨークリニックの3拠点で診察された症候性ATTRv末梢神経障害患者111名（中央値年齢64.2歳、男性74.8%）を対象に、神経生検、皮膚生検、腹部脂肪吸引でのアミロイド検出感度を後ろ向きに評価した。  \n結果：脂肪吸引の感度は48.5%（103例中50例）、皮膚生検は53.1%（32例中17例）、神経生検は95%（21例中20例）であった。皮膚生検は脂肪吸引よりやや高感度であったが、神経生検が最も高感度であった。  \n結論：症候性ATTRv末梢神経障害患者の組織診断において、神経生検は脂肪吸引や皮膚生検よりも高い感度を示し、より正確な診断法であることが示された。皮膚生検は脂肪吸引よりも若干優れているが、神経生検が最も推奨される。",
+      "summary_short_ja": "本研究は、末梢神経障害を伴う遺伝性トランスサイレチンアミロイドーシス（ATTRv-PN）患者におけるアミロイド検出感度を、神経生検、皮膚生検、脂肪吸引で比較した。111例中、神経生検の感度は95%と最も高く、皮膚生検は53.1%、脂肪吸引は48.5%であった。神経生検が診断に最も有効であり、皮膚生検は脂肪吸引よりやや感度が高いことが示された。",
+      "disease": "neuropathy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41913562",
       "doi": "10.1111/ene.70580",
       "title": "Effect of Eplontersen in Patients With Hereditary Transthyretin Amyloidosis With Polyneuropathy Across Genetic Variants: An Exploratory Analysis From the NEURO-TTRansform Trial.",

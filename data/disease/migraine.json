@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42096674",
+      "doi": "10.1212/WNL.0000000000214862",
+      "title": "The Prevalence and Incidence of Cluster Headache: A Norwegian Population-Based Time-Trend Study.",
+      "abstract": "Data on time trends in cluster headache epidemiology are sparse. The aim of this study was to report trends in prevalence and incidence of cluster headache in Norway over a 14-year period. We conducted a registry-based study using linked data from the Norwegian Registry for Primary Health Care, the Norwegian Control and Payment of Health Reimbursements Database, the Norwegian Patient Registry, the Norwegian Prescribed Drug Registry, and Statistics Norway from 2009 to 2022. Data included diagnostic codes, prescriptions, and education. Adults (age ≥18 years) were included. Cluster headache prevalence was defined as ≥2 contacts (clinical consults or prescriptions) for cluster headache in a 365-day period. Age-standardized trends in prevalence and incidence by sex and year, and interactions between education and year, were analyzed with negative binomial regression. We estimated prevalence rate ratio (PRR) and incidence rate ratio per calendar year with 95% CIs. The number of patients with cluster headache increased from 1,029 in 2009 (median age 44 years; 39.7% women) to 1,833 patients in 2022 (median age 47 years; 50.1% women). The annual age-standardized prevalence rate increased from 27.0 to 42.5 per 100,000 in the same period. Women had a 3-fold higher annual increase of 6% (PRR 1.06, 95% CI 1.05-1.07) compared with 2% (PRR 1.02, 95% CI 1.02-1.03) in men. The prevalence rate was higher in women than in men by 2022 (43.4 vs 41.7 per 100,000). The annual prevalence of chronic cluster headache and refractory chronic cluster headache varied between 6%-7% and 1%-2% of all cluster headache cases, respectively. The annual age-standardized incidence rate of cluster headache increased in women, from 10.1 to 14.6 per 100,000 from 2012 to 2022 and decreased in men, from 13.5 to 11.0 per 100,000. Incidence and prevalence rates were higher among individuals with lower education. Prevalence increased over 14 years, possibly reflecting improved diagnostic practices and awareness. These findings challenge previous reports of cluster headache predominantly affecting men, illustrating distinct shifts and trends in disease epidemiology. A limitation was the lack of clinical validation of cluster headache diagnostic codes in primary health care.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42096674/",
+      "summary_ja": "背景：群発頭痛の疫学における時間的変化に関するデータは限られている。本研究は、ノルウェーにおける14年間の群発頭痛の有病率および発症率の動向を明らかにすることを目的とした。  \n方法：2009年から2022年までのノルウェーの複数の医療・統計データベースを連結し、18歳以上の成人を対象に群発頭痛の診断コードや処方情報を用いて解析を行った。有病率は1年間に2回以上の診療または処方を基準とし、年齢標準化した性別・年別の傾向を負の二項回帰で評価した。  \n結果：患者数は2009年の1,029人から2022年の1,833人に増加し、有病率は27.0から42.5/10万人に上昇した。女性の増加率は男性の3倍で、2022年には女性の有病率が男性を上回った。慢性群発頭痛は全体の6～7%、難治性は1～2%を占めた。発症率は女性で増加（10.1→14.6/10万人）、男性で減少（13.5→11.0/10万人）し、教育水準が低いほど高かった。  \n結論：群発頭痛の有病率は14年間で増加し、診断精度や認知度の向上が影響している可能性がある。従来の「男性に多い」という認識に対し、女性の割合増加など疫学的変化を示した。ただし、診断コードの臨床的検証が不足している点は限界である。",
+      "summary_short_ja": "ノルウェーにおける2009年から2022年の14年間で、群発頭痛の有病率は年齢調整後で27.0から42.5/10万人に増加し、特に女性で増加率が男性の3倍に達した。発症率は女性で増加（10.1→14.6/10万人）、男性で減少（13.5→11.0/10万人）した。教育水準が低いほど発症率・有病率が高く、診断の向上や認知度の変化が背景と考えられる。従来の男性優位説に異議を唱える結果である。",
+      "disease": "migraine",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42090640",
       "doi": "10.1212/WNL.0000000000218035",
       "title": "Glaucoma Risk Associated With Calcitonin Gene-Related Peptide Inhibitor Use in Migraine: A Multinational Cohort Study.",

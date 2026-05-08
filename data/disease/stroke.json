@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42096677",
+      "doi": "10.1212/WNL.0000000000218031",
+      "title": "Acute Kidney Injury and Risk of Adverse Neurocognitive Outcomes: A Systematic Review and Meta-Analysis.",
+      "abstract": "Chronic kidney disease is a recognized risk factor for adverse neurocognitive outcomes, but the effect of acute kidney injury (AKI) on brain health remains less well defined. We conducted a systematic review and meta-analysis to evaluate associations between AKI and subsequent risk of stroke, delirium, and dementia. Eligible studies were identified by searching Ovid MEDLINE and Embase from inception (Ovid: January 1946; Embase: January 1970) until April 2025. Studies were included if they reported quantitative estimates with measures of precision for the association between AKI and delirium, stroke, or dementia in adult populations. Two reviewers independently screened and extracted data, and study quality was assessed using standardized criteria. Study characteristics, participant demographics, and adjusted effect estimates (hazard ratios [HRs] or odds ratios [ORs]) with 95% CIs were extracted. Pooled HRs and ORs with 95% CIs were calculated using random-effects models. Heterogeneity was evaluated with the χ We identified 49 studies comprising 11,253,825 participants with 1,279,145 events. Individuals with AKI were at increased risk of stroke (pooled adjusted HR 1.35, 95% CI 1.20-1.52), delirium (pooled adjusted OR 1.76; 1.42-2.17), and dementia (pooled adjusted HR 1.64, 1.41-1.89). A gradient of risk across increasing AKI stages was demonstrated for stroke (stage 1: HR 1.11; 1.00-1.23; combined stages 2 and 3: HR 1.57; 1.35-1.81). AKI was also associated with higher in-hospital and 90-day mortality poststroke (pooled HR 2.13, 1.56-2.90, and 4.81, 2.55-9.08, respectively) and with 90-day disability (pooled adjusted OR 1.47, 1.22-1.76). Associations between AKI and all outcomes were directionally consistent across sensitivity analyses and pooled propensity score-matched studies. In this systematic review and meta-analysis, AKI was consistently associated with increased short-term and long-term neurocognitive risk, including stroke, delirium, and dementia. These findings suggest that AKI may identify individuals vulnerable to both acute and chronic brain injury. Further studies are needed to clarify mechanisms linking AKI to brain injury and to identify strategies to mitigate neurocognitive risk in this high-risk population.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42096677/",
+      "summary_ja": "背景：慢性腎臓病は神経認知機能障害のリスク因子として知られているが、急性腎障害（AKI）が脳の健康に与える影響は明確でない。  \n方法：Ovid MEDLINEおよびEmbaseを用いて1946年から2025年4月までの文献を検索し、成人におけるAKIと脳卒中、せん妄、認知症の関連を定量的に評価した49件の研究（計1,125万3,825人、127万9,145イベント）を対象にシステマティックレビューとメタ解析を実施。ハザード比（HR）やオッズ比（OR）を用いてランダム効果モデルで統合解析を行った。  \n結果：AKI患者は脳卒中（HR 1.35）、せん妄（OR 1.76）、認知症（HR 1.64）のリスクが有意に増加。AKIの重症度が上がるほど脳卒中リスクも増加（ステージ1：HR 1.11、ステージ2・3：HR 1.57）。さらに、AKIは脳卒中後の入院中および90日死亡率上昇（HR 2.13、4.81）や90日後の障害リスク増加（OR 1.47）とも関連。感度分析でも結果は一貫。  \n結論：AKIは短期・長期にわたり神経認知機能障害のリスク増加と関連し、急性および慢性の脳障害に対する脆弱性を示唆する。今後、AKIと脳障害の関連機序解明とリスク軽減策の検討が必要である。",
+      "summary_short_ja": "急性腎障害（AKI）は脳卒中、せん妄、認知症のリスク増加と関連し、AKIの重症度が高いほどリスクも上昇することが、11万人超のデータを基にした49件の研究のメタ解析で示された。さらに、AKI患者は脳卒中後の死亡率や障害リスクも高く、AKIが急性および慢性の脳障害の脆弱性指標となる可能性が示唆された。今後、AKIと脳障害の関連機序解明と予防策の検討が必要である。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42096671",
+      "doi": "10.1212/WNL.0000000000214948",
+      "title": "Late-Onset Seizures: Etiology and Demographics in US Tertiary Care Epilepsy Centers.",
+      "abstract": "Adults older than age 55 years have the highest incidence rate and are the fastest-growing population among people with epilepsy. The aim of this study was to characterize the etiologies of new-onset seizures in older adults and to examine how seizure etiology varies across demographic groups. We used data from 7 US epilepsy centers from 2021 to 2025 and compared findings with those of previous population-based studies, providing an updated view and highlighting opportunities for prevention and improved risk stratification. We retrospectively reviewed medical charts of 2,052 patients aged ≥55 years at the time of a first seizure, who were evaluated at 7 epilepsy centers between 2021 and 2025. We categorized seizures by etiology as follows: ischemic stroke, hemorrhagic stroke, tumor, neurodegeneration, provoked seizures, traumatic brain injury, and unknown. We examined differences in etiology by demographic strata (age, sex, race, and primary language) using chi-square tests, Kruskal-Wallis tests, analysis of variance, and Cuzick tests. The most frequent seizure etiologies among older adults were unknown (29.9%), ischemic stroke (15.4%), and provoked seizures (14.9%). Neurodegenerative disease was the etiology for 5.3% of cases overall but increased in prevalence with age, accounting for 18.5% among patients aged 85-89 years. Seizure etiologies also differed by sex and race. Men more commonly had seizures caused by cerebrovascular disease and traumatic brain injury, while women more commonly had seizures due to neurodegenerative disease. Black patients had higher proportions of ischemic stroke and neurodegenerative disease, while unexplained epilepsy was more common among White patients. The causes of late-onset seizures vary based on age, sex, and race. Nearly one-third of cases of epilepsy in older adults remain unexplained despite advances in imaging techniques, underscoring the need for further research on the mechanisms and health implications of late-onset unexplained epilepsy. Improved prevention of cerebrovascular disease and optimized management of provoked seizures may reduce the growing burden of epilepsy in older adults.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42096671/",
+      "summary_ja": "背景：55歳以上の成人はてんかん発症率が最も高く、増加傾向にある。本研究は高齢者の新規発作の原因を明らかにし、人口統計学的要因による違いを検討することを目的とした。  \n方法：2021～2025年に米国の7つのてんかん専門医療機関で初発発作を経験した2052人（55歳以上）の診療記録を後ろ向きに解析し、発作原因を虚血性脳卒中、出血性脳卒中、腫瘍、神経変性、誘発発作、外傷性脳損傷、不明に分類。年齢、性別、人種、言語別に原因の違いを統計的に検討した。  \n結果：原因不明が29.9%で最多、次いで虚血性脳卒中（15.4%）、誘発発作（14.9%）であった。神経変性は全体の5.3%だが85～89歳では18.5%に増加。男性は脳血管疾患や外傷性脳損傷、女性は神経変性が多く、黒人は虚血性脳卒中や神経変性が多い一方、白人は原因不明が多かった。  \n結論：高齢者の遅発性発作の原因は年齢、性別、人種で異なり、約3割は原因不明のままである。脳血管疾患の予防や誘発発作の管理強化が高齢者てんかんの負担軽減に寄与すると考えられる。",
+      "summary_short_ja": "55歳以上の初発てんかん患者2,052名を対象に、米国7施設で2021～2025年に後天性てんかんの原因を調査した。原因は不明（29.9%）、虚血性脳卒中（15.4%）、誘発性発作（14.9%）が多く、神経変性疾患は高齢ほど増加し85～89歳で18.5%を占めた。性別や人種でも原因に差があり、脳血管疾患や外傷は男性、神経変性は女性、黒人は脳卒中・神経変性が多い傾向。原因不明例が多く、さらなる研究と脳血管疾患予防が重要とされた。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42081783",
       "doi": "10.1212/WNL.0000000000214981",
       "title": "Metabolomic Profiles of Inflammation Associated With Incident Ischemic Stroke Risk in Women.",
