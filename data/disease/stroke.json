@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42102332",
+      "doi": "10.1212/WNL.0000000000218061",
+      "title": "Pearls & Oy-sters: Stroke Recurrence After PFO Closure Uncovers Cerebrotendinous Xanthomatosis.",
+      "abstract": "Cerebrotendinous xanthomatosis (CTX) is a rare autosomal recessive metabolic disorder that can cause premature atherosclerosis and ischemic stroke in young adults. We report a 23-year-old man who had recurrent strokes even after patent foramen ovale (PFO) closure. Initial evaluation for his first cryptogenic stroke revealed a PFO with a high Risk of Paradoxical Embolism (RoPE) score, leading to closure. Three years later, he experienced a recurrent stroke with right M1 segment occlusion. High-resolution magnetic resonance vessel wall imaging demonstrated intracranial atherosclerotic plaque, prompting reconsideration of the etiology. Further history taking revealed chronic diarrhea since infancy and juvenile cataracts. Examination showed borderline intellectual functioning, bilateral ankle clonus, and Achilles tendon xanthomas. Brain MRI exhibited characteristic bilateral dentate nucleus hyperintensities. Genetic testing confirmed CYP27A1 pathogenic variants, consistent with a diagnosis of CTX. Through highlighting CTX underlying premature atherosclerosis and stroke in a young man, this case emphasizes the importance of rare metabolic disorders in stroke, even when a common cause such as PFO is identified. Early recognition enables targeted therapy and improves outcomes.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102332/",
+      "summary_ja": "背景：脳腱黄色腫症（CTX）は、若年成人に早期動脈硬化や虚血性脳卒中を引き起こすまれな常染色体劣性代謝疾患である。方法：23歳男性の症例を報告。初回の原因不明脳卒中で高リスクの卵円孔開存（PFO）が認められ閉鎖術を施行したが、3年後に再発し右M1閉塞を呈した。結果：高解像度MRI血管壁画像で頭蓋内動脈硬化性プラークを検出。詳細な病歴聴取で乳幼児期からの慢性下痢や若年性白内障が判明し、身体所見で知的境界域、両側アキレス腱黄色腫、両側足関節クローヌスを認めた。脳MRIでは両側歯状核の特徴的高信号を示し、遺伝子検査でCYP27A1変異が確認されCTXと診断された。結論：PFO閉鎖後の脳卒中再発例において、まれな代謝疾患であるCTXが早期動脈硬化と脳卒中の原因となっていることを示した。早期診断により適切な治療が可能となり、予後改善に寄与する。",
+      "summary_short_ja": "23歳男性が特発性脳梗塞で卵円孔開存（PFO）閉鎖後も再発。再発時の詳細検査で脳動脈硬化が判明し、幼少期からの慢性下痢や若年白内障、アキレス腱黄色腫などの症状と合わせて遺伝子検査を実施。CYP27A1遺伝子変異により脳腱黄色腫症（CTX）と診断された。本症は若年の早期動脈硬化・脳梗塞の原因となり、PFO以外の希少代謝疾患の鑑別が重要であることを示す。",
+      "disease": "stroke",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42096677",
       "doi": "10.1212/WNL.0000000000218031",
       "title": "Acute Kidney Injury and Risk of Adverse Neurocognitive Outcomes: A Systematic Review and Meta-Analysis.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42102335",
+      "doi": "10.1212/WNL.0000000000218065",
+      "title": "Clinical Reasoning: A 28-Year-Old Man With Seizures and Thalamic Lesions.",
+      "abstract": "This case involves a 28-year-old Black man who presented with new-onset seizures and bilateral medial temporal lobe hyperintensities on brain MRI, initially raising concern for viral encephalitis. CSF analysis revealed mild lymphocytic pleocytosis, but extensive infectious testing was negative. One year later, he developed acute right-sided weakness, and an MRI showed an enhancing FLAIR/T2 hyperintense mass-like lesion in the left thalamus. Stereotactic biopsy demonstrated reactive changes and Periodic acid-Schiff diastase (PASD)-positive macrophages, prompting consideration of atypical infectious or inflammatory etiologies. Despite empiric antibiotic treatment, his symptoms recurred 8 months later with new T2/FLAIR hyperintense lesions in the bilateral thalami and internal capsule, accompanied by mucocutaneous findings. He responded well to immunosuppressive therapy, with significant clinical and radiographic improvement. This case highlights the challenges of diagnosing relapsing neurologic syndromes with overlapping infectious, inflammatory, and neoplastic features and underscores the importance of integrating imaging, histopathology, and clinical evolution to reach a definitive diagnosis.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102335/",
+      "summary_ja": "背景：28歳の男性が新規発作と両側内側側頭葉のMRI高信号を呈し、ウイルス性脳炎が疑われた。方法：髄液検査で軽度のリンパ球増加が認められたが、感染症検査は陰性。1年後に右片麻痺が出現し、左視床に造影効果を伴うFLAIR/T2高信号の腫瘤様病変がMRIで確認された。定位生検では反応性変化とPASD陽性マクロファージが認められ、非典型的な感染性または炎症性疾患が考慮された。結果：抗菌薬治療後も8か月で症状再発し、両側視床と内包に新たな高信号病変と粘膜皮膚症状が出現。免疫抑制療法に良好に反応し、臨床・画像所見が著明に改善した。結論：感染性、炎症性、腫瘍性が重複する再発性神経症候群の診断は困難であり、画像、組織病理、臨床経過の統合的評価が確定診断に不可欠であることを示した。",
+      "summary_short_ja": "28歳の男性が新規発作と両側内側側頭葉のMRI異常で受診し、感染症は否定された。1年後に右片麻痺が出現し、左視床に病変が確認された。生検で反応性変化とPASD陽性マクロファージが認められ、非典型的な感染または炎症性疾患が疑われた。抗菌薬治療後も再発し、免疫抑制療法で改善。感染・炎症・腫瘍の鑑別が困難な症例で、画像・病理・臨床経過の統合が重要である。",
+      "disease": "epilepsy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42096673",
       "doi": "10.1212/WNL.0000000000214984",
       "title": "Antiseizure Medication Polytherapies During Pregnancy and the Risk of Congenital Malformations.",

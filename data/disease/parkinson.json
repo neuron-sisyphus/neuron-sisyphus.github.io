@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42102337",
+      "doi": "10.1212/WNL.0000000000218064",
+      "title": "Clinical Reasoning: A Woman With Parkinson Disease, Dyskinesia, Rhabdomyolysis, Subcutaneous Emphysema, and Pneumomediastinum.",
+      "abstract": "A 47-year-old woman with Parkinson disease (PD) complicated by severe motor fluctuations had been treated with deep brain stimulation (DBS) for 11 years and intestinal carbidopa/levodopa infusion for 5 years. Three months after her most recent clinic visit, at which both the DBS and infusion pump systems were confirmed to be functioning appropriately, she presented to the emergency department with abnormal movements. On examination, she had continuous, generalized, involuntary hyperkinetic movements with an erratic, dance-like quality, consistent with levodopa-associated dyskinesia. Evaluation revealed rhabdomyolysis, subcutaneous emphysema, and pneumomediastinum. She required admission to the intensive care unit for sedation and airway protection. After a key surgical intervention, she rapidly returned to her previous neurologic status and was discharged home. This case highlights the approach to acute dyskinesia and underscores the challenges of managing severe motor fluctuations in patients with PD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102337/",
+      "summary_ja": "背景：パーキンソン病（PD）患者における重度の運動変動は治療が難しい。方法：47歳女性PD患者が11年間の脳深部刺激療法（DBS）と5年間の腸管カルビドパ・レボドパ持続注入療法を受けていた。最近の診察で両治療機器は正常作動が確認されたが、3か月後に異常運動を主訴に救急受診した。結果：全身に持続する不随意の過活動運動（レボドパ関連ジスキネジア）を認め、検査で横紋筋融解症、皮下気腫、縦隔気腫を発見。集中治療室で鎮静と気道管理が必要となり、重要な外科的介入後に神経症状は速やかに改善し退院した。結論：本症例は急性ジスキネジアへの対応と、PD患者の重度運動変動管理の難しさを示している。",
+      "summary_short_ja": "パーキンソン病の47歳女性が、深部脳刺激療法と腸管カビドパ/レボドパ持続注入療法中に異常運動を呈し、レビドパ関連ジスキネジアと診断された。筋融解症、皮下気腫、縦隔気腫を合併し、集中治療室での鎮静と気道確保が必要となった。外科的処置後、神経症状は改善し退院した。本症例は急性ジスキネジアの対応と重度運動変動管理の難しさを示している。",
+      "disease": "parkinson",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42085646",
       "doi": "10.1212/WNL.0000000000214986",
       "title": "Age-Specific Parkinson Disease Risk in Gaucher Disease Type 1: Data From the ICGG Gaucher Registry.",

@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42102338",
+      "doi": "10.1212/WNL.0000000000218067",
+      "title": "Multiple Sclerosis and Outpatient Physician Care in the Last Years of Life: A Population-Based Study.",
+      "abstract": "Patients with multiple sclerosis (MS) require increasing health care support, particularly in the last year of life. Despite the benefits of palliative care in addressing symptom burden and improving quality of life, its integration into MS care remains inconsistent. This study aimed to characterize health care utilization and palliative care access among people with MS in the last years of life and to identify key factors associated with hospital death and receipt of palliative care. A retrospective cohort study was conducted using linked health administrative databases in Ontario, Canada. The cohort consisted of all decedents aged 18 years or older who died in Ontario between April 2016 and March 2020, and we compared health care utilization in decedents with MS to the rest of the cohort. The identification of MS cases was based on a validated algorithm. Demographics, health care utilization, palliative care involvement, and medical interventions were analyzed. Predictors of palliative care receipt and hospital deaths were evaluated using multivariable logistic regression models. MS decedents (n = 1,975; mean age 68 years; 66.4% female) were younger and had fewer comorbidities than non-MS decedents (n = 500,904; mean age 77). High percentage of MS decedents had outpatient neurology visits in the last 5 years of life (49.4%) but a steep decline closer to death (2.7% in the last month). Palliative care use was similar (58.0% vs 56.9%) but occurred earlier in MS (61.9% vs 59.6% in the last 5 years). Multivariable regression showed that rural residence was associated with increased odds of hospital death (odds ratio [OR] 1.81, 95% CI 1.21-2.70) and lower odds of receiving palliative care (OR 0.74, 95% CI 0.55-0.99), while receiving palliative care within the last 5 years of life reduced the odds of hospital death (OR 0.47, 95% CI 0.37-0.60). Higher comorbidity and increased outpatient visits to urology were associated with a greater odd of receiving palliative care (OR 3.64, 95% CI 2.50-5.29 and OR 1.47, 95% CI 1.20-1.80). Although palliative care receipt was comparable between MS and non-MS decedents, rural disparities and high hospital deaths persist. Earlier palliative integration, particularly through neuropalliative care, could improve quality of life and reduce hospitalizations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102338/",
+      "summary_ja": "本研究は、多発性硬化症（MS）患者の終末期における外来医療利用と緩和ケアの実態を明らかにすることを目的とした。カナダ・オンタリオ州の死亡者データベースを用いた後ろ向きコホート研究で、2016～2020年に死亡した18歳以上のMS患者（n=1,975）と非MS患者（n=500,904）を比較した。MS患者は非MS患者より若年で併存疾患が少なく、終末期5年間の神経科外来受診率は高かったが、死の直前1か月は急激に減少した。緩和ケアの利用率は両群でほぼ同等だったが、MS患者ではより早期に開始されていた。多変量解析では、農村部居住が病院死のリスク増加（OR 1.81）と緩和ケア受診率低下（OR 0.74）に関連し、緩和ケア受診は病院死リスクを低減（OR 0.47）した。併存疾患の多さや泌尿器科外来受診増加も緩和ケア受診と関連した。結論として、MS患者の緩和ケア受診率は非MS患者と同等だが、農村部の格差や高い病院死率が残存しており、神経緩和ケアを含む早期の緩和ケア統合が生活の質向上と入院減少に寄与すると示唆された。",
+      "summary_short_ja": "多発性硬化症（MS）患者は終末期に医療支援が増加するが、緩和ケアの導入は一貫していない。本研究はカナダ・オンタリオ州の死亡者データを用い、MS患者の終末期の外来受診や緩和ケア利用を分析。MS患者は非MS患者より若年で外来神経科受診が多いが死期が近づくと減少。緩和ケア利用率は同等だが、農村部では病院死が多く緩和ケア利用が少ない。早期の神経緩和ケア導入が生活の質向上と入院減少に有効と示唆された。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42102330",
+      "doi": "10.1212/WNL.0000000000218068",
+      "title": "Bridging the Gap: Baló Concentric Sclerosis-Like Leukoencephalopathy in Chronic Cocaine Use: A 1-Year Clinical and Imaging Follow-Up of 2 Cases.",
+      "abstract": "Cocaine use is occasionally associated with development of acute leukoencephalopathy but only rarely do the magnetic resonance imaging (MRI) features resemble Baló concentric sclerosis, a demyelinating disorder traditionally considered within the multiple sclerosis spectrum. Here, we report 2 patients with history of cocaine use living in the same geographic area who were referred for acute multifocal leukoencephalopathy with a Baló-like pattern.Patient 1, a 31-year-old woman originally from the Philippines with chronic cocaine use history, presented with 1 week of rapidly worsening nonfluent aphasia, neglect, severe right hemiparesis, and numbness on the same side. Two months later, patient 2, a 25-year-old man originally from Morocco with chronic cocaine use history, presented with acute left leg weakness, confusion, and neglect. In both patients, brain MRI revealed multiple T2-hyperintense rounded lesions in the white matter, characterized by a concentric target-like appearance and gadolinium-enhanced incomplete ring pattern. In patient 1, a stereotactic biopsy confirmed a demyelinating inflammatory process with microcystic degeneration, increased cellularity, and macrophage/CD4+ lymphocyte infiltration. Both patients were treated with high-dose IV corticosteroid, resulting in significant clinical and radiologic improvement sustained at 1-year follow-up. Although corticosteroids yield promising outcomes, long-term prognosis hinges on sustained treatment adherence and abstinence from cocaine.The temporal and geographic proximity of these cases, occurring within 2 months in the same Italian province (covering an area of approximately 70 miles), raises the possibility of a shared toxic exposure which might explain the unique pathology and provide clues to the immune mechanisms that drive Baló-like demyelination.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102330/",
+      "summary_ja": "背景：コカイン使用は急性白質脳症を引き起こすことがあるが、MRIでBaló同心性硬化症様の特徴を示す例は稀である。Baló硬化症は多発性硬化症スペクトラムに含まれる脱髄疾患である。  \n方法：同一地域に住む慢性コカイン使用歴のある2例を対象に、臨床経過とMRI所見を1年間追跡した。患者1は31歳女性で、非流暢性失語、無視、右片麻痺を呈し、患者2は25歳男性で左下肢の筋力低下と意識障害を呈した。MRIでは両者とも白質に同心円状のT2高信号病変とガドリニウム増強の不完全輪状パターンを認めた。患者1は立体的生検で脱髄性炎症と免疫細胞浸潤を確認した。  \n結果：両患者は高用量静脈内ステロイド療法を受け、臨床的・画像的に著明な改善を示し、1年後も良好な経過を維持した。  \n結論：コカイン関連のBaló様白質脳症はステロイド治療により改善が期待できるが、長期予後は治療継続とコカイン断絶に依存する。地理的・時間的近接性から共通の毒性曝露が示唆され、Baló様脱髄の免疫機序解明の手がかりとなる可能性がある。",
+      "summary_short_ja": "慢性コカイン使用者2名が、Baló型の同心円状脱髄を示す急性多巣性白質脳症を発症した。MRIでは特徴的な同心円状病変が認められ、1例は生検で脱髄性炎症が確認された。高用量ステロイド治療により1年後も臨床・画像所見が改善したが、長期予後は治療継続とコカイン断絶に依存する。地理的・時間的近接から共通の毒性曝露が示唆され、Baló様脱髄の免疫機序解明に寄与する可能性がある。",
+      "disease": "ms",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42085644",
       "doi": "10.1212/WNL.0000000000214943",
       "title": "Differences in Use of Disease-Modifying Therapies Between Patients With Late-Onset and Adult-Onset Relapsing-Remitting Multiple Sclerosis.",
