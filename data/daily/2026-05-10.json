@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-10",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42102338",
+      "doi": "10.1212/WNL.0000000000218067",
+      "title": "Multiple Sclerosis and Outpatient Physician Care in the Last Years of Life: A Population-Based Study.",
+      "abstract": "Patients with multiple sclerosis (MS) require increasing health care support, particularly in the last year of life. Despite the benefits of palliative care in addressing symptom burden and improving quality of life, its integration into MS care remains inconsistent. This study aimed to characterize health care utilization and palliative care access among people with MS in the last years of life and to identify key factors associated with hospital death and receipt of palliative care. A retrospective cohort study was conducted using linked health administrative databases in Ontario, Canada. The cohort consisted of all decedents aged 18 years or older who died in Ontario between April 2016 and March 2020, and we compared health care utilization in decedents with MS to the rest of the cohort. The identification of MS cases was based on a validated algorithm. Demographics, health care utilization, palliative care involvement, and medical interventions were analyzed. Predictors of palliative care receipt and hospital deaths were evaluated using multivariable logistic regression models. MS decedents (n = 1,975; mean age 68 years; 66.4% female) were younger and had fewer comorbidities than non-MS decedents (n = 500,904; mean age 77). High percentage of MS decedents had outpatient neurology visits in the last 5 years of life (49.4%) but a steep decline closer to death (2.7% in the last month). Palliative care use was similar (58.0% vs 56.9%) but occurred earlier in MS (61.9% vs 59.6% in the last 5 years). Multivariable regression showed that rural residence was associated with increased odds of hospital death (odds ratio [OR] 1.81, 95% CI 1.21-2.70) and lower odds of receiving palliative care (OR 0.74, 95% CI 0.55-0.99), while receiving palliative care within the last 5 years of life reduced the odds of hospital death (OR 0.47, 95% CI 0.37-0.60). Higher comorbidity and increased outpatient visits to urology were associated with a greater odd of receiving palliative care (OR 3.64, 95% CI 2.50-5.29 and OR 1.47, 95% CI 1.20-1.80). Although palliative care receipt was comparable between MS and non-MS decedents, rural disparities and high hospital deaths persist. Earlier palliative integration, particularly through neuropalliative care, could improve quality of life and reduce hospitalizations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102338/",
+      "summary_ja": "本研究は、多発性硬化症（MS）患者の終末期における外来医療利用と緩和ケアの実態を明らかにすることを目的とした。カナダ・オンタリオ州の死亡者データベースを用いた後ろ向きコホート研究で、2016～2020年に死亡した18歳以上のMS患者（n=1,975）と非MS患者（n=500,904）を比較した。MS患者は非MS患者より若年で併存疾患が少なく、終末期5年間の神経科外来受診率は高かったが、死の直前1か月は急激に減少した。緩和ケアの利用率は両群でほぼ同等だったが、MS患者ではより早期に開始されていた。多変量解析では、農村部居住が病院死のリスク増加（OR 1.81）と緩和ケア受診率低下（OR 0.74）に関連し、緩和ケア受診は病院死リスクを低減（OR 0.47）した。併存疾患の多さや泌尿器科外来受診増加も緩和ケア受診と関連した。結論として、MS患者の緩和ケア受診率は非MS患者と同等だが、農村部の格差や高い病院死率が残存しており、神経緩和ケアを含む早期の緩和ケア統合が生活の質向上と入院減少に寄与すると示唆された。",
+      "summary_short_ja": "多発性硬化症（MS）患者は終末期に医療支援が増加するが、緩和ケアの導入は一貫していない。本研究はカナダ・オンタリオ州の死亡者データを用い、MS患者の終末期の外来受診や緩和ケア利用を分析。MS患者は非MS患者より若年で外来神経科受診が多いが死期が近づくと減少。緩和ケア利用率は同等だが、農村部では病院死が多く緩和ケア利用が少ない。早期の神経緩和ケア導入が生活の質向上と入院減少に有効と示唆された。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42102337",
+      "doi": "10.1212/WNL.0000000000218064",
+      "title": "Clinical Reasoning: A Woman With Parkinson Disease, Dyskinesia, Rhabdomyolysis, Subcutaneous Emphysema, and Pneumomediastinum.",
+      "abstract": "A 47-year-old woman with Parkinson disease (PD) complicated by severe motor fluctuations had been treated with deep brain stimulation (DBS) for 11 years and intestinal carbidopa/levodopa infusion for 5 years. Three months after her most recent clinic visit, at which both the DBS and infusion pump systems were confirmed to be functioning appropriately, she presented to the emergency department with abnormal movements. On examination, she had continuous, generalized, involuntary hyperkinetic movements with an erratic, dance-like quality, consistent with levodopa-associated dyskinesia. Evaluation revealed rhabdomyolysis, subcutaneous emphysema, and pneumomediastinum. She required admission to the intensive care unit for sedation and airway protection. After a key surgical intervention, she rapidly returned to her previous neurologic status and was discharged home. This case highlights the approach to acute dyskinesia and underscores the challenges of managing severe motor fluctuations in patients with PD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102337/",
+      "summary_ja": "背景：パーキンソン病（PD）患者における重度の運動変動は治療が難しい。方法：47歳女性PD患者が11年間の脳深部刺激療法（DBS）と5年間の腸管カルビドパ・レボドパ持続注入療法を受けていた。最近の診察で両治療機器は正常作動が確認されたが、3か月後に異常運動を主訴に救急受診した。結果：全身に持続する不随意の過活動運動（レボドパ関連ジスキネジア）を認め、検査で横紋筋融解症、皮下気腫、縦隔気腫を発見。集中治療室で鎮静と気道管理が必要となり、重要な外科的介入後に神経症状は速やかに改善し退院した。結論：本症例は急性ジスキネジアへの対応と、PD患者の重度運動変動管理の難しさを示している。",
+      "summary_short_ja": "パーキンソン病の47歳女性が、深部脳刺激療法と腸管カビドパ/レボドパ持続注入療法中に異常運動を呈し、レビドパ関連ジスキネジアと診断された。筋融解症、皮下気腫、縦隔気腫を合併し、集中治療室での鎮静と気道確保が必要となった。外科的処置後、神経症状は改善し退院した。本症例は急性ジスキネジアの対応と重度運動変動管理の難しさを示している。",
+      "disease": "parkinson",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42102335",
+      "doi": "10.1212/WNL.0000000000218065",
+      "title": "Clinical Reasoning: A 28-Year-Old Man With Seizures and Thalamic Lesions.",
+      "abstract": "This case involves a 28-year-old Black man who presented with new-onset seizures and bilateral medial temporal lobe hyperintensities on brain MRI, initially raising concern for viral encephalitis. CSF analysis revealed mild lymphocytic pleocytosis, but extensive infectious testing was negative. One year later, he developed acute right-sided weakness, and an MRI showed an enhancing FLAIR/T2 hyperintense mass-like lesion in the left thalamus. Stereotactic biopsy demonstrated reactive changes and Periodic acid-Schiff diastase (PASD)-positive macrophages, prompting consideration of atypical infectious or inflammatory etiologies. Despite empiric antibiotic treatment, his symptoms recurred 8 months later with new T2/FLAIR hyperintense lesions in the bilateral thalami and internal capsule, accompanied by mucocutaneous findings. He responded well to immunosuppressive therapy, with significant clinical and radiographic improvement. This case highlights the challenges of diagnosing relapsing neurologic syndromes with overlapping infectious, inflammatory, and neoplastic features and underscores the importance of integrating imaging, histopathology, and clinical evolution to reach a definitive diagnosis.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102335/",
+      "summary_ja": "背景：28歳の男性が新規発作と両側内側側頭葉のMRI高信号を呈し、ウイルス性脳炎が疑われた。方法：髄液検査で軽度のリンパ球増加が認められたが、感染症検査は陰性。1年後に右片麻痺が出現し、左視床に造影効果を伴うFLAIR/T2高信号の腫瘤様病変がMRIで確認された。定位生検では反応性変化とPASD陽性マクロファージが認められ、非典型的な感染性または炎症性疾患が考慮された。結果：抗菌薬治療後も8か月で症状再発し、両側視床と内包に新たな高信号病変と粘膜皮膚症状が出現。免疫抑制療法に良好に反応し、臨床・画像所見が著明に改善した。結論：感染性、炎症性、腫瘍性が重複する再発性神経症候群の診断は困難であり、画像、組織病理、臨床経過の統合的評価が確定診断に不可欠であることを示した。",
+      "summary_short_ja": "28歳の男性が新規発作と両側内側側頭葉のMRI異常で受診し、感染症は否定された。1年後に右片麻痺が出現し、左視床に病変が確認された。生検で反応性変化とPASD陽性マクロファージが認められ、非典型的な感染または炎症性疾患が疑われた。抗菌薬治療後も再発し、免疫抑制療法で改善。感染・炎症・腫瘍の鑑別が困難な症例で、画像・病理・臨床経過の統合が重要である。",
+      "disease": "epilepsy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42102332",
+      "doi": "10.1212/WNL.0000000000218061",
+      "title": "Pearls & Oy-sters: Stroke Recurrence After PFO Closure Uncovers Cerebrotendinous Xanthomatosis.",
+      "abstract": "Cerebrotendinous xanthomatosis (CTX) is a rare autosomal recessive metabolic disorder that can cause premature atherosclerosis and ischemic stroke in young adults. We report a 23-year-old man who had recurrent strokes even after patent foramen ovale (PFO) closure. Initial evaluation for his first cryptogenic stroke revealed a PFO with a high Risk of Paradoxical Embolism (RoPE) score, leading to closure. Three years later, he experienced a recurrent stroke with right M1 segment occlusion. High-resolution magnetic resonance vessel wall imaging demonstrated intracranial atherosclerotic plaque, prompting reconsideration of the etiology. Further history taking revealed chronic diarrhea since infancy and juvenile cataracts. Examination showed borderline intellectual functioning, bilateral ankle clonus, and Achilles tendon xanthomas. Brain MRI exhibited characteristic bilateral dentate nucleus hyperintensities. Genetic testing confirmed CYP27A1 pathogenic variants, consistent with a diagnosis of CTX. Through highlighting CTX underlying premature atherosclerosis and stroke in a young man, this case emphasizes the importance of rare metabolic disorders in stroke, even when a common cause such as PFO is identified. Early recognition enables targeted therapy and improves outcomes.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102332/",
+      "summary_ja": "背景：脳腱黄色腫症（CTX）は、若年成人に早期動脈硬化や虚血性脳卒中を引き起こすまれな常染色体劣性代謝疾患である。方法：23歳男性の症例を報告。初回の原因不明脳卒中で高リスクの卵円孔開存（PFO）が認められ閉鎖術を施行したが、3年後に再発し右M1閉塞を呈した。結果：高解像度MRI血管壁画像で頭蓋内動脈硬化性プラークを検出。詳細な病歴聴取で乳幼児期からの慢性下痢や若年性白内障が判明し、身体所見で知的境界域、両側アキレス腱黄色腫、両側足関節クローヌスを認めた。脳MRIでは両側歯状核の特徴的高信号を示し、遺伝子検査でCYP27A1変異が確認されCTXと診断された。結論：PFO閉鎖後の脳卒中再発例において、まれな代謝疾患であるCTXが早期動脈硬化と脳卒中の原因となっていることを示した。早期診断により適切な治療が可能となり、予後改善に寄与する。",
+      "summary_short_ja": "23歳男性が特発性脳梗塞で卵円孔開存（PFO）閉鎖後も再発。再発時の詳細検査で脳動脈硬化が判明し、幼少期からの慢性下痢や若年白内障、アキレス腱黄色腫などの症状と合わせて遺伝子検査を実施。CYP27A1遺伝子変異により脳腱黄色腫症（CTX）と診断された。本症は若年の早期動脈硬化・脳梗塞の原因となり、PFO以外の希少代謝疾患の鑑別が重要であることを示す。",
+      "disease": "stroke",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42102330",
+      "doi": "10.1212/WNL.0000000000218068",
+      "title": "Bridging the Gap: Baló Concentric Sclerosis-Like Leukoencephalopathy in Chronic Cocaine Use: A 1-Year Clinical and Imaging Follow-Up of 2 Cases.",
+      "abstract": "Cocaine use is occasionally associated with development of acute leukoencephalopathy but only rarely do the magnetic resonance imaging (MRI) features resemble Baló concentric sclerosis, a demyelinating disorder traditionally considered within the multiple sclerosis spectrum. Here, we report 2 patients with history of cocaine use living in the same geographic area who were referred for acute multifocal leukoencephalopathy with a Baló-like pattern.Patient 1, a 31-year-old woman originally from the Philippines with chronic cocaine use history, presented with 1 week of rapidly worsening nonfluent aphasia, neglect, severe right hemiparesis, and numbness on the same side. Two months later, patient 2, a 25-year-old man originally from Morocco with chronic cocaine use history, presented with acute left leg weakness, confusion, and neglect. In both patients, brain MRI revealed multiple T2-hyperintense rounded lesions in the white matter, characterized by a concentric target-like appearance and gadolinium-enhanced incomplete ring pattern. In patient 1, a stereotactic biopsy confirmed a demyelinating inflammatory process with microcystic degeneration, increased cellularity, and macrophage/CD4+ lymphocyte infiltration. Both patients were treated with high-dose IV corticosteroid, resulting in significant clinical and radiologic improvement sustained at 1-year follow-up. Although corticosteroids yield promising outcomes, long-term prognosis hinges on sustained treatment adherence and abstinence from cocaine.The temporal and geographic proximity of these cases, occurring within 2 months in the same Italian province (covering an area of approximately 70 miles), raises the possibility of a shared toxic exposure which might explain the unique pathology and provide clues to the immune mechanisms that drive Baló-like demyelination.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102330/",
+      "summary_ja": "背景：コカイン使用は急性白質脳症を引き起こすことがあるが、MRIでBaló同心性硬化症様の特徴を示す例は稀である。Baló硬化症は多発性硬化症スペクトラムに含まれる脱髄疾患である。  \n方法：同一地域に住む慢性コカイン使用歴のある2例を対象に、臨床経過とMRI所見を1年間追跡した。患者1は31歳女性で、非流暢性失語、無視、右片麻痺を呈し、患者2は25歳男性で左下肢の筋力低下と意識障害を呈した。MRIでは両者とも白質に同心円状のT2高信号病変とガドリニウム増強の不完全輪状パターンを認めた。患者1は立体的生検で脱髄性炎症と免疫細胞浸潤を確認した。  \n結果：両患者は高用量静脈内ステロイド療法を受け、臨床的・画像的に著明な改善を示し、1年後も良好な経過を維持した。  \n結論：コカイン関連のBaló様白質脳症はステロイド治療により改善が期待できるが、長期予後は治療継続とコカイン断絶に依存する。地理的・時間的近接性から共通の毒性曝露が示唆され、Baló様脱髄の免疫機序解明の手がかりとなる可能性がある。",
+      "summary_short_ja": "慢性コカイン使用者2名が、Baló型の同心円状脱髄を示す急性多巣性白質脳症を発症した。MRIでは特徴的な同心円状病変が認められ、1例は生検で脱髄性炎症が確認された。高用量ステロイド治療により1年後も臨床・画像所見が改善したが、長期予後は治療継続とコカイン断絶に依存する。地理的・時間的近接から共通の毒性曝露が示唆され、Baló様脱髄の免疫機序解明に寄与する可能性がある。",
+      "disease": "ms",
+      "section": "imaging"
+    }
+  ]
+}
