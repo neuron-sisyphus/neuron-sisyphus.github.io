@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "41985109",
+      "doi": "10.1038/nclimate2631",
+      "title": "Acute Environmental Triggers and Intermediate-Term Modulators of Emergency Migraine-Related Health Care Encounters.",
+      "abstract": "Migraine activity is shaped not only by the biological vulnerability but also by environmental factors that may influence susceptibility and contribute to fluctuations in migraine occurrence, although the evidence remains inconsistent. We aimed to evaluate the intermediate-term and short-term effects of environmental exposures on migraine activity and to examine a conceptual layered model comprising biological vulnerability, intermediate-term environmental modulators, and acute triggers. We conducted a population-based case-crossover study among patients with migraine identified from the Negev Migraine Cohort (2000-2023), using electronic medical records from Clalit Health Services and Soroka University Medical Center. Eligible participants were adult patients (≥18 years) residing in Be'er Sheva, Israel, with migraine diagnoses or triptan prescriptions. Daily exposure to air pollutants and meteorologic conditions were obtained from fixed monitoring stations. Outcomes were emergency migraine-related encounters as a marker of triggered events and quarterly triptan use as a marker for disease activity. Intermediate-term modulators were defined as weekly climatic conditions hypothesized to modify the short-term effects of daily exposures. Associations were evaluated using conditional logistic and Poisson regression. The analysis included 7,032 adult patients with migraine residing in Be'er Sheva. Short-term exposure to nitrogen dioxide (NO Short-term and cumulative exposure to ambient air pollution and climatic factors were associated with increased migraine activity. Although these findings support a layered model of environmental modulation of migraine activity, their generalizability is limited by the use of emergency health care encounters as a proxy outcome, underscoring the need for further research using complementary measures.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41985109/",
+      "summary_ja": "背景：片頭痛の発症は生物学的脆弱性だけでなく、環境要因も影響し、発症頻度の変動に寄与すると考えられるが、証拠は一貫していない。  \n方法：イスラエルのベールシェバ在住の成人片頭痛患者7,032名を対象に、2000～2023年の電子医療記録を用いた症例交差研究を実施。大気汚染物質（特に二酸化窒素）や気象条件の短期・中期曝露と、救急受診やトリプタン使用頻度との関連を条件付きロジスティック回帰およびポアソン回帰で解析した。中期調整因子は週単位の気候条件と定義。  \n結果：短期および累積的な大気汚染曝露と気象要因は、救急受診による片頭痛発作の増加およびトリプタン使用頻度の上昇と有意に関連した。  \n結論：片頭痛活動は生物学的脆弱性に加え、中期的環境調整因子と急性トリガーの多層モデルで説明可能であるが、救急受診を指標としたため一般化には限界があり、補完的評価を用いたさらなる研究が必要である。",
+      "summary_short_ja": "本研究は、イスラエル・ベールシェバ在住の7,032人の片頭痛患者を対象に、大気汚染や気象条件が片頭痛発作に与える短期および中期の影響を調査した。特に二酸化窒素などの大気汚染物質への曝露が、緊急医療受診やトリプタン使用の増加と関連し、環境要因が生物学的脆弱性に加え片頭痛活動を層状に調節するモデルを支持した。ただし、緊急受診を指標としたため一般化には限界があり、さらなる検証が必要である。",
+      "disease": "migraine",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42096674",
       "doi": "10.1212/WNL.0000000000214862",
       "title": "The Prevalence and Incidence of Cluster Headache: A Norwegian Population-Based Time-Trend Study.",
