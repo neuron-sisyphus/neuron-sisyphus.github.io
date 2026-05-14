@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42127357",
+      "doi": "10.1212/WNL.0000000000218063",
+      "title": "Clinical Reasoning: A 55-Year-Old Man With Rapidly Progressive Weakness and Numbness.",
+      "abstract": "A 55-year-old man with uncontrolled diabetes presented with progressive length-dependent weakness, numbness, and paresthesia, leading to profound upper extremity weakness and lower extremity paraplegia in 4 months. A review of systems additionally revealed leg edema, chest wall erythema, and weight loss. Nerve conduction study/electromyography (NCS/EMG) showed axonal length-dependent sensorimotor polyneuropathy. Additional testing revealed a rare etiology. Treatment was started, and the patient's symptoms stabilized. This report discusses the diagnostic approach to rapidly progressive polyneuropathies, emphasizing careful systemic examination, laboratory studies, imaging, and electrophysiologic testing. It also highlights the importance of looking beyond neurologic signs to identify systemic evidence of disease involvement.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42127357/",
+      "summary_ja": "背景：55歳の糖尿病患者が、4か月間で急速に進行する四肢の筋力低下と感覚障害を呈し、上肢の著しい筋力低下と下肢の対麻痺に至った。方法：症状の詳細な聴取と身体診察に加え、神経伝導検査・筋電図（NCS/EMG）を実施し、軸索性の長さ依存性感覚運動多発ニューロパチーと診断。さらに全身症状（下肢浮腫、胸壁紅斑、体重減少）を踏まえ、追加検査を行い稀な原因を同定した。結果：適切な治療開始により症状の進行は安定化した。結論：急速進行性多発ニューロパチーの診断には、神経学的所見に加え全身症状の評価が重要であり、系統的な身体検査、検査、画像診断、電気生理学的検査を組み合わせることで、基礎疾患の早期発見と治療開始が可能となる。",
+      "summary_short_ja": "55歳の糖尿病患者が、4か月で急速に進行する四肢の筋力低下と感覚障害を呈した。神経伝導検査で軸索性の長さ依存性感覚運動性多発ニューロパチーと診断され、追加検査により稀な原因が判明した。全身症状の評価と多角的検査を通じて診断を確定し、治療開始後に症状の安定化を得た。本報告は、急速進行性多発ニューロパチーの診断における全身評価の重要性を示している。",
+      "disease": "neuropathy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42096678",
       "doi": "10.1212/WNL.0000000000218033",
       "title": "Sensitivity of Nerve and Skin Biopsy and Fat Aspirate for Amyloid in Symptomatic Hereditary ATTR Amyloidosis With Peripheral Neuropathy.",

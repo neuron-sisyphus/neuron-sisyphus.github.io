@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42127347",
+      "doi": "10.1212/WNL.0000000000218082",
+      "title": "Risk of Myasthenia Gravis Exacerbation During Pregnancy and Postpartum: A Nationwide Cohort Study.",
+      "abstract": "The impact of pregnancy on the clinical course of myasthenia gravis (MG) remains uncertain, with existing evidence mainly derived from small case series. Using nationwide longitudinal register data, we aimed to assess the risk of MG exacerbation during pregnancy and up to 1 year postpartum. In this population-based cohort study, we included women with MG recorded in the Swedish National MG Register who had singleton pregnancies documented in the Medical Birth Register after MG diagnosis (1987-2019). The exposure was pregnancy, and the outcome was MG exacerbation. The primary outcome measure was hospital admissions with MG during pregnancy and the postpartum year, compared with the year preceding pregnancy. Cox proportional hazards models estimated hazard ratios (HRs), adjusting for disease duration and prior thymectomy. The secondary outcome measure was changes in immunosuppressive MG medications during pregnancy and postpartum. We identified 112 women with MG (median age 30 years) with 176 singleton pregnancies. During pregnancy, women were not more likely to be hospitalized for MG than in the prepregnancy year (HR 0.74, 95% CI 0.39-1.41), and there was no increased risk of longer hospital admissions (HR 0.83, 95% CI 0.36-1.88). The postpartum period was associated with an increased risk of prolonged MG admissions during the first 3 months (HR 5.02, 95% CI 1.66-15.24), with a similar risk observed throughout the first 12 months postpartum (HR 4.52, 95% CI 1.26-16.14). During pregnancy, immunosuppressive MG medications were reduced or discontinued in 13 pregnancies and increased in 6. Postpartum, medications were initiated or escalated in 10 pregnancies and reduced in none. The risk of prolonged MG admissions was higher in periods outside of pregnancy compared with the prepregnancy year (HR 2.95, 95% CI 0.84-10.43), suggesting that women conceive during periods of relative disease stability. Pregnancy was not associated with an increased risk of MG exacerbation. The postpartum period was linked to more severe or prolonged exacerbations in a minority of women, highlighting the importance of close monitoring after delivery. Milder exacerbations not requiring hospitalization or clear medication escalation may have been underestimated, underscoring the need for larger prospective international studies that include detailed clinical data.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42127347/",
+      "summary_ja": "背景：重症筋無力症（MG）における妊娠の影響は不明瞭で、これまでの知見は小規模症例報告に限られていた。  \n方法：スウェーデンの全国MG登録と出生登録を用い、1987～2019年にMG診断後に単胎妊娠を経験した112人の女性（176妊娠）を対象に、妊娠中および産後1年間のMG悪化リスクを、妊娠前1年と比較して検討した。主な評価はMGによる入院の有無と期間、二次評価は免疫抑制薬の使用変化である。  \n結果：妊娠中のMG入院リスクは妊娠前と変わらず（HR 0.74）、長期入院リスクも増加しなかった。一方、産後3か月間は長期入院リスクが有意に増加（HR 5.02）し、産後12か月間も高リスクが続いた。妊娠中は免疫抑制薬が減量・中止されることが多く、産後は増量または開始される傾向があった。  \n結論：妊娠自体はMG悪化リスクを高めないが、産後は一部の女性で重度または長期の悪化がみられ、慎重な経過観察が必要である。軽度の悪化は過小評価されている可能性があり、詳細な臨床データを含む大規模国際前向き研究が求められる。",
+      "summary_short_ja": "本研究は、スウェーデンの全国登録データを用いて、重症筋無力症（MG）患者の妊娠中および産後1年までの病状悪化リスクを評価した。妊娠中のMG悪化による入院リスクは増加せず、むしろ安定期に妊娠している可能性が示唆された。一方、産後3か月以内に長期入院を伴う悪化リスクが有意に上昇し、産後の綿密な管理の重要性が示された。軽度悪化の把握にはさらなる大規模研究が必要である。",
+      "disease": "myasthenia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41945881",
       "doi": "10.1212/WNL.0000000000214865",
       "title": "Efficacy of Pyridostigmine in Myasthenia Gravis: A Randomized, Double-Blind, Placebo-Controlled Crossover Trial.",
