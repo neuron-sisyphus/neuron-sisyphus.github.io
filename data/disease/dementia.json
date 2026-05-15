@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42133909",
+      "doi": "10.1212/WNL.0000000000214983",
+      "title": "The Role of Clinical, Plasma, and Imaging Biomarkers in Assessing Future Dementia Risk in Individuals With Subjective Cognitive Decline.",
+      "abstract": "Subjective cognitive decline (SCD) is a well-recognized risk state for developing mild cognitive impairment (MCI) and dementia. Optimal risk stratification for early interventions and clinical trial selection remains challenging. This study evaluates progression risk across multimodal biomarker profiles in SCD. We conducted a longitudinal observational study including participants from the BioFINDER-1 and BioFINDER-2 cohorts with a baseline diagnosis of SCD, at least 1 follow-up visit, and available information on dementia progression. Baseline predictors included cognitive performance,  A total of 469 participants with SCD (mean age 69.1 ± 7.1 years, 51.4% female) were included in the main sample. Eighty-four individuals progressed to dementia over 4.0 ± 2.1 years (66.7% AD dementia). Progressors were older and more frequently  A clinically feasible multimodal approach combining cognitive assessment, plasma p-tau217, and",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42133909/",
+      "summary_ja": "背景：主観的認知低下（SCD）は軽度認知障害（MCI）や認知症発症のリスク状態として知られているが、早期介入や臨床試験の対象選定における最適なリスク層別化は困難である。  \n方法：BioFINDER-1およびBioFINDER-2コホートから、SCD診断を受けた469名（平均年齢69.1歳、女性51.4%）を対象に、認知機能評価、血漿中p-tau217などのバイオマーカー、画像診断を組み合わせた多面的なリスク評価を行い、平均4年間の追跡で認知症進行を観察した。  \n結果：84名が認知症へ進行し、そのうち66.7%がアルツハイマー型認知症であった。進行者は非進行者より高齢であり、認知機能低下や血漿p-tau217の上昇が認知症リスクの有意な予測因子であった。  \n結論：認知機能評価、血漿p-tau217、画像診断を組み合わせた臨床的に実施可能な多モーダルアプローチは、SCD患者の将来の認知症リスク評価に有用であり、早期介入や臨床試験の対象選定に役立つ可能性が示された。",
+      "summary_short_ja": "主観的認知低下（SCD）は軽度認知障害や認知症のリスク状態であり、本研究はBioFINDERコホートの469名を対象に、認知機能評価、血漿中p-tau217、画像バイオマーカーを組み合わせた多面的な指標で認知症進行リスクを検討した。約4年間で84名が認知症に進行し、高齢や特定バイオマーカーの異常がリスク上昇と関連した。これにより早期介入や臨床試験の選択に有用なリスク層別化法が示された。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41996657",
       "doi": "10.1111/epi.16547",
       "title": "Differences in Survival Associated With the First Antiseizure Medication in People With Dementia and Epilepsy.",
