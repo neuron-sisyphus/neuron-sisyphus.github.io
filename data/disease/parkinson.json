@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42139639",
+      "doi": "10.1212/WNL.0000000000218062",
+      "title": "Pearls & Oy-Sters: Plantar Agraphesthesia in Corticobasal Syndrome.",
+      "abstract": "We describe a 70-year-old man with no significant medical history who developed progressive left leg numbness, gait dysfunction, and recurrent falls. Within a year, he reported difficulty with both initiating steps and perceiving his left leg as his own. Neurologic evaluation revealed foot dystonia, bradykinesia, and plantar agraphesthesia. Electromyography and nerve conduction studies were unremarkable. Brain MRI demonstrated asymmetric parietal atrophy, greatest on the right. His symptoms did not improve with high-dose carbidopa-levodopa (900 mg/day). This case highlights plantar agraphesthesia as a valuable bedside sign of lower limb cortical sensory loss, even in the absence of hand involvement.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42139639/",
+      "summary_ja": "背景：70歳男性が左脚のしびれ、歩行障害、転倒を呈し、1年以内に歩行開始困難と左脚の自己認識障害を訴えた。  \n方法：神経学的評価で足のジストニア、動作緩慢、足底の失書症（プランターアグラフェセジア）を確認。筋電図・神経伝導検査は正常。脳MRIでは右優位の頭頂葉萎縮を認めた。高用量カルビドパ・レボドパ療法（900mg/日）を施行したが症状は改善しなかった。  \n結果：足底の失書症は手の症状がなくても下肢の皮質性感覚障害を示す有用な臨床兆候であることが示された。  \n結論：本症例は、皮質基底核症候群における下肢の皮質性感覚障害を示す足底失書症の重要性を強調し、診断の補助となることを示唆する。",
+      "summary_short_ja": "70歳男性が左脚のしびれ、歩行障害、転倒を呈し、左脚の自己認識障害も出現した。神経学的検査で足のジストニア、動作緩慢、足底の失筆症（プランターアグラフェスティジア）が認められたが、筋電図・神経伝導は正常。脳MRIは右優位の頭頂葉萎縮を示し、パーキンソン薬は効果がなかった。本例は、手の症状がなくても下肢の皮質性感覚障害を示す足底失筆症の重要性を示す。",
+      "disease": "parkinson",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41985110",
       "doi": "10.1016/j.autneu.2025.103258",
       "title": "Cognitive Fluctuations, Neuropsychiatric Burden, and Quality of Life in Moderate-Advanced Dementia With Lewy Bodies: The Role of Dysautonomia.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42139653",
+      "doi": "10.1212/WNL.0000000000214933",
+      "title": "Autoimmune Encephalitis as Treatment-Responsive Cause of Rapidly Progressive Dementia: A Multicenter Prospective Cohort Study.",
+      "abstract": "Early recognition of patients with rapidly progressive dementia (RPD) attributed to autoimmune encephalitis (AE) is important because rapid initiation of immunotherapy improves outcomes. However, ancillary testing is often time-consuming because of the broad differential diagnosis, highlighting the need for accurate patient selection based on early clinical features. We aim to determine the frequency of AE subtypes in patients with RPD (AE-RPD) and characterize presenting subphenotypes (i.e., symptoms in addition to dementia) compared with other diagnoses. This prospective multicenter observational cohort study was conducted from December 2019 to December 2024 across centers in the Netherlands and included adult patients with RPD, defined as dementia beginning within 1 year of symptom onset. Clinical features and ancillary testing data were collected and reviewed by 3 neurologists. Serum and CSF were evaluated for neuronal/glial autoantibodies. A total of 147 patients were included (46% female; median age 67 years, range 36-86). AE-RPD was the largest diagnostic category (58/147; 39%) and most common treatment-responsive cause of RPD (58/95; 61%). Neurodegenerative diseases (20/147; 14%) and Creutzfeldt-Jakob disease (CJD, 17/147; 12%) accounted for the largest nonresponsive causes of RPD. RPD accompanied by seizures at first presentation was more frequent in AE-RPD compared with other diagnoses (20/58; 34% vs 9/89; 10%;  In this study, AE was the most common treatment-responsive cause of RPD. Anti-leucine-rich, glioma-inactivated 1 encephalitis and autoimmune GFAP astrocytopathy were the predominant subtypes in AE-RPD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42139653/",
+      "summary_ja": "背景：急速進行性認知症（RPD）の原因として自己免疫性脳炎（AE）が注目されており、免疫療法の早期開始が予後改善に重要である。しかし、鑑別診断が多岐にわたり補助検査に時間を要するため、早期の臨床特徴に基づく正確な患者選別が求められている。  \n方法：オランダの複数施設で2019年12月から2024年12月まで実施された前向き多施設観察コホート研究で、発症から1年以内に認知症を発症した成人RPD患者147名を対象に、臨床所見や血清・脳脊髄液中の神経細胞・グリア抗体を評価した。  \n結果：AE-RPDは全体の39％（58/147）を占め、治療反応性RPDの61％（58/95）で最も多かった。神経変性疾患（14％）やクロイツフェルト・ヤコブ病（12％）は治療非反応性の主な原因であった。発症時にけいれんを伴うRPDはAE-RPD群で有意に多かった（34％ vs 10％）。  \n結論：AEはRPDの中で最も頻度の高い治療反応性原因であり、特に抗リジンリッチグリア腫瘍抑制因子1抗体脳炎と自己免疫性GFAPアストロサイトパチーが主要なサブタイプであった。",
+      "summary_short_ja": "本研究は、急速進行性認知症（RPD）の原因として自己免疫性脳炎（AE）が最も多く、治療に反応しやすいことを示した。147例中39％がAE-RPDで、特に抗LRG1脳炎や自己免疫性GFAP星状細胞症が主な亜型であった。発症時にてんかんを伴う症例はAE-RPDで有意に多く、早期免疫療法開始の重要性が示唆された。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42133909",
       "doi": "10.1212/WNL.0000000000214983",
       "title": "The Role of Clinical, Plasma, and Imaging Biomarkers in Assessing Future Dementia Risk in Individuals With Subjective Cognitive Decline.",

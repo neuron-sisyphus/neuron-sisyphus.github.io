@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42139635",
+      "doi": "10.1212/WNL.0000000000218057",
+      "title": "Clinical, Electrophysiological, and Neuropathological Features of Peripheral Neuropathies in People With T-Cell Lymphoproliferative Disorder.",
+      "abstract": "Peripheral neuropathies (PNs) associated with T-cell lymphoproliferative disorders (T-Ly) are exceptionally rare and poorly characterized. Whether their mechanisms, clinical features, and outcome differ from PN associated with B-cell lymphoproliferative disorders (B-Ly) remains unclear. We aimed to characterize the clinical, electrophysiologic, and pathologic spectrum of T-Ly-associated PN, evaluate treatment responses, and compare these findings with B-Ly-associated PN. We conducted a retrospective multicentric cohort study across 17 PN reference centers in France and Switzerland. Adult patients with confirmed PN and T-Ly were included after exclusion of alternative PN etiologies and isolated CNS involvement. Clinical, electrophysiologic, imaging, and histopathologic data were collected. PN were classified as neurolymphomatosis or dysimmune neuropathy based on multidisciplinary consensus. Functional outcomes were assessed using the modified Rankin Scale (mRS) and Overall Neuropathy Limitations Scale. The results were compared with a reference cohort of B-Ly-associated PN. Nineteen patients were included (mean age 67.0 ± 11.4 years, 52.6% female) with a median follow-up of 22 months (interquartile range 11.5-30.5). Neurolymphomatosis accounted for 11 cases (58%) and typically presented with multifocal, predominantly axonal neuropathy, including meningoradiculitis and multiple mononeuropathies. Eight patients (42%) had dysimmune neuropathy, most often demyelinating and strongly associated with angio-immunoblastic T-cell lymphoma. Neurologic improvement occurred in 72% of treated patients; however, most patients with neurolymphomatosis showed only partial recovery and persistent disability. IV immunoglobulins were uniformly ineffective, whereas corticosteroids yielded the greatest PN-specific benefit. Compared with B-Ly-associated PN (n = 33), T-Ly-associated PN were associated with more severe disability (median mRS 3 vs 2,  T-Ly-associated PN are predominantly driven by neurolymphomatosis and exhibit more severe clinical profiles and poorer neurologic outcomes than B-Ly-associated PN. Dysimmune neuropathies represent a substantial subset, particularly in angioimmunoblastic T-cell lymphoma. Limitations include the retrospective design and heterogeneity of diagnostic investigations. These findings underscore the need for early recognition and mechanism-specific therapeutic strategies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42139635/",
+      "summary_ja": "背景：T細胞リンパ増殖性疾患（T-Ly）に伴う末梢神経障害（PN）は極めて稀であり、その臨床的特徴や病態は十分に解明されていない。B細胞リンパ増殖性疾患（B-Ly）関連PNとの違いも不明である。  \n方法：フランスとスイスの17施設で、T-Ly関連PNの成人患者19例を対象に後ろ向き多施設コホート研究を実施。臨床所見、電気生理学的検査、画像診断、組織病理学的データを収集し、神経リンパ腫症と免疫異常性神経障害に分類。治療反応と機能的転帰を評価し、B-Ly関連PN（33例）と比較した。  \n結果：神経リンパ腫症が58％を占め、多発性軸索障害や髄膜根炎を呈した。免疫異常性神経障害は42％で、主に脱髄性で血管免疫芽球性T細胞リンパ腫に多かった。治療により72％で神経症状の改善が見られたが、神経リンパ腫症例は部分的回復にとどまり障害が残存。免疫グロブリン療法は効果が乏しく、ステロイドが最も有効であった。T-Ly関連PNはB-Ly関連PNより重度の障害を示した。  \n結論：T-Ly関連PNは主に神経リンパ腫症が原因で、臨床的に重篤かつ予後不良である。免疫異常性神経障害も重要なサブタイプであり、早期診断と病態に即した治療戦略の確立が必要である。",
+      "summary_short_ja": "T細胞リンパ増殖性疾患（T-Ly）に伴う末梢神経障害（PN）は稀で、主に神経リンパ腫症（58％）と免疫異常性ニューロパチー（42％）に分類される。神経リンパ腫症は多発性軸索障害を呈し、治療後も部分的回復にとどまり障害が残存しやすい。免疫グロブリン療法は無効で、ステロイドが有効であった。B細胞リンパ増殖性疾患（B-Ly）関連PNより重度の障害を示し、早期診断と機序に応じた治療が重要である。",
+      "disease": "ms",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42102338",
       "doi": "10.1212/WNL.0000000000218067",
       "title": "Multiple Sclerosis and Outpatient Physician Care in the Last Years of Life: A Population-Based Study.",
