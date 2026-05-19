@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42150140",
+      "doi": "10.1212/WNL.0000000000218089",
+      "title": "Child Neurology: Expanding the LGI1 Spectrum: Homozygous Loss-of-Function Variant in an Infant With Epileptic Encephalopathy.",
+      "abstract": "Epilepsy syndromes are clinically defined by their specific set of features, including seizure types, age at onset, electroencephalographic patterns, and prognosis. For example, autosomal-dominant lateral temporal lobe epilepsy (ADLTE) is a well-recognized epilepsy syndrome associated with heterozygous leucine-rich glioma inactivated-1 (",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42150140/",
+      "summary_ja": "背景：てんかん症候群は発作の種類、発症年齢、脳波パターン、予後などの特徴で定義される。従来、LGI1遺伝子の変異は主にADLTE（常染色体優性側頭葉てんかん）と関連していたが、ホモ接合性の機能喪失変異の影響は不明であった。  \n方法：乳児のてんかん性脳症患者に対し、全エクソーム解析を行いLGI1遺伝子の変異を同定。臨床所見と遺伝子変異の関連を検討した。  \n結果：乳児にホモ接合性のLGI1機能喪失変異が認められ、重度のてんかん性脳症を呈した。これは従来のADLTEとは異なる重篤な表現型であった。  \n結論：LGI1遺伝子変異のスペクトラムは拡大し、ホモ接合性の機能喪失変異は乳児の重度てんかん性脳症を引き起こすことが示された。これによりLGI1関連疾患の診断と理解が深化する。",
+      "summary_short_ja": "本論文は、乳児のてんかん性脳症において、LGI1遺伝子のホモ接合性機能喪失変異を報告し、これまでのADLTE（常染色体優性側頭葉てんかん）に関連するヘテロ接合性変異の範囲を拡大した。これにより、LGI1の異常が多様なてんかん症候群の原因となる可能性が示された。",
+      "disease": "epilepsy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42030518",
       "doi": "10.1111/epi.13191",
       "title": "Postapproval Study for Brain-Responsive Neurostimulation for Drug-Resistant Focal Epilepsy: Three-Year Efficacy and Interim Safety Results.",
