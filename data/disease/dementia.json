@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42160746",
+      "doi": "10.1212/WNL.0000000000218123",
+      "title": "Smoking Cessation, Weight Change, and Risk of Dementia: A Prospective Cohort Study.",
+      "abstract": "Smoking cessation is universally prioritized for the prevention of cardiovascular disease and cancer, but its impact on dementia risk remains uncertain. We aimed to evaluate the associations of smoking cessation and postcessation weight gain with long-term risk of dementia and cognitive trajectories. We conducted a prospective cohort study using data from the US Health and Retirement Study (1995-2020). A total of 32,802 dementia-free adults (mean age 60.5 years [SD 10.7]; 57.1% female) were included. Smoking status and body weight were assessed biennially through structured interviews. The primary outcome was incident dementia identified using the Langa-Weir algorithm, and the secondary outcome was cognitive function measured on a 27-point scale. Over 25 years of follow-up (median 9.9 years, interquartile range 4.4-16.4 years), 5,868 dementia cases were documented. Compared with current smokers, individuals who quit during follow-up had a lower dementia risk after quitting (hazard ratio 0.84, 95% CI 0.73-0.95), similar to those who had quit before baseline (0.79, 0.72-0.87) and to never smokers (0.75, 0.69-0.83). The benefits of cessation were largely limited to participants with no or modest 2-year postcessation weight gain (≤5 kg). By contrast, the association of quitting accompanied by >10-kg weight gain was not statistically significant (1.33, 0.87-1.82). Restricted cubic spline analysis showed decreasing dementia risk with longer time since quitting, and the risk approached that of never smokers and plateaued at around 7 years after cessation. Cognitive trajectory analyses showed that quitting was associated with long-term slower cognitive decline (slope difference 0.19 points per decade, 95% CI 0.00-0.38) but no transient cognitive change (0.57; 95% CI -0.69 to 1.83), especially among those with minor weight gain (slope difference 0.23 per decade, 95% CI 0.03-0.43). Smoking cessation was associated with a sustained lower dementia risk and slower cognitive decline, comparable to never smokers and those without short-term risk increase. However, postcessation weight gain may attenuate these advantages, highlighting the need for weight management in cessation programs. These findings should be interpreted cautiously, given the potential residual confounding and measurement error.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42160746/",
+      "summary_ja": "背景：喫煙は心血管疾患やがん予防のために禁煙が推奨されているが、認知症リスクへの影響は不明である。方法：米国のHealth and Retirement Study（1995-2020年）から認知症のない32,802名（平均年齢60.5歳）を対象に、禁煙と禁煙後の体重変化が認知症発症および認知機能の経時変化に与える影響を前向きコホート研究で検討した。喫煙状況と体重は2年ごとに評価し、認知症はLanga-Weirアルゴリズムで判定した。結果：追跡期間中央値9.9年で5,868例の認知症が発生。禁煙者は現喫煙者に比べ認知症リスクが低く（ハザード比0.84）、禁煙前からの禁煙者や非喫煙者と同等のリスク低減が認められた。ただし、禁煙後2年間で5kg以下の体重増加に限り効果が顕著で、10kg超の増加がある場合はリスク低減が認められなかった。禁煙から7年後にリスクは非喫煙者と同等に達し、認知機能の低下も緩やかであった。結論：禁煙は認知症リスクの持続的低減と認知機能低下の抑制に寄与するが、禁煙後の過度な体重増加はその利益を減弱させるため、禁煙支援には体重管理が重要である。残存交絡や測定誤差の可能性を考慮して解釈が必要である。",
+      "summary_short_ja": "本研究は米国の前向きコホート調査により、禁煙と禁煙後の体重増加が認知症リスクに与える影響を検討した。禁煙者は喫煙継続者に比べ認知症リスクが低く、特に禁煙後2年間の体重増加が5kg以下の場合に顕著であった。一方、10kg超の体重増加を伴う禁煙ではリスク低減が認められなかった。禁煙は認知機能の長期的な低下抑制にも寄与し、体重管理の重要性が示唆された。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42139653",
       "doi": "10.1212/WNL.0000000000214933",
       "title": "Autoimmune Encephalitis as Treatment-Responsive Cause of Rapidly Progressive Dementia: A Multicenter Prospective Cohort Study.",
