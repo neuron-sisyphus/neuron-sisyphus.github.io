@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42096659",
+      "doi": "10.1212/WNL.0000000000214938",
+      "title": "Circadian Rest-Activity Rhythms, Cognition, and Alzheimer Disease Dementia in Adults With Down Syndrome.",
+      "abstract": "There is a paucity of research on the role of circadian rhythm disruption in Alzheimer disease (AD)-related cognitive impairments in adults with Down syndrome (DS). The aim of this study was to examine the association of the 24-hour rest-activity rhythm with cognition, dementia symptoms, and clinical AD status in adults with DS. In this cross-sectional study, adults with DS aged 25-61 years in the Alzheimer's Biomarkers Consortium-Down Syndrome underwent wrist-worn actigraphy (≥4 days) and cognitive assessment. Primary variables included interdaily stability, intradaily variability, relative amplitude, most active 10-hour period (M10), and least active 5-hour period (L5). Secondary measures included coefficient of variation of total sleep time, sleep midpoint, sleep efficiency, and the sleep regularity index. Cognitive outcomes included modified Cued Recall Test (mCRT), Wechsler Block Design with Haxby Extension (Block Design), Purdue Pegboard, Cat and Dog Modified Stroop Task, DS Mental Status Examination (DSMSE), National Task Group-Early Detection Screen for Dementia (NTG-EDSD), Dementia Questionnaire for People with Learning Disabilities (DLD), and clinical AD status based on a case consensus process (stable vs mild cognitive impairment [MCI]/dementia). Linear and logistic regression models were adjusted for age, sex, intellectual disability level, site, and obstructive sleep apnea severity, with false discovery rate (FDR) correction. Of 115 participants (mean age 40.0 ± 9.2 years; 43.5% female), higher interdaily stability was associated with higher DSMSE scores  Fragmentation and low amplitude of the 24-hour rest-activity rhythm are associated with AD-related cognitive impairment, dementia symptoms, and increased odds of MCI/dementia in adults with DS. Circadian rhythm disruption may contribute to AD-related outcomes in adults with DS and potentially serve as a modifiable risk factor.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42096659/",
+      "summary_ja": "背景：ダウン症（DS）成人におけるアルツハイマー病（AD）関連の認知障害に対する概日リズムの影響は十分に研究されていない。  \n方法：25～61歳のDS成人115名を対象に、4日以上の手首装着型アクチグラフィーで24時間の休息・活動リズムを測定し、認知機能評価や臨床的AD診断を実施。主な指標は日内安定性、日内変動性、相対振幅、最も活動的な10時間（M10）、最も非活動的な5時間（L5）など。認知評価には複数のテストを用い、年齢・性別・知的障害度・施設・睡眠時無呼吸の影響を調整した回帰分析を行った。  \n結果：日内安定性が高いほど認知機能スコア（DSMSE）が良好であり、リズムの断片化や振幅低下は認知障害や認知症症状、軽度認知障害（MCI）・認知症のリスク増加と関連した。  \n結論：DS成人における概日リズムの乱れはAD関連の認知機能低下や認知症症状に寄与しており、修正可能なリスク因子として注目される。",
+      "summary_short_ja": "ダウン症成人における24時間の休息・活動リズムの乱れは、認知機能低下や認知症症状、軽度認知障害（MCI）・認知症のリスク増加と関連することが示された。特にリズムの断片化や振幅の低下がアルツハイマー病（AD）関連の認知障害に影響を与えており、概日リズムの乱れがADの発症や進行に寄与する可能性があるため、修正可能なリスク因子として注目される。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42160746",
       "doi": "10.1212/WNL.0000000000218123",
       "title": "Smoking Cessation, Weight Change, and Risk of Dementia: A Prospective Cohort Study.",
@@ -105,21 +120,6 @@
       "summary_short_ja": "本研究は、アルツハイマー病（AD）病理と認知機能の関連に対し、認知予備力（教育年数、社会経済的地位）および脳予備力（脳の予測年齢差、体積的AD指標）が修飾因子となるかを検証した。結果、脳の若々しさを示す指標がAD病理による認知低下の影響を緩和し、社会経済的地位も一部で影響を示したが、教育年数や体積的指標は影響しなかった。認知・脳予備力の向上がAD病理に対する認知的耐性を高める可能性が示唆される。",
       "disease": "dementia",
       "section": "prognosis"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42096659",
-      "doi": "10.1212/WNL.0000000000214938",
-      "title": "Circadian Rest-Activity Rhythms, Cognition, and Alzheimer Disease Dementia in Adults With Down Syndrome.",
-      "abstract": "There is a paucity of research on the role of circadian rhythm disruption in Alzheimer disease (AD)-related cognitive impairments in adults with Down syndrome (DS). The aim of this study was to examine the association of the 24-hour rest-activity rhythm with cognition, dementia symptoms, and clinical AD status in adults with DS. In this cross-sectional study, adults with DS aged 25-61 years in the Alzheimer's Biomarkers Consortium-Down Syndrome underwent wrist-worn actigraphy (≥4 days) and cognitive assessment. Primary variables included interdaily stability, intradaily variability, relative amplitude, most active 10-hour period (M10), and least active 5-hour period (L5). Secondary measures included coefficient of variation of total sleep time, sleep midpoint, sleep efficiency, and the sleep regularity index. Cognitive outcomes included modified Cued Recall Test (mCRT), Wechsler Block Design with Haxby Extension (Block Design), Purdue Pegboard, Cat and Dog Modified Stroop Task, DS Mental Status Examination (DSMSE), National Task Group-Early Detection Screen for Dementia (NTG-EDSD), Dementia Questionnaire for People with Learning Disabilities (DLD), and clinical AD status based on a case consensus process (stable vs mild cognitive impairment [MCI]/dementia). Linear and logistic regression models were adjusted for age, sex, intellectual disability level, site, and obstructive sleep apnea severity, with false discovery rate (FDR) correction. Of 115 participants (mean age 40.0 ± 9.2 years; 43.5% female), higher interdaily stability was associated with higher DSMSE scores  Fragmentation and low amplitude of the 24-hour rest-activity rhythm are associated with AD-related cognitive impairment, dementia symptoms, and increased odds of MCI/dementia in adults with DS. Circadian rhythm disruption may contribute to AD-related outcomes in adults with DS and potentially serve as a modifiable risk factor.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-May-26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42096659/",
-      "summary_ja": "背景：ダウン症（DS）成人におけるアルツハイマー病（AD）関連の認知障害に対する概日リズムの影響は十分に研究されていない。  \n方法：25～61歳のDS成人115名を対象に、4日以上の手首装着型アクチグラフィーで24時間の休息・活動リズムを測定し、認知機能評価や臨床的AD診断を実施。主な指標は日内安定性、日内変動性、相対振幅、最も活動的な10時間（M10）、最も非活動的な5時間（L5）など。認知評価には複数のテストを用い、年齢・性別・知的障害度・施設・睡眠時無呼吸の影響を調整した回帰分析を行った。  \n結果：日内安定性が高いほど認知機能スコア（DSMSE）が良好であり、リズムの断片化や振幅低下は認知障害や認知症症状、軽度認知障害（MCI）・認知症のリスク増加と関連した。  \n結論：DS成人における概日リズムの乱れはAD関連の認知機能低下や認知症症状に寄与しており、修正可能なリスク因子として注目される。",
-      "summary_short_ja": "ダウン症成人における24時間の休息・活動リズムの乱れは、認知機能低下や認知症症状、軽度認知障害（MCI）・認知症のリスク増加と関連することが示された。特にリズムの断片化や振幅の低下がアルツハイマー病（AD）関連の認知障害に影響を与えており、概日リズムの乱れがADの発症や進行に寄与する可能性があるため、修正可能なリスク因子として注目される。",
-      "disease": "dementia",
-      "section": "epidemiology"
     },
     {
       "source": "pubmed",

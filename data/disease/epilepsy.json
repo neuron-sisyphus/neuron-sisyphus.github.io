@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42202238",
+      "doi": "10.1212/WNL.0000000000218080",
+      "title": "Efficacy of Levetiracetam in Patients With Pediatric Epilepsy: A Systematic Review and Meta-Analysis.",
+      "abstract": "Levetiracetam (LEV) is widely used in pediatric epilepsies because of its favorable pharmacokinetics, ease of administration, and perceived tolerability. However, its comparative efficacy relative to established antiseizure medications (ASMs) in children remains uncertain. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) to evaluate LEV efficacy in pediatric epilepsies and compare outcomes vs placebo and active comparators. We systematically searched PubMed/MEDLINE and Embase (2000-6 August 2025) for RCTs enrolling patients 16 years or younger with epilepsy and reporting seizure freedom and/or ≥50% responder rate. Trials including both pediatric and adult patients were eligible if pediatric participants were represented. Comparisons included LEV vs placebo or active ASMs as monotherapy or adjunctive therapy. Primary outcomes were seizure freedom and responder rate at the trial's primary endpoint or, if not specified, longest reported follow-up. We assessed risk of bias using Cochrane Risk of Bias 2. We pooled risk differences (RDs) with 95% CIs using random-effects models, stratified by comparator and epilepsy subtype. We included 25 RCTs (4,070 participants): 23 contributed to pooled meta-analyses. Across 25 trials, the mean age ranged from 0.4 to 39.3 years, reflecting pediatric-only and mixed-age RCTs; 43.8% were female. In placebo/no-therapy-controlled trials (mainly add-on studies), LEV was associated with higher seizure freedom (RD 11.0%; 95% CI 5.3%-16.7%) and responder rates (RD 24.3%; 95% CI 19.1%-29.4%). In active-comparator-controlled trials (mainly monotherapy head-to-head studies), LEV showed no overall advantage vs active comparators for seizure freedom (RD -2.4%; 95% CI -5.6% to 0.7%) or responder rate (RD -7.4%; 95% CI -23.0% to 8.1%). Fourteen trials were at high risk of bias. Sensitivity analyses confirmed benefit vs placebo but showed significant disadvantage vs active comparators in low risk-of-bias trials. Findings in pediatric-only trials (16 RCTs; 1,380 participants) were consistent with the overall results. LEV confers benefit vs placebo, mostly as adjunctive therapy, but does not consistently outperform established ASMs in pediatric epilepsies and may be inferior in some subgroups when higher-quality evidence is considered. Limitations include substantial heterogeneity, frequent high risk of bias, variable follow-up durations, publication bias, and limited pediatric-only comparative data.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42202238/",
+      "summary_ja": "背景：レベチラセタム（LEV）は小児てんかんにおいて薬物動態の良さや服用の容易さから広く用いられているが、既存の抗てんかん薬（ASM）との比較効果は明確でない。  \n方法：16歳以下の小児てんかん患者を対象としたランダム化比較試験（RCT）を対象に、PubMed/MEDLINEおよびEmbaseを用いて2000年から2025年までの文献を系統的に検索し、LEVの発作自由率および50%以上の発作減少率を評価するメタ解析を実施した。リスクオブバイアスはCochrane基準で評価し、ランダム効果モデルで解析した。  \n結果：25件のRCT（4,070名）を含み、LEVはプラセボ対照試験で発作自由率（リスク差11.0%）およびレスポンダー率（リスク差24.3%）を有意に改善した。一方、既存ASMとの比較試験では発作自由率やレスポンダー率において優位性は示されず、低リスクバイアス試験ではむしろ劣る傾向があった。小児のみの試験結果も同様であった。  \n結論：LEVはプラセボに対しては有効であり主に補助療法として効果的だが、既存の抗てんかん薬と比較すると一貫した優位性はなく、質の高い証拠では一部で劣る可能性が示唆される。研究の異質性やバイアスの存在が結果の解釈を制限している。",
+      "summary_short_ja": "レベチラセタム（LEV）は小児てんかん治療で広く用いられるが、既存の抗てんかん薬（ASM）との比較効果は不明確である。本メタ解析は25件のRCT（4,070例）を対象にLEVの有効性を検討。プラセボ対照試験ではLEVが発作自由率と反応率を有意に改善したが、既存ASMとの直接比較では優位性が示されなかった。バイアスの少ない試験ではむしろ劣る傾向もあり、LEVは補助療法としては有効だが単独療法としての優越性は限定的と結論付けられた。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42190144",
+      "doi": "10.1212/WNL.0000000000218013",
+      "title": "Burst-Suppression EEG in Early Infantile Developmental and Epileptic Encephalopathies: Phenotype, Genotype, and Outcome.",
+      "abstract": "Developmental and epileptic encephalopathies (DEEs) with early burst-suppression EEG (EIDEE-BS) are among the most severe neonatal epileptic syndromes, typically presenting in the first months of life with refractory seizures and profound neurodevelopmental impairment. Although variants in the  We retrospectively analyzed 110 patients with BS EEG enrolled from a database of 1,540 individuals with suspected genetic epilepsies (2008-2023). Clinical, EEG, and genetic data were systematically collected. Patients were stratified into 4 groups:  Pathogenic or likely pathogenic variants were identified in 62.7% of patients and involved 23 genes, including 2 copy number variants.  This large series highlights the strong monogenic basis of EIDEE-BS.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42190144/",
+      "summary_ja": "背景：早期乳児発達性・てんかん性脳症（EIDEE-BS）は、生後数か月以内に発症し、難治性けいれんや重度の神経発達障害を伴う重篤な新生児てんかん症候群である。方法：2008年から2023年にかけて、遺伝性てんかん疑い患者1540名のデータベースから、バーストサプレッション（BS）脳波を示した110名を後ろ向きに解析した。臨床、脳波、遺伝子情報を体系的に収集し、患者を4群に分類した。結果：62.7％の患者で病原性または病原性の可能性が高い遺伝子変異が認められ、23遺伝子（うち2つはコピー数変異）が関与していた。結論：本研究は、EIDEE-BSの発症に強い単一遺伝子変異の関与があることを示す大規模な症例シリーズであり、遺伝子診断の重要性を示唆している。",
+      "summary_short_ja": "本研究は、早期乳児発症の発達性・てんかん性脳症（EIDEE-BS）におけるバーストサプレッション（BS）脳波の臨床・遺伝的特徴と予後を後ろ向きに解析した。1540例中110例を対象とし、62.7％で23遺伝子の病原性変異を同定。これにより、EIDEE-BSは強い単一遺伝子疾患基盤を持つことが示された。",
+      "disease": "epilepsy",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42150140",
       "doi": "10.1212/WNL.0000000000218089",
       "title": "Child Neurology: Expanding the LGI1 Spectrum: Homozygous Loss-of-Function Variant in an Infant With Epileptic Encephalopathy.",

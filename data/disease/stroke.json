@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42202237",
+      "doi": "10.1212/WNL.0000000000218125",
+      "title": "IV Thrombolysis Before Thrombectomy in Carotid Artery Dissection-Related Large-Vessel Occlusion.",
+      "abstract": "The benefit of IV thrombolysis (IVT) before thrombectomy in patients with anterior-circulation large-vessel occlusion (LVO) due to carotid artery dissection (CAD) remains uncertain. We aimed to evaluate the safety and efficacy of IVT in this specific population in clinical practice. This study included patients from the Carotid Dissection Thrombectomy vs Medical Treatment collaboration and the Endovascular Treatment in Ischemic Stroke registry with anterior-circulation LVO due to CAD who were treated with thrombectomy, with or without prior IVT. The coprimary outcomes were favorable functional outcome at 3 months (modified Rankin Scale 0-2) and successful reperfusion (thrombolysis in cerebral infarction score ≥2b). The safety end point was symptomatic intracranial hemorrhage (sICH). Inverse probability of treatment weighting was applied to adjust for baseline imbalances, and weighted Poisson regression models were used to estimate adjusted risk ratios (aRRs). A total of 1,091 patients (mean age 53.0 years, 74.0% men) were included, of whom 571 patients received IVT prior thrombectomy and 520 underwent thrombectomy only. IVT before thrombectomy was associated with a higher likelihood of favorable functional outcome (aRR 1.16, 95% CI 1.03-1.30,  IVT prior thrombectomy was associated with improved functional outcome and higher reperfusion success in patients with anterior-circulation LVO due to CAD, without an increase in sICH. The association with functional outcome was largely driven by patients presenting with higher admission stroke severity. This study provides Class III evidence that IVT before thrombectomy was associated with improved functional outcome and higher reperfusion success in patients with anterior-circulation LVO due to CAD, without an increase in sICH.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42202237/",
+      "summary_ja": "背景：頸動脈解離（CAD）による前方循環大血管閉塞（LVO）患者に対する血栓回収術前の静脈内血栓溶解療法（IVT）の有用性は不明であった。  \n方法：CADによる前方循環LVO患者1,091例（平均年齢53歳、男性74％）を対象に、血栓回収術単独群（520例）とIVT併用群（571例）で比較。主要評価項目は3か月後の良好な機能的予後（mRS 0-2）と再灌流成功（TICIスコア≥2b）、安全性評価は症候性頭蓋内出血（sICH）とした。逆確率重み付けと加重ポアソン回帰モデルで調整解析を実施。  \n結果：IVT併用群は良好な機能的予後の可能性が有意に高く（調整リスク比1.16、95％CI 1.03-1.30）、再灌流成功率も向上した。一方、sICHの発生率に差は認められなかった。特に重症例での効果が顕著であった。  \n結論：CADによる前方循環LVO患者において、血栓回収術前のIVTは安全性を損なうことなく機能的予後と再灌流成功率を改善する可能性が示された。",
+      "summary_short_ja": "頸動脈解離（CAD）による前方循環大血管閉塞（LVO）患者において、血栓除去術前の静脈内血栓溶解療法（IVT）の安全性と有効性を検討した。1,091例を対象に解析した結果、IVT併用群は機能的良好転帰（mRS 0-2）と再灌流成功率が有意に高く、症候性頭蓋内出血の増加は認められなかった。特に重症例で効果が顕著であり、IVT併用はCAD関連LVOにおける有用な治療戦略と示された。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42160744",
       "doi": "10.1212/WNL.0000000000218058",
       "title": "Diagnostic Agreement and Prognostic Value of Clinically Interpreted CT vs MRI for Incidentally Discovered Covert Cerebrovascular Disease.",

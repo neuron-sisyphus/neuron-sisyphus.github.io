@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42190146",
+      "doi": "10.1212/WNL.0000000000218081",
+      "title": "Comparative Study of Sporadic and Immune Checkpoint Inhibitor-Related Forms of Myasthenia Gravis-Myositis Overlap Syndrome.",
+      "abstract": "Myasthenia gravis-inflammatory myopathy (MG-IM) overlap syndrome can occur as an immune-related adverse event (irAE) after immune checkpoint inhibitor (ICI) therapy. Before the advent of ICIs, a sporadic form of MG-IM (s-MG-IM), often thymoma-associated, was already described. This study compared clinical and serologic features, treatment strategies, and outcomes of s-MG-IM and ICI-related MG-IM (ir-MG-IM). We conducted a multicenter, retrospective cohort study across 8 Italian centers, including consecutive patients fulfilling established criteria for both MG and IM, with or without previous exposure to ICIs. Clinical features, antibody profiles, oncologic history, treatments, and outcomes were collected and compared. Available serum samples were tested for binding capacity and pathogenic properties (antigenic modulation and complement-activating capacity) against clustered adult (A) and fetal (F) AChR isoforms using a live cell-based assay (L-CBA). Thirty-eight patients were identified (19 with s-MG-IM and 19 with ir-MG-IM). The ir-MG-IM cohort was older (median 77 vs 59 years,  Although they share some similarities, s-MG-IM represents a chronic, predominantly thymoma-associated overlap syndrome with classical MG and IM features, whereas ir-MG-IM is typically an aggressive, likely monophasic condition characterized by severe myositis, with frequent ocular and cardiac involvement, and lacking classical MG features. Study limitations include the retrospective design, small sample size, and limited serum availability, warranting confirmation in larger prospective cohorts.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42190146/",
+      "summary_ja": "背景：筋無力症（MG）と炎症性筋症（IM）が重複するMG-IM症候群は、免疫チェックポイント阻害剤（ICI）治療後の免疫関連有害事象（irAE）としても発症する。一方、ICI登場前から胸腺腫に関連する散発型（s-MG-IM）が知られていた。  \n方法：イタリアの8施設で、MGとIMの診断基準を満たす患者38例（s-MG-IM 19例、ir-MG-IM 19例）を対象に後ろ向き多施設コホート研究を実施。臨床所見、抗体プロファイル、腫瘍歴、治療内容、転帰を比較し、血清サンプルを用いてAChR抗体の結合能や病原性を細胞ベースアッセイで評価した。  \n結果：ir-MG-IM群は高齢（中央値77歳 vs 59歳）で、重度の筋炎、眼症状や心臓合併症が多く、古典的なMG症状は乏しかった。s-MG-IMは慢性経過で胸腺腫関連が多く、古典的MGとIMの特徴を示した。  \n結論：s-MG-IMは胸腺腫に伴う慢性型であるのに対し、ir-MG-IMは重篤かつ単相性の筋炎主体の疾患であり、臨床像や病態が異なる。研究は後ろ向きかつ症例数が限られるため、今後の大規模前向き研究が必要である。",
+      "summary_short_ja": "本研究は、免疫チェックポイント阻害剤（ICI）関連の重症筋無力症-炎症性筋症（ir-MG-IM）と、従来から知られる散発性MG-IM（s-MG-IM）を比較した。s-MG-IMは主に胸腺腫関連の慢性疾患で古典的なMGとIMの特徴を持つ一方、ir-MG-IMは高齢者に多く、重度の筋炎や眼・心臓合併症を伴う急性かつ単相性の疾患で、古典的MGの特徴は乏しい。治療法や予後も異なり、さらなる大規模研究が必要である。",
+      "disease": "myasthenia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42127347",
       "doi": "10.1212/WNL.0000000000218082",
       "title": "Risk of Myasthenia Gravis Exacerbation During Pregnancy and Postpartum: A Nationwide Cohort Study.",

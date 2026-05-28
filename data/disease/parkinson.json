@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42190148",
+      "doi": "10.1212/WNL.0000000000218150",
+      "title": "Incidence of Dementia With Lewy Bodies in Salento, Italy: A Population-Based Study.",
+      "abstract": "Population-based incidence data for dementia with Lewy bodies (DLB) remain limited, particularly using contemporary diagnostic criteria and across the full adult age range. We aimed to estimate age-specific and sex-specific incidence of DLB in a defined population and to characterize clinical features, sex-related phenotypic differences, and Alzheimer disease (AD) copathology. We conducted a prospective, population-based incidence study in the Salento region of Southern Italy (767,356 residents) from March 1, 2023, to February 28, 2025. Incident DLB cases were identified through a multisource surveillance network and centrally adjudicated. DLB was diagnosed using the 2017 DLB Consortium criteria, with standardized assessment of all core features; AD biomarkers (CSF or amyloid PET) were incorporated when available. Incidence rates per 100,000 person-years were calculated using population denominators with Poisson 95% CIs and were directly standardized to the 2013 European Standard Population. Sixty-two incident DLB cases were identified over 1,534,712 person-years (mean age at diagnosis 77.4 years; 42% female). The crude incidence was 4.04 per 100,000 person-years (95% CI 3.10-5.18), and the age-standardized incidence was 3.77 (95% CI 2.89-4.83). Incidence was higher in men than women (crude 4.87 vs 3.27; standardized 4.55 vs 3.04), increased steeply with age, and peaked at 80-84 years (30.83; 95% CI 18.56-48.14). Men had greater motor severity (Movement Disorder Society-Unified Parkinson's Disease Rating Scale, part III 23.7 vs 14.4;  In this prospective population-based study, DLB incidence increased sharply with age, peaked in the early 80s and was higher in men, with a substantial proportion of cases showing AD copathology. We also observed sex-related differences in motor and neuropsychiatric profiles. Limitations include the single-region design, incomplete biomarker testing, and lack of neuropathologic confirmation. These contemporary incidence data help quantify the burden of DLB and can inform service provision, resource allocation, and care planning in aging populations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42190148/",
+      "summary_ja": "背景：レビー小体型認知症（DLB）の人口ベースの発症率データは限られており、特に最新の診断基準を用いた全成人年齢層での調査が不足している。  \n方法：イタリア南部サレント地域（住民約76万7千人）において、2023年3月から2025年2月までの2年間、複数の情報源による監視ネットワークを用いた前向き人口ベースの発症率調査を実施。2017年DLBコンソーシアム基準で診断し、アルツハイマー病（AD）バイオマーカーも可能な限り評価。発症率は人口統計に基づきポアソン95％信頼区間で算出し、2013年欧州標準人口で標準化。  \n結果：1,534,712人年の観察期間中に62例の新規DLB症例を確認（平均診断年齢77.4歳、女性42％）。粗発症率は100,000人年あたり4.04（95％CI 3.10-5.18）、年齢標準化発症率は3.77（95％CI 2.89-4.83）。発症率は男性で高く（粗率4.87 vs 3.27）、80-84歳でピーク（30.83）を示した。男性は運動症状が重度で、AD合併例も多かった。  \n結論：DLBの発症率は年齢とともに急増し、80代前半でピークに達し、男性で高い傾向がある。性差による運動・神経精神症状の特徴も認められた。地域限定やバイオマーカー未検査例の存在などの制約はあるが、本研究はDLBの負担評価や高齢化社会における医療資源配分に資する重要な疫学データを提供する。",
+      "summary_short_ja": "イタリア・サレント地域での前向き人口ベース研究により、レビー小体型認知症（DLB）の発症率は年齢とともに急増し、80～84歳でピークに達し、男性で女性より高いことが示された。62例の新規DLB患者のうち、アルツハイマー病の共病も多く認められた。男性は運動症状が重く、性差による臨床特徴の違いも観察された。本研究は地域限定かつバイオマーカー検査が不完全な点が限界だが、高齢化社会におけるDLBの負担評価や医療資源配分に資する。",
+      "disease": "parkinson",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42085646",
+      "doi": "10.1016/j.pharmthera.2023.108419",
+      "title": "Age-Specific Parkinson Disease Risk in Gaucher Disease Type 1: Data From the ICGG Gaucher Registry.",
+      "abstract": "Glucocerebrosidase ( Participants were patients with GD1 in the International Collaborative Gaucher Group Gaucher Registry, a global GD database, as of February 2024. We longitudinally collected data on clinical diagnosis of PD and dementia with Lewy bodies (DLB) and report of motor (rest tremor, falls) and nonmotor (cognitive impairment, REM sleep behavior disorder, loss of sense of smell, autonomic dysfunction) signs/symptoms. In addition to a conservative physician-based PD and DLB diagnosis, we created a liberal definition of possible parkinsonian syndrome (pPS; ≥2 signs/symptoms, PD, or DLB) to test whether previous low penetrance estimates stem from underdiagnosis. Patients were classified as pPS at earliest of the following dates: PD diagnosis, DLB diagnosis, or report of second sign/symptom. We separately estimated age-specific prevalence of PD and pPS using Kaplan-Meier survival curves. Among 1,618 patients with GD1 (median age at last follow-up 47.8 years; 53% female), 51 were diagnosed with PD and 86 as pPS. The age-specific prevalence (95% CI) of PD and pPS was 4.0% (2.7-5.7) and 6.0% (4.5-7.9) at 60 years and 12.2% (8.6-17.0) and 22.9% (17.1-30.1) at 80 years, respectively. Patients with 2 mild pathogenic  In this large cohort of 1,618 patients, approximately one-in-nine patients with GD1 were diagnosed with PD and more than one-in-five patients were diagnosed with PD/DLB or experienced movement disorder symptoms by 80 years. Most patients were from North America and Europe; generalizability to other regions is unknown. Our finding that most patients remain free of PD despite very low residual enzyme activity informs the hypothesis that acid ß-glucosidase levels directly predict risk of PD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-May-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42085646/",
+      "summary_ja": "背景：グルコセレブロシダーゼ欠損によるゴーシェ病タイプ1（GD1）はパーキンソン病（PD）リスクの増加と関連するが、年齢別リスクは不明確であった。  \n方法：国際共同ゴーシェグループ（ICGG）登録のGD1患者1,618名（中央値年齢47.8歳、53％女性）を対象に、2024年2月までにPDおよびレビー小体型認知症（DLB）の診断、運動症状（安静時振戦、転倒）や非運動症状（認知障害、REM睡眠行動異常、嗅覚障害、自律神経障害）を縦断的に収集。保守的な医師診断に加え、2つ以上の症状を満たす可能性のあるパーキンソン症候群（pPS）定義を設定し、年齢別有病率をカプランマイヤー法で推定した。  \n結果：60歳時点でPDの有病率は4.0％、pPSは6.0％、80歳時点ではそれぞれ12.2％、22.9％であった。80歳までに約9人に1人がPDと診断され、5人に1人がPD/DLBまたは運動障害症状を経験した。  \n結論：GD1患者の多くは酵素活性が極めて低いにもかかわらずPDを発症しないことから、酸性β-グルコシダーゼレベルがPDリスクを直接予測するという仮説に示唆を与える。地域差の一般化は未検証である。",
+      "summary_short_ja": "国際ゴーシェ病登録の1,618例のタイプ1ゴーシェ病患者を対象に、パーキンソン病（PD）および類似症状の年齢別発症率を調査した。80歳時点でPDの有病率は約12%、パーキンソン症候群を含むと約23%に達した。多くの患者は酵素活性が極めて低いにもかかわらずPDを発症せず、酸性β-グルコシダーゼ活性がPDリスクの直接的指標であるとの仮説に示唆を与えた。",
+      "disease": "parkinson",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42139639",
       "doi": "10.1212/WNL.0000000000218062",
       "title": "Pearls & Oy-Sters: Plantar Agraphesthesia in Corticobasal Syndrome.",
