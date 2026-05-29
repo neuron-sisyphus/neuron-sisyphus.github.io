@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-29",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42202238",
+      "doi": "10.1212/WNL.0000000000218080",
+      "title": "Efficacy of Levetiracetam in Patients With Pediatric Epilepsy: A Systematic Review and Meta-Analysis.",
+      "abstract": "Levetiracetam (LEV) is widely used in pediatric epilepsies because of its favorable pharmacokinetics, ease of administration, and perceived tolerability. However, its comparative efficacy relative to established antiseizure medications (ASMs) in children remains uncertain. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) to evaluate LEV efficacy in pediatric epilepsies and compare outcomes vs placebo and active comparators. We systematically searched PubMed/MEDLINE and Embase (2000-6 August 2025) for RCTs enrolling patients 16 years or younger with epilepsy and reporting seizure freedom and/or ≥50% responder rate. Trials including both pediatric and adult patients were eligible if pediatric participants were represented. Comparisons included LEV vs placebo or active ASMs as monotherapy or adjunctive therapy. Primary outcomes were seizure freedom and responder rate at the trial's primary endpoint or, if not specified, longest reported follow-up. We assessed risk of bias using Cochrane Risk of Bias 2. We pooled risk differences (RDs) with 95% CIs using random-effects models, stratified by comparator and epilepsy subtype. We included 25 RCTs (4,070 participants): 23 contributed to pooled meta-analyses. Across 25 trials, the mean age ranged from 0.4 to 39.3 years, reflecting pediatric-only and mixed-age RCTs; 43.8% were female. In placebo/no-therapy-controlled trials (mainly add-on studies), LEV was associated with higher seizure freedom (RD 11.0%; 95% CI 5.3%-16.7%) and responder rates (RD 24.3%; 95% CI 19.1%-29.4%). In active-comparator-controlled trials (mainly monotherapy head-to-head studies), LEV showed no overall advantage vs active comparators for seizure freedom (RD -2.4%; 95% CI -5.6% to 0.7%) or responder rate (RD -7.4%; 95% CI -23.0% to 8.1%). Fourteen trials were at high risk of bias. Sensitivity analyses confirmed benefit vs placebo but showed significant disadvantage vs active comparators in low risk-of-bias trials. Findings in pediatric-only trials (16 RCTs; 1,380 participants) were consistent with the overall results. LEV confers benefit vs placebo, mostly as adjunctive therapy, but does not consistently outperform established ASMs in pediatric epilepsies and may be inferior in some subgroups when higher-quality evidence is considered. Limitations include substantial heterogeneity, frequent high risk of bias, variable follow-up durations, publication bias, and limited pediatric-only comparative data.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42202238/",
+      "summary_ja": "背景：レベチラセタム（LEV）は小児てんかんにおいて薬物動態の良さや服用の容易さから広く用いられているが、既存の抗てんかん薬（ASM）との比較効果は明確でない。  \n方法：16歳以下の小児てんかん患者を対象としたランダム化比較試験（RCT）を対象に、PubMed/MEDLINEおよびEmbaseを用いて2000年から2025年までの文献を系統的に検索し、LEVの発作自由率および50%以上の発作減少率を評価するメタ解析を実施した。リスクオブバイアスはCochrane基準で評価し、ランダム効果モデルで解析した。  \n結果：25件のRCT（4,070名）を含み、LEVはプラセボ対照試験で発作自由率（リスク差11.0%）およびレスポンダー率（リスク差24.3%）を有意に改善した。一方、既存ASMとの比較試験では発作自由率やレスポンダー率において優位性は示されず、低リスクバイアス試験ではむしろ劣る傾向があった。小児のみの試験結果も同様であった。  \n結論：LEVはプラセボに対しては有効であり主に補助療法として効果的だが、既存の抗てんかん薬と比較すると一貫した優位性はなく、質の高い証拠では一部で劣る可能性が示唆される。研究の異質性やバイアスの存在が結果の解釈を制限している。",
+      "summary_short_ja": "レベチラセタム（LEV）は小児てんかん治療で広く用いられるが、既存の抗てんかん薬（ASM）との比較効果は不明確である。本メタ解析は25件のRCT（4,070例）を対象にLEVの有効性を検討。プラセボ対照試験ではLEVが発作自由率と反応率を有意に改善したが、既存ASMとの直接比較では優位性が示されなかった。バイアスの少ない試験ではむしろ劣る傾向もあり、LEVは補助療法としては有効だが単独療法としての優越性は限定的と結論付けられた。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42202237",
+      "doi": "10.1212/WNL.0000000000218125",
+      "title": "IV Thrombolysis Before Thrombectomy in Carotid Artery Dissection-Related Large-Vessel Occlusion.",
+      "abstract": "The benefit of IV thrombolysis (IVT) before thrombectomy in patients with anterior-circulation large-vessel occlusion (LVO) due to carotid artery dissection (CAD) remains uncertain. We aimed to evaluate the safety and efficacy of IVT in this specific population in clinical practice. This study included patients from the Carotid Dissection Thrombectomy vs Medical Treatment collaboration and the Endovascular Treatment in Ischemic Stroke registry with anterior-circulation LVO due to CAD who were treated with thrombectomy, with or without prior IVT. The coprimary outcomes were favorable functional outcome at 3 months (modified Rankin Scale 0-2) and successful reperfusion (thrombolysis in cerebral infarction score ≥2b). The safety end point was symptomatic intracranial hemorrhage (sICH). Inverse probability of treatment weighting was applied to adjust for baseline imbalances, and weighted Poisson regression models were used to estimate adjusted risk ratios (aRRs). A total of 1,091 patients (mean age 53.0 years, 74.0% men) were included, of whom 571 patients received IVT prior thrombectomy and 520 underwent thrombectomy only. IVT before thrombectomy was associated with a higher likelihood of favorable functional outcome (aRR 1.16, 95% CI 1.03-1.30,  IVT prior thrombectomy was associated with improved functional outcome and higher reperfusion success in patients with anterior-circulation LVO due to CAD, without an increase in sICH. The association with functional outcome was largely driven by patients presenting with higher admission stroke severity. This study provides Class III evidence that IVT before thrombectomy was associated with improved functional outcome and higher reperfusion success in patients with anterior-circulation LVO due to CAD, without an increase in sICH.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42202237/",
+      "summary_ja": "背景：頸動脈解離（CAD）による前方循環大血管閉塞（LVO）患者に対する血栓回収術前の静脈内血栓溶解療法（IVT）の有用性は不明であった。  \n方法：CADによる前方循環LVO患者1,091例（平均年齢53歳、男性74％）を対象に、血栓回収術単独群（520例）とIVT併用群（571例）で比較。主要評価項目は3か月後の良好な機能的予後（mRS 0-2）と再灌流成功（TICIスコア≥2b）、安全性評価は症候性頭蓋内出血（sICH）とした。逆確率重み付けと加重ポアソン回帰モデルで調整解析を実施。  \n結果：IVT併用群は良好な機能的予後の可能性が有意に高く（調整リスク比1.16、95％CI 1.03-1.30）、再灌流成功率も向上した。一方、sICHの発生率に差は認められなかった。特に重症例での効果が顕著であった。  \n結論：CADによる前方循環LVO患者において、血栓回収術前のIVTは安全性を損なうことなく機能的予後と再灌流成功率を改善する可能性が示された。",
+      "summary_short_ja": "頸動脈解離（CAD）による前方循環大血管閉塞（LVO）患者において、血栓除去術前の静脈内血栓溶解療法（IVT）の安全性と有効性を検討した。1,091例を対象に解析した結果、IVT併用群は機能的良好転帰（mRS 0-2）と再灌流成功率が有意に高く、症候性頭蓋内出血の増加は認められなかった。特に重症例で効果が顕著であり、IVT併用はCAD関連LVOにおける有用な治療戦略と示された。",
+      "disease": "stroke",
+      "section": "treatment"
+    }
+  ]
+}
