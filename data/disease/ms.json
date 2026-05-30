@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42214041",
+      "doi": "10.1212/WNL.0000000000218056",
+      "title": "Use of High-Efficacy Therapy in Children With Multiple Sclerosis to Prevent Long-Term Disability.",
+      "abstract": "Children with multiple sclerosis (MS) are increasingly treated with high-efficacy monoclonal antibody therapies; however, treatment approaches vary widely, largely because of regulatory restrictions that often delay access until adulthood. We hypothesized that initiating these therapies during childhood confers greater benefits than their initiation in adulthood. This study, therefore, evaluated long-term disability in patients with pediatric-onset MS treated with monoclonal antibodies before age 18 compared with those who initiated these therapies in adulthood. In this retrospective cohort study, patients younger than 18 years at the onset of MS symptoms were identified across 3 MS registries: MSBase, Observatoire Français de la Sclérose en Plaques, and the Italian MS Register. We categorized patients who commenced natalizumab, ocrelizumab, or rituximab between ages 12 and 17 into the pediatric high-efficacy therapy (HET) initiation group and those who began treatment between ages 20 and 22 into the adult HET initiation group. A landmark study design was used, with age 18 designated as the baseline and the outcome period spanning ages 23-27 years. The primary outcome was the change in Expanded Disability Status Scale (EDSS) scores, evaluated using a Bayesian weighted generalized linear mixed model. We included 277 patients (72% female), with a mean (SD) age at onset of MS symptoms of 14.97 (2.23) years. Of these, 108 initiated HET during childhood and 169 during adulthood. The postbaseline increase in EDSS scores was 0.53 steps lower in the pediatric HET initiation group compared with the adult group (β -0.53 [95% credible interval -0.87 to -0.19]). This benefit of pediatric HET initiation was most pronounced within the EDSS range of 4.5-6.0, with up to a 97% reduction in the odds of further disability worsening (odds ratio of EDSS score 5.0 over 4.5: 0.03 [95% credible interval 0.003-0.22]). Commencing high-efficacy monoclonal antibody therapy in childhood is associated with more favorable long-term disability outcomes than delayed initiation in adulthood. Early use of highly effective therapy is crucial for preserving neurologic function in children with MS. This study provides Class II evidence that, in children aged 12-17 years with MS, initiating therapy with monoclonal antibodies before age 18 (vs 20-22) is associated with less disability accrual between the ages of 23 and 27.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42214041/",
+      "summary_ja": "背景：小児期発症多発性硬化症（MS）患者に対する高効力モノクローナル抗体療法の使用が増加しているが、規制の影響で成人になるまで治療開始が遅れることが多い。  \n方法：MSBase、フランスおよびイタリアのMS登録データベースから、12～17歳で高効力療法（ナタリズマブ、オクレリズマブ、リツキシマブ）を開始した小児群と、20～22歳で開始した成人群を抽出。18歳を基準点とし、23～27歳時の障害度（EDSSスコア）の変化をベイズ加重一般化線形混合モデルで比較した。  \n結果：277例（女性72％、平均発症年齢約15歳）中、108例が小児期に高効力療法を開始。小児群は成人群に比べ、EDSSスコアの増加が0.53ポイント少なく、特にEDSS4.5～6.0の範囲で障害進行のリスクが最大97％低減した。  \n結論：小児期に高効力モノクローナル抗体療法を開始することは、成人開始に比べて長期的な障害進行を抑制し、神経機能の維持に有効である。早期治療開始の重要性を示すClass IIエビデンスを提供する。",
+      "summary_short_ja": "小児期に発症した多発性硬化症（MS）患者において、高効力モノクローナル抗体療法を18歳未満で開始した群は、成人期（20～22歳開始）に比べて長期的な障害進行（EDSSスコアの増加）が有意に抑制された。特に中等度の障害範囲（EDSS 4.5-6.0）での悪化リスクが最大97％減少し、早期治療開始が神経機能温存に重要であることを示した。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42085644",
       "doi": "10.1212/WNL.0000000000214943",
       "title": "Differences in Use of Disease-Modifying Therapies Between Patients With Late-Onset and Adult-Onset Relapsing-Remitting Multiple Sclerosis.",
