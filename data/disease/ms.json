@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42206857",
+      "doi": "10.1111/ene.70638",
+      "title": "Differences in Income Growth Between People With Multiple Sclerosis and Controls: A Norwegian Cohort Study.",
+      "abstract": "The aim of this study was to determine if people with MS (pwMS) experience a different income development from controls, and if so, at what age, and at what time in the disease course. We examined income development for pwMS compared to matched controls in a Norwegian cohort. We assessed the impact of both age and time from diagnosis on income using linear mixed-effects models. Men with MS (mwMS) had, on average, a lower income trajectory compared to controls at an earlier age than women with MS (wwMS) (49 vs. 55 years). For men, the gap was increasing throughout the entire working age, while women were catching up with their controls close to retirement age. Although the absolute difference from controls is larger for mwMS than wwMS from age 50, the difference between the sexes is only statistically significant from age 60. The income increase rate was lower for both mwMS and wwMS compared to controls after being diagnosed with MS. For mwMS, the difference is evident 2 years after diagnosis, and for wwMS, 5 years after diagnosis. The average income loss experienced by mwMS was double that of women from 6 years after diagnosis, but the difference was not statistically significant when comparing the sexes. PwMS have lower income development than controls. Men lose income earlier in life and earlier in the disease course than women.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42206857/",
+      "summary_ja": "背景：多発性硬化症（MS）患者の収入推移が健常者と異なるか、その差が生じる年齢や病気の経過時期を明らかにすることを目的とした。  \n方法：ノルウェーのコホートを用い、MS患者（pwMS）と年齢・性別でマッチした対照群の収入推移を比較。年齢および診断からの経過時間が収入に与える影響を線形混合効果モデルで解析した。  \n結果：男性MS患者（mwMS）は女性MS患者（wwMS）よりも早い49歳で対照群との収入差が生じ、女性は55歳で差が現れた。男性は労働年齢全体で収入差が拡大し続けたが、女性は退職年齢に近づくにつれ対照群に追いつく傾向があった。診断後の収入増加率は男女とも対照群より低く、男性は診断後2年、女性は5年で差が明確になった。診断後6年以降、男性の収入減少は女性の約2倍であったが、性差の統計的有意性は確認されなかった。  \n結論：MS患者は健常者に比べ収入の伸びが低く、男性は女性よりも早期に収入減少が始まることが示された。",
+      "summary_short_ja": "多発性硬化症（MS）患者は対照群と比べて収入の伸びが低く、特に男性は女性よりも早い年齢（49歳）および診断後2年目から収入格差が拡大する。一方、女性は収入差が遅れて現れ、退職年齢に近づくと対照群に追いつく傾向がある。男性の収入減少は女性の約2倍だが、性差の統計的有意性は限定的である。",
+      "disease": "ms",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42214041",
       "doi": "10.1212/WNL.0000000000218056",
       "title": "Use of High-Efficacy Therapy in Children With Multiple Sclerosis to Prevent Long-Term Disability.",

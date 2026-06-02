@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-02",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42223334",
+      "doi": "10.1111/ene.70653",
+      "title": "Distinct UNC13A Haplotype Blocks Define Disease Severity and Survival in Chinese Amyotrophic Lateral Sclerosis.",
+      "abstract": "UNC13A is a genetic modifier of amyotrophic lateral sclerosis (ALS) in European populations, but its role in Chinese patients remains incompletely characterized. We investigated the spectrum of UNC13A variation and its impact on disease risk and progression in a Chinese ALS cohort. We performed an integrated genetic analysis of 1,533 Chinese ALS patients and 1,405 controls, including rare variant burden testing, genome-wide survival analysis, haplotype mapping, and conditional analyses. An integrated clinical-genetic prognostic score was developed and validated. Rare deleterious UNC13A variants were not associated with ALS risk. We identified two independent haplotype blocks with distinct clinical impacts. Block 1 (tagged by rs75421007) was associated with reduced baseline muscle strength (p = 0.030), while Block 2 (tagged by rs78549703), a brain-specific splicing QTL, was the primary driver of survival heterogeneity. The European variant rs12608932 showed a survival association in single-marker analysis (p = 0.024), but conditional analyses revealed its effect was not independent of Block 2. An integrated prognostic score combining clinical factors and Block 2 haplotype stratified patients into low-, intermediate-, and high-risk groups (median survival: 52.6, 37.1, and 32.0 months; p < 0.001), with decision curve analysis confirming clinical utility. This study delineates UNC13A genetic architecture in Chinese ALS, identifying two independent haplotype blocks that differentially influence disease severity and survival. The Block 2 haplotype, which includes a brain sQTL, is a major determinant of survival heterogeneity and may inform patient stratification in future studies.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42223334/",
+      "summary_ja": "背景：UNC13Aは欧州の筋萎縮性側索硬化症（ALS）患者における遺伝的修飾因子として知られるが、中国人患者における役割は不明確であった。  \n方法：中国人ALS患者1,533名と対照1,405名を対象に、希少変異の負荷検定、全ゲノム生存解析、ハプロタイプマッピング、条件付き解析を統合的に実施し、臨床・遺伝子統合予後スコアを開発・検証した。  \n結果：希少な有害UNC13A変異はALSリスクと関連せず、2つの独立したハプロタイプブロックを同定。Block 1（rs75421007）は初期筋力低下と関連し（p=0.030）、Block 2（rs78549703）は脳特異的スプライシングQTLを含み、生存期間の異質性の主要因であった。欧州で報告されたrs12608932は単一マーカー解析で生存と関連したが、Block 2の影響下にあった。臨床因子とBlock 2を組み合わせた予後スコアは患者を3群に層別化し（中央値生存期間52.6、37.1、32.0か月、p<0.001）、臨床的有用性が示された。  \n結論：中国人ALSにおけるUNC13Aの遺伝的構造を明らかにし、2つの独立ハプロタイプが疾患重症度と生存に異なる影響を与えることを示した。特にBlock 2は生存異質性の主要因であり、今後の患者層別化に有用と考えられる。",
+      "summary_short_ja": "中国のALS患者1,533名と対照1,405名を対象にUNC13A遺伝子の解析を行い、希少変異は疾患リスクに関連しなかった。異なる臨床影響を持つ2つの独立したハプロタイプブロックを特定し、Block 1は筋力低下と関連、Block 2は脳特異的スプライシングQTLを含み生存期間の多様性を主に決定した。臨床因子とBlock 2を組み合わせた予後スコアは患者の生存リスク層別化に有用であった。",
+      "disease": "als",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42206857",
+      "doi": "10.1111/ene.70638",
+      "title": "Differences in Income Growth Between People With Multiple Sclerosis and Controls: A Norwegian Cohort Study.",
+      "abstract": "The aim of this study was to determine if people with MS (pwMS) experience a different income development from controls, and if so, at what age, and at what time in the disease course. We examined income development for pwMS compared to matched controls in a Norwegian cohort. We assessed the impact of both age and time from diagnosis on income using linear mixed-effects models. Men with MS (mwMS) had, on average, a lower income trajectory compared to controls at an earlier age than women with MS (wwMS) (49 vs. 55 years). For men, the gap was increasing throughout the entire working age, while women were catching up with their controls close to retirement age. Although the absolute difference from controls is larger for mwMS than wwMS from age 50, the difference between the sexes is only statistically significant from age 60. The income increase rate was lower for both mwMS and wwMS compared to controls after being diagnosed with MS. For mwMS, the difference is evident 2 years after diagnosis, and for wwMS, 5 years after diagnosis. The average income loss experienced by mwMS was double that of women from 6 years after diagnosis, but the difference was not statistically significant when comparing the sexes. PwMS have lower income development than controls. Men lose income earlier in life and earlier in the disease course than women.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42206857/",
+      "summary_ja": "背景：多発性硬化症（MS）患者の収入推移が健常者と異なるか、その差が生じる年齢や病気の経過時期を明らかにすることを目的とした。  \n方法：ノルウェーのコホートを用い、MS患者（pwMS）と年齢・性別でマッチした対照群の収入推移を比較。年齢および診断からの経過時間が収入に与える影響を線形混合効果モデルで解析した。  \n結果：男性MS患者（mwMS）は女性MS患者（wwMS）よりも早い49歳で対照群との収入差が生じ、女性は55歳で差が現れた。男性は労働年齢全体で収入差が拡大し続けたが、女性は退職年齢に近づくにつれ対照群に追いつく傾向があった。診断後の収入増加率は男女とも対照群より低く、男性は診断後2年、女性は5年で差が明確になった。診断後6年以降、男性の収入減少は女性の約2倍であったが、性差の統計的有意性は確認されなかった。  \n結論：MS患者は健常者に比べ収入の伸びが低く、男性は女性よりも早期に収入減少が始まることが示された。",
+      "summary_short_ja": "多発性硬化症（MS）患者は対照群と比べて収入の伸びが低く、特に男性は女性よりも早い年齢（49歳）および診断後2年目から収入格差が拡大する。一方、女性は収入差が遅れて現れ、退職年齢に近づくと対照群に追いつく傾向がある。男性の収入減少は女性の約2倍だが、性差の統計的有意性は限定的である。",
+      "disease": "ms",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42131939",
+      "doi": "10.1016/j.jclinepi.2004.04.005",
+      "title": "Prior Myocardial Infarction and Cognitive Decline: The REGARDS Cohort.",
+      "abstract": "Acute myocardial infarction (MI) is associated with subsequent cognitive decline. Whether the detection of prior MI using routine ECG and self-reported history can identify different trajectories of cognitive decline is uncertain. We sought to determine the association between prior MI and longitudinal cognitive assessments within a national, biracial cohort study. We included participants in the REGARDS (Reasons for Geographic and Racial Differences in Stroke) cohort, enrolled from 2003 to 2007, who had an interpretable ECG and no baseline cognitive impairment. Prior MI at baseline was determined by self-reported history and ECG evidence of MI. Individuals were subdivided into self-reported (no Q-wave with MI history), clinical (Q-wave with MI history), and silent MI (Q-wave without MI history). We examined the interaction between prior MI and longitudinal change in global cognitive function, assessed by annual telephone-based 6-item screener scores, using linear mixed-effects models adjusted for demographics, cardiovascular risk factors, and incident cardiovascular events with censoring for death. The primary analytic cohort consisted of 20 923 individuals followed over a median of 10.1 years with 2183 having evidence of prior MI at baseline (1098 self-reported, 281 clinical, and 804 silent MI). A total of 4884 participants died during follow-up and were censored at the time of death. Prior MI was associated with an excess adjusted annual decline of global cognition (-0.016 points [95% CI, -0.021 to -0.012];  Evidence of prior MI, whether clinically recognized or silent, was associated with an accelerated decline in global cognition. Prior MI may identify individuals at risk for future cognitive impairment.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42131939/",
+      "summary_ja": "背景：急性心筋梗塞（MI）はその後の認知機能低下と関連するが、日常的な心電図（ECG）や自己申告による既往MIの検出が認知機能低下の異なる経過を識別できるかは不明である。  \n方法：米国の多民族コホート研究REGARDSに参加し、2003～2007年に登録された認知障害のない20,923名を対象に、自己申告歴とECG所見から既往MIを分類（自己申告MI、臨床的MI、無症候性MI）し、年次の電話による6項目認知スクリーナーで認知機能の経時変化を線形混合効果モデルで解析した。年齢や心血管リスク因子、心血管イベント発生を調整し、死亡時に打ち切った。  \n結果：基線で2,183名に既往MIが認められ（自己申告1,098名、臨床的281名、無症候性804名）、中央値10.1年の追跡期間中に4,884名が死亡した。既往MIは調整後の年間認知機能低下率の増加と有意に関連した（-0.016ポイント/年、95%CI -0.021～-0.012）。  \n結論：臨床的に認識されたものも無症候性も含めた既往MIは認知機能の加速的低下と関連し、将来の認知障害リスクの識別に有用である可能性が示された。",
+      "summary_short_ja": "急性心筋梗塞（MI）は認知機能低下と関連する。本研究は、自己申告および心電図（ECG）で判定した既往MIが認知機能の経時的変化に与える影響を、約2万名のREGARDSコホートで10年間追跡し検討した。結果、自己申告の有無にかかわらず既往MIは認知機能の加速的低下と関連し、将来の認知障害リスクの指標となり得ることが示された。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42109096",
+      "doi": "10.1161/STR.0000000000000520",
+      "title": "Social and Environmental Determinants of Stroke Functional Outcome and Strategies to Reduce Inequities: A Scientific Statement From the American Heart Association.",
+      "abstract": "Stroke is a leading cause of death and disability worldwide, and the recovery process is significantly influenced by a multitude of factors beyond immediate medical treatment. Social and environmental determinants of health-conditions in which people are born, grow, work, live, and age-play a crucial role in the functional outcomes of stroke survivors, and addressing these factors is essential to ensure equitable care and optimal recovery. Previous scientific statements have discussed the effects of social isolation on cardiovascular and brain health, as well as strategies to reduce racial and ethnic inequities in stroke preparedness, care, recovery, and risk factor control. In this statement, we review the effect of factors such as social and environmental determinants on stroke functional outcome primarily but also secondary stroke prevention when relevant. In addition, we provide actionable considerations for addressing them to improve stroke outcomes; strategies include the identification of upstream factors, use of impactful policies, and use of implementation science frameworks to translate evidence-based practices into real-world settings. Current gaps for future research include understanding the effect of cultural considerations on stroke recovery, recognizing the interaction of social and environmental determinants of health with each other and with biological factors in determining stroke outcomes, and finding effective ways to address these factors in different environments to achieve best outcomes for all stroke survivors.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42109096/",
+      "summary_ja": "本論文は、脳卒中の機能的回復に社会的・環境的要因が大きく影響することを背景に、これらの要因が回復過程や二次予防に及ぼす影響を検討した。方法として、既存の科学的知見をレビューし、社会的孤立や人種・民族間の不平等が脳卒中の準備、治療、回復、リスク管理に及ぼす影響を分析した。結果、出生・成長・労働・生活・老化の環境が機能的アウトカムに重要な役割を果たし、これらの要因を考慮した政策や実装科学の枠組みを用いることで、実践的な改善策が提示された。結論として、文化的要素の影響や社会・環境要因と生物学的要因の相互作用の解明、異なる環境での効果的介入法の開発が今後の研究課題であり、これらを克服することで脳卒中患者の公平かつ最適な回復支援が可能になると示された。",
+      "summary_short_ja": "本論文は、脳卒中の機能的回復に社会的・環境的要因が大きく影響することを示し、不平等解消のための対策を提案する。出生から老後までの生活環境が回復に関与し、これらの要因を考慮した政策や実践科学の活用が重要とされる。今後は文化的要素や要因間の相互作用の解明、環境別の効果的介入法の研究が求められている。",
+      "disease": "stroke",
+      "section": "prognosis"
+    }
+  ]
+}

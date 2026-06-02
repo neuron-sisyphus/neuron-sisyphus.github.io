@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42131939",
+      "doi": "10.1016/j.jclinepi.2004.04.005",
+      "title": "Prior Myocardial Infarction and Cognitive Decline: The REGARDS Cohort.",
+      "abstract": "Acute myocardial infarction (MI) is associated with subsequent cognitive decline. Whether the detection of prior MI using routine ECG and self-reported history can identify different trajectories of cognitive decline is uncertain. We sought to determine the association between prior MI and longitudinal cognitive assessments within a national, biracial cohort study. We included participants in the REGARDS (Reasons for Geographic and Racial Differences in Stroke) cohort, enrolled from 2003 to 2007, who had an interpretable ECG and no baseline cognitive impairment. Prior MI at baseline was determined by self-reported history and ECG evidence of MI. Individuals were subdivided into self-reported (no Q-wave with MI history), clinical (Q-wave with MI history), and silent MI (Q-wave without MI history). We examined the interaction between prior MI and longitudinal change in global cognitive function, assessed by annual telephone-based 6-item screener scores, using linear mixed-effects models adjusted for demographics, cardiovascular risk factors, and incident cardiovascular events with censoring for death. The primary analytic cohort consisted of 20 923 individuals followed over a median of 10.1 years with 2183 having evidence of prior MI at baseline (1098 self-reported, 281 clinical, and 804 silent MI). A total of 4884 participants died during follow-up and were censored at the time of death. Prior MI was associated with an excess adjusted annual decline of global cognition (-0.016 points [95% CI, -0.021 to -0.012];  Evidence of prior MI, whether clinically recognized or silent, was associated with an accelerated decline in global cognition. Prior MI may identify individuals at risk for future cognitive impairment.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42131939/",
+      "summary_ja": "背景：急性心筋梗塞（MI）はその後の認知機能低下と関連するが、日常的な心電図（ECG）や自己申告による既往MIの検出が認知機能低下の異なる経過を識別できるかは不明である。  \n方法：米国の多民族コホート研究REGARDSに参加し、2003～2007年に登録された認知障害のない20,923名を対象に、自己申告歴とECG所見から既往MIを分類（自己申告MI、臨床的MI、無症候性MI）し、年次の電話による6項目認知スクリーナーで認知機能の経時変化を線形混合効果モデルで解析した。年齢や心血管リスク因子、心血管イベント発生を調整し、死亡時に打ち切った。  \n結果：基線で2,183名に既往MIが認められ（自己申告1,098名、臨床的281名、無症候性804名）、中央値10.1年の追跡期間中に4,884名が死亡した。既往MIは調整後の年間認知機能低下率の増加と有意に関連した（-0.016ポイント/年、95%CI -0.021～-0.012）。  \n結論：臨床的に認識されたものも無症候性も含めた既往MIは認知機能の加速的低下と関連し、将来の認知障害リスクの識別に有用である可能性が示された。",
+      "summary_short_ja": "急性心筋梗塞（MI）は認知機能低下と関連する。本研究は、自己申告および心電図（ECG）で判定した既往MIが認知機能の経時的変化に与える影響を、約2万名のREGARDSコホートで10年間追跡し検討した。結果、自己申告の有無にかかわらず既往MIは認知機能の加速的低下と関連し、将来の認知障害リスクの指標となり得ることが示された。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42109096",
+      "doi": "10.1161/STR.0000000000000520",
+      "title": "Social and Environmental Determinants of Stroke Functional Outcome and Strategies to Reduce Inequities: A Scientific Statement From the American Heart Association.",
+      "abstract": "Stroke is a leading cause of death and disability worldwide, and the recovery process is significantly influenced by a multitude of factors beyond immediate medical treatment. Social and environmental determinants of health-conditions in which people are born, grow, work, live, and age-play a crucial role in the functional outcomes of stroke survivors, and addressing these factors is essential to ensure equitable care and optimal recovery. Previous scientific statements have discussed the effects of social isolation on cardiovascular and brain health, as well as strategies to reduce racial and ethnic inequities in stroke preparedness, care, recovery, and risk factor control. In this statement, we review the effect of factors such as social and environmental determinants on stroke functional outcome primarily but also secondary stroke prevention when relevant. In addition, we provide actionable considerations for addressing them to improve stroke outcomes; strategies include the identification of upstream factors, use of impactful policies, and use of implementation science frameworks to translate evidence-based practices into real-world settings. Current gaps for future research include understanding the effect of cultural considerations on stroke recovery, recognizing the interaction of social and environmental determinants of health with each other and with biological factors in determining stroke outcomes, and finding effective ways to address these factors in different environments to achieve best outcomes for all stroke survivors.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Jun",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42109096/",
+      "summary_ja": "本論文は、脳卒中の機能的回復に社会的・環境的要因が大きく影響することを背景に、これらの要因が回復過程や二次予防に及ぼす影響を検討した。方法として、既存の科学的知見をレビューし、社会的孤立や人種・民族間の不平等が脳卒中の準備、治療、回復、リスク管理に及ぼす影響を分析した。結果、出生・成長・労働・生活・老化の環境が機能的アウトカムに重要な役割を果たし、これらの要因を考慮した政策や実装科学の枠組みを用いることで、実践的な改善策が提示された。結論として、文化的要素の影響や社会・環境要因と生物学的要因の相互作用の解明、異なる環境での効果的介入法の開発が今後の研究課題であり、これらを克服することで脳卒中患者の公平かつ最適な回復支援が可能になると示された。",
+      "summary_short_ja": "本論文は、脳卒中の機能的回復に社会的・環境的要因が大きく影響することを示し、不平等解消のための対策を提案する。出生から老後までの生活環境が回復に関与し、これらの要因を考慮した政策や実践科学の活用が重要とされる。今後は文化的要素や要因間の相互作用の解明、環境別の効果的介入法の研究が求められている。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42202237",
       "doi": "10.1212/WNL.0000000000218125",
       "title": "IV Thrombolysis Before Thrombectomy in Carotid Artery Dissection-Related Large-Vessel Occlusion.",
