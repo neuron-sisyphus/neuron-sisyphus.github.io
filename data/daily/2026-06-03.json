@@ -1,0 +1,20 @@
+{
+  "date": "2026-06-03",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42096239",
+      "doi": "10.1001/jama.2025.19441",
+      "title": "Adjunctive Intra-Arterial Alteplase After Successful Thrombectomy for Acute Ischemic Stroke: The CHOICE-2 Randomized Clinical Trial.",
+      "abstract": "Despite high recanalization rates with endovascular thrombectomy for acute ischemic stroke due to large vessel occlusion, functional outcomes remain suboptimal. The benefit of adjunctive intra-arterial thrombolysis after successful thrombectomy is uncertain. To assess whether adjunctive intra-arterial alteplase after successful thrombectomy improves functional outcomes and cerebral reperfusion. Randomized, open-label trial with blinded outcome assessment conducted at 14 stroke centers in Spain from December 11, 2023, through November 26, 2025. A total of 440 patients with acute ischemic stroke due to large vessel occlusion treated with thrombectomy within 24 hours and achieving an expanded Treatment in Cerebral Ischemia score of 2b50 to 3 were randomized. Thrombectomy plus intra-arterial alteplase (0.225 mg/kg; maximum dose, 20 mg) infused over 15 minutes (n = 221) or thrombectomy alone (n = 219). The primary outcome was an excellent functional outcome at 90 days, which was defined as a modified Rankin Scale score of 0 or 1. There were 6 secondary outcomes, including residual hypoperfusion on follow-up computed tomography perfusion. The safety outcomes included symptomatic intracranial hemorrhage and death. Of 3786 patients treated with thrombectomy, 2776 (73%) fulfilled angiographic criteria and 440 (12%) were randomized. There were 433 patients who were treated as randomized (median age, 76 [IQR, 75-78] years; 51% female). At 90 days, 57.5% of patients (123/214) in the thrombectomy plus intra-arterial alteplase group had a modified Rankin Scale score of 0 or 1 vs 42.5% of patients (93/219) in the thrombectomy alone group (adjusted risk difference, 15.0% [95% CI, 5.7% to 24.3%]; P = .002). Of 6 secondary outcomes, 4 showed no significant between-group differences. Residual hypoperfusion occurred in 28.6% (55/192) of patients in the thrombectomy plus intra-arterial alteplase group vs 50.5% (96/190) of patients in the thrombectomy alone group (adjusted risk difference, -22.0% [95% CI, -31.5% to -12.4%]; P < .001) and symptomatic intracranial hemorrhage occurred in 1.4% (3/214) vs 0.5% (1/219), respectively (adjusted odds ratio, 3.10 [95% CI, 0.32 to 30.0]; P = .33). Mortality at 90 days was 12.1% (26/214) in the thrombectomy plus intra-arterial alteplase group vs 6.4% (14/219) in the thrombectomy alone group (adjusted risk difference, 5.9% [95% CI, 0.5% to 11.3%]; P = .03). Among patients with acute ischemic stroke and successful thrombectomy, adjunctive intra-arterial alteplase increased the proportion achieving excellent functional outcome at 90 days without a significant increase in symptomatic intracranial hemorrhage. Higher mortality in the thrombectomy plus intra-arterial alteplase group warrants further study. ClinicalTrials.gov Identifier: NCT05797792.",
+      "journal": "JAMA",
+      "year": "2026",
+      "published": "2026-Jun-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42096239/",
+      "summary_ja": "背景：大血管閉塞による急性虚血性脳卒中に対し、血管内血栓除去術（thrombectomy）は高い再開通率を示すが、機能的予後は依然として不十分である。血栓除去術成功後の補助的な動脈内アルテプラーゼ投与の効果は不明であった。  \n方法：スペインの14施設で2023年12月から2025年11月にかけて、血栓除去術後に拡張脳虚血治療スコア2b50～3を達成した急性虚血性脳卒中患者440名を対象に、動脈内アルテプラーゼ併用群（0.225 mg/kg、最大20 mg、15分間投与）と血栓除去術単独群に無作為割付けし、90日後の機能的予後（修正Rankinスケール0-1）を主要評価項目とした。  \n結果：90日後に優れた機能的予後を示した割合は、併用群57.5%（123/214）に対し単独群42.5%（93/219）であり、有意差が認められた（調整リスク差15.0%、P=0.002）。残存低灌流は併用群で有意に減少したが（28.6% vs 50.5%、P<0.001）、有症状頭蓋内出血率は両群で差がなかった（1.4% vs 0.5%、P=0.33）。一方、90日死亡率は併用群で有意に高かった（12.1% vs 6.4%、P=0.03）。  \n結論：急性虚血性脳卒中における成功した血栓除去術後の動脈内アルテプラーゼ併用は、機能的予後を改善するが、死亡率上昇の可能性がありさらなる検討が必要である。",
+      "summary_short_ja": "急性虚血性脳卒中に対する血栓回収術後に、補助的に動脈内アルテプラーゼを投与する効果を検証したCHOICE-2試験では、90日後の優れた機能的回復（mRS 0-1）が57.5%に達し、血栓回収単独群の42.5%を有意に上回った。一方で、症候性脳内出血の増加は認められず安全性は保たれたが、死亡率はアルテプラーゼ併用群で有意に高かった。さらなる検討が必要である。",
+      "disease": "stroke",
+      "section": "treatment"
+    }
+  ]
+}
