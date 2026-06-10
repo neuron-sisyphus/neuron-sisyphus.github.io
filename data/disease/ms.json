@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42102338",
+      "doi": "10.1212/WNL.0000000000218067",
+      "title": "Multiple Sclerosis and Outpatient Physician Care in the Last Years of Life: A Population-Based Study.",
+      "abstract": "Patients with multiple sclerosis (MS) require increasing health care support, particularly in the last year of life. Despite the benefits of palliative care in addressing symptom burden and improving quality of life, its integration into MS care remains inconsistent. This study aimed to characterize health care utilization and palliative care access among people with MS in the last years of life and to identify key factors associated with hospital death and receipt of palliative care. A retrospective cohort study was conducted using linked health administrative databases in Ontario, Canada. The cohort consisted of all decedents aged 18 years or older who died in Ontario between April 2016 and March 2020, and we compared health care utilization in decedents with MS to the rest of the cohort. The identification of MS cases was based on a validated algorithm. Demographics, health care utilization, palliative care involvement, and medical interventions were analyzed. Predictors of palliative care receipt and hospital deaths were evaluated using multivariable logistic regression models. MS decedents (n = 1,975; mean age 68 years; 66.4% female) were younger and had fewer comorbidities than non-MS decedents (n = 500,904; mean age 77). High percentage of MS decedents had outpatient neurology visits in the last 5 years of life (49.4%) but a steep decline closer to death (2.7% in the last month). Palliative care use was similar (58.0% vs 56.9%) but occurred earlier in MS (61.9% vs 59.6% in the last 5 years). Multivariable regression showed that rural residence was associated with increased odds of hospital death (odds ratio [OR] 1.81, 95% CI 1.21-2.70) and lower odds of receiving palliative care (OR 0.74, 95% CI 0.55-0.99), while receiving palliative care within the last 5 years of life reduced the odds of hospital death (OR 0.47, 95% CI 0.37-0.60). Higher comorbidity and increased outpatient visits to urology were associated with a greater odd of receiving palliative care (OR 3.64, 95% CI 2.50-5.29 and OR 1.47, 95% CI 1.20-1.80). Although palliative care receipt was comparable between MS and non-MS decedents, rural disparities and high hospital deaths persist. Earlier palliative integration, particularly through neuropalliative care, could improve quality of life and reduce hospitalizations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42102338/",
+      "summary_ja": "本研究は、多発性硬化症（MS）患者の終末期における外来医療利用と緩和ケアの実態を明らかにすることを目的とした。カナダ・オンタリオ州の死亡者データベースを用いた後ろ向きコホート研究で、2016～2020年に死亡した18歳以上のMS患者（n=1,975）と非MS患者（n=500,904）を比較した。MS患者は非MS患者より若年で併存疾患が少なく、終末期5年間の神経科外来受診率は高かったが、死の直前1か月は急激に減少した。緩和ケアの利用率は両群でほぼ同等だったが、MS患者ではより早期に開始されていた。多変量解析では、農村部居住が病院死のリスク増加（OR 1.81）と緩和ケア受診率低下（OR 0.74）に関連し、緩和ケア受診は病院死リスクを低減（OR 0.47）した。併存疾患の多さや泌尿器科外来受診増加も緩和ケア受診と関連した。結論として、MS患者の緩和ケア受診率は非MS患者と同等だが、農村部の格差や高い病院死率が残存しており、神経緩和ケアを含む早期の緩和ケア統合が生活の質向上と入院減少に寄与すると示唆された。",
+      "summary_short_ja": "多発性硬化症（MS）患者は終末期に医療支援が増加するが、緩和ケアの導入は一貫していない。本研究はカナダ・オンタリオ州の死亡者データを用い、MS患者の終末期の外来受診や緩和ケア利用を分析。MS患者は非MS患者より若年で外来神経科受診が多いが死期が近づくと減少。緩和ケア利用率は同等だが、農村部では病院死が多く緩和ケア利用が少ない。早期の神経緩和ケア導入が生活の質向上と入院減少に有効と示唆された。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42206857",
       "doi": "10.1111/ene.70638",
       "title": "Differences in Income Growth Between People With Multiple Sclerosis and Controls: A Norwegian Cohort Study.",
@@ -60,21 +75,6 @@
       "summary_short_ja": "T細胞リンパ増殖性疾患（T-Ly）に伴う末梢神経障害（PN）は稀で、主に神経リンパ腫症（58％）と免疫異常性ニューロパチー（42％）に分類される。神経リンパ腫症は多発性軸索障害を呈し、治療後も部分的回復にとどまり障害が残存しやすい。免疫グロブリン療法は無効で、ステロイドが有効であった。B細胞リンパ増殖性疾患（B-Ly）関連PNより重度の障害を示し、早期診断と機序に応じた治療が重要である。",
       "disease": "ms",
       "section": "prognosis"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42102338",
-      "doi": "10.1212/WNL.0000000000218067",
-      "title": "Multiple Sclerosis and Outpatient Physician Care in the Last Years of Life: A Population-Based Study.",
-      "abstract": "Patients with multiple sclerosis (MS) require increasing health care support, particularly in the last year of life. Despite the benefits of palliative care in addressing symptom burden and improving quality of life, its integration into MS care remains inconsistent. This study aimed to characterize health care utilization and palliative care access among people with MS in the last years of life and to identify key factors associated with hospital death and receipt of palliative care. A retrospective cohort study was conducted using linked health administrative databases in Ontario, Canada. The cohort consisted of all decedents aged 18 years or older who died in Ontario between April 2016 and March 2020, and we compared health care utilization in decedents with MS to the rest of the cohort. The identification of MS cases was based on a validated algorithm. Demographics, health care utilization, palliative care involvement, and medical interventions were analyzed. Predictors of palliative care receipt and hospital deaths were evaluated using multivariable logistic regression models. MS decedents (n = 1,975; mean age 68 years; 66.4% female) were younger and had fewer comorbidities than non-MS decedents (n = 500,904; mean age 77). High percentage of MS decedents had outpatient neurology visits in the last 5 years of life (49.4%) but a steep decline closer to death (2.7% in the last month). Palliative care use was similar (58.0% vs 56.9%) but occurred earlier in MS (61.9% vs 59.6% in the last 5 years). Multivariable regression showed that rural residence was associated with increased odds of hospital death (odds ratio [OR] 1.81, 95% CI 1.21-2.70) and lower odds of receiving palliative care (OR 0.74, 95% CI 0.55-0.99), while receiving palliative care within the last 5 years of life reduced the odds of hospital death (OR 0.47, 95% CI 0.37-0.60). Higher comorbidity and increased outpatient visits to urology were associated with a greater odd of receiving palliative care (OR 3.64, 95% CI 2.50-5.29 and OR 1.47, 95% CI 1.20-1.80). Although palliative care receipt was comparable between MS and non-MS decedents, rural disparities and high hospital deaths persist. Earlier palliative integration, particularly through neuropalliative care, could improve quality of life and reduce hospitalizations.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Jun-09",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42102338/",
-      "summary_ja": "本研究は、多発性硬化症（MS）患者の終末期における外来医療利用と緩和ケアの実態を明らかにすることを目的とした。カナダ・オンタリオ州の死亡者データベースを用いた後ろ向きコホート研究で、2016～2020年に死亡した18歳以上のMS患者（n=1,975）と非MS患者（n=500,904）を比較した。MS患者は非MS患者より若年で併存疾患が少なく、終末期5年間の神経科外来受診率は高かったが、死の直前1か月は急激に減少した。緩和ケアの利用率は両群でほぼ同等だったが、MS患者ではより早期に開始されていた。多変量解析では、農村部居住が病院死のリスク増加（OR 1.81）と緩和ケア受診率低下（OR 0.74）に関連し、緩和ケア受診は病院死リスクを低減（OR 0.47）した。併存疾患の多さや泌尿器科外来受診増加も緩和ケア受診と関連した。結論として、MS患者の緩和ケア受診率は非MS患者と同等だが、農村部の格差や高い病院死率が残存しており、神経緩和ケアを含む早期の緩和ケア統合が生活の質向上と入院減少に寄与すると示唆された。",
-      "summary_short_ja": "多発性硬化症（MS）患者は終末期に医療支援が増加するが、緩和ケアの導入は一貫していない。本研究はカナダ・オンタリオ州の死亡者データを用い、MS患者の終末期の外来受診や緩和ケア利用を分析。MS患者は非MS患者より若年で外来神経科受診が多いが死期が近づくと減少。緩和ケア利用率は同等だが、農村部では病院死が多く緩和ケア利用が少ない。早期の神経緩和ケア導入が生活の質向上と入院減少に有効と示唆された。",
-      "disease": "ms",
-      "section": "treatment"
     },
     {
       "source": "pubmed",
