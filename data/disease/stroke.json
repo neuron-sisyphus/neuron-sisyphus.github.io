@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42269124",
+      "doi": "10.1212/WNL.0000000000218157",
+      "title": "Effectiveness of Immediate Angioplasty or Stenting on Functional Outcomes in Acute Ischemic Stroke With Severe Intracranial Stenosis.",
+      "abstract": "The efficacy of endovascular treatment for acute large vessel occlusion strokes has been demonstrated, but whether it can improve functional outcomes in patients with acute ischemic stroke (AIS) who only present with severe large vessel stenosis without occlusion has not yet been studied. This study investigates the effectiveness of immediate angioplasty or stenting on functional outcomes in AIS patients with severe intracranial stenosis without occlusion. We retrospectively included patients with AIS with symptom onset within 24 hours and imaging-confirmed severe intracranial stenosis (70%-99%, Warfarin Asprin Symptomatic Intracranial Disease criteria) of the culprit vessel from 7 centers in China between January 1, 2020, and December 31, 2024. We compared patients undergoing immediate angioplasty or stenting with those receiving standard medical treatment (SMT) alone. The primary outcome was the distribution of modified Rankin Scale (mRS) scores at 90 days. The treatment effect was estimated through multivariable adjusted models and inverse probability of treatment weighting (IPTW). Safety outcomes included symptomatic intracranial hemorrhage (sICH) within 24 hours and mortality within 90 days. A total of 242 patients were included, with a mean age of 65.7 years, and 86 patients (35.5%) were female. Ninety-six (39.7%) patients underwent immediate angioplasty or stenting, and 146 (60.3%) received SMT. The median 90-day mRS score was 1 (interquartile range 0-3) in the immediate angioplasty or stenting group and 1 (interquartile range 1-3) in the SMT group. The immediate angioplasty or stenting group showed a shift toward better functional outcomes on the mRS scores (adjusted common odds ratio [OR] 2.73 [95% CI 1.49-5.00],  Among patients with AIS with severe intracranial stenosis without occlusion, immediate angioplasty or stenting was associated with improved 90-day functional outcomes compared with SMT alone. No significant difference was observed in the incidence of sICH or mortality. This study provides Class III evidence that in AIS patients with severe intracranial stenosis, immediate angioplasty or stenting was associated with improved 90-day functional outcomes compared with SMT.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42269124/",
+      "summary_ja": "背景：急性大血管閉塞脳卒中に対する血管内治療の有効性は示されているが、閉塞を伴わない重度の大血管狭窄を有する急性虚血性脳卒中（AIS）患者における即時血管形成術またはステント留置の効果は未検討であった。  \n方法：中国の7施設で2020年から2024年にかけて、発症24時間以内で画像診断により70～99％の重度の頭蓋内狭窄を有するAIS患者242名を後ろ向きに解析。即時血管形成術またはステント留置群（96名）と標準内科治療（SMT）群（146名）で90日後の改良Rankin Scale（mRS）スコアを比較し、多変量調整モデルと逆確率重み付け法で治療効果を評価。安全性は24時間以内の症候性頭蓋内出血（sICH）と90日死亡率で検討。  \n結果：即時血管形成術・ステント群はSMT群と比較し、90日後のmRSスコアが有意に改善（調整共通オッズ比2.73、95％CI 1.49-5.00）。sICH発生率や死亡率に有意差は認められなかった。  \n結論：重度の頭蓋内狭窄を有するAIS患者において、即時血管形成術またはステント留置は標準治療単独よりも90日後の機能的予後を改善し、安全性にも問題はなかった。",
+      "summary_short_ja": "急性虚血性脳卒中（AIS）で重度の脳内動脈狭窄（70～99％）がある患者を対象に、即時血管形成術またはステント留置の効果を標準治療（SMT）と比較した。242例を後ろ向きに解析し、90日後の修正Rankinスケール（mRS）で機能的改善が認められた（調整後オッズ比2.73）。出血や死亡率に有意差はなく、安全性も示された。即時血管形成術・ステントは重度狭窄AIS患者の機能予後改善に有効である。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42133915",
       "doi": "10.1212/WNL.0000000000218012",
       "title": "Safety and Outcomes of Dabigatran Reversal With Idarucizumab Before IV Thrombolysis in Patients With Acute Ischemic Stroke.",
