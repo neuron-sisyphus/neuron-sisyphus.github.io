@@ -1,0 +1,20 @@
+{
+  "date": "2026-06-14",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42284535",
+      "doi": "10.1212/WNL.0000000000218164",
+      "title": "Race and Ethnicity, Hypertension, and Neuroimaging Markers of Brain Aging: A Causal Mediation Analysis in the HABS-HD Study.",
+      "abstract": "The mechanisms underlying racial/ethnic differences in dementia incidence and pathology are multifactorial, and hypertension represents an actionable target for reducing these differences. We aimed to estimate the extent to which controlling for hypertension mediates racial/ethnic inequities in neuroimaging markers of brain aging. The Health and Aging Brain Study-Health Disparities cohort is a highly phenotyped, racially and ethnically diverse cohort of cognitive aging. We used marginal structural models with inverse probability weights to estimate total and controlled direct effects of race/ethnicity, hypertension, and systolic blood pressure (SBP) at baseline, with neuroimaging markers measured on average 2 years later. Neuroimaging markers of brain aging were measured at the 2-year follow-up. Among Black and Hispanic participants with any neuroimaging data at the second visit (overall N = 1,347), 68% and 71% were women, 75% and 67% had hypertension, and the mean age was 61 and 63 years, respectively. Black and Hispanic participants had greater white matter hyperintensity volume (WMHV) compared with non-Hispanic White (NHW) participants (n = 1,333, β [95% CI]: Black 2.08 [1.68-2.59], Hispanic 0.99 [0.91-1.08]). After analytically setting hypertension status to absent, Black-NHW inequities in WMHV were attenuated (β [95% CI]: 1.3 [1.01-1.65]). Black participants had lower amyloid deposition compared with NHW participants (n = 679, β [95% CI]: -0.29 [-0.46 to -0.12]), but analytically controlling for hypertension did not appreciably change estimates. Compared with NHW participants, Hispanic participants had lower Alzheimer disease meta-region of interest cortical thickness (n = 1,005, β [95% CI]: -0.20 [-0.34 to -0.07]), but neither hypertension nor SBP significantly mediated this difference. Medial temporal lobe tau-PET standardized uptake value ratio did not significantly differ in Black or Hispanic participants compared with NHW participants (n = 408). Black-NHW inequities in subclinical cerebral small vessel disease may be mitigated by population-level efforts to reduce hypertension prevalence. Future studies should extend this work to examine clinical outcomes.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42284535/",
+      "summary_ja": "背景：認知症の発症や病理における人種・民族間の差異は多因子であり、高血圧はこれらの差を減らすための介入可能な要因とされる。本研究は、高血圧の管理が脳老化の神経画像マーカーにおける人種・民族間の不均衡をどの程度媒介するかを評価した。  \n方法：多様な人種・民族からなる認知加齢コホート（HABS-HD）を対象に、ベースラインの人種・民族、高血圧および収縮期血圧を説明変数とし、2年後の神経画像マーカーを結果変数とした周辺構造モデルと逆確率重み付けを用いて因果媒介分析を実施。  \n結果：黒人およびヒスパニック参加者は非ヒスパニック白人に比べ白質高信号体積（WMHV）が有意に大きく、高血圧を統制すると黒人と白人間のWMHV差は減少した。一方、アミロイド沈着やアルツハイマー病関連皮質厚の差異は高血圧の影響をあまり受けなかった。内側側頭葉のタウPET値には人種・民族差は認められなかった。  \n結論：黒人と白人間の無症候性脳小血管病の差は、高血圧の集団レベルでの管理により軽減可能である。今後は臨床転帰への影響を検討する研究が必要である。",
+      "summary_short_ja": "本研究は、人種・民族間の認知症発症差異における高血圧の媒介効果を検討した。黒人およびヒスパニックの参加者は白人に比べ白質病変量が多く、高血圧を除去すると黒人と白人間の差は縮小した。一方、アミロイド沈着やアルツハイマー病関連皮質厚の差異には高血圧の影響は小さかった。高血圧管理が脳の小血管病変の人種差是正に寄与する可能性が示唆された。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    }
+  ]
+}
