@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42302223",
+      "doi": "10.1212/WNL.0000000000218076",
+      "title": "Machine Diagnostics and Machine Phenotyping of Migraine: A HUNT Study.",
+      "abstract": "In the absence of biomarkers, the true biological footprint of migraine remains incompletely understood. It could perhaps be best characterized using machine learning models of multimodal data. The aim of this study was to (1) develop diagnostic models of migraine using multimodal data and (2) identify data-driven migraine phenotypes. This was a cross-sectional machine learning analysis of demographics, self-reported clinical and headache data, and genome-wide genotype data from the Trøndelag Health Study (data collected 1995-1997 and 2006-2008). All participants who were genotyped and completed the headache questionnaire were included. First, predictive machine learning models were developed using genotype data and general clinical data (excluding headache data) to diagnose individuals with migraine vs headache-free controls. Models were optimized on a training set and evaluated on a held-out test set, scored with the area under the receiver operating characteristic curve (AUC). Second, unsupervised models were trained on the headache data and the most predictive features from the diagnostic models to identify subgroups. The subgroups were compared using genome-wide association analyses, conventional polygenic risk scores (PRSs), and machine learning-based genetic risk scores. A total of 43,197 individuals were included in the diagnostic models, and 12,185 individuals were included in the data-driven phenotyping (mean [SD] age 49.1 [16.7] years; 51.7% women). The top-performing diagnostic model was a light gradient boosting machine, with a test set AUC of 0.80 (95% CI 0.78-0.81). Two main clusters were identified, one with 1,425 individuals, 94% of whom met diagnostic criteria for migraine, and another with 10,760 individuals, whereof 71% had nonmigraine headaches. The former was subclustered into 4 relatively distinct groups: one with only men, one with prominent neck pain, one with more musculoskeletal pain, anxiety and depression, and one with \"classic\" migraine. The groups were better discriminated by machine learning-based genetic risk scores compared with PRSs. Migraine can accurately be diagnosed from nonheadache data, suggesting that it is biologically describable by combinations of clinical, genetic, and environmental data. Data-driven phenotyping with such data identifies migraine subgroups with distinct phenotypic and genotypic signals, possibly not captured by current diagnostic criteria-but with potential implications for management.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42302223/",
+      "summary_ja": "背景：片頭痛の生物学的特徴はバイオマーカーがなく十分に解明されていない。多様なデータを用いた機械学習モデルでの解析が有効と考えられる。  \n方法：ノルウェーのTrøndelag Health Studyの人口統計、自己申告の臨床・頭痛データ、全ゲノム遺伝子型データを用いた横断的機械学習解析を実施。頭痛の有無を診断するモデルを遺伝子型と一般臨床データから構築し、さらに頭痛データと診断モデルの特徴を用いた非教師ありクラスタリングで片頭痛のデータ駆動型フェノタイプを同定した。  \n結果：43,197名の診断モデルで、LightGBMによるモデルがAUC0.80を達成。12,185名のフェノタイピングでは、94%が片頭痛の1,425名のクラスターと、71%が非片頭痛頭痛の10,760名のクラスターに分類された。片頭痛クラスターはさらに4つの特徴的サブグループに分かれ、機械学習ベースの遺伝的リスクスコアが従来の多遺伝子リスクスコアよりも群分けに優れていた。  \n結論：片頭痛は頭痛以外の臨床・遺伝・環境データの組み合わせで高精度に診断可能であり、データ駆動型フェノタイピングにより従来の診断基準では捉えきれない多様な片頭痛サブタイプが明らかになった。これらは治療方針の改善に寄与する可能性がある。",
+      "summary_short_ja": "本研究は、頭痛バイオマーカーがない中で、多様なデータを用いた機械学習により片頭痛の診断モデル構築とデータ駆動型の片頭痛表現型の同定を目指した。約4万3千人のデータから、非頭痛データで片頭痛を高精度（AUC=0.80）に診断可能と示し、さらに頭痛特徴と遺伝情報に基づく4つの異なる片頭痛サブグループを特定。これらは従来の診断基準では捉えにくい遺伝的・臨床的特徴を持ち、治療方針への応用が期待される。",
+      "disease": "migraine",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41985109",
       "doi": "10.1038/nclimate2631",
       "title": "Acute Environmental Triggers and Intermediate-Term Modulators of Emergency Migraine-Related Health Care Encounters.",

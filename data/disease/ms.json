@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42302218",
+      "doi": "10.1212/WNL.0000000000218159",
+      "title": "Consensus Definitions of Disease Activity and Clinical Outcomes in Patients With Chronic Inflammatory Demyelinating Polyradiculoneuropathy.",
+      "abstract": "Key terms describing the activity status and clinical outcomes of chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) lack standardized definitions. To address the need for uniform definitions, we sought to develop formal consensus-based terminology to define key aspects pertinent to the management of CIDP. In April 2025, the GBS|CIDP Foundation International convened a Task Force of 17 international CIDP experts, 2 guest experts from related specialties, and 3 patient representatives. Task Force panels iteratively reviewed, discussed, and voted on proposed definitions for No Evidence of Disease Activity, Relapse, Response, Refractory, Remission, and Residual Symptoms. Relevant literature was reviewed to inform each definition. A modified Delphi approach was used to achieve consensus, defined as a median rating ≥7 on a 9-point scale with ≥80% agreement. Voting included 17 content experts and 3 patient representatives. Guest experts provided nonvoting input. Composite metrics incorporating disability, strength impairment, and patient perception were determined to provide the most sensitive and specific assessment of clinical change in CIDP. Using commonly used clinical outcome measures, including minimally clinically important differences where available, unique definitions were developed for each clinical term. Definitions for No Evidence of Disease Activity, Relapse, Response (minimal, partial, and optimal), Refractory, Remission, and Residual Symptoms were iteratively refined to integrate patient-reported experiences, standardized disability scores, and objective measures of strength impairment, ensuring that each term captured a multidimensional view of disease status. The development of consensus-based definitions for key clinical terms in CIDP addresses a longstanding gap in standardizing the assessment of disease activity and treatment outcomes. By combining patient-reported experiences with objective disability and strength measures, the Task Force created comprehensive definitions reflecting the patient experience. The iterative Delphi process ensured broad expert agreement while allowing patient perspectives to inform the terminology. These standardized definitions may improve consistent evaluations in clinical practice, facilitate communication among healthcare providers, and support more robust design and interpretation of clinical trials. Furthermore, the incorporation of composite metrics sensitive to meaningful clinical changes may enhance the ability to detect treatment effects and disease progression, ultimately promoting more precise and patient-centered management of CIDP.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42302218/",
+      "summary_ja": "背景：慢性炎症性脱髄性多発根ニューロパチー（CIDP）の病勢や臨床転帰を示す用語には統一された定義がなく、管理における標準化が求められていた。  \n方法：2025年4月にGBS|CIDP Foundation Internationalが、17名の国際的CIDP専門家、関連分野のゲスト専門家2名、患者代表3名からなるタスクフォースを結成。文献レビューと修正デルファイ法を用い、「疾患活動なし」「再発」「反応」「難治性」「寛解」「残存症状」などの定義案を繰り返し検討・投票し、合意形成を図った。  \n結果：障害度、筋力低下、患者の主観的評価を組み合わせた複合指標がCIDPの臨床変化を最も敏感かつ特異的に評価できると判明。各用語の定義は患者報告や標準化された障害スコア、客観的筋力測定を統合し、多面的に病態を反映する形で確立された。  \n結論：CIDPの主要臨床用語に関する合意定義の策定により、病勢評価と治療効果判定の標準化が達成された。患者視点と客観的指標の融合により、臨床現場での一貫した評価や医療者間の円滑な情報共有、臨床試験の設計・解釈の質向上が期待される。これにより、より精密で患者中心のCIDP管理が促進される。",
+      "summary_short_ja": "慢性炎症性脱髄性多発根ニューロパチー（CIDP）の病勢や臨床転帰を示す用語に統一定義がなかったため、国際専門家と患者代表によるタスクフォースが改訂型デルファイ法で合意形成を行った。患者報告、障害度、筋力低下の複合指標を用い、「無病勢証拠」「再発」「反応（最小・部分・最適）」「難治」「寛解」「残存症状」などの定義を確立。これにより臨床評価の標準化と治療効果検出の精度向上が期待される。",
+      "disease": "ms",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42102338",
       "doi": "10.1212/WNL.0000000000218067",
       "title": "Multiple Sclerosis and Outpatient Physician Care in the Last Years of Life: A Population-Based Study.",

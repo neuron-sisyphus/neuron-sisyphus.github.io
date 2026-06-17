@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42302227",
+      "doi": "10.1212/WNL.0000000000218176",
+      "title": "The Prodromal Synucleinopathy Rating Scale: An Assessment in Patients With REM Sleep Behavior Disorder.",
+      "abstract": "Clinical trials in REM sleep behavior disorder (RBD) to delay or prevent the development of Parkinson disease (PD), dementia with Lewy bodies (DLBs), and multiple system atrophy (MSA) will soon begin. The Prodromal Synucleinopathy Rating Scale (PSRS) was developed to capture the breadth and severity of clinical burden of prodromal disease. We analyzed the clinicometric properties and reliability of the PSRS in the North American Prodromal Synucleinopathy (NAPS) cohort. PSRS ratings were examined for visits conducted from August 2022-June 2025 on participants who did not have overt PD, DLB, or MSA (n = 348). Clinician raters used clinical judgement to evaluate signs and symptoms within each domain. Scores range from 0 (none) to a maximum of 2-4 points per domain, with a total maximum score of 25. The domains include cognitive (COG), behavioral/psychiatric (PSY), motor-axial (MAX), motor-appendicular (MAP), autonomic (AUT), sleep (SLP), and sensory (SEN). Spearman correlations were generated between ratings for each domain, the total sum score (SUM), and with independent measures of similar constructs. Test-retest reliability for 20 case examples protocols among 20 different raters was quantified using Bayesian generalized linear mixed-effects model. Participants were 79% male with a mean age of 65.4 ± 10.4 years. The following correlations were statistically significant at  In this large multicenter RBD cohort, moderate to strong correlations were observed between PSRS domains and multiple independent measures of clinical burden. Reliability data were good to excellent. These findings demonstrate preliminary validity for the PSRS for measuring synucleinopathy clinical burden in those with RBD. NCT05826457 NAPS Consortium Website: naps-rbd.org/.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42302227/",
+      "summary_ja": "背景：REM睡眠行動障害（RBD）はパーキンソン病（PD）、レビー小体型認知症（DLBs）、多系統萎縮症（MSA）などのシヌクレイノパチー発症の前駆症状として注目されている。これらの疾患の発症遅延や予防を目的とした臨床試験開始に先立ち、前駆期の臨床負荷を評価する尺度の開発が求められている。  \n方法：前駆期シヌクレイノパチー評価尺度（PSRS）を用い、北米のNAPSコホート（RBD患者348名、PD/DLB/MSA未発症）における臨床的特性と信頼性を検証した。PSRSは認知、行動・精神、運動（体幹・四肢）、自律神経、睡眠、感覚の7領域を評価し、合計点は最大25点。評価は臨床医の判断に基づき行われ、検査再検査信頼性は20症例を20名の評価者で分析した。  \n結果：参加者の平均年齢は65.4歳、79％が男性。PSRS各領域と独立した臨床指標との相関は中等度から強く、検査再検査信頼性も良好から優秀であった。  \n結論：PSRSはRBD患者におけるシヌクレイノパチーの臨床負荷を測定するための有効かつ信頼性の高い評価尺度であることが示された。",
+      "summary_short_ja": "本研究は、REM睡眠行動障害（RBD）患者の前駆期シヌクレイノパチーの臨床負荷を評価するために開発されたProdromal Synucleinopathy Rating Scale（PSRS）の信頼性と妥当性を検証した。348名のRBD患者を対象に多施設で評価を行い、各領域のスコアと独立した臨床指標との相関は中程度から強く、検査再検査信頼性も良好であった。PSRSはRBD患者のシヌクレイノパチー臨床負荷測定に有用であることが示された。",
+      "disease": "parkinson",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42302222",
+      "doi": "10.1212/WNL.0000000000218175",
+      "title": "Fecal Microbiota Transplantation in Parkinson Disease: A Systematic Review, Meta-Analysis, and Meta-Regression.",
+      "abstract": "Parkinson disease (PD) is a progressive neurodegenerative disorder increasingly linked to gut microbiota dysbiosis, which may influence disease mechanisms and symptom expression. Fecal microbiota transplantation (FMT) targets the gut-brain axis, but clinical evidence remains inconsistent. This study aimed to evaluate the efficacy and safety of FMT in PD. We conducted a systematic review and meta-analysis following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, with protocol registration in International Prospective Register of Systematic Reviews (CRD420251142846). MEDLINE, Embase, and the Cochrane Library were searched from inception through September 2025. Randomized controlled trials (RCTs) and observational studies enrolling adults with mild-to-moderate PD who received FMT through any administration route were eligible. The primary outcome was motor function assessed by the Unified Parkinson's Disease Rating Scale (UPDRS) part III. Secondary outcomes included UPDRS part II, quality of life (Parkinson's Disease Questionnaire-39 [PDQ-39]), constipation severity (Wexner score), and adverse events. Random-effects models pooled effect estimates with 95% CIs, and exploratory meta-regression assessed follow-up duration, publication year, and sample size. Eight studies (5 RCTs and 3 observational studies) including 220 participants were analyzed. The mean age ranged from approximately 60 to 70 years, and women comprised about 40% of participants. FMT was associated with significant improvement in motor function (UPDRS part III: mean difference [MD] -9.67, 95% CI -16.81 to -2.53) and constipation severity (Wexner score: MD -3.91, 95% CI -7.68 to -0.13). Improvements in UPDRS part II and PDQ-39 were observed at 12 weeks but not sustained at 24 weeks. In RCT-only analyses, UPDRS part III improvement remained significant (MD -6.82, 95% CI -11.23 to -2.40), whereas other outcomes were not consistently significant. Meta-regression indicated that longer follow-up was associated with greater improvement in UPDRS part II ( FMT may provide short-term improvements in motor and gastrointestinal symptoms in PD, but effects appear transient. Small sample sizes, heterogeneity, and limited follow-up restrict conclusions, underscoring the need for larger randomized trials. Pooled estimates reflected evidence from observational studies and should be interpreted cautiously.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42302222/",
+      "summary_ja": "背景：パーキンソン病（PD）は進行性の神経変性疾患で、腸内細菌叢の異常が病態や症状に影響すると考えられている。糞便微生物移植（FMT）は腸脳軸を標的とするが、臨床効果は不確実である。  \n方法：PD患者を対象にしたRCTおよび観察研究を系統的にレビュー・メタ解析し、UPDRSパートIIIによる運動機能改善を主要評価項目とした。副次評価項目はUPDRSパートII、生活の質（PDQ-39）、便秘重症度（Wexnerスコア）、有害事象。8研究（220例）を対象にランダム効果モデルとメタ回帰を実施。  \n結果：FMTは運動機能（UPDRS III：平均差-9.67）と便秘（Wexnerスコア：平均差-3.91）に有意な改善を示した。UPDRS IIとPDQ-39は12週で改善したが24週では持続せず、RCT解析でもUPDRS IIIのみ有意改善が確認された。メタ回帰では追跡期間の延長がUPDRS II改善と関連。  \n結論：FMTはPDの運動症状および消化器症状に短期的な改善効果を示すが、効果は一過性であり、小規模かつ異質な研究が多いため、大規模RCTによる検証が必要である。",
+      "summary_short_ja": "パーキンソン病（PD）に対する糞便微生物移植（FMT）の効果と安全性を評価したシステマティックレビューとメタ解析を実施。8件の研究（220例）で、FMTは運動機能（UPDRS III）と便秘症状の短期的改善に有意な効果を示したが、生活の質や日常生活機能の改善は持続せず、長期効果は不明。サンプル数や追跡期間の制約から結論は限定的で、さらなる大規模RCTが必要とされた。",
+      "disease": "parkinson",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42102337",
       "doi": "10.1212/WNL.0000000000218064",
       "title": "Clinical Reasoning: A Woman With Parkinson Disease, Dyskinesia, Rhabdomyolysis, Subcutaneous Emphysema, and Pneumomediastinum.",

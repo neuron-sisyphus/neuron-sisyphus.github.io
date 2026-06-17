@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42302219",
+      "doi": "10.1212/WNL.0000000000214776",
+      "title": "Cognitive Aging and Brain Health: A Comparison of Super Movers vs Nonsuper Movers.",
+      "abstract": "Super movers are individuals aged ≥80 years with gait speeds ≥1.5 SDs above age- and sex-adjusted means. Super movers tend to have lower prevalence of chronic medical conditions, healthier lifestyles, and younger biological age. The aim of this study was to examine their risk of incident cognitive impairment, trajectories of cognitive decline, and brain health. This study used a retrospective study design using data from older adults aged ≥80 without Alzheimer disease or dementia enrolled in 5 Health and Retirement Study International Network of Studies (HRS-INS), the LonGenity Study, and the RUSH Memory Aging Project (RUSH MAP). HRS-INS data were used to assess incident cognitive impairment (>1.5 SD below the age-adjusted means on any cognitive test plus impaired Instrumental Activities of Daily Living) in super movers vs nonsuper movers. Age- and sex-adjusted hazard ratios (HRs) from Cox models were pooled in a meta-analysis to obtain risk of incident cognitive impairment. LonGenity data were used to examine (1) decline in cognitive domains using linear mixed-effects models adjusted for age, sex, education, and parental longevity; (2) trajectories of global cognition before and after age 80; and (3) brain structural differences (cortical thickness, hippocampal volume) between super vs nonsuper movers. RUSH MAP data were used to assess dementia-related pathology. HRS-INS study (n = 3,989, baseline age 83.6-84.4 years, 47%-65% females, 358 super movers), after excluding 274 adults with cognitive impairment at baseline, super movers had lower risk of incident cognitive impairment (HR 0.49, 95% CI 0.28-0.71) over follow-ups ranged between 3.4 and 5.4 years. In LonGenity (n = 197, baseline age 84.6 [SD 3.3], 57.8% women), super movers showed slower memory and non-memory-related cognitive decline and preserved hippocampal volume in specific subfields. In RUSH MAP (n = 692, baseline age 85.6 [SD 4.0], 68.9% women), super movers had better antemortem cognition and lower Alzheimer disease and dementia prevalence, but no differences in postmortem dementia-related pathologies. Super movers show slower cognitive aging-indicated as lower risk for cognitive impairment and slower cognitive decline-and preserved hippocampal volumes. Investigating their behavioral and biological traits may reveal novel protective mechanisms against cognitive decline and dementia.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42302219/",
+      "summary_ja": "背景：80歳以上で年齢・性別調整後の歩行速度が平均より1.5標準偏差以上速い「スーパー・ムーバー」は、慢性疾患の少なさや健康的な生活習慣、若い生物学的年齢が特徴である。本研究は彼らの認知障害発症リスク、認知機能低下の経過、脳の健康状態を検討した。\n\n方法：5つの高齢者コホート（HRS-INS、LonGenity、RUSH MAP）から認知症やアルツハイマー病のない80歳以上のデータを用い、スーパー・ムーバーと非スーパー・ムーバーの認知機能の変化や脳構造、認知症関連病理を比較した。HRS-INSでは認知障害発症リスクをCoxモデルで解析し、LonGenityでは認知機能低下の速度と脳構造（海馬体積など）を評価。RUSH MAPでは死後の認知症病理を調査した。\n\n結果：HRS-INS（n=3,989）ではスーパー・ムーバーは認知障害発症リスクが約半分（HR=0.49）に低下。LonGenity（n=197）では記憶・非記憶認知機能の低下が遅く、特定の海馬領域の体積が維持されていた。RUSH MAP（n=692）では認知機能が良好で認知症の有病率が低かったが、死後病理には差がなかった。\n\n結論：スーパー・ムーバーは認知機能の加齢変化が緩やかで海馬体積が保存されている。彼らの行動的・生物学的特徴の解明は認知機能低下や認知症予防の新たな手掛かりとなる可能性がある。",
+      "summary_short_ja": "80歳以上で歩行速度が同年代平均より1.5標準偏差以上速い「スーパー・ムーバー」は、慢性疾患の少なさや健康的な生活習慣と関連し、認知機能低下のリスクが約半減することが示された。さらに、記憶や非記憶認知の低下が緩やかで、海馬の特定領域の容積も維持されていた。死後の認知症関連病理には差がなかったが、スーパー・ムーバーの特性解明は認知症予防に有益と期待される。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42284535",
       "doi": "10.1212/WNL.0000000000218164",
       "title": "Race and Ethnicity, Hypertension, and Neuroimaging Markers of Brain Aging: A Causal Mediation Analysis in the HABS-HD Study.",
