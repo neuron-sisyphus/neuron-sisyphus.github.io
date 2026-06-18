@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42308438",
+      "doi": "10.1212/WNL.0000000000218161",
+      "title": "Mediation Analysis Between Brain Age, Disease-Modifying Factors, and Disability and Cognitive Performance in Multiple Sclerosis.",
+      "abstract": "The brain-predicted age difference (brain-PAD) is considered a marker of neurodegeneration in people with multiple sclerosis (pwMS) and is associated with greater disability and cognitive impairment. However, the impact of disease-modifying factors (DMFs) on brain-PAD remains unknown, as does the extent to which their effect on disability and cognition is mediated through brain-PAD. The goal of this study was to investigate this in pwMS using a same-age cohort to eliminate calendar age as a confounding factor. Brain age was determined using brainageR from 3-dimensional T1-weighted MRI scans, and brain-PAD was calculated as the difference between predicted and chronological age. Disability was evaluated with the Expanded Disability Status Scale (EDSS), the 9-hole peg test (9HPT), and timed 25-foot walk test (T25FWT). Cognitive function was assessed using the Minimal Assessment of Cognitive Function in MS battery and converted to  The study included 117 healthy controls (mean age 52.8 ± 1.1 years, 74.3% female) and 242 pwMS (mean age 52.8 ± 0.9 years, 70.6% female), with a median disease duration of 15.2 years (interquartile range [IQR] 8.2-24.5) and a median EDSS score of 3.5 (IQR 2.5-4.0). Smoking (β = 0.20,  DMFs unrelated to MS, particularly smoking, alcohol use, and BMI at 18 years, accelerate brain aging. Brain-PAD mediates these effects and contributes to worsening disability and cognition, underscoring the potential of lifestyle interventions to mitigate neurodegeneration and preserve function in pwMS.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42308438/",
+      "summary_ja": "背景：多発性硬化症（MS）患者における脳の予測年齢差（brain-PAD）は神経変性の指標であり、障害や認知機能低下と関連するが、疾患修飾因子（DMFs）がbrain-PADに与える影響や、DMFsの障害・認知機能への影響がbrain-PADを介しているかは不明であった。  \n方法：同年齢のMS患者242名（平均年齢52.8歳）と健康対照117名を対象に、3次元T1強調MRIからbrainageRを用いて脳年齢を推定し、brain-PADを算出。障害はEDSS、9ホールペグテスト、25フィート歩行テストで評価し、認知機能はMS用簡易認知評価バッテリーで測定した。  \n結果：喫煙、飲酒、18歳時のBMIなどMSに直接関連しないDMFsがbrain-PADを加速させ、brain-PADは障害と認知機能低下の進行を媒介することが示された。  \n結論：生活習慣因子が脳の老化を促進し、これがMS患者の機能障害や認知低下に寄与しているため、生活習慣改善による神経変性の抑制と機能維持の可能性が示唆された。",
+      "summary_short_ja": "多発性硬化症患者（pwMS）において、脳の予測年齢差（brain-PAD）は神経変性の指標であり、障害や認知機能低下と関連する。本研究は、同年齢コホートを用いて、喫煙や飲酒、若年時のBMIなどの疾患修飾因子（DMFs）がbrain-PADに与える影響と、それが障害・認知機能に及ぼす媒介効果を検証した。結果、これらの因子はbrain-PADを介して脳老化を促進し、機能悪化に寄与することが示された。",
+      "disease": "ms",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42302218",
       "doi": "10.1212/WNL.0000000000218159",
       "title": "Consensus Definitions of Disease Activity and Clinical Outcomes in Patients With Chronic Inflammatory Demyelinating Polyradiculoneuropathy.",

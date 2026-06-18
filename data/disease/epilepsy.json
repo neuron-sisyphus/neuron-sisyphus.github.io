@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42308439",
+      "doi": "10.1212/WNL.0000000000218174",
+      "title": "Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation.",
+      "abstract": "Adult-onset seizure reflects the burden of acquired brain insults, but established disease-modifying preventive strategies are limited. We evaluated whether semaglutide initiation is associated with a lower incidence of adult-onset seizure compared with sodium-glucose cotransporter 2 inhibitors (SGLT2i) and other glucose-lowering drugs (GLDs) in adults with type 2 diabetes. Using the  We analyzed 10,213 patients in the semaglutide (n = 2,586, mean age, 60.1 years; 56.8% female) vs other GLDs cohort (n = 7,627, mean age, 63.7 years; 54.2% female) and 8,605 patients in the semaglutide (n = 2,814, mean age, 60.5 years; 66.2% female) vs SGLT2i cohort (n = 5,791, mean age, 64.4 years; 47.3% female). Semaglutide was associated with a lower risk of adult-onset seizure compared with other GLDs (weighted HR 0.44 [95% CI 0.25-0.79]; 4-year risk difference -1.78% [95% CI -2.58 to -0.98]) and SGLT2i (weighted HR 0.48 [95% CI 0.27-0.85]; 4-year risk difference -1.46% [95% CI -2.41 to -0.51]). TMLE estimated risk differences per 1,000 persons of -14.20 (95% CI -18.33 to -10.07) vs other GLDs and -7.62 (95% CI -11.65 to -3.60) vs SGLT2i, corresponding to numbers needed to treat of 70 and 131, respectively. Mediation was minimal for HbA1c (2.4% vs other GLDs; 6.5% vs SGLT2i) and BMI (0% vs other GLDs; 0.7% vs SGLT2i). Semaglutide initiation was associated with a lower risk of adult-onset seizure compared with SGLT2i and other GLDs in patients with type 2 diabetes, independent of glycemic and weight effects. Residual confounding, low event counts, and shorter follow-up limit causal interpretation. This study provides Class II evidence that semaglutide use was associated with a lower risk of adult-onset seizures compared with other GLDs and SGLT2i.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42308439/",
+      "summary_ja": "背景：成人発症てんかん発作は後天的な脳障害の負担を反映するが、効果的な予防策は限られている。  \n方法：2型糖尿病患者を対象に、セマグルチド開始群とSGLT2阻害薬群およびその他の血糖降下薬群を比較し、成人発症てんかん発作の発生リスクを検討した。セマグルチド群はそれぞれ2,586例および2,814例、比較群は7,627例および5,791例で、平均年齢は約60～64歳であった。  \n結果：セマグルチドは他の血糖降下薬群に比べ発作リスクを56%低減（HR 0.44）、SGLT2阻害薬群に比べ52%低減（HR 0.48）した。4年間のリスク差はそれぞれ-1.78%、-1.46%で、HbA1cやBMIの変化による媒介効果はごくわずかであった。  \n結論：セマグルチド開始は血糖コントロールや体重変化に依存せず、2型糖尿病患者の成人発症てんかん発作リスクを低減する可能性が示された。ただし、観察研究の限界やイベント数の少なさから因果関係の解釈には注意が必要である。",
+      "summary_short_ja": "セマグルチドの開始は、2型糖尿病患者において、他の血糖降下薬やSGLT2阻害薬と比較して成人発症てんかん発作のリスクを有意に低減した。血糖値や体重変化による影響は小さく、治療効果は独立していると示唆された。ただし、観察研究の限界やイベント数の少なさから因果関係の確定には注意が必要である。本研究はセマグルチドのてんかん発作予防効果に関するクラスIIのエビデンスを提供する。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42308435",
+      "doi": "10.1212/WNL.0000000000218158",
+      "title": "Slow-Wave Sleep Fragmentation in Disorders of Arousal and Sleep-Related Hypermotor Epilepsy: A Multicenter Polysomnographic Study.",
+      "abstract": "Disorders of arousal (DOAs) and sleep-related hypermotor epilepsy (SHE) share overlapping clinical features, making differential diagnosis challenging. Although video polysomnography remains the gold standard, EEG patterns to distinguish these conditions are not yet well defined. Slow-wave sleep (SWS) fragmentation is a key marker of DOA, but its characteristics in SHE remain unexplored. The aim of this study was to assess SWS fragmentation in DOAs and SHE, its potential diagnostic value, and overnight dynamics. Eighty-seven patients with DOAs (n = 47; mean age 23.90 ± 13.10 years; 44.7% children) or SHE (n = 40; mean age 25.11 ± 13.08 years; 27.5% children) underwent overnight polysomnography with blinded scoring. SWS fragmentation was quantified, distinguishing fast, mixed, and slow arousals, and its overnight evolution was evaluated. Groups were compared and diagnostic SWS fragmentation cutoff values were defined using receiver-operating characteristic curves. Total sleep time and sleep efficiency did not differ between groups. N2 sleep percentage was significantly lower in DOAs than in SHE ( SWS fragmentation, especially mixed and slow arousals, represents a supportive neurophysiologic marker that may assist the differential diagnostic process between DOAs and SHE. Quantitative SWS microstructure parameters may improve diagnosis and provide insight into pathophysiologic mechanisms.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42308435/",
+      "summary_ja": "背景：覚醒障害（DOAs）と睡眠関連過運動性てんかん（SHE）は臨床症状が類似し、鑑別が困難である。ビデオポリソムノグラフィーが診断の標準だが、両者を区別する明確な脳波パターンは未確立である。特に、徐波睡眠（SWS）の断片化はDOAsの重要な指標だが、SHEにおける特徴は不明であった。  \n方法：DOAs患者47名（平均年齢約24歳、約45％が小児）とSHE患者40名（平均約25歳、約28％が小児）が対象となり、盲検評価による一晩のポリソムノグラフィーを実施。SWS断片化を速い覚醒、混合覚醒、遅い覚醒に分類し、その夜間変化を解析。両群の比較と診断的カットオフ値の設定を行った。  \n結果：総睡眠時間や睡眠効率に群間差はなかったが、N2睡眠の割合はDOAsで有意に低かった。SWS断片化、特に混合覚醒と遅い覚醒がDOAsに特徴的であった。  \n結論：SWS断片化はDOAsとSHEの鑑別に有用な神経生理学的マーカーとなりうる。定量的なSWS微細構造解析は診断精度向上と病態理解に寄与する可能性がある。",
+      "summary_short_ja": "覚醒障害（DOA）と睡眠関連過運動性てんかん（SHE）は臨床症状が類似し鑑別が困難である。本多施設研究では、87例の患者に対し夜間ポリソムノグラフィーを実施し、徐波睡眠（SWS）断片化の特徴を解析した。DOA群ではSWS断片化が顕著で、特に混合型および遅延覚醒が鑑別診断の有用な神経生理学的マーカーとなることが示された。SWSの微細構造解析は診断精度向上と病態理解に寄与すると期待される。",
+      "disease": "epilepsy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42202238",
       "doi": "10.1212/WNL.0000000000218080",
       "title": "Efficacy of Levetiracetam in Patients With Pediatric Epilepsy: A Systematic Review and Meta-Analysis.",

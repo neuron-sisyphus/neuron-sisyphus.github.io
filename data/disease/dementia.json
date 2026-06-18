@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42308436",
+      "doi": "10.1212/WNL.0000000000218180",
+      "title": "Clinical Impact and Prognostic Value of Alzheimer Disease Biomarkers in the Very Old.",
+      "abstract": "Alzheimer disease (AD) is increasingly viewed as a clinical-biological continuum, but the utility of biomarkers in individuals aged ≥80 years, the so-called \"very old,\" remains uncertain, because of concerns about its clinical usefulness. This study aimed to determine the clinical impact and prognostic value of AD biomarkers in very old individuals. We performed a retrospective longitudinal cohort study within the Sant Pau Initiative on Neurodegeneration (SPIN, Barcelona, Spain), a memory clinic-based research cohort. Patients were referred from primary care physicians or community neurologists for evaluation within a public universal health care catchment area. We included SPIN participants evaluated between October 2013 and May 2024 who were aged ≥80 years and had mild cognitive impairment (MCI) at the baseline visit. Participants underwent standardized clinical and neuropsychological assessments and had CSF and plasma biomarker measurements available. AD biology was defined by the CSF phosphorylated tau at threonine 181/amyloid-β 42 ratio. Plasma phosphorylated tau at threonine 217 (p-Tau217) was evaluated for (1) diagnostic accuracy for AD biology and (2) prognostic associations with longitudinal cognitive change (Mini-Mental State Examination [MMSE]) and progression to dementia. Analyses used linear mixed-effects models for MMSE trajectories and Cox regression for dementia conversion. A total of 167 participants were included (mean age 82.3 years, 59% women) with a mean follow-up of 35.8 months; the ones with AD biology (n = 116, 69%) had worse baseline cognitive performance, particularly in memory, compared with those without (Cohen  In very old individuals with MCI, AD biology (CSF) and plasma p-Tau217 identify individuals at higher risk of faster cognitive decline and progression to dementia. Limitations of this study include the single-center design and the modest sample size.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42308436/",
+      "summary_ja": "背景：アルツハイマー病（AD）は臨床的・生物学的連続体とされるが、80歳以上の「超高齢者」におけるバイオマーカーの臨床的有用性は不明である。  \n方法：スペイン・バルセロナのメモリークリニックを基盤としたSPINコホートの80歳以上の軽度認知障害（MCI）患者167名を対象に、脳脊髄液（CSF）中のリン酸化タウ（p-Tau181）/アミロイドβ42比および血漿中のp-Tau217を測定し、AD生物学的指標の診断精度と認知機能低下や認知症進行との関連を縦断的に解析した。  \n結果：AD生物学的指標陽性群（69％）はベースラインで記憶を中心に認知機能が有意に低く、血漿p-Tau217はAD生物学の診断に有効であった。さらに、これらのバイオマーカーは認知機能の急速な低下および認知症への進行リスクの増加と関連した。  \n結論：超高齢者のMCIにおいて、CSFおよび血漿のADバイオマーカーは認知機能低下と認知症進行の予測に有用である。ただし、単一施設かつサンプル数が限られる点が研究の制約である。",
+      "summary_short_ja": "80歳以上の軽度認知障害（MCI）患者167名を対象に、アルツハイマー病（AD）バイオマーカーの臨床的影響と予後価値を検討した。脳脊髄液中のリン酸化タウとアミロイドβ42比率で定義したAD生物学的指標および血漿中のp-Tau217は、認知機能低下の進行速度や認知症への移行リスクを予測した。これにより、非常に高齢者におけるADバイオマーカーの有用性が示されたが、単一施設での研究でサンプル数が限られる点が課題である。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42302219",
       "doi": "10.1212/WNL.0000000000214776",
       "title": "Cognitive Aging and Brain Health: A Comparison of Super Movers vs Nonsuper Movers.",

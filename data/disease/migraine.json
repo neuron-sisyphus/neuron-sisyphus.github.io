@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42308437",
+      "doi": "10.1212/WNL.0000000000218162",
+      "title": "Identifying MicroRNA Biomarkers in Idiopathic Intracranial Hypertension: A Pilot Study.",
+      "abstract": "Idiopathic intracranial hypertension (IIH) is characterized by raised intracranial pressure (ICP). It predominantly affects women with obesity and can cause disabling headaches and permanent visual loss. IIH is misdiagnosed in up to 40% of cases. Diagnosis and monitoring often rely on frequent invasive lumbar puncture. This pilot study aimed to identify serum microRNA (miRNA) markers associated with a diagnosis of IIH and disease activity and to assess their relevance in the CNS through identification in CSF. Serum and CSF samples from participants in the IIH-Weight Trial (a randomized controlled trial comparing the effectiveness of bariatric surgery with that of a community weight management intervention in lowering ICP, recruited 2014-2017) were analyzed at baseline (active disease) and 12 months (participants in remission with no papilledema). Eligible participants were adult women with active IIH (those without papilledema were excluded). Disease activity was assessed by quantifying the degree of papilledema using Spectralis spectral-domain optical coherence tomography. A panel of 40 candidate miRNAs was assessed. Comparator groups included participants with obesity or migraine. Analyses used Student  Five of 40 serum miRNAs showed significantly lower expression in active IIH (n = 9; 100% female, mean 30.25 ± 4.75 years) compared with IIH in remission. Serum hsa-miR-16-5p had the highest diagnostic performance for active IIH (area under the curve 0.951). Serum hsa-miR-16-5p ( Serum hsa-miR-16-5p emerged as a candidate biomarker associated with active IIH. It differentiated active disease from remission, migraine, and obesity. It correlated with clinical and metabolic markers of disease activity. These findings warrant validation in larger studies to assess its potential as a minimally invasive biomarker for IIH diagnosis and monitoring. This study provides Class III evidence that serum microRNA markers may potentially distinguish active idiopathic intracranial hypertension from remission and controls in adult women.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42308437/",
+      "summary_ja": "背景：特発性頭蓋内高血圧症（IIH）は頭蓋内圧亢進を特徴とし、主に肥満女性に発症、頭痛や視力障害を引き起こす。診断は誤診率が高く、経過観察には侵襲的な腰椎穿刺が必要である。  \n方法：IIH-Weight Trialの参加者（活動期および寛解期の成人女性IIH患者）から採取した血清および脳脊髄液（CSF）を用い、40種類の候補マイクロRNA（miRNA）発現を比較。疾患活動性はスペクトラリス光干渉断層計による乳頭浮腫の程度で評価し、肥満や片頭痛患者を対照群とした。  \n結果：40種の血清miRNAのうち5種が活動期IIHで有意に低下。特にhsa-miR-16-5pは活動期IIHの診断性能が高く（AUC 0.951）、寛解期や対照群と明確に区別できた。hsa-miR-16-5pは臨床的・代謝的疾患活動性指標とも相関した。  \n結論：血清hsa-miR-16-5pは活動期IIHの診断および経過観察に有望な非侵襲的バイオマーカー候補であり、さらなる大規模研究による検証が必要である。",
+      "summary_short_ja": "特発性頭蓋内高血圧症（IIH）患者の血清中マイクロRNA（miRNA）を解析し、活動期と寛解期での差異を検討した。40種類の候補miRNAのうち5種が活動期で有意に低下し、特にhsa-miR-16-5pは診断性能が高かった。hsa-miR-16-5pはIIHの活動性を反映し、片頭痛や肥満との鑑別にも有用であり、非侵襲的なバイオマーカーとしての可能性が示唆された。",
+      "disease": "migraine",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42302223",
       "doi": "10.1212/WNL.0000000000218076",
       "title": "Machine Diagnostics and Machine Phenotyping of Migraine: A HUNT Study.",
