@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42314103",
+      "doi": "10.1212/WNL.0000000000218216",
+      "title": "Frequency of Suicidal Ideation and Associations With Autonomic, Motor, and Cognitive Dysfunction in People With REM Sleep Behavior Disorders.",
+      "abstract": "REM sleep behavior disorder (RBD) is characterized by loss of REM sleep atonia leading to dream enactment behavior. Isolated RBD (iRBD) is a known prodrome of alpha-synuclein pathology including Parkinson disease (PD) and dementia with Lewy bodies (DLB). Depression is also a common prodromal symptom of PD/DLB, and death by suicide is greater among individuals with PD. Patients with RBD are at greater risk of comorbid depression, but the prevalence of suicidal ideation in this population is unknown. We aim to assess the frequency of suicidal ideation and whether it is associated with autonomic, motor, and cognitive dysfunction in the North American Prodromal Synucleinopathy 2 (NAPS2) consortium. NAPS2 is a longitudinal study that includes measurements of autonomic function (SCOPA-AUT, orthostatic blood pressure), motor function (UPDRS), cognition (MoCA), and suicidal ideation (PHQ-9). We used a linear mixed-effects model, adjusting for age, sex, impulsivity, current carbidopa/levodopa use, and PHQ-9 score, to compare those who endorsed recent suicidal ideation with those who did not. Of 489 total participants, 40 endorsed suicidal ideation at the first visit (22.5% female, mean age 61.5) and 449 denied suicidal ideation (19.4% female, mean age 64.6). Higher PHQ-9 scores were significantly associated with higher SCOPA-AUT scores (+0.566; SE = 0.045;  Recent suicidal ideation occurred in approximately 1 of 12 patients with iRBD, a prodromal syndrome of PD with an increased risk of death by suicide. Individuals with iRBD who scored higher on PHQ-9 had on average greater autonomic dysfunction on SCOPA-AUT, more motor findings, and greater cognitive deficits. This study establishes that suicidal ideation is common in iRBD and suggests an iRBD phenotype that identifies individuals at high risk of depression and suicide. Future studies should expand on these findings and target interventions to decrease mortality and self-harm.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42314103/",
+      "summary_ja": "背景：REM睡眠行動障害（RBD）は、REM睡眠時の筋弛緩消失により夢の行動化を伴い、パーキンソン病（PD）やレビー小体型認知症（DLB）の前駆症状とされる孤立性RBD（iRBD）においては、うつ症状や自殺リスクの増加が指摘されているが、自殺念慮の頻度は不明であった。  \n方法：北米の前駆性シヌクレイノパチー研究（NAPS2）に参加した489名のiRBD患者を対象に、自殺念慮（PHQ-9）、自律神経機能（SCOPA-AUT、起立性血圧）、運動機能（UPDRS）、認知機能（MoCA）を評価し、年齢・性別・衝動性・薬物使用・うつ症状を調整した線形混合効果モデルで自殺念慮の有無による関連を解析した。  \n結果：参加者のうち約8％（40名）が自殺念慮を報告し、自殺念慮群はPHQ-9スコアが高く、自律神経障害、運動障害、認知機能低下が有意に強かった。  \n結論：iRBD患者の約12人に1人が自殺念慮を抱えており、うつ症状の重症度とともに自律神経・運動・認知機能障害が関連することから、自殺リスクの高いiRBDの表現型が示唆された。今後は自殺予防を目的とした介入研究が求められる。",
+      "summary_short_ja": "REM睡眠行動障害（iRBD）はパーキンソン病やレビー小体型認知症の前駆症状であり、自殺念慮の頻度は約8％に達する。本研究では、iRBD患者の自殺念慮が自律神経機能障害、運動障害、認知機能低下と関連することを示した。PHQ-9スコアが高い患者ほどこれらの障害が顕著であり、うつ病や自殺リスクの高いiRBDの表現型を特定できる。今後は介入研究が必要である。",
+      "disease": "parkinson",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42302227",
       "doi": "10.1212/WNL.0000000000218176",
       "title": "The Prodromal Synucleinopathy Rating Scale: An Assessment in Patients With REM Sleep Behavior Disorder.",

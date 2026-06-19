@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42314105",
+      "doi": "10.1212/WNL.0000000000218184",
+      "title": "Clinical Evaluation of the Revised Biological and Clinical Staging Criteria for Alzheimer Disease in China.",
+      "abstract": "The 2024 revised criteria introduced an integrated framework for staging Alzheimer disease (AD) across biological and clinical dimensions. However, how this criterion characterizes clinical and biological features in populations outside the original development setting, particularly in non-Western and specialized clinic settings, remains insufficiently described. We consecutively enrolled 1,214 memory clinic participants who underwent both amyloid-PET and tau-PET imaging. Among amyloid-positive (A+) individuals, clinical stages (0-6) and biological stages (A-D) were assigned according to the 2024 criteria. Participants were classified as typical (concordant stages), susceptible (clinical > biological), or resilient (clinical < biological). Plasma p-tau217 was measured in 379 A+ participants. Associations were examined using generalized linear models adjusted for relevant covariates, with false discovery rate correction for multiple comparisons. Among the 1,214 participants, 818 were amyloid positive, comprising 412 (50.4%) typical, 330 (40.3%) susceptible, and 76 (9.3%) resilient individuals. Plasma p-tau217 increased progressively across advancing tau PET stages ( In a large cohort from a specialized tertiary memory clinic, clinical-biological stage discordance under the 2024 AD criteria was common among amyloid-positive individuals. Distinct cognitive, educational, biomarker, and neuroanatomic profiles characterized susceptible, typical, and resilient subgroups. In addition, plasma p-tau217 showed a stepwise increase across tau PET stages, supporting its utility as a blood-based marker of tau pathology severity. These findings support the clinical relevance of the revised staging framework and may inform future refinements of AD diagnostic guidelines. This study provides Class II evidence that the 2024 revised biological and clinical criteria for AD demonstrate clinical utility in a Chinese cohort from a specialized tertiary memory clinic.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42314105/",
+      "summary_ja": "背景：2024年に改訂されたアルツハイマー病（AD）の生物学的・臨床的統合ステージング基準は、西洋以外の集団や専門クリニックでの適用例が少なく、その特徴が十分に検証されていない。  \n方法：中国の専門的な三次記憶クリニックに通院する1,214名の参加者を対象に、アミロイドPETおよびタウPET検査を実施。アミロイド陽性者（A+）818名に対し、2024年基準に基づく臨床ステージ（0-6）と生物学的ステージ（A-D）を割り当て、典型型（両者一致）、感受型（臨床＞生物学的）、回復型（臨床＜生物学的）に分類。379名のA+参加者で血漿p-tau217も測定した。  \n結果：A+群のうち50.4%が典型型、40.3%が感受型、9.3%が回復型であった。血漿p-tau217はタウPETステージの進行に伴い段階的に増加し、感受型・典型型・回復型は認知機能、教育歴、バイオマーカー、神経解剖学的特徴で明確に異なった。  \n結論：2024年改訂基準は中国の専門クリニック集団において臨床的有用性が示され、AD診断ガイドラインの今後の改良に資する知見を提供する。血漿p-tau217はタウ病理の重症度を反映する有望な血液マーカーである。",
+      "summary_short_ja": "2024年改訂のアルツハイマー病（AD）生物学的・臨床的ステージング基準を中国の専門記憶クリニック1,214例で検証した。アミロイド陽性818例のうち、典型型、感受性型、耐性型に分類され、各群で認知機能やバイオマーカー、神経解剖学的特徴が異なった。血漿p-tau217はタウPETステージの進行に伴い増加し、血液マーカーとしての有用性を示した。本基準は中国集団での臨床的有用性を支持する。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42314102",
+      "doi": "10.1212/WNL.0000000000218227",
+      "title": "Phase 2 Futility Trials in Alzheimer Disease and Mild Cognitive Impairment: A Cohort Analysis of the ADNI Data Set.",
+      "abstract": "The cost and complexity of phase 2 randomized-controlled trials (RCTs) hinder further development of promising treatment candidates for Alzheimer disease (AD). The Simon Two-Stage futility trial design, originally developed for oncology, offers a streamlined approach to evaluate potential disease-modifying therapies by comparing single-arm outcomes with historical controls, but is predicated on identifying outcome measures that reliably worsen with the natural history of the disease, with minimal risk of improvement. We sought to determine the feasibility of such futility trials in AD-associated dementia and mild cognitive impairment (MCI) using a large prospective cohort. We analyzed longitudinal data from the Alzheimer's Disease Neuroimaging Initiative (ADNI). Cognitive decline was assessed using AD Assessment Scale-Cognitive Subscale (ADAS-Cog 11 and ADAS-Cog 13), Clinical Dementia Rating-Sum of Boxes (CDR-SB), and Mini-Mental State Examination (MMSE) at 6, 12, and 24 months using different thresholds for worsening vs improvement. Binary logistic regression models examined baseline factors associated with cognitive worsening using different thresholds of worsening for each outcome of interest to assess what additional selection criteria may be needed for futility trials in AD-associated dementia vs MCI. Sample size estimates were derived based on expected rates of decline. Among 2,665 participants (mean age 73.4 years [SD: 7.5], 1,260 [47.3%] female, 424 with AD-associated dementia), the CDR-SB exhibited the largest percentage of decline in AD-associated dementia and MCI, with 60.6% of patients with AD-associated dementia showing worsening when using a threshold of ≥1.0 points at 12 months vs 6.2% showing improvement. ADAS-Cog 11 and 13 showed similar decline patterns; for example, 41.7% with AD-associated dementia worsened by ≥ 5 points at 12 months on ADAS-Cog 13, whereas 5.8% improved. MMSE exhibited lower sensitivity; 25.8% with AD-associated dementia worsened by ≥ 5 points at 12 months, whereas 2.9% improved. Shorter trials (6-12 months) with 35-62 participants seemed feasible in AD-associated dementia, whereas MCI trials seemed to require 24 months and specific entry criteria based on age, apolipoprotein E ε4 status, and baseline CDR-SB performance. Futility trials seem feasible in AD-associated dementia, offering a faster, cost-effective alternative to traditional phase 2 RCTs. CDR-SB seems to be the optimal primary outcome. Further validation in clinical trial data sets is warranted.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42314102/",
+      "summary_ja": "背景：アルツハイマー病（AD）治療薬の開発において、フェーズ2のランダム化比較試験（RCT）はコストと複雑さが障壁となっている。Simonの2段階フェイティリティ試験デザインは、単群の結果を過去の対照と比較する簡便な方法だが、自然経過で確実に悪化し改善が少ない評価指標の特定が前提となる。  \n方法：ADNIの大規模前向きコホートデータを用い、AD関連認知症と軽度認知障害（MCI）における認知機能の経時変化をADAS-Cog 11/13、CDR-SB、MMSEで6、12、24ヶ月時点で評価。悪化と改善の閾値を設定し、二項ロジスティック回帰で悪化に関連するベースライン因子を検討。サンプルサイズも推定した。  \n結果：2665名中、AD関連認知症患者の60.6%が12ヶ月でCDR-SBが1点以上悪化し、改善は6.2%にとどまった。ADAS-Cog 13では41.7%が5点以上悪化、MMSEは感度が低く25.8%が5点以上悪化。AD関連認知症では6-12ヶ月の短期試験で35-62名の規模が可能だが、MCIでは24ヶ月の追跡と年齢、APOE ε4、ベースラインCDR-SBによる選択基準が必要だった。  \n結論：AD関連認知症におけるフェイリティ試験は従来のフェーズ2 RCTより迅速かつ低コストで実施可能であり、CDR-SBが最適な主要評価指標と考えられる。臨床試験データでのさらなる検証が望まれる。",
+      "summary_short_ja": "本研究は、アルツハイマー病（AD）および軽度認知障害（MCI）における第2相フェイティリティ試験の実現可能性をADNIデータで検証した。CDR-SBが最も感度が高く、AD関連認知症では6～12ヶ月で35～62例の小規模試験が可能と示唆された。一方、MCIでは24ヶ月の長期観察と特定の選択基準が必要である。CDR-SBを主要評価項目としたフェイリティ試験は、従来のRCTより迅速かつ低コストな治療評価手法として有望である。",
+      "disease": "dementia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42308436",
       "doi": "10.1212/WNL.0000000000218180",
       "title": "Clinical Impact and Prognostic Value of Alzheimer Disease Biomarkers in the Very Old.",
