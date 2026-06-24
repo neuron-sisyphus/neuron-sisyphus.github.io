@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42202238",
+      "doi": "10.1097/WCO.0000000000000803",
+      "title": "Efficacy of Levetiracetam in Patients With Pediatric Epilepsy: A Systematic Review and Meta-Analysis.",
+      "abstract": "Levetiracetam (LEV) is widely used in pediatric epilepsies because of its favorable pharmacokinetics, ease of administration, and perceived tolerability. However, its comparative efficacy relative to established antiseizure medications (ASMs) in children remains uncertain. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) to evaluate LEV efficacy in pediatric epilepsies and compare outcomes vs placebo and active comparators. We systematically searched PubMed/MEDLINE and Embase (2000-6 August 2025) for RCTs enrolling patients 16 years or younger with epilepsy and reporting seizure freedom and/or ≥50% responder rate. Trials including both pediatric and adult patients were eligible if pediatric participants were represented. Comparisons included LEV vs placebo or active ASMs as monotherapy or adjunctive therapy. Primary outcomes were seizure freedom and responder rate at the trial's primary endpoint or, if not specified, longest reported follow-up. We assessed risk of bias using Cochrane Risk of Bias 2. We pooled risk differences (RDs) with 95% CIs using random-effects models, stratified by comparator and epilepsy subtype. We included 25 RCTs (4,070 participants): 23 contributed to pooled meta-analyses. Across 25 trials, the mean age ranged from 0.4 to 39.3 years, reflecting pediatric-only and mixed-age RCTs; 43.8% were female. In placebo/no-therapy-controlled trials (mainly add-on studies), LEV was associated with higher seizure freedom (RD 11.0%; 95% CI 5.3%-16.7%) and responder rates (RD 24.3%; 95% CI 19.1%-29.4%). In active-comparator-controlled trials (mainly monotherapy head-to-head studies), LEV showed no overall advantage vs active comparators for seizure freedom (RD -2.4%; 95% CI -5.6% to 0.7%) or responder rate (RD -7.4%; 95% CI -23.0% to 8.1%). Fourteen trials were at high risk of bias. Sensitivity analyses confirmed benefit vs placebo but showed significant disadvantage vs active comparators in low risk-of-bias trials. Findings in pediatric-only trials (16 RCTs; 1,380 participants) were consistent with the overall results. LEV confers benefit vs placebo, mostly as adjunctive therapy, but does not consistently outperform established ASMs in pediatric epilepsies and may be inferior in some subgroups when higher-quality evidence is considered. Limitations include substantial heterogeneity, frequent high risk of bias, variable follow-up durations, publication bias, and limited pediatric-only comparative data.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42202238/",
+      "summary_ja": "背景：レベチラセタム（LEV）は小児てんかん治療で広く用いられているが、既存の抗てんかん薬（ASM）と比較した有効性は不明確である。  \n方法：2000年から2025年までの小児（16歳以下）てんかん患者を対象としたランダム化比較試験（RCT）をPubMed/MEDLINEおよびEmbaseで系統的に検索し、LEVの発作自由率および50％以上の発作減少率を評価。プラセボ対照および他のASMとの比較を含む25件のRCT（4,070例）をメタ解析した。リスクオブバイアスはCochrane基準で評価。  \n結果：プラセボ対照試験ではLEVは発作自由率（リスク差11.0％）およびレスポンダー率（リスク差24.3％）を有意に改善。一方、他のASMとの比較試験では発作自由率やレスポンダー率において優位性は示されず、低バイアス試験ではむしろ劣る傾向があった。小児のみの解析結果も同様であった。  \n結論：LEVはプラセボに比べ有効だが、既存の抗てんかん薬と比べて一貫した優位性はなく、質の高い証拠では一部の小児てんかんサブグループで劣る可能性がある。研究の異質性やバイアスの存在が結果解釈の制約となっている。",
+      "summary_short_ja": "レベチラセタム（LEV）は小児てんかん治療で広く用いられるが、既存の抗てんかん薬（ASM）との比較効果は不明確である。本研究は25件のRCTを対象にメタ解析を実施し、LEVはプラセボ対照試験で発作自由率と反応率を有意に改善したが、ASMとの直接比較では優位性が認められなかった。バイアスリスクの低い試験ではむしろ劣る傾向が示され、小児てんかんにおけるLEVの位置付けは限定的と結論付けられた。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42308439",
       "doi": "10.1212/WNL.0000000000218174",
       "title": "Semaglutide and Risk of Adult-Onset Seizure: A Target Trial Emulation.",

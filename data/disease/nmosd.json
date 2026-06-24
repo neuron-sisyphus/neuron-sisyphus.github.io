@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42224638",
+      "doi": "10.1186/s12974-021-02138-7",
+      "title": "Longitudinal Spinal Cord Atrophy in Patients With Neuromyelitis Optica Spectrum Disorder and Its Association With Rituximab Treatment.",
+      "abstract": "Longitudinally extensive transverse myelitis (LETM) is a core feature of neuromyelitis optica spectrum disorder (NMOSD), which leads to spinal cord atrophy. We aim to determine annual spinal cord atrophy rates and influencing factors in NMOSD. Spinal cord structural metrics, including cross-sectional area (CSA), anteroposterior diameter (AP), and right-left diameter (RL), were calculated using the Spinal Cord Toolbox from brain 3D sagittal T1-weighted images covering the C1-C3 levels. Normative references were constructed based on healthy participants and used to derive the deviation scores (Z-scores). Annualized atrophy rates were estimated using a linear mixed-effects model. Associations with clinical measures, rituximab treatment, and neurofilament light chain (NfL) and glial fibrillary acidic protein (GFAP) were assessed using partial Pearson correlation, multivariate linear regression, and linear mixed-effects models. In this longitudinal study, 72 patients with NMOSD (233 MRI scans; mean age 40.0 years; 84.7% female) from the CLUE cohort and 2,162 healthy participants were included. In patients with NMOSD, annual atrophy rates were -0.27/y for CSA (95% CI -0.35 to -0.20,  Spinal cord atrophy in NMOSD progresses annually and is influenced by disease activity and duration. Rituximab was associated with attenuated progression of spinal cord atrophy. Moreover, serum NfL and GFAP may serve as potential biomarkers.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42224638/",
+      "summary_ja": "背景：視神経脊髄炎スペクトラム障害（NMOSD）は、長大な横断性脊髄炎（LETM）を特徴とし、脊髄萎縮を引き起こす。本研究はNMOSD患者における年間脊髄萎縮率とその影響因子を明らかにすることを目的とした。  \n方法：72名のNMOSD患者（233件のMRIスキャン）と2,162名の健常者の脳3D矢状断T1強調画像（C1-C3レベル）を用い、Spinal Cord Toolboxで脊髄断面積（CSA）、前後径（AP）、左右径（RL）を算出。健常者データからZスコアを算出し、線形混合効果モデルで年間萎縮率を推定。臨床指標、リツキシマブ治療、血清神経細胞軽鎖（NfL）およびグリア線維酸性タンパク（GFAP）との関連を多変量解析で評価。  \n結果：NMOSD患者の年間CSA萎縮率は-0.27％/年（95％CI -0.35～-0.20）であり、疾患活動性と罹病期間が萎縮進行に影響。リツキシマブ治療は萎縮進行の抑制と関連。血清NfLおよびGFAPはバイオマーカーとしての可能性を示した。  \n結論：NMOSDにおける脊髄萎縮は年々進行し、リツキシマブ治療により進行が緩和される。血清NfLとGFAPは疾患活動性の指標として有用である可能性がある。",
+      "summary_short_ja": "NMOSD患者における脊髄萎縮は年平均約0.27％の速度で進行し、疾患活動性や病期が影響することが明らかとなった。リツキシマブ治療は脊髄萎縮の進行を抑制する効果が示され、血清中の神経細胞軽鎖（NfL）およびグリア線維酸性タンパク（GFAP）が進行のバイオマーカーとなる可能性が示唆された。",
+      "disease": "nmosd",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42172556",
       "doi": "10.1212/WNL.0000000000218073",
       "title": "French NOMADMUS Cohort Overview: Landscape Evolution of AQP4+NMOSD and MOGAD From 2010 to 2024.",

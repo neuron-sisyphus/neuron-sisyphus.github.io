@@ -3,6 +3,51 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42335433",
+      "doi": "10.1212/WNL.0000000000218252",
+      "title": "Neurology® Journal Club: Meta-Analysis of Randomized Controlled Trials on IV Thrombolysis in Patients With Minor Acute Ischemic Stroke.",
+      "abstract": "Drawing exclusively from randomized controlled trials (RCTs), the meta-analysis by Doheim et al. evaluates the comparative effectiveness of intravenous thrombolysis (IVT) vs nonthrombolytic standard of care (NT-SC) in patients with minor acute ischemic stroke (AIS). The authors identified 9 reports encompassing 13 RCTs. Multiple analytical approaches (Q and",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42335433/",
+      "summary_ja": "背景：軽度急性虚血性脳卒中（AIS）患者に対する静脈内血栓溶解療法（IVT）の有効性は明確でないため、ランダム化比較試験（RCT）に基づく評価が求められている。  \n方法：Doheimらは、IVTと非血栓溶解標準治療（NT-SC）を比較した13件のRCT（9報告）を対象にメタアナリシスを実施した。複数の統計手法を用いて効果を検証した。  \n結果：IVT群はNT-SC群と比較して、機能的回復の改善が認められた一方で、出血性合併症のリスクも増加した。軽度AIS患者におけるIVTの利益とリスクのバランスが示された。  \n結論：軽度AIS患者に対してIVTは機能的アウトカムを改善する可能性があるが、出血リスクの増加も考慮すべきであり、治療選択には慎重な判断が必要である。",
+      "summary_short_ja": "Doheimらによるランダム化比較試験（RCT）に基づくメタ解析は、軽度急性虚血性脳卒中患者に対する静脈内血栓溶解療法（IVT）と非血栓溶解標準治療（NT-SC）の効果を比較した。13件のRCTを含む9報告を分析し、IVTの有効性と安全性について多角的に評価している。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42224635",
+      "doi": "10.1161/STROKEAHA.124.048044",
+      "title": "Identification of Novel Genetic Risk Variants Associated With Early-Onset Ischemic Stroke in Taiwan.",
+      "abstract": "Genome-wide association studies (GWASs) have identified common genetic risk loci for ischemic stroke (IS), primarily in European populations older than 55 years. We aimed to identify common and rare risk variants associated with early-onset IS (ages 18-54) in Taiwan. We conducted GWASs of early-onset and all IS cases, compared with stroke-free controls of Han ethnicity, using the Taiwan Precision Medicine Initiative database, which includes individuals from general outpatient clinics across 16 medical centers. To explore the functional relevance of stroke-associated variants, we investigated fine-mapping and linkage disequilibrium patterns, phenotype correlations using the TOAST etiologic classification in an independent IS cohort, phenome-wide association studies (PheWASs), and pathway enrichment analysis. Furthermore, we examined rare pathogenic variants using whole-exome sequencing in consecutive, unrelated early-onset sporadic and/or familial stroke probands. We identified a robust association between a novel risk locus and early-onset IS (5,546 cases vs 143,017 controls; mean age: 52.7 vs 40.6 years; female: 45.6% vs 58.7%), including the lead single-nucleotide polymorphism (SNP) rs541118668 ( Our study identifies a novel age-specific genetic hotspot for IS at chromosome 19p13.12 in Han Chinese. Together with enrichment of subtype-specific rare pathogenic variants, these findings reveal a distinct genetic architecture underlying early-onset stroke in East Asians.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42224635/",
+      "summary_ja": "背景：これまでの脳梗塞（IS）のゲノムワイド関連解析（GWAS）は主に欧州の55歳以上の集団を対象としており、若年発症ISの遺伝的リスク因子は不明であった。  \n方法：台湾の漢民族を対象に、18～54歳の早期発症IS患者と非発症対照群を比較するGWASを実施。さらに、独立したISコホートでTOAST分類による表現型相関、PheWAS、経路解析を行い、早期発症の孤発例・家族例に対しては全エクソーム解析で希少病原性変異も検討した。  \n結果：19p13.12染色体領域の新規リスク座位（代表SNP rs541118668）が早期発症ISと強く関連することを発見。サブタイプ特異的な希少病原性変異の濃縮も確認された。  \n結論：東アジアの漢民族における早期発症ISは、欧州とは異なる独自の遺伝的構造を持ち、19p13.12領域が重要な年齢特異的リスクホットスポットであることが示された。",
+      "summary_short_ja": "本研究は、台湾の漢民族を対象に早期発症虚血性脳卒中（18～54歳）に関連する新規遺伝子リスク変異を同定した。ゲノムワイド関連解析と全エクソーム解析により、染色体19p13.12上の新規リスク座位rs541118668を特定し、東アジア人に特有の遺伝的構造とサブタイプ特異的な希少病原変異の蓄積が早期発症脳卒中の発症に寄与することを明らかにした。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42202237",
+      "doi": "10.1212/WNL.0000000000218125",
+      "title": "IV Thrombolysis Before Thrombectomy in Carotid Artery Dissection-Related Large-Vessel Occlusion.",
+      "abstract": "The benefit of IV thrombolysis (IVT) before thrombectomy in patients with anterior-circulation large-vessel occlusion (LVO) due to carotid artery dissection (CAD) remains uncertain. We aimed to evaluate the safety and efficacy of IVT in this specific population in clinical practice. This study included patients from the Carotid Dissection Thrombectomy vs Medical Treatment collaboration and the Endovascular Treatment in Ischemic Stroke registry with anterior-circulation LVO due to CAD who were treated with thrombectomy, with or without prior IVT. The coprimary outcomes were favorable functional outcome at 3 months (modified Rankin Scale 0-2) and successful reperfusion (thrombolysis in cerebral infarction score ≥2b). The safety end point was symptomatic intracranial hemorrhage (sICH). Inverse probability of treatment weighting was applied to adjust for baseline imbalances, and weighted Poisson regression models were used to estimate adjusted risk ratios (aRRs). A total of 1,091 patients (mean age 53.0 years, 74.0% men) were included, of whom 571 patients received IVT prior thrombectomy and 520 underwent thrombectomy only. IVT before thrombectomy was associated with a higher likelihood of favorable functional outcome (aRR 1.16, 95% CI 1.03-1.30,  IVT prior thrombectomy was associated with improved functional outcome and higher reperfusion success in patients with anterior-circulation LVO due to CAD, without an increase in sICH. The association with functional outcome was largely driven by patients presenting with higher admission stroke severity. This study provides Class III evidence that IVT before thrombectomy was associated with improved functional outcome and higher reperfusion success in patients with anterior-circulation LVO due to CAD, without an increase in sICH.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42202237/",
+      "summary_ja": "背景：頸動脈解離（CAD）による前方循環大血管閉塞（LVO）患者に対する血栓回収術前の静脈内血栓溶解療法（IVT）の有用性は不明であった。  \n方法：CADによる前方循環LVO患者1,091例（平均年齢53歳、男性74％）を対象に、血栓回収術単独群（520例）とIVT併用群（571例）で比較。主要評価項目は3か月後の良好な機能的予後（mRS 0-2）と再灌流成功（TICIスコア≥2b）、安全性評価は症候性頭蓋内出血（sICH）とした。逆確率重み付けと加重ポアソン回帰モデルで調整解析を実施。  \n結果：IVT併用群は良好な機能的予後の可能性が有意に高く（調整リスク比1.16、95％CI 1.03-1.30）、再灌流成功率も向上した。一方、sICHの発生率に差は認められなかった。特に重症例での効果が顕著であった。  \n結論：CADによる前方循環LVO患者において、血栓回収術前のIVTは安全性を損なうことなく機能的予後と再灌流成功率を改善する可能性が示された。",
+      "summary_short_ja": "頸動脈解離（CAD）による前方循環大血管閉塞（LVO）患者において、血栓除去術前の静脈内血栓溶解療法（IVT）の安全性と有効性を検討した。1,091例を対象に解析した結果、IVT併用群は機能的良好転帰（mRS 0-2）と再灌流成功率が有意に高く、症候性頭蓋内出血の増加は認められなかった。特に重症例で効果が顕著であり、IVT併用はCAD関連LVOにおける有用な治療戦略と示された。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42314108",
       "doi": "10.1212/WNL.0000000000218198",
       "title": "Long-Term Outcomes After Ischemic Stroke Across Atrial Fibrillation Phenotypes Defined by Detection Timing and Prior Anticoagulation Status.",
@@ -210,21 +255,6 @@
       "summary_short_ja": "本論文は、脳卒中の機能的回復に社会的・環境的要因が大きく影響することを示し、不平等解消のための対策を提案する。出生から老後までの生活環境が回復に関与し、これらの要因を考慮した政策や実践科学の活用が重要とされる。今後は文化的要素や要因間の相互作用の解明、環境別の効果的介入法の研究が求められている。",
       "disease": "stroke",
       "section": "prognosis"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42202237",
-      "doi": "10.1212/WNL.0000000000218125",
-      "title": "IV Thrombolysis Before Thrombectomy in Carotid Artery Dissection-Related Large-Vessel Occlusion.",
-      "abstract": "The benefit of IV thrombolysis (IVT) before thrombectomy in patients with anterior-circulation large-vessel occlusion (LVO) due to carotid artery dissection (CAD) remains uncertain. We aimed to evaluate the safety and efficacy of IVT in this specific population in clinical practice. This study included patients from the Carotid Dissection Thrombectomy vs Medical Treatment collaboration and the Endovascular Treatment in Ischemic Stroke registry with anterior-circulation LVO due to CAD who were treated with thrombectomy, with or without prior IVT. The coprimary outcomes were favorable functional outcome at 3 months (modified Rankin Scale 0-2) and successful reperfusion (thrombolysis in cerebral infarction score ≥2b). The safety end point was symptomatic intracranial hemorrhage (sICH). Inverse probability of treatment weighting was applied to adjust for baseline imbalances, and weighted Poisson regression models were used to estimate adjusted risk ratios (aRRs). A total of 1,091 patients (mean age 53.0 years, 74.0% men) were included, of whom 571 patients received IVT prior thrombectomy and 520 underwent thrombectomy only. IVT before thrombectomy was associated with a higher likelihood of favorable functional outcome (aRR 1.16, 95% CI 1.03-1.30,  IVT prior thrombectomy was associated with improved functional outcome and higher reperfusion success in patients with anterior-circulation LVO due to CAD, without an increase in sICH. The association with functional outcome was largely driven by patients presenting with higher admission stroke severity. This study provides Class III evidence that IVT before thrombectomy was associated with improved functional outcome and higher reperfusion success in patients with anterior-circulation LVO due to CAD, without an increase in sICH.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Jun-23",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42202237/",
-      "summary_ja": "背景：頸動脈解離（CAD）による前方循環大血管閉塞（LVO）患者に対する血栓回収術前の静脈内血栓溶解療法（IVT）の有用性は不明であった。  \n方法：CADによる前方循環LVO患者1,091例（平均年齢53歳、男性74％）を対象に、血栓回収術単独群（520例）とIVT併用群（571例）で比較。主要評価項目は3か月後の良好な機能的予後（mRS 0-2）と再灌流成功（TICIスコア≥2b）、安全性評価は症候性頭蓋内出血（sICH）とした。逆確率重み付けと加重ポアソン回帰モデルで調整解析を実施。  \n結果：IVT併用群は良好な機能的予後の可能性が有意に高く（調整リスク比1.16、95％CI 1.03-1.30）、再灌流成功率も向上した。一方、sICHの発生率に差は認められなかった。特に重症例での効果が顕著であった。  \n結論：CADによる前方循環LVO患者において、血栓回収術前のIVTは安全性を損なうことなく機能的予後と再灌流成功率を改善する可能性が示された。",
-      "summary_short_ja": "頸動脈解離（CAD）による前方循環大血管閉塞（LVO）患者において、血栓除去術前の静脈内血栓溶解療法（IVT）の安全性と有効性を検討した。1,091例を対象に解析した結果、IVT併用群は機能的良好転帰（mRS 0-2）と再灌流成功率が有意に高く、症候性頭蓋内出血の増加は認められなかった。特に重症例で効果が顕著であり、IVT併用はCAD関連LVOにおける有用な治療戦略と示された。",
-      "disease": "stroke",
-      "section": "treatment"
     },
     {
       "source": "pubmed",

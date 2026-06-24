@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42214042",
+      "doi": "10.1212/WNL.0000000000218055",
+      "title": "Diagnostic Revision From Primary Lateral Sclerosis to Amyotrophic Lateral Sclerosis: A Cohort Study.",
+      "abstract": "Primary lateral sclerosis (PLS) is defined as a pure upper motor neuron syndrome and is a diagnosis of exclusion, amyotrophic lateral sclerosis (ALS) being the most likely alternative diagnostic consideration. A minimum disease duration of 2 years is required for the diagnosis of PLS, after which patients are classified as probable PLS (P-PLS) and subsequently as definite PLS (D-PLS) after 4 years. Our aim is to apply the current diagnostic criteria to a population-based cohort and investigate which clinical characteristics are associated with a diagnostic revision to ALS. This cohort study included patients meeting the current diagnostic criteria for PLS retrospectively from the Dutch Motor Neuron Disease Registry. Diagnostic revision to ALS was based on clinical assessment, EMG findings according to the revised El Escorial Criteria, or if patients had died from disease progression within 4 years of disease onset. Clinical characteristics were compared for patients who underwent diagnostic revision with ALS vs true PLS. Subdistribution hazard ratios (SHRs) for characteristics associated with diagnostic revision were determined using Fine-Gray regression. We included 478 patients (median age of onset 59.3 years, interquartile range 50.8-67.0, 47.9% female), of whom 311 (65.1%) met criteria for P-PLS and 167 (34.9%) for D-PLS at diagnosis. Eighty-eight patients (18%) underwent diagnostic revision to ALS, 76 cases (86%) before 4 years of disease duration. Patients whose diagnosis was revised to ALS had higher median age at onset (63.4 vs 58.0 years,  In our cohort, most diagnostic revisions from PLS to ALS were in patients with a disease duration of less than 4 years. Besides disease duration, a faster progression rate was associated with diagnostic revision from PLS to ALS. Adding progression rate to the current diagnostic criteria could increase accuracy and help identify patients at higher risk of developing ALS.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jun-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42214042/",
+      "summary_ja": "背景：原発性側索硬化症（PLS）は上位運動ニューロン症候群であり、除外診断として筋萎縮性側索硬化症（ALS）が最も考慮される。PLS診断には最低2年の経過が必要で、2年で「推定PLS（P-PLS）」、4年で「確定PLS（D-PLS）」と分類される。  \n方法：オランダの運動ニューロン疾患登録からPLS診断基準を満たす患者478名を対象に、診断修正がALSへ移行した臨床的特徴を後ろ向きに検討。ALSへの診断修正は臨床評価、改訂El Escorial基準に基づく筋電図所見、または発症から4年以内の疾患進行による死亡を基準とした。  \n結果：対象のうち18％（88名）がALSへ診断修正され、その86％は4年未満の疾患期間であった。診断修正群は発症年齢が高く、疾患進行速度も速かった。  \n結論：PLSからALSへの診断修正は主に4年未満の疾患期間で起こり、疾患進行速度の速さが修正に関連する。進行速度を診断基準に加えることで、ALS発症リスクの高い患者の早期同定が可能となり、診断精度向上に寄与すると示唆された。",
+      "summary_short_ja": "本研究は、原発性側索硬化症（PLS）と診断された患者を対象に、診断が筋萎縮性側索硬化症（ALS）へ変更される臨床特徴を検討した。478例中18％がALSへ診断変更され、多くは発症4年未満であった。診断変更には高齢発症と疾患進行の速さが関連し、進行速度を診断基準に加えることでALS発症リスクの早期特定が期待される。",
+      "disease": "als",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42223334",
       "doi": "10.1111/ene.70653",
       "title": "Distinct UNC13A Haplotype Blocks Define Disease Severity and Survival in Chinese Amyotrophic Lateral Sclerosis.",
