@@ -3,21 +3,6 @@
   "items": [
     {
       "source": "pubmed",
-      "pmid": "42330435",
-      "doi": "10.1136/bmjopen-2016-013215",
-      "title": "Effect of Parity and β-Amyloid on Cognition and Hippocampal Volume in Postmenopausal Women.",
-      "abstract": "Epidemiologic studies exploring the effect of parity on Alzheimer disease (AD) yield mixed results, and little is known about how parity may modify the impact of AD pathology on brain and cognitive aging. We examined the effect of parity and AD pathology on hippocampal volume (HV) and cognitive changes in cognitively unimpaired (CU) postmenopausal women. Analysis was performed on CU postmenopausal women from the ALFA+ observational cohort based in the BarcelonaBeta Brain research center, who completed 1 or 2 visits spaced by ∼3 years (mean = 3.38, SD = 0.55) with reproductive data, cognitive testing (modified Preclinical Alzheimer's Cognitive Composite), CSF biomarkers (Aβ42 and Aβ40), and structural MRI. We used linear mixed-effects models to investigate the interactive effects of parity, time, and Aβ status (based on CSF Aβ42/Aβ40) on cognition and HV.  A total of 254 women were included in our analyses ranging from 49.2 to 73.4 years (mean age = 61.2) at visit 1. A significant interaction between parity and Aβ status was observed for cognitive decline and HV. In women with positive amyloid status, higher parity was associated with steeper cognitive decline (β = -0.035, 95% CI -0.068 to -0.003,  In CU postmenopausal women, higher parity interacts with AD pathology to influence cognitive decline and HV reductions. These findings suggest that parity may affect resilience to AD pathology in preclinical AD stages.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Jul-14",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42330435/",
-      "summary_ja": "背景：出産回数（経産回数）がアルツハイマー病（AD）に与える影響については疫学的に結果が分かれており、AD病理が脳や認知機能に及ぼす影響に対する経産回数の修飾効果は不明である。  \n方法：認知機能に問題のない閉経後女性254名（平均年齢61.2歳）を対象に、約3年の間隔で2回の訪問を行い、出産歴、認知機能検査（修正版前臨床アルツハイマー認知複合検査）、脳脊髄液中のβアミロイド（Aβ42/Aβ40比）、およびMRIによる海馬体積を測定した。線形混合効果モデルを用いて、経産回数、時間、Aβ状態の相互作用が認知機能と海馬体積に与える影響を解析した。  \n結果：Aβ陽性群において、経産回数が多いほど認知機能の低下が顕著であり（β = -0.035）、海馬体積の減少も強く認められた。  \n結論：閉経後の認知正常女性において、経産回数はAD病理と相互作用し、認知機能低下および海馬体積減少に影響を与える。これらの結果は、経産回数が前臨床段階のADに対する脳の抵抗性に関与する可能性を示唆する。",
-      "summary_short_ja": "閉経後の認知機能正常女性254名を対象に、出産回数（経産回数）とアルツハイマー病（AD）病理の影響を調査した。βアミロイド陽性群では、経産回数が多いほど認知機能低下と海馬容積減少が顕著であった。これにより、経産回数がAD病理に対する脳の抵抗力や認知機能の変化に影響を与える可能性が示唆された。",
-      "disease": "dementia",
-      "section": "epidemiology"
-    },
-    {
-      "source": "pubmed",
       "pmid": "42228892",
       "doi": "10.1212/WNL.0000000000218093",
       "title": "Associations of Anthropometry Measures Across 35 Years With Late-Life Plasma P-tau217 and Dementia: The HUNT Study.",
@@ -45,6 +30,21 @@
       "summary_short_ja": "本研究は、認知機能に問題のない被験者を対象に、血液バイオマーカーの変化とMRIで測定される脳萎縮の関連を縦断的に調査した。167名を対象に5年程度追跡し、GFAPの増加は広範なアルツハイマー病関連領域の萎縮と関連し、pTau217は内側側頭葉の萎縮を主に示した。これらのバイオマーカーは異なる脳萎縮の側面を反映し、早期診断や予防的介入に有用であることが示唆された。",
       "disease": "dementia",
       "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42330435",
+      "doi": "10.1136/bmjopen-2016-013215",
+      "title": "Effect of Parity and β-Amyloid on Cognition and Hippocampal Volume in Postmenopausal Women.",
+      "abstract": "Epidemiologic studies exploring the effect of parity on Alzheimer disease (AD) yield mixed results, and little is known about how parity may modify the impact of AD pathology on brain and cognitive aging. We examined the effect of parity and AD pathology on hippocampal volume (HV) and cognitive changes in cognitively unimpaired (CU) postmenopausal women. Analysis was performed on CU postmenopausal women from the ALFA+ observational cohort based in the BarcelonaBeta Brain research center, who completed 1 or 2 visits spaced by ∼3 years (mean = 3.38, SD = 0.55) with reproductive data, cognitive testing (modified Preclinical Alzheimer's Cognitive Composite), CSF biomarkers (Aβ42 and Aβ40), and structural MRI. We used linear mixed-effects models to investigate the interactive effects of parity, time, and Aβ status (based on CSF Aβ42/Aβ40) on cognition and HV.  A total of 254 women were included in our analyses ranging from 49.2 to 73.4 years (mean age = 61.2) at visit 1. A significant interaction between parity and Aβ status was observed for cognitive decline and HV. In women with positive amyloid status, higher parity was associated with steeper cognitive decline (β = -0.035, 95% CI -0.068 to -0.003,  In CU postmenopausal women, higher parity interacts with AD pathology to influence cognitive decline and HV reductions. These findings suggest that parity may affect resilience to AD pathology in preclinical AD stages.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42330435/",
+      "summary_ja": "背景：出産回数（経産回数）がアルツハイマー病（AD）に与える影響については疫学的に結果が分かれており、AD病理が脳や認知機能に及ぼす影響に対する経産回数の修飾効果は不明である。  \n方法：認知機能に問題のない閉経後女性254名（平均年齢61.2歳）を対象に、約3年の間隔で2回の訪問を行い、出産歴、認知機能検査（修正版前臨床アルツハイマー認知複合検査）、脳脊髄液中のβアミロイド（Aβ42/Aβ40比）、およびMRIによる海馬体積を測定した。線形混合効果モデルを用いて、経産回数、時間、Aβ状態の相互作用が認知機能と海馬体積に与える影響を解析した。  \n結果：Aβ陽性群において、経産回数が多いほど認知機能の低下が顕著であり（β = -0.035）、海馬体積の減少も強く認められた。  \n結論：閉経後の認知正常女性において、経産回数はAD病理と相互作用し、認知機能低下および海馬体積減少に影響を与える。これらの結果は、経産回数が前臨床段階のADに対する脳の抵抗性に関与する可能性を示唆する。",
+      "summary_short_ja": "閉経後の認知機能正常女性254名を対象に、出産回数（経産回数）とアルツハイマー病（AD）病理の影響を調査した。βアミロイド陽性群では、経産回数が多いほど認知機能低下と海馬容積減少が顕著であった。これにより、経産回数がAD病理に対する脳の抵抗力や認知機能の変化に影響を与える可能性が示唆された。",
+      "disease": "dementia",
+      "section": "epidemiology"
     },
     {
       "source": "pubmed",
