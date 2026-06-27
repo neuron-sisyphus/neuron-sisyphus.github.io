@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42348807",
+      "doi": "10.1212/WNL.0000000000218121",
+      "title": "Alpha-Synuclein Seed Amplification Assay in CSF, Skin, and Submandibular Gland From Incidental Lewy Body Disease and Parkinson Disease.",
+      "abstract": "Using RT-QuIC seeding assays determine the presence of pathogenic alpha-synuclein (aSyn) aggregates in the submandibular gland (SMG), skin, and CSF from autopsy-confirmed cases of incidental Lewy body disease (ILBD), Parkinson disease (PD), and controls. Submandibular gland, skin, and CSF samples from autopsied cases in the Arizona Study of Aging and Neurodegenerative Disorders (AZSAND) were assayed using RT-QuIC methods. Correlations with the Unified Staging System for Lewy Body Disorders (USSLB) was performed. A total of 19 controls, 40 ILBD, and 15 PD cases were studied. While aSyn seeding assays were positive in all 3 tissues from ILBD cases, the sensitivity was much lower in the SMG (13/37, 35.1%) and skin (6/16, 37.5%) than in CSF (25/33, 75.8%). In PD sensitivity was good in all tissues: SMG (7/8, 87.5%), skin (7/8, 87.5%), and CSF (10/10, 100%), as was specificity in CSF (9/12, 75%), skin (8/9, 88.9%), and SMG (7/9, 77.8%). USSLB stage correlated with aSyn SAA positivity in all 3 tissues with CSF most sensitive to stages I and II (IIa and IIb) cases. In the 20 cases that had all 3 tissues tested only 2 were positive in the SMG but not CSF and one in skin but not CSF. There were 6 ILBD cases that had positive CSF but not SMG or skin, and one of these ILBD cases was USSLB stage I (olfactory bulb only). In this small study of autopsy-confirmed ILBD, aSyn seeding assays had moderately high sensitivity (75.8%) in the CSF but not in skin or SMG. In PD, the skin, SMG, and CSF showed high sensitivity, with specificity being similar in all tissues, although sample sizes were small. These results, although preliminary, suggest that detecting aSyn using seeding assays of CSF, but not the skin or SMG, may be valuable for identifying individuals with prodromal Lewy body disease. This is especially true for ILBD cases that often had Lewy bodies in the olfactory bulb only (USSLB Stage I) or in brainstem regions (Stage IIa), suggesting that detecting these cases may require CSF and not biopsies of the skin or SMG.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42348807/",
+      "summary_ja": "背景：レビー小体病（Lewy body disease, LBD）やパーキンソン病（PD）の病理的α-シヌクレイン（aSyn）凝集体の検出は診断に重要であるが、どの組織での検出が有用かは明確でない。  \n方法：解剖確認された偶発性レビー小体病（ILBD）、PD、および対照群の唾液腺（SMG）、皮膚、脳脊髄液（CSF）を用い、RT-QuICシード増幅アッセイでaSyn凝集体の有無を調べた。USSLB（レビー小体病の統一病期分類）との相関も解析した。  \n結果：ILBDではCSFの感度が75.8%と高かったが、SMG（35.1%）や皮膚（37.5%）は低感度であった。PDでは3組織とも感度が高く、CSFは100%、SMGと皮膚は87.5%であった。特異度はCSF、皮膚、SMGで70～90%程度であった。USSLB病期とaSyn陽性率は全組織で相関し、CSFは特に初期病期（ステージI・II）で感度が高かった。  \n結論：ILBDの早期病変検出にはCSFのaSynシード増幅アッセイが有用であり、皮膚やSMGの生検よりもCSF検査が優れている可能性が示唆された。PDでは全組織で高感度・高特異度を示し、CSF検査は前駆期LBDの診断に有望である。",
+      "summary_short_ja": "本研究は、RT-QuIC法を用いて偶発性レビー小体病（ILBD）およびパーキンソン病（PD）の剖検確認例から採取した唾液腺、皮膚、脳脊髄液（CSF）中の病原性α-シヌクレイン凝集体を検出した。ILBDではCSFの感度が75.8%と高い一方、皮膚や唾液腺は低感度であった。PDでは全組織で感度・特異度が高く、CSF検査が早期段階のILBD検出に有用と示唆された。",
+      "disease": "parkinson",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42190148",
       "doi": "10.1212/WNL.0000000000218150",
       "title": "Incidence of Dementia With Lewy Bodies in Salento, Italy: A Population-Based Study.",

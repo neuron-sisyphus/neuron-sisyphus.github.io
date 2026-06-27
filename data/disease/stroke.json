@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42348805",
+      "doi": "10.1212/WNL.0000000000218259",
+      "title": "Early Cerebral Edema Subtypes and Functional Outcome in Patients With Cerebral Venous Thrombosis: Insights From the CLOT-VENUS Registry.",
+      "abstract": "Cerebral edema is a common yet poorly defined neuroimaging feature in cerebral venous thrombosis (CVT), and its influence on downstream clinical outcomes has not been fully elucidated. We aimed to characterize cerebral edema subtypes and evaluate their effect on functional outcomes in patients with CVT. We conducted a retrospective analysis using the CLOT-VENUS (Collaboration on Cerebral Venous Thrombosis) registry, an international cohort of patients with acute CVT treated at 2 major stroke centers in the United States and Mexico between 2004 and 2024. Admission neuroimaging (MRI and/or CT) was independently reviewed to classify cerebral edema into 3 subtypes: global cerebral edema, cytotoxic edema, and vasogenic edema. The primary outcome was the 6-month modified Rankin Scale (mRS) score, which was assessed as an ordinal shift. Secondary outcomes included ordinal mRS score at discharge, poor functional outcome (mRS 3-6 vs 0-2 and mRS 2-6 vs 0-1), in-hospital mortality, 6-month mortality, and length of hospital stay (LOS). Multivariable models adjusted for prespecified baseline confounders were used to estimate the effect of cerebral edema on these outcomes. We included 394 patients with CVT (mean age was 42.7 ± 16.9 years; 65.5% female). Cerebral edema was identified in 220 patients and classified as cytotoxic edema (32.5%), global cerebral edema (25.6%), or vasogenic edema (24.9%). At discharge, global cerebral edema (adjusted odds ratio [aOR]: 2.79; 95% CI 1.83-4.27;  Our results suggest that cytotoxic and global cerebral edema independently worsened 6-month functional outcomes in patients with CVT, with cytotoxic edema also increasing the risk of in-hospital mortality. Prospective studies should evaluate whether early cerebral edema subtypes can serve as critical entities that could potentially stratify patients for adjunctive therapies beyond anticoagulation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42348805/",
+      "summary_ja": "背景：脳静脈血栓症（CVT）における脳浮腫は一般的だが、その種類や臨床転帰への影響は十分に解明されていない。  \n方法：2004年から2024年に米国とメキシコの2つの主要脳卒中センターで治療を受けた急性CVT患者394例を対象に、CLOT-VENUSレジストリのデータを用いて後ろ向き解析を実施。入院時のMRIおよびCT画像を独立して評価し、脳浮腫を全脳浮腫、細胞障害性浮腫、血管原性浮腫の3つに分類。主要評価項目は6か月後の修正Rankinスケール（mRS）スコアの変化とした。  \n結果：220例に脳浮腫を認め、細胞障害性浮腫が32.5％、全脳浮腫が25.6％、血管原性浮腫が24.9％であった。多変量解析により、細胞障害性および全脳浮腫は6か月の機能的転帰を有意に悪化させ、細胞障害性浮腫は院内死亡リスクも増加させた。  \n結論：細胞障害性および全脳浮腫はCVT患者の予後不良と関連し、特に細胞障害性浮腫は死亡率を高める。今後は早期の脳浮腫サブタイプが抗凝固療法以外の補助療法の適応決定に役立つか検討が必要である。",
+      "summary_short_ja": "脳静脈血栓症（CVT）患者394例を対象に、早期脳浮腫を細胞障害性、全脳性、血管原性の3型に分類し、機能的予後への影響を検討した。細胞障害性および全脳性浮腫は6か月後の機能障害を独立して悪化させ、特に細胞障害性浮腫は院内死亡率も上昇させた。これらの浮腫サブタイプは、抗凝固療法に加えた治療戦略の層別化に有用な指標となる可能性が示唆された。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42348803",
+      "doi": "10.1212/WNL.0000000000218128",
+      "title": "Dual Antiplatelet Therapy and Immediate Intensive Statin in Mild Ischemic Stroke: A Randomized Trial.",
+      "abstract": "Previous studies have shown a beneficial effect of clopidogrel-aspirin and intensive statin therapy in acute ischemic stroke; however, the synergistic effect of the 2 treatments is still unclear. The aim of this study was to investigate the effect of combining clopidogrel-aspirin and immediate intensive statin in patients with acute mild ischemic stroke or transient ischemic attack (TIA). We performed a multicenter, randomized, double-blind, placebo-controlled trial with a 2-by-2 factorial design across 222 hospitals in China. Eligible participants were patients with acute mild ischemic stroke or TIA of a presumed atherosclerotic cause within 72 hours of symptom onset. Patients were randomly assigned to receive clopidogrel plus aspirin or aspirin alone and an immediate or delayed intensive statin. The primary efficacy outcome was a new stroke (ischemic or hemorrhagic) within 90 days, and the primary safety outcome was moderate-to-severe bleeding. Between September 17, 2018, and October 15, 2022, 6,100 patients were enrolled (median age, 65 years; 64.2% male), of whom 1,525 each were assigned to the 4 groups. New stroke within 90 days occurred in 116 patients (7.6%) in the clopidogrel-aspirin plus immediate intensive statin group (hazard ratio [HR] 0.76, 95% CI 0.60-0.97), in 106 patients (7.0%) in the clopidogrel-aspirin plus delayed statin group (HR 0.69, 95% Cl 0.54-0.89), and in 129 patients (8.5%) in the aspirin plus immediate statin group (HR 0.85, 95% Cl 0.67 to 1.07), compared with 150 patients (9.9%) in the aspirin plus delayed intensive statin group. Moderate-to-severe bleeding occurred in 17 (1.1%) in the clopidogrel-aspirin plus immediate statin group ( Among patients with mild ischemic stroke or TIA of presumed atherosclerotic cause, the combination of clopidogrel-aspirin and delayed intensive statin was superior to aspirin plus delayed intensive statin in reducing the risk of new stroke, an effect that was mainly driven by clopidogrel-aspirin and not significantly different from that of clopidogrel-aspirin plus immediate statin. The combination treatment had a low but increased risk of moderate-to-severe bleeding. ClinicalTrials.gov identifier: NCT03635749. This study provides Class I evidence that in patients with mild ischemic stroke or TIA of presumed atherosclerotic cause, the combination of clopidogrel-aspirin plus delayed intensive statin was superior to aspirin plus delayed intensive statin in reducing the 90-day risk of new stroke.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42348803/",
+      "summary_ja": "背景：軽度虚血性脳卒中または一過性脳虚血発作（TIA）患者におけるクロピドグレル・アスピリン併用療法と集中的スタチン治療の相乗効果は不明であった。  \n方法：中国の222病院で多施設ランダム化二重盲検プラセボ対照試験を実施。発症72時間以内の軽度虚血性脳卒中またはTIA患者6,100名を対象に、クロピドグレル・アスピリン併用またはアスピリン単独、即時または遅延の集中的スタチン投与の4群に分けた。主要評価項目は90日以内の新規脳卒中発症、主要安全性評価は中等度以上の出血。  \n結果：クロピドグレル・アスピリン＋遅延スタチン群はアスピリン＋遅延スタチン群に比べ、新規脳卒中リスクが有意に低下（7.0% vs 9.9%、ハザード比0.69）。即時スタチン併用群との有意差はなかった。中等度以上の出血リスクは併用療法でわずかに増加した。  \n結論：軽度虚血性脳卒中またはTIA患者において、クロピドグレル・アスピリン併用と遅延集中的スタチン治療の組み合わせは、アスピリン単独よりも90日以内の新規脳卒中リスクを有意に減少させることが示された。",
+      "summary_short_ja": "本研究は、軽度虚血性脳卒中または一過性脳虚血発作（TIA）患者におけるクロピドグレル・アスピリン併用療法と即時または遅延の集中的スタチン療法の効果を検証した。結果、クロピドグレル・アスピリン併用と遅延スタチン群がアスピリン単独と遅延スタチン群に比べ、新規脳卒中リスクを有意に低減した。併用療法は中等度以上の出血リスクをわずかに増加させたが、安全性は許容範囲内であった。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42335433",
       "doi": "10.1212/WNL.0000000000218252",
       "title": "Neurology® Journal Club: Meta-Analysis of Randomized Controlled Trials on IV Thrombolysis in Patients With Minor Acute Ischemic Stroke.",
