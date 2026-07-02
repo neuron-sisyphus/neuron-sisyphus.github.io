@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42385115",
+      "doi": "10.1212/WNL.0000000000218226",
+      "title": "Putamen Dopamine Synthesis, Vesicular Storage, and Metabolism in Patients With Parkinson Disease.",
+      "abstract": "Putamen dopamine depletion characterizes Parkinson disease (PD). Intraneuronal processes determining dopamine stores have not been systematically examined. This study explored relative contributions of dopamine synthesis, storage, and metabolism to control-PD differences. We updated an intramural tabulation from 2002 to 2024 of postmortem putamen tissue contents of reactants, including the autotoxic dopamine metabolite 3,4-dihydroxyphenylacetaldehyde (DOPAL), from patients with PD and controls. Based on computational models applying first-order kinetics and equilibrium equations, we then compared estimated rates of dopamine synthesis through tyrosine hydroxylase (TH), L-aromatic-amino-acid decarboxylase, vesicular active uptake and passive leakage, exocytotic release and reuptake, and other intraneuronal processes. Results from the modeling were compared with those from in vivo  Postmortem data were analyzed from 13 patients with PD (median age 77 years, range 73-85 years) and 20 controls (median age 77 years, range 35-91 years). There was approximately a 98% decrease in putamen tissue dopamine in PD, and the concentration ratio of DOPAL/dopamine (DA) was approximately 9 times that of control. Applying the simplest kinetic model, vesicular sequestration was estimated to be decreased by 98.5% (0.073 vs 4.91 nmol/minute). Approximately 3-fold greater in vivo \"washout\" of putamen  Convergent quantitative evidence points to a substantial vesicular storage defect in residual dopaminergic terminals in PD. This finding challenges the sufficiency of nigrostriatal dopaminergic denervation alone to account for the biochemical phenotype of PD and highlights vesicular dopamine handling as a critical determinant of putamen dopamine deficiency. The reaction rate estimates were drawn from published point values rather than fitted to an experimental data set, and so conventional goodness-of-fit regression statistics were not conducted. Because of the assumption of steady-state conditions for calculating reaction rates based on equilibrium equations, the model does not address the dynamics of disease pathogenesis over years but does provide a platform for further extension to disease progression. We estimated rates of reactions involved with the synthesis, storage, release, reuptake, and metabolism of dopamine in the putamen in PD and found that the main intraneuronal functional abnormality separating PD from controls was attenuated vesicular sequestration, implicating decreased vesicular uptake through the vesicular monoamine transporter and increased vesicular leakiness as key determinants of putamen dopamine deficiency in PD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385115/",
+      "summary_ja": "背景：パーキンソン病（PD）は線条体の一部である被殻におけるドーパミン枯渇が特徴であるが、ドーパミンの細胞内合成、貯蔵、代謝過程の寄与は体系的に検討されていなかった。  \n方法：2002年から2024年までの死後被殻組織のドーパミンおよび関連物質（特に自毒性代謝物DOPAL）の含有量をPD患者13例と対照20例で比較。さらに、酵素反応速度論と平衡方程式に基づく計算モデルを用いて、チロシン水酸化酵素やL-芳香族アミノ酸脱炭酸酵素による合成、細胞小胞への取り込み・漏出、放出・再取り込みなどの速度を推定した。  \n結果：PD患者の被殻ドーパミンは約98％減少し、DOPAL/ドーパミン比は対照の約9倍に増加。計算モデルでは細胞小胞へのドーパミン隔離が98.5％減少し、細胞小胞モノアミントランスポーターを介した取り込み低下と漏出増加が示唆された。  \n結論：PDの被殻ドーパミン欠乏は単なる神経脱落だけでなく、細胞小胞内ドーパミン貯蔵機能の著しい障害が主因である。細胞内ドーパミンの取り扱い異常がPDの生化学的特徴を決定づける重要な要素であり、今後の病態進行研究の基盤となる。",
+      "summary_short_ja": "本研究はパーキンソン病（PD）患者の線条体ドパミン合成、貯蔵、代謝過程を解析し、PDでは線条体ドパミンが約98％減少し、毒性代謝物DOPALの比率が約9倍に増加することを示した。特に、ドパミンの小胞内貯蔵機能が約98.5％低下しており、小胞体モノアミントランスポーターの機能低下と小胞の漏出増加がドパミン欠乏の主要因であることを明らかにした。これにより、PDの病態には神経脱落だけでなく小胞内ドパミン処理異常が重要であることが示唆された。",
+      "disease": "parkinson",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42385114",
+      "doi": "10.1212/WNL.0000000000218315",
+      "title": "Familial Aggregation of Parkinson Disease and Essential Tremor in Early and Late Onset Parkinson Disease Cohorts.",
+      "abstract": "Early-onset Parkinson disease (EOPD) is associated with stronger genetic contributions than late-onset Parkinson disease (LOPD). However, the complex interplay between genetic susceptibility, family history, and environmental factors remains incompletely understood. This study assesses familial aggregation of PD and essential tremor (ET) among relatives of patients with EOPD and compares it with patients with LOPD. Patients with EOPD evaluated at the Mayo Clinic were identified, whereas patients with LOPD were identified through the Rochester Epidemiology Project record-linkage system. All cases with symptom onset between 1991 and 2020 were included. A total of 732 cases with EOPD and 469 with LOPD were included. EOPD patients were significantly more likely to have a positive family history of PD in parents (proportion ratio [PR] = 1.67,  The higher prevalence of PD and ET family history in the EOPD cohort supports a stronger genetic contribution and may reflect enrichment for high-penetrance monoallelic variants. Conversely, the higher frequency of affected siblings in the LOPD cohort suggests a polygenic inheritance pattern with greater environmental contribution.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385114/",
+      "summary_ja": "背景：早発型パーキンソン病（EOPD）は遅発型パーキンソン病（LOPD）よりも遺伝的要因の関与が強いとされるが、遺伝感受性、家族歴、環境要因の複雑な相互作用は未解明である。  \n方法：メイヨークリニックで評価されたEOPD患者732例と、ロチェスター疫学プロジェクトで特定されたLOPD患者469例を対象に、1991年から2020年の発症症例を含め、家族内でのパーキンソン病（PD）および本態性振戦（ET）の集積を比較検討した。  \n結果：EOPD患者は親族にPDの陽性家族歴を持つ割合が有意に高く（比率1.67）、PDおよびETの家族歴も多かった。一方、LOPD患者では兄弟姉妹に影響を受けた者の頻度が高かった。  \n結論：EOPDにおけるPDおよびETの家族集積は、高浸透性の単一遺伝子変異の関与を示唆し、遺伝的寄与が強いことを支持する。LOPDでは多遺伝子性の遺伝パターンと環境要因の影響がより大きい可能性が示された。",
+      "summary_short_ja": "本研究は、早発性パーキンソン病（EOPD）と遅発性パーキンソン病（LOPD）患者の家族におけるパーキンソン病（PD）および本態性振戦（ET）の集積を比較した。EOPD患者は親族にPDの家族歴が有意に多く、強い遺伝的要因が示唆された。一方、LOPD患者では兄弟姉妹の罹患率が高く、多遺伝子性遺伝と環境要因の関与が示された。",
+      "disease": "parkinson",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42348807",
       "doi": "10.1212/WNL.0000000000218121",
       "title": "Alpha-Synuclein Seed Amplification Assay in CSF, Skin, and Submandibular Gland From Incidental Lewy Body Disease and Parkinson Disease.",
