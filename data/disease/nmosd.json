@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42391599",
+      "doi": "10.1212/WNL.0000000000218199",
+      "title": "Factors Associated With Disability Improvement and Worsening Independent of Attacks in Patients With AQP4-IgG+ NMOSD and MOGAD: A Multicenter Cohort Study.",
+      "abstract": "Disability trajectories in aquaporin-4 immunoglobulin G-seropositive neuromyelitis optica spectrum disorder (AQP4-IgG+ NMOSD) and myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) are primarily driven by attack-related damage. Confirmed disability worsening (CDW) independent of attacks has been described but occurs infrequently in AQP4-IgG+ NMOSD and MOGAD. Confirmed disability improvement (CDI) has not been evaluated in large cohorts. We determined the frequency of CDI and CDW independent of attacks and identified clinical factors associated with these outcomes in AQP4-IgG+ NMOSD and MOGAD. This retrospective, multicenter cohort study analyzed data from the German Neuromyelitis Optica Study Group (NEMOS) registry. Adult patients with AQP4-IgG+ NMOSD or MOGAD and longitudinal Expanded Disability Status Scale (EDSS) assessments were included. EDSS episodes were defined as periods with ≥3 EDSS assessments without attacks, obtained ≥90 days after attack. CDW and CDI were defined as sustained EDSS increase or decrease (≥1.5 for baseline EDSS 0; ≥1.0 for EDSS 1.0-5.5; ≥0.5 for EDSS ≥6.0) confirmed after at least 6 months. The primary outcomes were annualized CDI and CDW rates. Risk factors were assessed using multivariable Anderson-Gill regression models. A total of 338 EDSS episodes of 307 patients (n: 202/105, median age at EDSS change: 56/41 years, 88/49% female, both  CDI and CDW independent of attacks, although rare, occur in AQP4-IgG+ NMOSD and MOGAD. The association between fewer prior attacks and higher CDI rates in AQP4-IgG+ NMOSD underscores the importance of early attack prevention. Limitations include the retrospective design, and the limited number of CDI and CDW events.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391599/",
+      "summary_ja": "背景：AQP4-IgG陽性NMOSDおよびMOG抗体関連疾患（MOGAD）における障害の進行は主に発作による損傷が原因であるが、発作に依存しない障害の悪化（CDW）や改善（CDI）も報告されているものの、その頻度や関連因子は不明であった。  \n方法：ドイツの多施設共同レジストリNEMOSのデータを用い、AQP4-IgG+ NMOSDおよびMOGADの成人患者307名のEDSS評価338エピソードを解析。発作から90日以上経過し、発作のない期間におけるEDSSの持続的な増減をCDWおよびCDIと定義し、年率発生率と関連因子を多変量アンダーソン・ギル回帰モデルで評価した。  \n結果：CDIおよびCDWは両疾患で稀ではあるが発生し、特にAQP4-IgG+ NMOSDでは発作回数が少ないほどCDIの発生率が高いことが示された。  \n結論：発作に依存しない障害の改善・悪化はAQP4-IgG+ NMOSDおよびMOGADで認められ、早期の発作予防がCDI促進に重要である。研究は後ろ向きでイベント数が限られる点が課題である。",
+      "summary_short_ja": "本研究はAQP4-IgG陽性NMOSDおよびMOGAD患者における、発作に依存しない障害の改善（CDI）および悪化（CDW）の頻度と関連因子を多施設コホートで検討した。発作とは無関係にCDIおよびCDWは稀に発生し、特にAQP4-IgG+ NMOSDでは発作回数が少ないほどCDI率が高いことが示された。早期の発作予防の重要性が示唆されるが、後ろ向き研究で事象数が限られる点が課題である。",
+      "disease": "nmosd",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42224638",
       "doi": "10.1186/s12974-021-02138-7",
       "title": "Longitudinal Spinal Cord Atrophy in Patients With Neuromyelitis Optica Spectrum Disorder and Its Association With Rituximab Treatment.",
