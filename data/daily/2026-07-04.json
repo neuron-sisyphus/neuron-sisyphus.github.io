@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-04",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42391599",
+      "doi": "10.1212/WNL.0000000000218199",
+      "title": "Factors Associated With Disability Improvement and Worsening Independent of Attacks in Patients With AQP4-IgG+ NMOSD and MOGAD: A Multicenter Cohort Study.",
+      "abstract": "Disability trajectories in aquaporin-4 immunoglobulin G-seropositive neuromyelitis optica spectrum disorder (AQP4-IgG+ NMOSD) and myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) are primarily driven by attack-related damage. Confirmed disability worsening (CDW) independent of attacks has been described but occurs infrequently in AQP4-IgG+ NMOSD and MOGAD. Confirmed disability improvement (CDI) has not been evaluated in large cohorts. We determined the frequency of CDI and CDW independent of attacks and identified clinical factors associated with these outcomes in AQP4-IgG+ NMOSD and MOGAD. This retrospective, multicenter cohort study analyzed data from the German Neuromyelitis Optica Study Group (NEMOS) registry. Adult patients with AQP4-IgG+ NMOSD or MOGAD and longitudinal Expanded Disability Status Scale (EDSS) assessments were included. EDSS episodes were defined as periods with ≥3 EDSS assessments without attacks, obtained ≥90 days after attack. CDW and CDI were defined as sustained EDSS increase or decrease (≥1.5 for baseline EDSS 0; ≥1.0 for EDSS 1.0-5.5; ≥0.5 for EDSS ≥6.0) confirmed after at least 6 months. The primary outcomes were annualized CDI and CDW rates. Risk factors were assessed using multivariable Anderson-Gill regression models. A total of 338 EDSS episodes of 307 patients (n: 202/105, median age at EDSS change: 56/41 years, 88/49% female, both  CDI and CDW independent of attacks, although rare, occur in AQP4-IgG+ NMOSD and MOGAD. The association between fewer prior attacks and higher CDI rates in AQP4-IgG+ NMOSD underscores the importance of early attack prevention. Limitations include the retrospective design, and the limited number of CDI and CDW events.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391599/",
+      "summary_ja": "背景：AQP4-IgG陽性NMOSDおよびMOG抗体関連疾患（MOGAD）における障害の進行は主に発作による損傷が原因であるが、発作に依存しない障害の悪化（CDW）や改善（CDI）も報告されているものの、その頻度や関連因子は不明であった。  \n方法：ドイツの多施設共同レジストリNEMOSのデータを用い、AQP4-IgG+ NMOSDおよびMOGADの成人患者307名のEDSS評価338エピソードを解析。発作から90日以上経過し、発作のない期間におけるEDSSの持続的な増減をCDWおよびCDIと定義し、年率発生率と関連因子を多変量アンダーソン・ギル回帰モデルで評価した。  \n結果：CDIおよびCDWは両疾患で稀ではあるが発生し、特にAQP4-IgG+ NMOSDでは発作回数が少ないほどCDIの発生率が高いことが示された。  \n結論：発作に依存しない障害の改善・悪化はAQP4-IgG+ NMOSDおよびMOGADで認められ、早期の発作予防がCDI促進に重要である。研究は後ろ向きでイベント数が限られる点が課題である。",
+      "summary_short_ja": "本研究はAQP4-IgG陽性NMOSDおよびMOGAD患者における、発作に依存しない障害の改善（CDI）および悪化（CDW）の頻度と関連因子を多施設コホートで検討した。発作とは無関係にCDIおよびCDWは稀に発生し、特にAQP4-IgG+ NMOSDでは発作回数が少ないほどCDI率が高いことが示された。早期の発作予防の重要性が示唆されるが、後ろ向き研究で事象数が限られる点が課題である。",
+      "disease": "nmosd",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42391598",
+      "doi": "10.1212/WNL.0000000000218267",
+      "title": "Cost-Effectiveness of Intracranial Aneurysm Screening: A Systematic Review.",
+      "abstract": "Subarachnoid hemorrhage (SAH) is associated with high mortality and long-term morbidity, as well as a considerable economic burden. Screening for unruptured intracranial aneurysms (UIAs) has the potential to reduce mortality and disability related to SAH, but whether the related costs are justified and provide true health benefits-either in general or specific high-risk populations-remains unclear. Therefore, we conducted a systematic review to determine whether screening of UIAs has been estimated to be cost-effective in any population. We conducted a literature search in PubMed, Scopus, and Web of Science for studies reporting economic analyses of UIA screening. Eligible studies assessed screening in the general population or in populations with an increased risk of SAH or UIAs. Data were extracted on input parameters, type of model, perspective, and cost-effectiveness outcomes. Study quality was assessed using a modified ECOBIAS checklist. We included 15 modelling studies from 8 countries, published during 1996-2025. Nine studies evaluated high-risk populations (autosomal dominant polycystic kidney disease, bicuspid aortic valve, coarctation of the aorta, family history, and female smokers), 5 evaluated the general population and 1 examined both. Model input parameters varied widely across studies; assumed UIA prevalence ranged from 0.5% to 19% and annual rupture rates from 0.16% to 12.9%. Twelve studies reported screening as cost-effective (n = 8) or cost-saving (n = 4). All 10 studies evaluating high-risk populations found screening cost-effective. Of 6 studies analyzing screening of general population, 3 concluded it was not cost-effective or was dominated by no screening. All 15 studies were classified as of low quality according to the risk of bias assessment. Current economic analyses suggest that screening is cost-effective for high-risk populations, whereas evidence for general population remains conflicting. However, the evidence consists exclusively of modelling studies, many with important methodologic limitations. Until prospective data better define SAH risk in screened populations and models more accurately reflect the natural history of aneurysms, the economic analyses of screening should be interpreted with caution. Future research should address these limitations and restrict screening strategies to populations with a demonstrated increase in the incidence of SAH rather than with elevated UIA prevalence alone.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391598/",
+      "summary_ja": "背景：くも膜下出血（SAH）は高い死亡率と長期的な障害を伴い、経済的負担も大きい。破裂していない脳動脈瘤（UIA）のスクリーニングはSAHによる死亡や障害を減らす可能性があるが、費用対効果や健康利益が一般集団や高リスク集団でどの程度あるかは不明である。  \n方法：PubMed、Scopus、Web of ScienceでUIAスクリーニングの経済評価を報告した研究を系統的に検索し、15件のモデリング研究（1996～2025年、8カ国）を対象とした。対象は一般集団およびSAHやUIAのリスクが高い集団で、モデルの入力パラメータや費用対効果の結果を抽出し、ECOBIASチェックリストで品質評価を行った。  \n結果：高リスク集団（多発性嚢胞腎、二尖弁、大動脈縮窄、家族歴、女性喫煙者）を対象とした9件の研究は全てスクリーニングが費用対効果的と判定。一般集団を対象とした6件のうち3件は費用対効果がないと結論付けた。全研究はバイアスリスクが高く、品質は低かった。  \n結論：現状の経済分析は高リスク集団におけるUIAスクリーニングの費用対効果を示唆するが、一般集団では結果が不一致である。すべてモデリング研究であり方法論的制約が多いため、将来的には前向き研究でSAHリスクを正確に評価し、スクリーニング対象をSAH発症率の高い集団に限定する必要がある。",
+      "summary_short_ja": "くも膜下出血（SAH）は高い死亡率と長期的な障害を伴い経済的負担も大きい。未破裂脳動脈瘤（UIA）スクリーニングはSAH関連の死亡や障害を減らす可能性があるが、費用対効果は不明確である。本システマティックレビューでは15件のモデル研究を分析し、高リスク集団ではスクリーニングが費用対効果的である一方、一般集団では結果が分かれた。全研究の質は低く、将来的には前向きデータと精度の高いモデルが必要である。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    }
+  ]
+}
