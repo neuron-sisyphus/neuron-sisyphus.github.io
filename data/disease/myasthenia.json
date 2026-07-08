@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42407020",
+      "doi": "10.1212/WNL.0000000000218308",
+      "title": "Phenotype, Severity, and Therapy of Patients With LRP4 Antibody-Associated Myasthenia Gravis in the German Myasthenia Gravis Registry.",
+      "abstract": "Lipoprotein receptor-related protein 4 antibody-positive myasthenia gravis (LRP4-Ab-positive MG) is a rare serologic subgroup with poorly defined clinical phenotype. This study investigated demographics, clinical features, treatments, and disease burden of LRP4-Ab-positive MG against other antibody-defined subgroups. Patients from the prospective longitudinal German MG registry tested for LRP4, AChR, and MuSK Abs were grouped and analyzed for symptoms, treatment, and disease burden scores (for example, Myasthenia Gravis Activities of Daily Living [MG-ADL] and Myasthenia Gravis Quality-of-Life 15-item revised version scale [MG-Qol15r]). Among 3,319 patients, 1,432 (43.1%, median age 54, 57.4% female) had complete antibody testing: 4.8% of these were LRP4-Ab-positive (2.4% single-positive; 2.4% LRP4/AChR-Ab-double-positive), 63.6% AChR-Ab-positive, 2.4% MuSK-Ab-positive, 0.8% MuSK/AChR-Ab-double-positive, and 28.4% triple seronegative. LRP4-Ab-single-positive patients reported high symptom rates, and all LRP4-Ab-positive patients showed high rates of escalation (e.g., rituximab) and rescue therapies (e.g., IVIG). Linear mixed-effects models revealed greater disease burden in LRP4-Ab-single-positive patients vs all other subgroups (e.g., vs AChrR-Ab-positive: MG-ADL -2.5 points [95% CI -3.9 to -1.2]; MG-Qol15r -8.4 [95% CI -13.3 to -3.4]). Conversely, LRP4/AChR-Ab-double-positive patients showed burden and treatment patterns comparable with other subgroups. LRP4-Ab-single-positive MG represents a distinct phenotype characterized by high disease burden and treatment needs. By contrast, LRP4/AChR-Ab-double-positive MG phenotypes align more closely with other MG subgroups. German clinical trial registry (drks.de), DRKS00024099, first patient enrolled: February 4, 2019.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407020/",
+      "summary_ja": "背景：LRP4抗体陽性重症筋無力症（LRP4-Ab陽性MG）は稀な血清学的サブグループであり、その臨床表現型は十分に解明されていない。  \n方法：ドイツの前向き縦断的MG登録データベースから3,319例中1,432例（43.1％）の抗体検査が完了した患者を対象に、LRP4、AChR、MuSK抗体の有無で分類し、症状、治療内容、疾患負荷（MG-ADL、MG-Qol15rスコア）を比較解析した。  \n結果：LRP4抗体単独陽性は4.8％（うち単独陽性2.4％、LRP4/AChR抗体二重陽性2.4％）で、単独陽性群は高頻度の症状とリツキシマブやIVIGなどの治療エスカレーションが認められた。線形混合モデル解析により、単独陽性群は他の抗体群に比べて疾患負荷が有意に高かった（例：AChR抗体陽性群とのMG-ADL差-2.5点、MG-Qol15r差-8.4点）。一方、LRP4/AChR抗体二重陽性群は他群と類似した臨床像を示した。  \n結論：LRP4抗体単独陽性MGは高い疾患負荷と治療ニーズを特徴とする独自の表現型であるが、LRP4/AChR抗体二重陽性は他のMGサブグループに近い臨床像を示す。",
+      "summary_short_ja": "LRP4抗体陽性重症筋無力症（MG）は稀なサブタイプで、ドイツMG登録データから臨床特徴や治療効果を他抗体群と比較した。LRP4単独陽性患者は症状が重く、リツキシマブや免疫グロブリン療法などの強力な治療を多用し、疾患負荷も他群より有意に高かった。一方、LRP4/AChR抗体二重陽性は他群と類似した臨床像を示した。LRP4単独陽性MGは独特の重症型であることが示された。",
+      "disease": "myasthenia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42190146",
       "doi": "10.1212/WNL.0000000000218081",
       "title": "Comparative Study of Sporadic and Immune Checkpoint Inhibitor-Related Forms of Myasthenia Gravis-Myositis Overlap Syndrome.",

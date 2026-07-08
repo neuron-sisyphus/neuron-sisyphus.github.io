@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42407019",
+      "doi": "10.1212/WNL.0000000000218312",
+      "title": "Association of Changes in Intrinsic Capacity With Cognitive Decline and Dementia: A Prospective Cohort Study.",
+      "abstract": "Previous studies found that intrinsic capacity (IC) was an important risk factor for dementia. However, these studies focused on baseline IC, without considering the dynamic changes in IC. The study aimed to investigate the associations of changes in IC with cognitive decline and dementia and assess whether these associations varied by race. A cohort study was conducted using data from the Health and Retirement Study. An IC deficit score was calculated by 7 factors reflecting 4 domains. Changes in IC were assessed by comparing the baseline IC status with that observed in the second survey. Cognitive decline was evaluated by computing a standardized z-score based on memory, executive function, and orientation. Dementia was diagnosed either through self-reported physician diagnosis or an alternative approach based on cognitive score. Linear mixed effects models and Cox models were performed to analyze the association of changes in IC with cognitive decline and dementia. A total of 7,744 participants (male: 42.4%, mean age: 75.6 years) were included. The median follow-up period was 8.9 years. Compared with participants who maintained robust IC status, those whose IC status progressed to deficit status showed accelerated global cognitive decline (β, -0.025; 95% CI -0.036 to -0.015) and increased risk of dementia (hazard ratio [HR], 1.38; 95% CI 1.10-1.72). Conversely, participants who recovered from IC deficit to robust status showed decelerated global cognitive decline (β, 0.010; 95% CI 0.001 to 0.019) and decreased risk of dementia (HR, 0.84; 95% CI 0.72-0.98) relative to those with stable IC deficit. In addition, the associations of baseline IC with cognitive decline and dementia appeared to be somewhat stronger among Black participants, relative to White participants ( The findings indicated that the progression of IC deficit status was associated with accelerated cognitive decline and increased risk of dementia. Conversely, recovery of IC deficit status was associated with a decelerated cognitive decline and decreased risk of dementia. Future studies with more measurement waves are warranted to validate these findings.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407019/",
+      "summary_ja": "背景：これまでの研究では、内在的能力（Intrinsic Capacity, IC）が認知症の重要なリスク因子であることが示されてきたが、ICの動的変化に着目した研究は少なかった。  \n方法：米国のHealth and Retirement Studyのデータを用い、7,744名（平均年齢75.6歳）を対象に、ICの7因子による欠損スコアを算出し、ベースラインと第2回調査時のIC変化を比較。認知機能低下は記憶、実行機能、見当識の標準化zスコアで評価し、認知症は自己申告の医師診断または認知スコアに基づき診断。線形混合効果モデルとコックスモデルで解析を行った。  \n結果：ICが健全状態から欠損状態に進行した群は認知機能低下が加速し（β=-0.025）、認知症リスクも増加（HR=1.38）した。一方、欠損状態から健全状態に回復した群は認知機能低下が緩徐化（β=0.010）し、認知症リスクも低下（HR=0.84）した。人種別では、黒人でICの影響がやや強く認められた。  \n結論：ICの悪化は認知機能低下と認知症リスクの増加と関連し、ICの回復はこれらのリスクを軽減する可能性が示された。今後、多回測定による検証が必要である。",
+      "summary_short_ja": "本研究は、内的能力（IC）の変化が認知機能低下および認知症リスクに与える影響を前向きコホートで検討した。ICが悪化すると認知機能低下が加速し認知症リスクが増加、一方でICが回復すると認知機能低下が緩やかになり認知症リスクが低減した。特に黒人でこれらの関連が強く認められた。ICの動的変化が認知症予防の重要指標となる可能性を示唆する。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42385118",
       "doi": "10.1212/WNL.0000000000218280",
       "title": "Genetic Risk for Alzheimer Disease, Midlife Hypertension, and Dementia: The ARIC Neurocognitive Study.",
