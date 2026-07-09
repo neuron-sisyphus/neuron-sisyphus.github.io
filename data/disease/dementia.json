@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42418748",
+      "doi": "10.1212/WNL.0000000000218268",
+      "title": "Long-Term Income and Productivity Losses in Individuals With Early-Onset Dementia: Evidence From 15 Years Preceding the Diagnosis.",
+      "abstract": "Early-onset dementia (EOD), affecting individuals younger than 65 years, imposes a substantial socioeconomic burden. However, evidence on long-term income trajectories and productivity loss across EOD subtypes remains limited. The aim of this study was to evaluate income trajectories and societal productivity loss in individuals with different EOD subtypes. This retrospective, population-based longitudinal cohort study included all patients with EOD from Kuopio University Hospital and Oulu University Hospital referral area between January 2010 and December 2021. Diagnoses were re-validated through clinical data review. For each study case, 10 randomly selected matched controls were used. Demographics, education, and comorbidities were obtained from national registers. Annual gross income was retrieved from Statistics Finland tax records. The Human Capital Approach was used to calculate productivity losses, in effect by estimating the annual income difference relative to controls using a generalized estimating equation regression model, with panel data spanning 15 years before diagnosis and the year of diagnosis. The EOD cohort comprised 793 patients (50.4% women; mean age 59.6 years): 421 with Alzheimer disease (AD), 179 with frontotemporal dementia (FTD) spectrum disorders, 46 with α-synucleinopathies (α-SYNUs), and 147 with other EOD etiologies. Compared with 7,926 age-matched and sex-matched controls, patients with EOD showed substantial and progressively increasing productivity loss up to 15 years before diagnosis, with cumulative losses of €74,577 (46,423-102,732) per patient. In the AD group, productivity loss emerged 6 years before diagnosis (€2,767; 95% CI 18-5,515;  This large-scale longitudinal study demonstrates significant productivity loss up to 15 years before EOD diagnosis, with variation across dementia subtypes. Earlier recognition and targeted interventions are needed in the future to mitigate the substantial socioeconomic burden of EOD. This study is part of DEGE-RWD-research project (protocol registered to ClinicalTrials.gov: NCT06209515), coordinated by Neurocenter Finland.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42418748/",
+      "summary_ja": "背景：65歳未満で発症する早期発症型認知症（EOD）は、社会経済的負担が大きいが、EODの各亜型における長期的な収入推移や生産性損失に関するエビデンスは限られている。  \n方法：2010年から2021年の間にクオピオ大学病院とオウル大学病院の紹介地域で診断された793名のEOD患者（アルツハイマー病421名、前頭側頭型認知症179名、α-シヌクレイノパチー46名、その他147名）を対象に、診断前15年間の年収データを用いて、年齢・性別マッチした7,926名の対照群と比較し、一般化推定方程式モデルで生産性損失を推定した。  \n結果：EOD患者は診断の最大15年前から対照群と比較して生産性損失が顕著かつ徐々に増加し、患者1人当たり累積損失は74,577ユーロに達した。アルツハイマー群では診断6年前から損失が顕在化した。  \n結論：EOD診断前の長期間にわたり大きな生産性損失が存在し、認知症亜型によって損失の時期や程度に差がある。早期発見と介入が社会経済的負担軽減に重要である。",
+      "summary_short_ja": "本研究は、65歳未満で発症する早期認知症（EOD）患者793名と対照群7,926名を15年間追跡し、診断前からの収入と生産性の損失を分析した。EOD患者は診断15年前から収入減少が始まり、累積損失は1人当たり約7万5千ユーロに達した。認知症の種類により損失の開始時期や程度に差があり、アルツハイマー病群では診断6年前から顕著な減少が認められた。早期発見と介入の重要性が示された。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42407019",
       "doi": "10.1212/WNL.0000000000218312",
       "title": "Association of Changes in Intrinsic Capacity With Cognitive Decline and Dementia: A Prospective Cohort Study.",
