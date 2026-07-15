@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42320011",
+      "doi": "10.1212/WNL.0000000000218254",
+      "title": "Pearls & Oy-sters: Radiologic Lag in Pediatric-Onset Multiple Sclerosis.",
+      "abstract": "Recognition of radiologic lag, the presence of clinical symptoms despite absence of a visible corresponding lesion on MRI, is essential when evaluating a patient suspected to have a demyelinating disease. In this report, we present the case of a 16-year-old girl with bilateral internuclear ophthalmoplegias (INO), in whom initial high-resolution 3T MRI failed to reveal an abnormality within the brainstem. Repeat MRI performed 2 months later demonstrated a lesion in the paramedian midbrain tegmentum, corresponding to the anatomical localization of her clinical symptoms. This case aims to raise awareness that radiologic lag can occur in pediatric-onset multiple sclerosis, similarly to what has been described in other demyelinating conditions such as myelin oligodendrocyte glycoprotein antibody-associated disease. The absence of a visible lesion on imaging in the context of an acute INO does not exclude the possibility of underlying demyelination, and short-interval follow-up imaging should be considered in these patients to establish the correct diagnosis and guide additional investigations and treatment.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42320011/",
+      "summary_ja": "背景：脱髄疾患の診断において、臨床症状があるにもかかわらずMRIで対応する病変が確認できない「放射線学的遅延（radiologic lag）」の認識が重要である。  \n方法：16歳の少女が両側内核性眼筋麻痺（INO）を呈し、初回の高解像度3T MRIでは脳幹に異常が認められなかったが、2か月後の再検査で中脳正中部の病変が確認された症例を報告。  \n結果：初回MRIで病変が不明瞭であったにもかかわらず、症状に対応する部位に後日病変が出現し、放射線学的遅延が示された。  \n結論：小児発症多発性硬化症においても放射線学的遅延が起こりうるため、急性INO症例で初回画像に異常がなくても脱髄疾患の可能性を否定せず、短期間での再検査を行い正確な診断と治療方針決定に役立てるべきである。",
+      "summary_short_ja": "16歳の少女の両側内側縦束麻痺（INO）症例で、初回の高解像度3T MRIでは脳幹に異常が認められなかったが、2か月後の再検査で中脳の病変が確認された。小児発症多発性硬化症においても、臨床症状に先行してMRIに病変が現れない「放射線学的遅延」が起こり得ることを示し、急性INO患者では短期間の再検査が診断と治療方針決定に重要であることを強調している。",
+      "disease": "ms",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42214041",
       "doi": "10.1212/WNL.0000000000218056",
       "title": "Use of High-Efficacy Therapy in Children With Multiple Sclerosis to Prevent Long-Term Disability.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42441926",
+      "doi": "10.1212/WNL.0000000000218304",
+      "title": "Association of Plasma Neurofilament Light Chain With Diagnostic Classification in a Neuromuscular Referral Cohort: A Cross-Sectional Study.",
+      "abstract": "Plasma neurofilament light chain (pNfL) is a blood-based biomarker of axonal injury elevated in several neuromuscular disorders. While previous studies have compared individual diseases with healthy controls, less is known about how pNfL performs across clinically relevant neuromuscular presentations encountered in subspecialty practice, particularly in distinguishing active from inactive neuropathies. We evaluated whether abnormal age-adjusted pNfL concentrations are associated with clinically relevant diagnostic categories and whether pNfL discriminates between active and inactive neuropathies. We conducted a cross-sectional study of patients evaluated by neuromuscular specialists at Mayo Clinic (Rochester, MN) between April 2022 and April 2024, in whom pNfL was ordered as part of routine clinical care. Diagnoses were assigned to prespecified categories by consensus review, including motor neuron disease (MND), active neuropathy, inactive neuropathy, and structural etiologies. Clinically active neuropathy was defined using prespecified, diagnosis-specific operational criteria incorporating treatment status, clinical relapse or progression, time from symptom onset, and pathologic evidence of inflammation. Abnormal pNfL was defined using previously established age-adjusted 97.5th percentile reference limits. Multinomial logistic regression evaluated associations between abnormal pNfL and diagnostic category, adjusting for neuropathy impairment score and symptom duration. Receiver operating characteristic (ROC) analyses assessed discrimination between prespecified groups. Among 306 patients (mean age 62.2 years, 41.5% female), 179 (58.5%) had MND, 28 (9.1%) active neuropathy, 75 (12.1%) inactive neuropathy, and 24 (7.8%) structural etiologies. Median pNfL concentrations differed across diagnostic groups ( In this cross-sectional cohort, abnormal age-adjusted pNfL concentrations were more frequently observed in diagnostic categories characterized by clinically active axonal injury than in inactive neuropathies and structural conditions. These findings suggest a potential role for pNfL as an adjunctive tool in neuromuscular diagnostic evaluation. Interpretation is limited by the cross-sectional design and convenience sampling. This study provides Class II evidence that abnormal age-adjusted pNfL distinguishes active neuropathies from inactive neuropathies with moderate diagnostic accuracy.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42441926/",
+      "summary_ja": "背景：血中の神経細胞軸索損傷マーカーであるプラズマ神経細胞軽鎖（pNfL）は、複数の神経筋疾患で上昇するが、専門診療で遭遇する多様な神経筋症状群における診断分類や活動性の識別能力は不明であった。  \n方法：2022年4月から2024年4月までにメイヨークリニックで神経筋専門医が診察した306例を対象に、臨床的に活動性のある神経障害（active neuropathy）、非活動性神経障害（inactive neuropathy）、運動ニューロン病（MND）、構造的病因の4群に分類。年齢調整済みのpNfL異常値と診断群との関連を多項ロジスティック回帰で解析し、ROC曲線で活動性神経障害の識別能を評価した。  \n結果：pNfLの中央値は診断群間で有意差があり、活動性神経障害やMND群で異常値の頻度が高かった。pNfLは活動性と非活動性神経障害を中程度の精度で区別した。  \n結論：pNfLは神経筋疾患の診断補助ツールとして有用であり、特に活動性神経障害の識別に役立つ可能性が示された。ただし、横断的デザインと便宜的サンプリングの限界がある。",
+      "summary_short_ja": "本研究は、神経筋専門外来患者306名を対象に血漿神経細胞軽鎖（pNfL）濃度と診断分類の関連を検討した。pNfLは軸索損傷のバイオマーカーであり、活動性神経障害群で異常高値を示し、非活動性神経障害や構造的疾患群と有意に区別できた。これにより、pNfLは神経筋疾患の診断補助ツールとして有用である可能性が示されたが、横断的デザインのため解釈には注意が必要である。",
+      "disease": "als",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42407013",
       "doi": "10.1212/WNL.0000000000218273",
       "title": "Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of Amyotrophic Lateral Sclerosis.",
