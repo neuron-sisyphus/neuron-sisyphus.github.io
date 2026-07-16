@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42447422",
+      "doi": "10.1212/WNL.0000000000218298",
+      "title": "Two-Year Retention of Benefits After Paired Vagus Nerve Stimulation in Stroke: Follow-Up of the VNS-REHAB Randomized Clinical Trial.",
+      "abstract": "Vagus nerve stimulation (VNS) paired with rehabilitation improves short-term upper extremity (UE) function in people with chronic ischemic stroke. Because sustained improvements are needed for people with stroke, we examined the long-term effects of Paired VNS on impairment, activity, participation, and quality of life. This is a post hoc analysis of 2-year data of the triple-blind, sham-controlled, randomized VNS-REHAB pivotal trial. After receiving the full therapeutic protocol with either real (Active) or sham (Control) VNS, participants continued self-activated active stimulation for at least 2 years. The Fugl-Meyer Assessment-Upper Extremity (FMA-UE), Wolf Motor Function Test (WMFT), participation, and quality of life outcomes were assessed at multiple time points. Pooled 2-year outcome data were available from 49 participants. At the 2-year point, FMA-UE scores improved 7.51 points (95% CI 5.80-9.22;  The sustained improvements in UE impairment and function for at least 2 years make this an important treatment option for a defined subset of individuals with chronic arm and hand deficits after ischemic stroke. ClinicalTrials.gov/study/NCT03131960.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42447422/",
+      "summary_ja": "背景：慢性虚血性脳卒中患者の上肢機能改善において、迷走神経刺激（VNS）とリハビリの併用が短期的効果を示しているが、長期的効果は不明であった。  \n方法：VNS-REHAB試験の二重盲検・偽刺激対照ランダム化臨床試験の2年追跡データを用いた事後解析を実施。参加者は実際のVNS（Active群）または偽刺激（Control群）を受けた後、自己刺激を2年以上継続。Fugl-Meyer Assessment-Upper Extremity（FMA-UE）、Wolf Motor Function Test（WMFT）、参加度、生活の質を複数時点で評価した。  \n結果：49名の2年追跡データで、FMA-UEスコアは平均7.51点（95%信頼区間5.80-9.22）改善し、上肢の障害と機能の持続的改善が確認された。  \n結論：慢性虚血性脳卒中後の腕・手の機能障害を持つ特定の患者に対し、VNS併用リハビリは少なくとも2年間の有効な治療選択肢となる。",
+      "summary_short_ja": "慢性虚血性脳卒中患者に対する迷走神経刺激（VNS）とリハビリの併用は、上肢機能を短期的に改善する。本研究はVNS-REHAB試験の2年追跡データを解析し、VNS群はFugl-Meyer評価で7.51点の有意な改善を示した。上肢障害と機能の改善が2年以上持続し、慢性脳卒中後の上肢障害に対する有効な治療選択肢となることを示した。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42314108",
       "doi": "10.1212/WNL.0000000000218198",
       "title": "Long-Term Outcomes After Ischemic Stroke Across Atrial Fibrillation Phenotypes Defined by Detection Timing and Prior Anticoagulation Status.",
