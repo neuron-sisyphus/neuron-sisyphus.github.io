@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-17",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42456081",
+      "doi": "10.1212/WNL.0000000000218335",
+      "title": "Incident Stroke in the United States and Foreign Born Black Individuals.",
+      "abstract": "There is a paucity of information about the association between nativity and stroke prevalence among Black individuals in the United States. We assessed stroke prevalence among individuals who identified as Black in the 2000-2018 National Health Interview Survey. Respondents were stratified by age (25-55 or 56-74 years) and location of birth (United States; Caribbean, South, and Central America [CSCA]; and Africa). Factors associated with stroke prevalence were assessed using logistic regression, adjusting for sociodemographic and medical characteristics. Among 64,717 respondents who identified as Black, 88.3% were born in the United States, 8.0% were born in CSCA, and 3.7% were born in Africa. Prevalence of stroke was 4.3%, 1.5% and 0.8%, respectively. Foreign born individuals had lower odds of stroke (adjusted OR 0.44, 0.34-0.57 for CSCA and 0.39, 0.23-0.63 for Africa). The odds of stroke were lowest for those who had recently immigrated at the time of the survey (adjusted OR < 15 years 0.27, 95% CI 0.15-0.47). Among individuals who identify as Black, there may be a healthy immigrant effect. Homogenizing racial and ethnic groups may mask key epidemiologic trends and limit targeted interventions.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456081/",
+      "summary_ja": "背景：米国における黒人の脳卒中発症率と出生地の関連についての情報は限られている。  \n方法：2000年から2018年のNational Health Interview Surveyの黒人回答者64,717人を対象に、年齢（25-55歳、56-74歳）と出生地（米国、カリブ海・南・中米（CSCA）、アフリカ）で層別化し、社会人口学的・医療的要因を調整したロジスティック回帰で脳卒中の有病率を分析した。  \n結果：回答者のうち米国出生が88.3%、CSCA出生が8.0%、アフリカ出生が3.7%であった。脳卒中有病率はそれぞれ4.3%、1.5%、0.8%であり、外国出生者は米国出生者に比べ脳卒中のオッズが有意に低かった（CSCA調整OR 0.44、アフリカ調整OR 0.39）。特に移住歴15年未満の者は最も低いオッズ（調整OR 0.27）を示した。  \n結論：黒人集団内での出生地による脳卒中リスクの差は「健康な移民効果」を示唆しており、人種・民族を一括りにすることは疫学的傾向の把握や介入の妨げとなる可能性がある。",
+      "summary_short_ja": "米国の黒人を対象に出生地別の脳卒中有病率を調査した結果、米国生まれ（88.3%）に比べ、カリブ海・南中米（CSCA、8.0%）およびアフリカ（3.7%）生まれの黒人は脳卒中の有病率がそれぞれ1.5%、0.8%と低く、移民後15年未満の者は特にリスクが低かった（調整オッズ比0.27）。これは健康な移民効果を示唆し、人種・民族を一括りにすることの問題点を指摘している。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    }
+  ]
+}
