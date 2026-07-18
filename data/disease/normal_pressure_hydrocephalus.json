@@ -1,4 +1,20 @@
 {
   "disease": "normal_pressure_hydrocephalus",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42467873",
+      "doi": "10.1212/WNL.0000000000218306",
+      "title": "Involvement of TNFRSF9 in the Pathogenesis of Autoimmune Glial Fibrillary Acidic Protein Astrocytopathy.",
+      "abstract": "Autoimmune glial fibrillary acidic protein (GFAP) astrocytopathy (GFAP-A) is a CNS inflammatory disorder characterized by steroid responsiveness and relapse. Although GFAP immunoglobulin G (GFAP-IgG) in CSF supports diagnosis, biomarkers reflecting inflammatory activity, disease severity, and relapse risk remain unclear. The aim of this study was to identify and validate CSF protein biomarkers associated with GFAP-A. This retrospective observational study included patients with GFAP-A who presented with compatible neurologic features, were positive for CSF GFAP-IgG, and had no alternative diagnosis at a single tertiary referral center. The disease control group involved patients with inflammatory and noninflammatory neurologic disorders. Candidate biomarkers were explored using CSF proteomic analysis comparing GFAP-A with idiopathic normal-pressure hydrocephalus. The most significantly altered protein was quantified by ELISA in an expanded cohort, including patients with GFAP-A and multiple control groups. The primary outcome was the between-group differences in CSF biomarker concentrations. Secondary outcomes included the associations between biomarker levels and clinical characteristics, magnetic resonance imaging (MRI) findings, CSF parameters, and inflammatory cytokines. Statistical analyses included nonparametric tests with effect sizes, Spearman correlation coefficients with confidence intervals, and Benjamini-Hochberg correction for multiple testing. In total, 102 participants were analyzed, including 42 patients with GFAP-A (median age; 61 years, 31% women). Proteomic screening identified tumor necrosis factor receptor superfamily member 9 (TNFRSF9) as the most significantly upregulated CSF protein in GFAP-A. ELISA confirmed significantly higher CSF TNFRSF9 concentrations in patients with GFAP-A compared with all control groups (Cohen d = 0.45-0.78, all adjusted  CSF TNFRSF9 may serve as a biomarker of inflammatory activity, disease severity, and relapse risk in patients with GFAP-A. The major limitations of this study include its retrospective design and modest sample size, which highlight the need for prospective validation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467873/",
+      "summary_ja": "背景：自己免疫性グリア線維酸性タンパク質（GFAP）アストロサイトパチー（GFAP-A）は、中枢神経系の炎症性疾患であり、ステロイド治療に反応し再発を繰り返す。診断には髄液中のGFAP-IgGが用いられるが、炎症活動性や病状の重症度、再発リスクを反映するバイオマーカーは不明である。  \n方法：GFAP-A患者42名と炎症性・非炎症性神経疾患患者を対象に、髄液のプロテオミクス解析を行い、GFAP-Aで有意に変動するタンパク質を探索。最も顕著な変動を示したTNFRSF9をELISAで定量し、複数の対照群と比較した。さらに、TNFRSF9濃度と臨床所見、MRI、髄液検査、炎症性サイトカインとの関連を解析した。  \n結果：TNFRSF9はGFAP-A患者の髄液で有意に上昇しており、対照群と比較して中等度から大きな効果量で差が認められた。TNFRSF9濃度は炎症活動性や病状重症度、再発リスクと関連する可能性が示唆された。  \n結論：髄液中TNFRSF9はGFAP-Aの炎症活動性や病態評価、再発予測のバイオマーカーとして有望である。ただし、後ろ向き研究かつサンプル数が限られているため、前向き研究による検証が必要である。",
+      "summary_short_ja": "自己免疫性グリア線維酸性タンパク（GFAP）アストロサイトパチー（GFAP-A）は中枢神経系の炎症性疾患であり、CSF中のGFAP-IgGが診断に用いられるが、炎症活動や重症度、再発リスクを反映するバイオマーカーは不明であった。本研究はCSFプロテオミクス解析によりTNFRSF9をGFAP-Aで有意に上昇するタンパク質として同定し、ELISAで検証。TNFRSF9は炎症活動や病態重症度、再発リスクの指標となる可能性が示されたが、後ろ向き研究かつサンプル数が限られ、前向き検証が必要である。",
+      "disease": "normal_pressure_hydrocephalus",
+      "section": "diagnosis"
+    }
+  ]
 }

@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-18",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42467874",
+      "doi": "10.1212/WNL.0000000000218351",
+      "title": "Comparison of the Efficacy and Safety of Myasthenia Gravis Treatments: A Bayesian Network Meta-Analysis.",
+      "abstract": "In the past decade, several novel therapies have shown promise in treating generalized myasthenia gravis (MG); however, no head-to-head prospective studies have compared their efficacy and safety. To assist clinicians in navigating this complex treatment landscape, we sought to compare treatments while accounting for differences in trial populations. We conducted a Bayesian network meta-analysis (PROSPERO ID: CRD42023428733) of MG treatments. We searched Scopus, Embase, Web of Science, CENTRAL, and MEDLINE up to May 2, 2025, for randomized trials in MG. Two independent reviewers (N.M. and M.R.) identified prospective multiarm studies of adults (18 or older) with generalized MG that reported mean treatment difference, with uncertainty, in MG-Activities of Daily Living (MG-ADL) or Quantitative MG (QMG) score change from baseline. Of 4,823 eligible studies, 27 placebo-controlled randomized trials (placebo n = 1,086; treatment n = 1,232) were included that targeted B cells, neonatal Fc receptor (FcRn), complement activity, CD40, and interleukin-6 signaling, as well as immunoglobulin G and broad immunosuppression therapy. Compared to those treated with placebo and standard of care, QMG scores decreased by an average of -3.63 (95% credible interval -4.43 to -2.77) points more in patients treated with FcRn inhibitors, -2.59 (-3.92 to -1.28) points more in patients treated with C5 complement inhibitors (C5i), and -2.50 (-5.11 to 0.12) points more in patients treated with CD19 FcRn inhibitors, C5i, and CD19",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467874/",
+      "summary_ja": "背景：全身性重症筋無力症（MG）に対する新規治療法が近年増加しているが、これらの治療の効果と安全性を直接比較した前向き試験は存在しない。  \n方法：MG治療の効果を比較するため、ベイズネットワークメタアナリシスを実施した。2025年5月までに報告された成人全身性MG患者を対象とした多群ランダム化比較試験27件（プラセボ対照、計2,318例）を対象に、MG-ADLおよびQMGスコアの変化を評価した。  \n結果：プラセボおよび標準治療と比較し、FcRn阻害剤群ではQMGスコアが平均-3.63点（95%信用区間-4.43～-2.77）、C5補体阻害剤群では-2.59点（-3.92～-1.28）低下し、CD19標的FcRn阻害剤群も同様の改善を示した。  \n結論：FcRn阻害剤およびC5補体阻害剤は、全身性MGの症状改善において有意な効果を示し、安全性も考慮した上で治療選択の有力な候補となる。",
+      "summary_short_ja": "本研究は、全身性重症筋無力症（MG）治療薬の効果と安全性を比較するため、ベイズネットワークメタ解析を実施した。27件の無作為化プラセボ対照試験を対象に、B細胞、FcRn受容体、補体活性、CD40、IL-6シグナルなどを標的とした治療効果を評価。FcRn阻害薬やC5補体阻害薬はプラセボよりQMGスコアを有意に改善し、MG治療の選択肢として有望であることが示された。",
+      "disease": "myasthenia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42467873",
+      "doi": "10.1212/WNL.0000000000218306",
+      "title": "Involvement of TNFRSF9 in the Pathogenesis of Autoimmune Glial Fibrillary Acidic Protein Astrocytopathy.",
+      "abstract": "Autoimmune glial fibrillary acidic protein (GFAP) astrocytopathy (GFAP-A) is a CNS inflammatory disorder characterized by steroid responsiveness and relapse. Although GFAP immunoglobulin G (GFAP-IgG) in CSF supports diagnosis, biomarkers reflecting inflammatory activity, disease severity, and relapse risk remain unclear. The aim of this study was to identify and validate CSF protein biomarkers associated with GFAP-A. This retrospective observational study included patients with GFAP-A who presented with compatible neurologic features, were positive for CSF GFAP-IgG, and had no alternative diagnosis at a single tertiary referral center. The disease control group involved patients with inflammatory and noninflammatory neurologic disorders. Candidate biomarkers were explored using CSF proteomic analysis comparing GFAP-A with idiopathic normal-pressure hydrocephalus. The most significantly altered protein was quantified by ELISA in an expanded cohort, including patients with GFAP-A and multiple control groups. The primary outcome was the between-group differences in CSF biomarker concentrations. Secondary outcomes included the associations between biomarker levels and clinical characteristics, magnetic resonance imaging (MRI) findings, CSF parameters, and inflammatory cytokines. Statistical analyses included nonparametric tests with effect sizes, Spearman correlation coefficients with confidence intervals, and Benjamini-Hochberg correction for multiple testing. In total, 102 participants were analyzed, including 42 patients with GFAP-A (median age; 61 years, 31% women). Proteomic screening identified tumor necrosis factor receptor superfamily member 9 (TNFRSF9) as the most significantly upregulated CSF protein in GFAP-A. ELISA confirmed significantly higher CSF TNFRSF9 concentrations in patients with GFAP-A compared with all control groups (Cohen d = 0.45-0.78, all adjusted  CSF TNFRSF9 may serve as a biomarker of inflammatory activity, disease severity, and relapse risk in patients with GFAP-A. The major limitations of this study include its retrospective design and modest sample size, which highlight the need for prospective validation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467873/",
+      "summary_ja": "背景：自己免疫性グリア線維酸性タンパク質（GFAP）アストロサイトパチー（GFAP-A）は、中枢神経系の炎症性疾患であり、ステロイド治療に反応し再発を繰り返す。診断には髄液中のGFAP-IgGが用いられるが、炎症活動性や病状の重症度、再発リスクを反映するバイオマーカーは不明である。  \n方法：GFAP-A患者42名と炎症性・非炎症性神経疾患患者を対象に、髄液のプロテオミクス解析を行い、GFAP-Aで有意に変動するタンパク質を探索。最も顕著な変動を示したTNFRSF9をELISAで定量し、複数の対照群と比較した。さらに、TNFRSF9濃度と臨床所見、MRI、髄液検査、炎症性サイトカインとの関連を解析した。  \n結果：TNFRSF9はGFAP-A患者の髄液で有意に上昇しており、対照群と比較して中等度から大きな効果量で差が認められた。TNFRSF9濃度は炎症活動性や病状重症度、再発リスクと関連する可能性が示唆された。  \n結論：髄液中TNFRSF9はGFAP-Aの炎症活動性や病態評価、再発予測のバイオマーカーとして有望である。ただし、後ろ向き研究かつサンプル数が限られているため、前向き研究による検証が必要である。",
+      "summary_short_ja": "自己免疫性グリア線維酸性タンパク（GFAP）アストロサイトパチー（GFAP-A）は中枢神経系の炎症性疾患であり、CSF中のGFAP-IgGが診断に用いられるが、炎症活動や重症度、再発リスクを反映するバイオマーカーは不明であった。本研究はCSFプロテオミクス解析によりTNFRSF9をGFAP-Aで有意に上昇するタンパク質として同定し、ELISAで検証。TNFRSF9は炎症活動や病態重症度、再発リスクの指標となる可能性が示されたが、後ろ向き研究かつサンプル数が限られ、前向き検証が必要である。",
+      "disease": "normal_pressure_hydrocephalus",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42467872",
+      "doi": "10.1212/WNL.0000000000218348",
+      "title": "The Promise and Peril of Alzheimer Disease Prevention.",
+      "abstract": "Interventions to delay or prevent Alzheimer disease dementia hold the promise of sizable personal and public benefit. The nomenclature, research designs, and interpretation of results for studies assessing prevention outcomes, however, are inconsistent and would benefit from greater consensus about the necessary requirements for specific intervention claims. Moreover, the public space includes substantial media attention, direct-to-consumer diagnostics, and marketing of unproven interventions for brain health and dementia prevention. This article outlines these issues in hopes of catalyzing further consensus building and alerting professional and regulatory agencies to these topics.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467872/",
+      "summary_ja": "背景：アルツハイマー病認知症の遅延や予防を目指す介入は、個人および社会に大きな利益をもたらす可能性がある。一方で、予防効果を評価する研究の用語、デザイン、結果解釈には一貫性がなく、特定の介入効果を主張するための要件について合意が不足している。  \n方法：本論文は、予防研究における用語や研究設計の問題点を整理し、介入効果の主張に必要な基準の統一を促すことを目的としている。また、メディア報道や直接消費者向け診断、科学的根拠の乏しい脳健康・認知症予防商品の市場動向も検討した。  \n結果：研究分野での用語や評価基準の不統一が混乱を招いており、さらに一般社会では誤解を生む情報や未検証の介入が広まっている現状が明らかになった。  \n結論：アルツハイマー病予防研究の信頼性向上と、専門家や規制機関による監視強化のため、用語や研究基準の統一と社会的合意形成が急務である。",
+      "summary_short_ja": "アルツハイマー病の予防介入は個人および社会に大きな利益をもたらす可能性があるが、研究の用語やデザイン、結果解釈に一貫性が欠けている。また、メディア報道や直接消費者向け診断、科学的根拠の乏しい介入の販売が広がっている。本論文はこれらの課題を整理し、専門家や規制機関による合意形成と対応の促進を提言している。",
+      "disease": "dementia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42467871",
+      "doi": "10.1212/WNL.0000000000218266",
+      "title": "Rasch-Built Overall Disability Scale for Chronic Idiopathic Axonal Polyneuropathy.",
+      "abstract": "Chronic idiopathic axonal polyneuropathy (CIAP) is a common type of chronic polyneuropathy that often affects health-related quality of life. Currently, no patient-reported disease-specific outcome measure is available to assess functional deficit in patients with CIAP. The aim of this study was to construct a patient-reported Rasch-built interval scale for patients with CIAP. A historic prospective cohort study was conducted to develop a CIAP-specific Rasch-built overall disability scale (CIAP-RODS). The preliminary scale (pre-CIAP-RODS) comprised 196 items, including 146 activity and participation items selected from the World Health Organization International Classification of Functioning, Disability and Health and 50 expert-derived items formulated in collaboration with a CIAP patients advocacy group. Participants were patients with CIAP who were requested to score their perceived difficulty to perform each item as (0) unable to perform; (1) able to perform, but with difficulty; or (2) easily performed, without difficulty. For test-retest reliability studies, 150 participants completed the pre-CIAP-RODS twice with an interval of 2-4 weeks. The pre-CIAP-RODS was subjected to Rasch analyses (RUMM2030+) to develop the final CIAP-RODS, and external validity was assessed by examining associations with the European Quality of Life 5 Dimensions 3 Level Version (EQ-5D-3L). Of 551 eligible patients invited, 268 completed the pre-CIAP-RODS (mean age 72 years; 31% female; median disease duration 14 years). Patients with relevant comorbidities or newly identified risk factors of polyneuropathy were excluded. The pre-CIAP-RODS was subjected to Rasch analyses and did not meet the Rasch model expectations. In a systematic and stepwise manner, items were removed based on disordered thresholds, misfit statistics, local dependency, previously reported patient perceptions, and clinical applicability, resulting in a final 24-item CIAP-RODS that fulfilled Rasch model requirements. Test-retest reliability was good, internal validity was robust (person separation index 0.95), and significant associations between CIAP-RODS person location and EQ-5D-3L item scores indicated good discriminative external validity. The 24-item CIAP-RODS is a disease-specific interval measure developed for detection of activity and participation limitations in patients with CIAP. Use of the CIAP-RODS in future studies is recommended to evaluate longitudinal changes in the disease course. Further studies are needed to determine responsiveness and cross-cultural validity.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467871/",
+      "summary_ja": "背景：慢性特発性軸索性多発ニューロパチー（CIAP）は慢性多発ニューロパチーの一種で、患者の生活の質に影響を与えるが、患者報告によるCIAP特異的な機能障害評価尺度は存在しない。  \n方法：CIAP患者を対象に、WHOの国際生活機能分類から146項目、患者団体と専門家が作成した50項目を含む196項目の予備尺度（pre-CIAP-RODS）を作成。患者は各項目の実行困難度を0～2で評価し、150名が2～4週間の間隔で再評価を実施。Rasch解析により尺度の精査と項目削減を行い、外的妥当性はEQ-5D-3Lとの関連で検証。  \n結果：551名中268名が回答。解析の結果、項目を段階的に削除し最終的に24項目のCIAP-RODSを構築。尺度はRaschモデルの要件を満たし、再検査信頼性良好（PSI=0.95）、EQ-5D-3Lとの有意な関連から外的妥当性も確認された。  \n結論：CIAP-RODSはCIAP患者の活動制限と参加制限を評価する疾患特異的な間隔尺度として開発され、今後の縦断的研究での使用が推奨される。感度や異文化適用性の検証が今後の課題である。",
+      "summary_short_ja": "本研究は、慢性特発性軸索性多発神経障害（CIAP）患者の機能障害を評価するための患者報告式Rasch構築尺度（CIAP-RODS）を開発した。初期の196項目から段階的に項目を削減し、最終的に24項目の尺度を完成。信頼性・妥当性が高く、生活の質評価とも関連が認められた。CIAP患者の活動制限検出に有用であり、今後の経過観察や国際比較研究への応用が期待される。",
+      "disease": "neuropathy",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42462185",
+      "doi": "10.1212/WNL.0000000000218282",
+      "title": "General Anesthesia Versus Non-GA in Endovascular Therapy for Acute Ischemic Stroke: A Systematic Review and Bayesian Meta-Analysis of RCTs.",
+      "abstract": "Endovascular thrombectomy (EVT) improves outcome in acute ischemic stroke (AIS) due to large vessel occlusion, yet the optimal anesthetic strategy remains controversial. Previous meta-analyses using frequentist methods reported no significant differences between general anesthesia (GA) and non-GA techniques; however, a recently published trial reported a high posterior probability of functional benefit with GA. We aimed to update the existing systematic review and to re-examine the cumulative randomized evidence using Bayesian statistical methods. We conducted a systematic review following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines. PubMed/MEDLINE, Embase, and Cochrane Central Register of Controlled Trials were searched from inception to January 3, 2026, for randomized controlled trials (RCTs) comparing GA with non-GA strategies during EVT in adults with AIS. Primary outcomes were functional independence (modified Rankin Scale [mRS] 0-2) at 90 days, successful reperfusion (thrombolysis in cerebral ischemia 2b-3), and 90-day mortality. Bayesian random-effects meta-analyses with weakly informative priors were performed. Results are reported as odds ratio (OR) or mean difference (MD) with 95% credible intervals (CrIs). A posterior probability of superiority exceeding 80% was considered substantial evidence of benefit. Meta-regression and sensitivity analyses were conducted. Ten RCTs (n = 1,601; mean age 70.0 years; 46.6% female) were included. For functional independence, GA was associated with a 94.2% posterior probability of superiority (OR 1.24, 95% CrI 0.94-1.66). GA was associated with higher successful reperfusion rates (OR 1.73, 95% CrI 1.23-2.43; P (superiority) > 99%). No substantial differences were observed for 90-day mortality (OR 0.92, 95% CrI 0.67-1.27; P [superiority] 69%), excellent functional outcome (mRS 0-1; OR 1.06, 95% CrI 0.80-1.41; P [superiority] 67%), or symptomatic intracranial hemorrhage (OR 0.93, 95% CrI 0.56-1.52; P [superiority] 62%). GA was associated with increased intraoperative hypotension (OR 4.28, 95% CrI 2.35-7.86; P [superiority] 0.01%) and increased pneumonia risk (OR 1.60, 95% CrI 0.95-2.81; P [superiority] 3%). This meta-analysis using a Bayesian approach provides evidence that GA during EVT for AIS is associated with improved functional outcomes, challenging previous conclusions of equivalence. These findings should be interpreted considering open-label designs and heterogeneous non-GA comparators. They suggest that GA may be preferred but confirmatory evidence is needed.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462185/",
+      "summary_ja": "【背景】急性虚血性脳卒中（AIS）に対する血管内血栓除去術（EVT）における麻酔法の最適戦略は未だ議論中である。従来の頻度主義的メタ解析では全身麻酔（GA）と非全身麻酔（非GA）に有意差は報告されていないが、新たな試験ではGAの機能的利益が示唆された。  \n【方法】2026年1月までのRCTを対象に、GAと非GAの比較を行った10件（計1,601例）を対象に、ベイズ統計を用いたシステマティックレビューとメタ解析を実施。主要評価項目は90日後の機能的自立（mRS 0-2）、再灌流成功率、90日死亡率とした。  \n【結果】GAは機能的自立の改善（オッズ比1.24、優越確率94.2%）および再灌流成功率の向上（オッズ比1.73、優越確率99%以上）と関連した。一方、90日死亡率や優れた機能的結果（mRS 0-1）、症候性頭蓋内出血に有意差はなかった。GAは術中低血圧や肺炎リスクの増加とも関連した。  \n【結論】ベイズ解析により、AISに対するEVT時のGAは機能的予後改善に寄与する可能性が示された。従来の同等結論に異を唱えるが、非盲検試験や非GA群の多様性を考慮し、さらなる検証が必要である。",
+      "summary_short_ja": "急性虚血性脳卒中に対する血管内治療（EVT）での全身麻酔（GA）と非全身麻酔（非GA）を比較した10件のRCT（計1,601例）をベイズ統計で再解析した結果、GAは機能的独立（90日後のmRS 0-2）改善の可能性が高く（優位確率94.2%）、再灌流成功率も有意に高かった。一方で90日死亡率や出血リスクに差はなく、GAは術中低血圧や肺炎リスク増加と関連した。GAの有用性を示唆するが、さらなる検証が必要である。",
+      "disease": "stroke",
+      "section": "treatment"
+    }
+  ]
+}

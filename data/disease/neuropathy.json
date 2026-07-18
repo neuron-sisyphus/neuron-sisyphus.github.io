@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42467871",
+      "doi": "10.1212/WNL.0000000000218266",
+      "title": "Rasch-Built Overall Disability Scale for Chronic Idiopathic Axonal Polyneuropathy.",
+      "abstract": "Chronic idiopathic axonal polyneuropathy (CIAP) is a common type of chronic polyneuropathy that often affects health-related quality of life. Currently, no patient-reported disease-specific outcome measure is available to assess functional deficit in patients with CIAP. The aim of this study was to construct a patient-reported Rasch-built interval scale for patients with CIAP. A historic prospective cohort study was conducted to develop a CIAP-specific Rasch-built overall disability scale (CIAP-RODS). The preliminary scale (pre-CIAP-RODS) comprised 196 items, including 146 activity and participation items selected from the World Health Organization International Classification of Functioning, Disability and Health and 50 expert-derived items formulated in collaboration with a CIAP patients advocacy group. Participants were patients with CIAP who were requested to score their perceived difficulty to perform each item as (0) unable to perform; (1) able to perform, but with difficulty; or (2) easily performed, without difficulty. For test-retest reliability studies, 150 participants completed the pre-CIAP-RODS twice with an interval of 2-4 weeks. The pre-CIAP-RODS was subjected to Rasch analyses (RUMM2030+) to develop the final CIAP-RODS, and external validity was assessed by examining associations with the European Quality of Life 5 Dimensions 3 Level Version (EQ-5D-3L). Of 551 eligible patients invited, 268 completed the pre-CIAP-RODS (mean age 72 years; 31% female; median disease duration 14 years). Patients with relevant comorbidities or newly identified risk factors of polyneuropathy were excluded. The pre-CIAP-RODS was subjected to Rasch analyses and did not meet the Rasch model expectations. In a systematic and stepwise manner, items were removed based on disordered thresholds, misfit statistics, local dependency, previously reported patient perceptions, and clinical applicability, resulting in a final 24-item CIAP-RODS that fulfilled Rasch model requirements. Test-retest reliability was good, internal validity was robust (person separation index 0.95), and significant associations between CIAP-RODS person location and EQ-5D-3L item scores indicated good discriminative external validity. The 24-item CIAP-RODS is a disease-specific interval measure developed for detection of activity and participation limitations in patients with CIAP. Use of the CIAP-RODS in future studies is recommended to evaluate longitudinal changes in the disease course. Further studies are needed to determine responsiveness and cross-cultural validity.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467871/",
+      "summary_ja": "背景：慢性特発性軸索性多発ニューロパチー（CIAP）は慢性多発ニューロパチーの一種で、患者の生活の質に影響を与えるが、患者報告によるCIAP特異的な機能障害評価尺度は存在しない。  \n方法：CIAP患者を対象に、WHOの国際生活機能分類から146項目、患者団体と専門家が作成した50項目を含む196項目の予備尺度（pre-CIAP-RODS）を作成。患者は各項目の実行困難度を0～2で評価し、150名が2～4週間の間隔で再評価を実施。Rasch解析により尺度の精査と項目削減を行い、外的妥当性はEQ-5D-3Lとの関連で検証。  \n結果：551名中268名が回答。解析の結果、項目を段階的に削除し最終的に24項目のCIAP-RODSを構築。尺度はRaschモデルの要件を満たし、再検査信頼性良好（PSI=0.95）、EQ-5D-3Lとの有意な関連から外的妥当性も確認された。  \n結論：CIAP-RODSはCIAP患者の活動制限と参加制限を評価する疾患特異的な間隔尺度として開発され、今後の縦断的研究での使用が推奨される。感度や異文化適用性の検証が今後の課題である。",
+      "summary_short_ja": "本研究は、慢性特発性軸索性多発神経障害（CIAP）患者の機能障害を評価するための患者報告式Rasch構築尺度（CIAP-RODS）を開発した。初期の196項目から段階的に項目を削減し、最終的に24項目の尺度を完成。信頼性・妥当性が高く、生活の質評価とも関連が認められた。CIAP患者の活動制限検出に有用であり、今後の経過観察や国際比較研究への応用が期待される。",
+      "disease": "neuropathy",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42127357",
       "doi": "10.1212/WNL.0000000000218063",
       "title": "Clinical Reasoning: A 55-Year-Old Man With Rapidly Progressive Weakness and Numbness.",

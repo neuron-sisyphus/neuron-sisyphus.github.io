@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42467874",
+      "doi": "10.1212/WNL.0000000000218351",
+      "title": "Comparison of the Efficacy and Safety of Myasthenia Gravis Treatments: A Bayesian Network Meta-Analysis.",
+      "abstract": "In the past decade, several novel therapies have shown promise in treating generalized myasthenia gravis (MG); however, no head-to-head prospective studies have compared their efficacy and safety. To assist clinicians in navigating this complex treatment landscape, we sought to compare treatments while accounting for differences in trial populations. We conducted a Bayesian network meta-analysis (PROSPERO ID: CRD42023428733) of MG treatments. We searched Scopus, Embase, Web of Science, CENTRAL, and MEDLINE up to May 2, 2025, for randomized trials in MG. Two independent reviewers (N.M. and M.R.) identified prospective multiarm studies of adults (18 or older) with generalized MG that reported mean treatment difference, with uncertainty, in MG-Activities of Daily Living (MG-ADL) or Quantitative MG (QMG) score change from baseline. Of 4,823 eligible studies, 27 placebo-controlled randomized trials (placebo n = 1,086; treatment n = 1,232) were included that targeted B cells, neonatal Fc receptor (FcRn), complement activity, CD40, and interleukin-6 signaling, as well as immunoglobulin G and broad immunosuppression therapy. Compared to those treated with placebo and standard of care, QMG scores decreased by an average of -3.63 (95% credible interval -4.43 to -2.77) points more in patients treated with FcRn inhibitors, -2.59 (-3.92 to -1.28) points more in patients treated with C5 complement inhibitors (C5i), and -2.50 (-5.11 to 0.12) points more in patients treated with CD19 FcRn inhibitors, C5i, and CD19",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467874/",
+      "summary_ja": "背景：全身性重症筋無力症（MG）に対する新規治療法が近年増加しているが、これらの治療の効果と安全性を直接比較した前向き試験は存在しない。  \n方法：MG治療の効果を比較するため、ベイズネットワークメタアナリシスを実施した。2025年5月までに報告された成人全身性MG患者を対象とした多群ランダム化比較試験27件（プラセボ対照、計2,318例）を対象に、MG-ADLおよびQMGスコアの変化を評価した。  \n結果：プラセボおよび標準治療と比較し、FcRn阻害剤群ではQMGスコアが平均-3.63点（95%信用区間-4.43～-2.77）、C5補体阻害剤群では-2.59点（-3.92～-1.28）低下し、CD19標的FcRn阻害剤群も同様の改善を示した。  \n結論：FcRn阻害剤およびC5補体阻害剤は、全身性MGの症状改善において有意な効果を示し、安全性も考慮した上で治療選択の有力な候補となる。",
+      "summary_short_ja": "本研究は、全身性重症筋無力症（MG）治療薬の効果と安全性を比較するため、ベイズネットワークメタ解析を実施した。27件の無作為化プラセボ対照試験を対象に、B細胞、FcRn受容体、補体活性、CD40、IL-6シグナルなどを標的とした治療効果を評価。FcRn阻害薬やC5補体阻害薬はプラセボよりQMGスコアを有意に改善し、MG治療の選択肢として有望であることが示された。",
+      "disease": "myasthenia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42407020",
       "doi": "10.1212/WNL.0000000000218308",
       "title": "Phenotype, Severity, and Therapy of Patients With LRP4 Antibody-Associated Myasthenia Gravis in the German Myasthenia Gravis Registry.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42462185",
+      "doi": "10.1212/WNL.0000000000218282",
+      "title": "General Anesthesia Versus Non-GA in Endovascular Therapy for Acute Ischemic Stroke: A Systematic Review and Bayesian Meta-Analysis of RCTs.",
+      "abstract": "Endovascular thrombectomy (EVT) improves outcome in acute ischemic stroke (AIS) due to large vessel occlusion, yet the optimal anesthetic strategy remains controversial. Previous meta-analyses using frequentist methods reported no significant differences between general anesthesia (GA) and non-GA techniques; however, a recently published trial reported a high posterior probability of functional benefit with GA. We aimed to update the existing systematic review and to re-examine the cumulative randomized evidence using Bayesian statistical methods. We conducted a systematic review following Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines. PubMed/MEDLINE, Embase, and Cochrane Central Register of Controlled Trials were searched from inception to January 3, 2026, for randomized controlled trials (RCTs) comparing GA with non-GA strategies during EVT in adults with AIS. Primary outcomes were functional independence (modified Rankin Scale [mRS] 0-2) at 90 days, successful reperfusion (thrombolysis in cerebral ischemia 2b-3), and 90-day mortality. Bayesian random-effects meta-analyses with weakly informative priors were performed. Results are reported as odds ratio (OR) or mean difference (MD) with 95% credible intervals (CrIs). A posterior probability of superiority exceeding 80% was considered substantial evidence of benefit. Meta-regression and sensitivity analyses were conducted. Ten RCTs (n = 1,601; mean age 70.0 years; 46.6% female) were included. For functional independence, GA was associated with a 94.2% posterior probability of superiority (OR 1.24, 95% CrI 0.94-1.66). GA was associated with higher successful reperfusion rates (OR 1.73, 95% CrI 1.23-2.43; P (superiority) > 99%). No substantial differences were observed for 90-day mortality (OR 0.92, 95% CrI 0.67-1.27; P [superiority] 69%), excellent functional outcome (mRS 0-1; OR 1.06, 95% CrI 0.80-1.41; P [superiority] 67%), or symptomatic intracranial hemorrhage (OR 0.93, 95% CrI 0.56-1.52; P [superiority] 62%). GA was associated with increased intraoperative hypotension (OR 4.28, 95% CrI 2.35-7.86; P [superiority] 0.01%) and increased pneumonia risk (OR 1.60, 95% CrI 0.95-2.81; P [superiority] 3%). This meta-analysis using a Bayesian approach provides evidence that GA during EVT for AIS is associated with improved functional outcomes, challenging previous conclusions of equivalence. These findings should be interpreted considering open-label designs and heterogeneous non-GA comparators. They suggest that GA may be preferred but confirmatory evidence is needed.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462185/",
+      "summary_ja": "【背景】急性虚血性脳卒中（AIS）に対する血管内血栓除去術（EVT）における麻酔法の最適戦略は未だ議論中である。従来の頻度主義的メタ解析では全身麻酔（GA）と非全身麻酔（非GA）に有意差は報告されていないが、新たな試験ではGAの機能的利益が示唆された。  \n【方法】2026年1月までのRCTを対象に、GAと非GAの比較を行った10件（計1,601例）を対象に、ベイズ統計を用いたシステマティックレビューとメタ解析を実施。主要評価項目は90日後の機能的自立（mRS 0-2）、再灌流成功率、90日死亡率とした。  \n【結果】GAは機能的自立の改善（オッズ比1.24、優越確率94.2%）および再灌流成功率の向上（オッズ比1.73、優越確率99%以上）と関連した。一方、90日死亡率や優れた機能的結果（mRS 0-1）、症候性頭蓋内出血に有意差はなかった。GAは術中低血圧や肺炎リスクの増加とも関連した。  \n【結論】ベイズ解析により、AISに対するEVT時のGAは機能的予後改善に寄与する可能性が示された。従来の同等結論に異を唱えるが、非盲検試験や非GA群の多様性を考慮し、さらなる検証が必要である。",
+      "summary_short_ja": "急性虚血性脳卒中に対する血管内治療（EVT）での全身麻酔（GA）と非全身麻酔（非GA）を比較した10件のRCT（計1,601例）をベイズ統計で再解析した結果、GAは機能的独立（90日後のmRS 0-2）改善の可能性が高く（優位確率94.2%）、再灌流成功率も有意に高かった。一方で90日死亡率や出血リスクに差はなく、GAは術中低血圧や肺炎リスク増加と関連した。GAの有用性を示唆するが、さらなる検証が必要である。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42456081",
       "doi": "10.1212/WNL.0000000000218335",
       "title": "Incident Stroke in the United States and Foreign Born Black Individuals.",

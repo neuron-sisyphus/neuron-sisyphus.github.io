@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42467872",
+      "doi": "10.1212/WNL.0000000000218348",
+      "title": "The Promise and Peril of Alzheimer Disease Prevention.",
+      "abstract": "Interventions to delay or prevent Alzheimer disease dementia hold the promise of sizable personal and public benefit. The nomenclature, research designs, and interpretation of results for studies assessing prevention outcomes, however, are inconsistent and would benefit from greater consensus about the necessary requirements for specific intervention claims. Moreover, the public space includes substantial media attention, direct-to-consumer diagnostics, and marketing of unproven interventions for brain health and dementia prevention. This article outlines these issues in hopes of catalyzing further consensus building and alerting professional and regulatory agencies to these topics.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42467872/",
+      "summary_ja": "背景：アルツハイマー病認知症の遅延や予防を目指す介入は、個人および社会に大きな利益をもたらす可能性がある。一方で、予防効果を評価する研究の用語、デザイン、結果解釈には一貫性がなく、特定の介入効果を主張するための要件について合意が不足している。  \n方法：本論文は、予防研究における用語や研究設計の問題点を整理し、介入効果の主張に必要な基準の統一を促すことを目的としている。また、メディア報道や直接消費者向け診断、科学的根拠の乏しい脳健康・認知症予防商品の市場動向も検討した。  \n結果：研究分野での用語や評価基準の不統一が混乱を招いており、さらに一般社会では誤解を生む情報や未検証の介入が広まっている現状が明らかになった。  \n結論：アルツハイマー病予防研究の信頼性向上と、専門家や規制機関による監視強化のため、用語や研究基準の統一と社会的合意形成が急務である。",
+      "summary_short_ja": "アルツハイマー病の予防介入は個人および社会に大きな利益をもたらす可能性があるが、研究の用語やデザイン、結果解釈に一貫性が欠けている。また、メディア報道や直接消費者向け診断、科学的根拠の乏しい介入の販売が広がっている。本論文はこれらの課題を整理し、専門家や規制機関による合意形成と対応の促進を提言している。",
+      "disease": "dementia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42447420",
       "doi": "10.1212/WNL.0000000000218307",
       "title": "Orexin, Sleep, and Cognition in Alzheimer Disease: Non-REM Oscillatory Activity and Neural Resilience.",
