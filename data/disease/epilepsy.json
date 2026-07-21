@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42475648",
+      "doi": "10.1212/WNL.0000000000218269",
+      "title": "Fracture Risk With Lacosamide vs Levetiracetam Monotherapy in Adults With Epilepsy.",
+      "abstract": "Patients with epilepsy exhibit substantially elevated fracture risk. However, comparative skeletal safety data for newer antiseizure medications (ASMs) remain limited. The aim of this study was to compare fracture risk between lacosamide and levetiracetam monotherapy in adults with epilepsy. This retrospective cohort study used the TriNetX Global Collaborative Network. Adults with epilepsy initiating lacosamide or levetiracetam monotherapy were identified, excluding those receiving concomitant ASMs. Propensity score matching (1:1) balanced cohorts on demographics, comorbidities, and medications. The primary outcome was composite fracture (hip, cervical vertebra, and forearm). Cox regression estimated hazard ratios (HR) over 5-year follow-up. A sensitivity analysis requiring ≥6 prescription fills and excluding additional newer generation ASMs was performed. After matching, 20,888 patients remained per cohort with balanced covariates. Composite fracture occurred in 574 (2.86%) lacosamide-treated vs 418 (2.09%) levetiracetam-treated patients (HR 1.27; 95% CI 1.11-1.44;  Lacosamide monotherapy was associated with significantly higher fracture risk compared with levetiracetam. These findings should inform ASM selection in patients with elevated skeletal fragility. Limitations include residual confounding and the retrospective design that precludes causal inferences. This study provides Class III evidence that among adults with epilepsy receiving monotherapy, lacosamide is associated with a higher 5-year risk of fracture than levetiracetam.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42475648/",
+      "summary_ja": "背景：てんかん患者は骨折リスクが高いが、新しい抗てんかん薬（ASM）の骨格安全性に関する比較データは限られている。  \n方法：TriNetXデータベースを用いた後ろ向きコホート研究で、てんかん成人患者のうちラコサミド単剤療法群とレベチラセタム単剤療法群を抽出し、併用薬を除外。傾向スコアマッチング（1:1）により年齢や併存疾患などを調整した。主要評価項目は股関節、頸椎、前腕の複合骨折で、5年間の追跡期間中のハザード比（HR）をCox回帰で算出。感度分析も実施。  \n結果：マッチング後、各群20,888例。複合骨折はラコサミド群で574例（2.86%）、レベチラセタム群で418例（2.09%）発生し、ラコサミド群の骨折リスクは有意に高く（HR 1.27、95%CI 1.11-1.44）示された。  \n結論：てんかん成人の単剤療法において、ラコサミドはレベチラセタムよりも骨折リスクが高いことが示された。骨格脆弱性の高い患者のASM選択に留意が必要である。研究は後ろ向きで交絡因子の影響を完全には除外できない点が限界。",
+      "summary_short_ja": "てんかん患者は骨折リスクが高いが、新しい抗てんかん薬の骨安全性比較は限られている。本研究は成人てんかん患者のラコサミド単剤療法とレベチラセタム単剤療法の骨折リスクを後ろ向きコホートで比較した。5年間追跡で、ラコサミド群はレベチラセタム群より複合骨折リスクが有意に高く（HR 1.27）、骨脆弱性のある患者の薬剤選択に示唆を与える。ただし因果関係は不明である。",
+      "disease": "epilepsy",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42348804",
       "doi": "10.1212/WNL.0000000000218215",
       "title": "A Probabilistic Approach to Functional Organization Based on Extraoperative Electrocortical Stimulation Mapping.",
