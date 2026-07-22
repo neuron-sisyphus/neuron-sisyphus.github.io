@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42479991",
+      "doi": "10.1212/WNL.0000000000218310",
+      "title": "Gray Matter Damage and Long-Term Disability, Cognitive Outcome, and Survival in Patients With Multiple Sclerosis.",
+      "abstract": "Gray matter (GM) damage is a key determinant of clinical disability in multiple sclerosis (MS), but its relevance to very long-term outcomes remains insufficiently characterized. We assessed associations between baseline and 12-month MRI measures of GM and white matter (WM) damage and long-term outcomes in relapse-onset MS. We conducted a prospective longitudinal single-center cohort study of relapse-onset MS patients enrolled between 1993 and 1998. Participants underwent clinical and 1.5T brain MRI assessments at baseline and after 12 months. MRI measures included T2-lesion and T1-lesion volumes, GM, WM, and thalamic volume fractions, magnetization transfer ratio (MTR) of GM, thalamus, normal-appearing WM, and WM lesions. Escalation to high-efficacy disease-modifying therapies (HE-DMTs) was recorded. Outcomes included Expanded Disability Status Scale (EDSS) worsening, evolution to a more severe disease stage, MS-related death, and cognitive deterioration. Associations were evaluated using LASSO-regularized logistic regression with internal bootstrap validation. Seventy-three relapse-onset MS patients (mean age = 33.0 years; female = 69.9%) were followed for a median of 25.9 years (interquartile range = 18.1-27.1; patients lost during follow-up = 11). EDSS worsening occurred in 79.5% of patients, 72.6% evolved to a more severe disease stage, 24.7% died from MS-related causes, and 39.5% of patients with cognitive data (17/43) experienced cognitive deterioration. EDSS worsening was associated with lower baseline GM fraction (GMF) (standardized-β = -0.561), escalation to HE-DMTs (standardized-β = 0.059), lower baseline thalamic fraction (standardized-β = -0.115), lower baseline normal-appearing WM MTR histogram peak height (standardized-β = -0.010), and greater 12-month decline in GM MTR histogram peak height (standardized-β = -0.115) (area under the curve [AUC] = 0.843, 95% CI 0.744-0.941). Evolution to a more severe disease stage was associated with higher 12-month EDSS score change (standardized-β = 0.167) and lower baseline GMF (standardized-β = -0.151) (AUC = 0.793, 95% CI 0.670-0.916). MS-related death was associated with male sex (standardized-β = 0.063), higher baseline EDSS score (standardized-β = 0.182), lower baseline GMF (standardized-β = -0.304), lower baseline GM MTR histogram peak height (standardized-β = -0.050), and greater 12-month decline in mean thalamic MTR (standardized-β = -0.370) (AUC = 0.887, 95% CI 0.813-0.961). Cognitive deterioration was associated with older baseline age (standardized-β = 0.197), lower baseline brain parenchymal fraction (standardized-β = -0.039), and lower baseline mean GM MTR (standardized-β = -0.376) (AUC = 0.891, 95% CI 0.788-0.994). Brain GM damage showed consistent associations with disability worsening and evolution, mortality, and cognitive deterioration over 26 years in relapse-onset MS, supporting the long-term clinical relevance of GM-focused MRI markers.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479991/",
+      "summary_ja": "背景：多発性硬化症（MS）における灰白質（GM）損傷は臨床的障害の重要因子であるが、長期予後との関連は十分に解明されていない。  \n方法：1993～1998年に登録された再発型MS患者73名（平均年齢33歳、女性69.9%）を対象に、ベースラインと12か月後のMRI（T2・T1病変量、GM・白質（WM）・視床容積、磁化率転移比（MTR）など）を測定し、約26年間追跡。障害進行（EDSS悪化）、重症化、MS関連死亡、認知機能低下との関連をLASSO正則化ロジスティック回帰で解析した。  \n結果：EDSS悪化は79.5%、重症化72.6%、MS関連死24.7%、認知低下は43例中17例で認められた。EDSS悪化は低いベースラインGM容積や視床容積、正常白質MTRの低下、12か月間のGM MTR低下と有意に関連。重症化は12か月のEDSS変化と低いGM容積、MS関連死は男性、初期EDSS高値、低いGM容積・MTR、視床MTR低下と関連。認知低下は高齢、低い脳実質容積とGM MTRと関連した。  \n結論：再発型MSにおけるGM損傷は、長期にわたる障害進行、重症化、死亡、認知機能低下と一貫して関連し、GMを中心としたMRI指標の臨床的意義を支持する。",
+      "summary_short_ja": "多発性硬化症（MS）患者73名を約26年間追跡し、灰白質（GM）損傷が長期的な障害進行、重症化、死亡率、認知機能低下と強く関連することをMRIで示した。特に、初期のGM量減少や磁化率低下が予後不良の指標となり、GM損傷はMSの長期臨床転帰評価に重要な役割を果たすことが明らかとなった。",
+      "disease": "ms",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42320011",
       "doi": "10.1212/WNL.0000000000218254",
       "title": "Pearls & Oy-sters: Radiologic Lag in Pediatric-Onset Multiple Sclerosis.",

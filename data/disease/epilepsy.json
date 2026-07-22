@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42479996",
+      "doi": "10.1212/WNL.0000000000218281",
+      "title": "A Predictive Model for Short-Term Mortality After Status Epilepticus: The ACARD Score.",
+      "abstract": "Reliable prediction of short-term mortality in status epilepticus (SE) can contribute to guide clinical decisions. Current prognostic systems achieve only acceptable predictive power and show lack of generalizability or poor calibration. We aimed to identify clinical predictors of short-term mortality in patients with nonhypoxic SE and develop a predictive score. This was a multicenter, multinational cohort study based on registry data. Participants were consecutive episodes of SE in participants aged 14 years or older from Modena (Italy) (derivation cohort) and in participants aged 18 years or older from Salzburg (Austria) (validation cohort). The predefined outcome was 30-day mortality after the onset of SE. Age, sex, level of consciousness before treatment, semiology of SE, level of disability at baseline before SE, etiology, and treatment refractoriness were assessed. Adjusted regression coefficients of each independent predictor were transformed to produce a points-based risk scoring system. The Italian cohort included 689 episodes, and the Austrian cohort comprised 569 episodes of SE. In the derivation cohort, the 30-day mortality rate was 27.3%. The independent risk factors were aged 75 years or older (odds ratio [OR] 5.52, 95% CI 3.45-8.83;  The ACARD score is a user-friendly tool developed to predict 30-day mortality after nonhypoxic SE. It has the potential to identify participants at high risk of short-term mortality and outperform the performance of other available scoring systems.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479996/",
+      "summary_ja": "背景：てんかん重積状態（SE）における短期死亡率の信頼できる予測は、臨床判断の支援に重要であるが、既存の予測システムは予測精度や一般化可能性に課題がある。  \n方法：イタリア・モデナの689例（14歳以上）を対象とした多施設多国籍コホート研究で予測モデルを作成し、オーストリア・ザルツブルクの569例（18歳以上）で検証した。30日死亡率をアウトカムとし、年齢、性別、治療前の意識レベル、SEの症状、基礎障害度、原因、治療抵抗性を評価。多変量回帰分析により独立予測因子を抽出し、点数化したリスクスコア（ACARDスコア）を開発。  \n結果：導出コホートの30日死亡率は27.3％で、75歳以上（OR 5.52）などが独立したリスク因子であった。  \n結論：ACARDスコアは非低酸素性SEの30日死亡率を予測する簡便なツールであり、既存のスコアより高精度に高リスク患者を特定可能である。",
+      "summary_short_ja": "本研究は、非低酸素性てんかん重積状態（SE）患者の30日間短期死亡率を予測するACARDスコアを開発した。イタリアとオーストリアの多施設コホートを用い、年齢75歳以上や意識レベル、発作型、基礎障害度、原因、治療抵抗性などを独立予測因子として特定。ACARDスコアは既存の予測モデルより高精度で、臨床判断の支援に有用である。",
+      "disease": "epilepsy",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42475648",
       "doi": "10.1212/WNL.0000000000218269",
       "title": "Fracture Risk With Lacosamide vs Levetiracetam Monotherapy in Adults With Epilepsy.",

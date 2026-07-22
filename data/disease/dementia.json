@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42479994",
+      "doi": "10.1212/WNL.0000000000218336",
+      "title": "Association Between Plasma GFAP and Medial Temporal Atrophy and Cognition in Amyloid-Negative Cerebrovascular Disease.",
+      "abstract": "Plasma glial fibrillary acidic protein (GFAP), a marker of astrocyte reactivity, is elevated across multiple neurodegenerative conditions, including Alzheimer disease. However, its role in neurodegeneration and cognitive decline driven by cerebrovascular pathology, independent of β-amyloid (Aβ) copathology, remains poorly characterized. We investigated whether plasma GFAP is associated with medial temporal atrophy and cognition across a spectrum of cerebrovascular burden in Aβ-negative cognitively impaired individuals. In this cross-sectional multicenter study, Aβ PET-negative cognitively impaired participants were recruited from South Korean memory clinics. Plasma GFAP was measured using ultrasensitive Simoa assays. White matter hyperintensity burden was graded using the Fazekas scale and stratified into low (LVP: Fazekas 1) and high (HVP: Fazekas 2-3) cerebrovascular burden groups. Medial temporal gray matter density was assessed using voxel-based morphometry, and hippocampal and amygdalar volumes were derived from T1-weighted MRI adjusted for intracranial volume. Linear regression, interaction, and bootstrap mediation models were used to assess associations among GFAP, brain structure, and cognition. A total of 324 participants were included (LVP n = 203; HVP n = 121; median age 73 years [interquartile range 66-78]; 67.9% female). Compared with LVP, HVP participants were older (75 vs 71 years;  In Aβ-negative cognitively impaired individuals with high cerebrovascular burden, elevated plasma GFAP is associated with medial temporal atrophy and cognitive decline, suggesting GFAP may capture astrocyte-reactivity relevant to vascular cognitive impairment beyond amyloid pathology. These cross-sectional findings require confirmation in longitudinal and ethnically diverse cohorts.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479994/",
+      "summary_ja": "背景：グリア細胞の反応性マーカーである血漿グリア線維酸性タンパク質（GFAP）は、アルツハイマー病など多くの神経変性疾患で上昇するが、β-アミロイド（Aβ）非依存の脳血管病変による神経変性や認知機能低下における役割は不明である。  \n方法：韓国の記憶クリニックからAβ PET陰性の認知障害者324名（低血管負荷群203名、高血管負荷群121名）を対象に、超高感度Simoa法で血漿GFAPを測定。白質病変はFazekasスケールで評価し、内側側頭葉の灰白質密度はボクセルベース形態計測法、海馬・扁桃体容積はMRIで算出。線形回帰や媒介分析でGFAP、脳構造、認知機能の関連を検討した。  \n結果：高血管負荷群は低血管負荷群より年齢が高く、血漿GFAP値が有意に上昇。高血管負荷群において、GFAPの上昇は内側側頭葉萎縮および認知機能低下と関連した。  \n結論：Aβ陰性の認知障害者で血管負荷が高い場合、血漿GFAPは血管性認知障害に関連する星状膠細胞反応を反映し、内側側頭葉の萎縮や認知低下と結びつく可能性が示された。今後、縦断的かつ多様な集団での検証が必要である。",
+      "summary_short_ja": "アミロイド陰性の認知障害者において、血漿GFAP（アストロサイト反応の指標）が高いほど、内側側頭葉の萎縮および認知機能低下と関連することが示された。特に脳血管負荷が高い群で顕著であり、GFAPはアミロイド病理とは独立した血管性認知障害の病態把握に有用と考えられる。今後、縦断的かつ多様な集団での検証が必要である。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42479989",
+      "doi": "10.1212/WNL.0000000000218278",
+      "title": "Association Between Postmortem Pathologic Burden and the Rate of Clinical Progression in Patients With Frontotemporal Lobar Degeneration.",
+      "abstract": "Histopathologic staging of Alzheimer disease has led to validation of imaging techniques that guide diagnosis and treatment. We previously constructed preliminary phases of the sequential progression of TDP-43 and tau to guide similar efforts in behavioral-variant frontotemporal dementia (bvFTD). In this article, we expand this work using digital pathology and longitudinal clinical data to more comprehensively model the relationship between clinical progression and the distribution and severity of postmortem frontotemporal lobar degeneration (FTLD) pathology. In this retrospective cohort study, 101 patients (42% female, median age at symptom onset = 63 years) were selected from the Penn Integrated Neurodegenerative Disease Database and had both longitudinal assessments and primary neuropathologic diagnosis of FTLD-Tau or FTLD-TDP. We used validated methods to quantify the burden of primary pathology from up to 6 cortical regions across hemispheres. FTLD-TDP pathologic phase was constructed from diagnostic pathology data based on published criteria. We tested the association between pathologic metrics and (1) disease duration or (2) the rate of clinic progression measured by 2 independent global measures (Clinical Dementia Rating Scale-Sum of Boxes [CDR-SB] and Mini-Mental State Examination [MMSE]). Linear regression and linear mixed-effects models were adjusted for hemisphere sampled, sex, age at onset, pathogenic variant status, and pathologic subtype. Disease duration did not associate with pathologic burden in multiple regression (FTLD-TDP β = 0.01 [-0.06, 0.09];  Greater TDP-43 burden was most closely associated with antemortem clinical decline rather than cumulative aggregation through the disease course. These human data suggest that the temporal dynamics of protein aggregation may differ among FTLD proteinopathies, with implications for the interpretation of FTLD-Tau and FTLD-TDP‑specific biomarkers as these are developed.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42479989/",
+      "summary_ja": "背景：アルツハイマー病の組織病理学的段階付けは、診断や治療を導く画像診断技術の検証に寄与している。前頭側頭葉変性症（FTLD）におけるTDP-43およびタウ蛋白の進行段階モデルを構築し、行動変異型前頭側頭型認知症（bvFTD）の臨床進行との関連を検討した。  \n方法：ペンシルベニア統合神経変性疾患データベースからFTLD-TauまたはFTLD-TDPと診断された101名（女性42％、発症中央値63歳）を対象に、縦断的臨床評価と死後病理データを用いて、最大6つの皮質領域における病理負荷を定量化。TDP-43病理相を既存基準に基づき構築し、病理指標と（1）疾患期間、（2）臨床進行速度（CDR-SB、MMSE）との関連を多変量回帰および線形混合効果モデルで解析した。  \n結果：疾患期間と病理負荷には有意な関連が認められなかった（FTLD-TDP β=0.01 [-0.06, 0.09]）。一方、TDP-43の蓄積量は死前の臨床的悪化と強く関連し、疾患経過中の累積とは異なる動態を示した。  \n結論：FTLDにおける蛋白質凝集の時間的進行は蛋白質病理型により異なり、FTLD-TauおよびFTLD-TDP特異的バイオマーカーの解釈や開発に重要な示唆を与える。",
+      "summary_short_ja": "本研究は、前頭側頭葉変性症（FTLD）患者101名の死後病理学的負荷と臨床進行速度の関連を検討した。TDP-43およびタウ蛋白の蓄積をデジタル病理と縦断的臨床データで解析し、TDP-43負荷が病気の経過よりも臨床的悪化速度と強く関連することを示した。これにより、FTLDの蛋白蓄積動態が異なり、バイオマーカー開発に重要な示唆を与える。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42475653",
       "doi": "10.1212/WNL.0000000000218297",
       "title": "Multidomain Lifestyle Intervention in Mild Cognitive Impairment: Subgroup Analysis of the SUPERBRAIN-MEET Randomized Trial.",
