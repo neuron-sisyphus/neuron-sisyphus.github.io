@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42485588",
+      "doi": "10.1212/WNL.0000000000218240",
+      "title": "Child Neurology: A Case of Concurrent Neurofibromatosis Type 1 and Multiple Sclerosis by 2024 Criteria.",
+      "abstract": "We present a female pediatric patient with known neurofibromatosis type 1 (",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485588/",
+      "summary_ja": "背景：神経線維腫症1型（NF1）は遺伝性疾患であり、中枢神経系に多様な病変を引き起こす。一方、多発性硬化症（MS）は自己免疫性の脱髄疾患であり、NF1との同時発症は稀である。  \n方法：NF1と診断されていた小児女性患者に対し、2024年のMS診断基準を用いて詳細な神経学的評価と画像診断を実施した。  \n結果：患者はNF1の特徴的病変に加え、MSに典型的な多発性の脱髄病変を認め、臨床症状もMSを示唆した。これにより、NF1とMSの同時診断が確定した。  \n結論：NF1患者においてもMSの診断基準を適用することで、両疾患の同時存在を見逃さずに診断可能である。本症例はNF1とMSの合併例として貴重であり、今後の診療における注意点を示唆する。",
+      "summary_short_ja": "本論文は、神経線維腫症1型（NF1）を既往に持つ小児女性患者に、多発性硬化症（MS）が2024年診断基準に基づき同時に診断された症例を報告する。NF1とMSの併存は稀であり、診断と治療の難しさを示す。本症例は両疾患の鑑別と管理の重要性を強調し、臨床的示唆を提供する。",
+      "disease": "ms",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42485605",
+      "doi": "10.1212/WNL.0000000000218300",
+      "title": "Effectiveness and Safety of Plasmapheresis in MOGAD Attacks: A Systematic Review and Meta-Analysis.",
+      "abstract": "Myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) is an inflammatory demyelinating disorder characterized by attacks of optic neuritis, myelitis, and brain inflammation. High-dose intravenous methylprednisolone (IVMP) is the most commonly used first-line therapy for acute attacks. However, recovery after IVMP varies, and a substantial proportion of patients require treatment escalation. Thus, we aim to evaluate the effectiveness and safety of plasmapheresis in individuals with acute MOGAD attacks. PubMed, Embase, Web of Science, and the Cochrane Library from inception through October 20, 2025. Eligible studies included ≥5 patients treated with plasmapheresis, IVMP, or intravenous immunoglobulin for acute MOGAD attacks. Outcomes were visual acuity measured by Snellen charts and/or the log of the minimum angle of resolution (logMAR), complete/almost complete (excellent) recovery and clinically significant (good) recovery, and plasmapheresis-related adverse events. Two reviewers independently screened studies and extracted data following the Preferred Reporting Items for Systematic Review and Meta-Analyses reporting guideline. Random-effects meta-analyses were performed, with subgroup analyses to examine whether outcomes varied by treatment approach and clinical presentation. Heterogeneity was investigated by Q test,  A total of 10 publications (1,045 patients, 1,368 attacks, mean age 35 ± 17 years, 56.5% female) were included in the systematic review, and data from 8 studies (710 patients, 1,033 attacks, mean age 36 ± 17 years, 59.1% female) were analyzed. In patients with optic neuritis, plasmapheresis was associated with significant improvement in visual acuity assessed by logMAR (mean difference 1.43; 95% CI 0.63-2.24) and an excellent recovery rate (81%; 95% CI 33%-100%). Subgroup analysis of steroid-refractory attacks showed a smaller, yet still clinically meaningful improvement in logMAR. In presentations including myelitis and/or cerebral involvement, the rate of good recovery after plasmapheresis was also high (94%; 95% CI 88%-100%). Plasmapheresis-related adverse effects were rare (3%; 95% CI 1%-14%). Heterogeneity was high, reflecting variability in study design, treatment timing, and attack severity. Plasmapheresis may be associated with good outcomes for MOGAD attacks, particularly in isolated optic neuritis. Future randomized trials are essential to validate these findings with enhanced patient selection and less heterogeneity.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485605/",
+      "summary_ja": "背景：MOG抗体関連疾患（MOGAD）は視神経炎や脊髄炎、脳炎を特徴とする炎症性脱髄疾患であり、急性発作の第一選択治療は高用量静脈内メチルプレドニゾロン（IVMP）であるが、回復には個人差が大きく治療強化が必要な患者も多い。  \n方法：PubMedなど複数データベースを用い、急性MOGAD発作に対し血漿交換療法（plasmapheresis）、IVMP、または免疫グロブリン療法を施行した5例以上の研究を対象に系統的レビューとメタ解析を実施。視力改善（logMAR）、完全またはほぼ完全回復率、臨床的に有意な回復率、副作用頻度を評価した。  \n結果：10報（1,045例、1,368発作）をレビューし、8報（710例、1,033発作）を解析。視神経炎患者では血漿交換によりlogMARで有意な視力改善（平均差1.43）と81%の優れた回復率を示した。ステロイド抵抗性発作でも臨床的に意味ある改善が認められた。脊髄炎や脳症状を伴う発作でも良好な回復率（94%）を示し、副作用は稀（3%）であった。  \n結論：血漿交換療法は特に孤立性視神経炎のMOGAD発作において良好な治療効果が期待できるが、研究間の異質性が高いため、今後は無作為化試験による検証が必要である。",
+      "summary_short_ja": "MOG抗体関連疾患（MOGAD）の急性発作に対する血漿交換療法の効果と安全性を系統的レビューとメタ解析で評価した。10報告（1,045例）を対象に解析し、特に視神経炎患者で視力改善と高い完全回復率（81%）が認められた。ステロイド抵抗例でも有意な改善が見られ、脊髄炎や脳症例でも良好な回復率（94%）を示した。副作用は稀（3%）であったが、研究間の異質性が高く、今後の無作為化試験が必要とされた。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42479991",
       "doi": "10.1212/WNL.0000000000218310",
       "title": "Gray Matter Damage and Long-Term Disability, Cognitive Outcome, and Survival in Patients With Multiple Sclerosis.",

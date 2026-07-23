@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42485607",
+      "doi": "10.1212/WNL.0000000000218352",
+      "title": "Associations of Alzheimer Disease and Related Dementia Neuropathologies With Timely Diagnosis of Dementia in Healthcare Settings.",
+      "abstract": "A timely diagnosis of dementia may provide valuable time for treatment and planning, yet underdiagnosis is common. This study investigated the relationship between presence of dementia pathologies and timeliness of dementia diagnosis by healthcare providers. This was a retrospective study using 5 cohorts at Rush Alzheimer's Disease Center. We included participants who met all of the following criteria: (1) incident dementia based on annual cohort assessments, (2) linkage to Medicare records, and (3) a completed postmortem brain autopsy. Postmortem neuropathologic examinations identified the presence of AD, limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC), vascular pathologies, and neocortical Lewy bodies (LBs). In linked Medicare data, we defined timely diagnosis as the presence of claims with dementia diagnoses within 3 years before or 1 year after the cohort-based dementia onset. We used logistic regressions to quantify associations of neuropathology markers with timely diagnosis vs underdiagnosis. Of the 500 eligible participants (71% female, 95% non-Latino White, mean [SD] age at cohort dementia onset = 88 [7] years, mean [SD] years from onset to death = 4 [3]), only 54% received a timely diagnosis. After controlling for demographics, time to death, and other neuropathologies, a pathologic diagnosis of AD (OR = 1.91, 95% CI 1.21-3.00) and moderate/severe LATE-NC pathologies (OR = 1.83, 95% CI 1.25-2.68) were independently associated with higher odds of timely diagnosis. Moderate/severe vascular pathologies (OR = 0.94, 95% CI 0.55-1.59) and neocortical LB pathologies (OR = 1.00, 95% CI 0.64-1.55) were not significantly associated with receipt of a timely diagnosis. In a separate multivariable logistic regression, we found that participants with 3 or 4 neuropathologies present had an over 2-fold increase in odds of timely diagnosis (OR = 2.24, 95% CI 1.32-3.82), compared with those with 1 or no neuropathology. In deceased older adults with cohort-determined incident dementia, the healthcare system was twice as likely to capture those with pathologic diagnosis of AD, moderate/severe LATE-NC, and more than 3 copathologies in a timely manner. While findings from this predominantly White and highly educated sample warrant replication in broader population, this study is an important initial step toward understanding biological correlates of timely diagnosis of dementia.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42485607/",
+      "summary_ja": "背景：認知症の早期診断は治療や生活設計に有益だが、診断遅れが多い。本研究は、認知症の神経病理学的所見と医療機関での診断のタイムリーさの関連を調査した。  \n方法：Rushアルツハイマー病センターの5つのコホートから、認知症発症が確認され、メディケア記録と死後脳検査が連結可能な500名を対象に後ろ向き解析を実施。死後検査でアルツハイマー病（AD）、LATE-NC、血管病変、皮質型レビー小体（LB）を評価。メディケア記録で認知症発症前3年から発症後1年以内の診断を「タイムリー」と定義し、ロジスティック回帰で関連を分析。  \n結果：対象者の54％がタイムリーな診断を受けた。AD（オッズ比1.91）と中等度以上のLATE-NC（オッズ比1.83）はタイムリー診断と有意に関連。血管病変やLBは関連しなかった。複数の神経病理がある場合、タイムリー診断の可能性は2倍以上に増加した。  \n結論：ADやLATE-NC、複数の神経病理を持つ認知症患者は、医療機関で早期に診断されやすい。主に白人高学歴集団での結果であり、他集団での検証が必要だが、認知症の生物学的指標と診断タイミングの理解に重要な知見を提供する。",
+      "summary_short_ja": "本研究は、アルツハイマー病（AD）や関連認知症の脳病理と医療機関での認知症の早期診断との関連を調査した。500名の死後脳検査と医療記録を用い、ADおよび中等度以上のLATE-NC病理が早期診断と有意に関連し、血管病変やレビー小体は関連しなかった。複数の病理を持つ患者は早期診断の確率が2倍以上高かった。認知症の生物学的指標と診断時期の理解に重要な知見を示す。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42479994",
       "doi": "10.1212/WNL.0000000000218336",
       "title": "Association Between Plasma GFAP and Medial Temporal Atrophy and Cognition in Amyloid-Negative Cerebrovascular Disease.",
