@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42492033",
+      "doi": "10.1212/WNL.0000000000218373",
+      "title": "Efficacy Measures Used in Alzheimer Disease Clinical Trials Between 2015 and 2025: A Systematic Review.",
+      "abstract": "Regulatory guidance has long emphasized clinically meaningful outcomes in Alzheimer disease (AD) drug trials. No contemporary review has examined the efficacy measures used for clinical trials of AD therapies. The objective of this study was to evaluate the clinical relevance and heterogeneity of efficacy measures used in phase II-IV AD drug trials over the past decade. We systematically searched PubMed, Embase, the Cochrane Central Register of Controlled Trials, and ClinicalTrials.gov. All phase II-IV clinical trials of pharmacologic therapies in individuals with mild cognitive impairment due to AD or mild-to-moderate AD that were published, completed, or terminated between January 1, 2015, and November 15, 2025, or still ongoing as of November 15, 2025, were eligible for inclusion. We summarized the proportion of trials using clinical outcomes or biomarkers as primary or secondary efficacy measures, key clinical domains addressed, and the number of distinct measures using descriptive statistics. This study is registered with PROSPERO (CRD420251032087). Among 238 included trials, 95.4% (227/238) used at least one clinical outcome and 73.5% (175/238) used at least one biomarker as efficacy measures. Cognitive abilities (87.0%, 207/238), global status (76.9%, 183/238), and functional ability (71.4%, 170/238) were the most frequently measured clinical domains, whereas patient (16.0%, 38/238) and caregiver (8.8%, 21/238) quality of life and significant disease-related life events (2.5%, 6/238) were less frequent. Only 21.8% (52/238) of trials adopted regulatory-recommended co-primary measures of cognition with either function or global status, whereas 8.4% (20/238) used biomarkers as the sole primary efficacy measure. We identified 318 distinct clinical outcome measures and 219 distinct biomarkers used across all trials, 6.9% (22/318) and 6.8% (15/219) of which were used in more than 5% of trials. Efficacy measures in AD drug trials primarily focused on cognition, global status, and functional outcomes, which are important indicators of AD progression. However, other clinical domains that may also be meaningful to patients and caregivers were far less frequently assessed, while biomarker use is widespread. Substantial heterogeneity in efficacy measure use limits comparability across trials and highlights the need for standardized, consensus-based, clinically meaningful core measure sets for AD drug trials.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492033/",
+      "summary_ja": "背景：アルツハイマー病（AD）治療薬の臨床試験では、臨床的に意義のある効果指標の重要性が指摘されているが、近年の試験で用いられる効果測定法の実態は不明である。  \n方法：2015年から2025年までに実施または報告された第II～IV相のAD薬物治療試験238件を対象に、PubMedなど複数データベースを用いて系統的レビューを行い、臨床アウトカムやバイオマーカーの使用状況、評価領域の多様性を統計的に解析した。  \n結果：95.4％の試験が臨床アウトカムを、73.5％がバイオマーカーを効果指標として使用。認知機能（87.0％）、全体状態（76.9％）、機能能力（71.4％）が主に評価される一方、患者や介護者の生活の質や重要な疾患関連イベントの評価は少数にとどまった。規制当局推奨の認知機能と機能または全体状態の併用は21.8％、バイオマーカー単独は8.4％であった。318種類の臨床指標と219種類のバイオマーカーが用いられ、その多様性は高かった。  \n結論：AD治療薬試験の効果指標は主に認知機能や全体状態、機能評価に偏るが、患者・介護者にとって重要な他の臨床領域は十分に評価されていない。指標の多様性が比較を困難にしており、標準化された臨床的に意義あるコア指標セットの策定が求められる。",
+      "summary_short_ja": "本研究は2015～2025年のアルツハイマー病（AD）薬物治療の第II～IV相臨床試験238件を対象に、効果測定指標の臨床的意義と多様性を系統的に評価した。認知機能、全体状態、機能能力が主に測定される一方、患者や介護者の生活の質などは少数であった。バイオマーカーの使用は広範だが、指標の多様性が比較を困難にし、標準化された臨床的に意義あるコア指標セットの必要性が示された。",
+      "disease": "dementia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42485607",
       "doi": "10.1212/WNL.0000000000218352",
       "title": "Associations of Alzheimer Disease and Related Dementia Neuropathologies With Timely Diagnosis of Dementia in Healthcare Settings.",
