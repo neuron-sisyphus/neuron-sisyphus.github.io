@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42507792",
+      "doi": "10.1161/STROKEAHA.126.055126",
+      "title": "Advancing Pediatric Stroke Readiness: Engaging Healthcare Systems to Optimize Care Delivery.",
+      "abstract": "Stroke is less common in children than in adults, yet equally devastating. Nevertheless, children with symptoms of acute stroke commonly present to community hospitals or adult stroke centers where experience and institutional protocols for pediatric stroke diagnosis and management may be limited. Despite advances in pediatric stroke awareness and the implementation of stroke pathways in many children's hospitals, significant gaps remain in the timely recognition, diagnosis, and management of pediatric stroke. A key contributing factor is the lack of system-level infrastructure to guide pediatric acute stroke care. This special report examines the challenges and barriers to achieving Pediatric Stroke Readiness at a national level in the United States and presents 5 engagement case studies highlighting efforts to establish processes and networks for pediatric stroke management across diverse care settings. The cases emphasize the development and implementation of systems of care in which pediatric stroke centers collaborate with first responders, community hospitals, and adult stroke centers to improve the delivery of acute stroke care for children. The strategies underscore different engagement approaches and identify opportunities for future research and quality improvement. These case studies also illustrate educational materials and clinical pathways that may serve as resources for others pursuing similar initiatives.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42507792/",
+      "summary_ja": "背景：小児脳卒中は成人に比べ発症頻度は低いが、重篤な影響を及ぼす。多くの小児患者は地域病院や成人脳卒中センターに搬送されるが、これら施設では小児脳卒中の診断・管理経験や体制が不足している。  \n方法：米国における小児脳卒中対応体制の全国的課題を検討し、5つの事例研究を通じて多様な医療現場での小児脳卒中管理プロセスとネットワーク構築の取り組みを紹介。小児脳卒中センターが救急隊や地域病院、成人脳卒中センターと連携し、急性期ケアの質向上を目指すシステム開発に焦点を当てた。  \n結果：各事例は異なる連携手法を示し、教育資料や臨床経路の整備が進んでいることを明らかにした。また、今後の研究や質改善の機会も示唆された。  \n結論：小児脳卒中の迅速かつ適切な対応には、医療システム全体の連携強化と標準化されたケア体制の構築が不可欠であり、本報告の事例はそのモデルとなり得る。",
+      "summary_short_ja": "小児脳卒中は成人より稀だが重篤であり、多くは小児専門外の施設で診療されるため、適切な対応が遅れがちである。本報告は米国における小児脳卒中対応体制の課題を分析し、5つの事例を通じて救急隊や地域病院、成人脳卒中センターとの連携強化や診療プロトコル整備の重要性を示す。これにより、小児脳卒中ケアの質向上と今後の研究・改善の方向性を提案している。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42507791",
+      "doi": "10.1161/STROKEAHA.126.055574",
+      "title": "One Only Half Dies: On Receiving the 2026 ISC Ralph L. Sacco Outstanding Stroke Research Mentor Award.",
+      "abstract": "Just as my seniors nurtured me, I have continued to nurture those who come after me. Through my role as an intermediary, many of my mentors' knowledge and experience have been passed down to numerous mentees. I cannot be grateful enough to my workplaces, which brought together so many highly motivated mentees and allowed me to meet them. \"One only half dies who leaves an image of themself in their mentees\"; many poets have conveyed similar messages. Cultivating the next generation of leaders in stroke medicine, a field that continues to make remarkable strides, is undoubtedly one of our most important missions.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42507791/",
+      "summary_ja": "背景：脳卒中研究の発展には、先輩研究者から後輩への知識と経験の継承が不可欠である。  \n方法：著者は自身が受けた指導を基に、多くのメンティーを育成する役割を担い、メンターとメンティーの橋渡しとして活動してきた。  \n結果：多くの意欲的なメンティーと出会い、彼らに指導を行うことで、先輩たちの知見が次世代に受け継がれている。  \n結論：脳卒中医療の分野で次世代のリーダーを育成することは極めて重要な使命であり、「自身の姿をメンティーに残す者は半分しか死なない」という言葉が示すように、指導者としての役割は研究の持続的発展に寄与する。",
+      "summary_short_ja": "著者は、自身が受けた指導を次世代に継承することの重要性を強調し、多くのメンターの知識と経験を仲介役として多くのメンティに伝えてきたと述べる。脳卒中医療の発展に寄与する次世代リーダーの育成が重要な使命であるとし、受賞を通じてその意義を再確認している。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42492031",
       "doi": "10.1212/WNL.0000000000218250",
       "title": "Pearls and Oy-sters: Stroke in the Wrong Hemisphere: Tractography Solves the Puzzle.",
