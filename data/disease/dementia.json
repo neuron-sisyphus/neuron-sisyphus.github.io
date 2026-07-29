@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42385118",
+      "doi": "10.1212/WNL.0000000000218280",
+      "title": "Genetic Risk for Alzheimer Disease, Midlife Hypertension, and Dementia: The ARIC Neurocognitive Study.",
+      "abstract": "Genetics represent a nonmodifiable risk factor for Alzheimer disease (AD), with 60%-80% heritability. Midlife hypertension is a modifiable risk factor for both dementia and death. Our primary objective was to determine how genetic risk for AD modifies the association between hypertension and dementia. The Atherosclerosis Risk in Communities Study is an ongoing community-based prospective cohort study of 4 US centers. We analyzed White and Black participants free of dementia at age 55 years with genotypes and blood pressure measured at visit 1 (1987-1989). Three genetic risk groups (low, medium, high) were defined based on tertiles of a race-specific AD polygenic risk score. Dementia was ascertained through cognitive testing, informant interviews, hospitalization, codes and death records. Death was ascertained through the National Death Index. We examined the association of midlife hypertension with incident dementia within 3 genetic risk groups using Cox proportional-hazards and cumulative incidence function estimations. We used age 55 years as the time origin, with left truncation to allow entry at ages older than 55 years; age on December 31, 2022, was the administrative censoring date. Among 8,931 White and 2,666 Black participants, the median follow up time was 26.6 and 23.8 years, the mean age was 54.0/53.5 years, and 53.0%/62.5% were female, respectively. After adjusting for demographics, midlife hypertension was significantly associated with dementia incidence across all genetic risk groups among White participants (low risk hazard ratio [HR] 1.29; 95% CI 1.07-1.55, medium risk HR 1.34; 95% CI 1.13-1.58, high risk HR 1.19; 95% CI 1.03-1.38) and among Black participants at high genetic risk (HR 1.31; 95% CI 1.04-1.66). Associations for low and medium genetic risk Black participants were consistent but not statistically significant. There were no significant differences in association of hypertension with dementia by AD genetic risk group. Individuals with hypertension had a 0%-2% higher probability of developing dementia by age 80 and a 6%-13% lower probability of dementia-free survival to age 80 years vs those without hypertension, across race and genetic risk groups. Genetic risk for AD does not modify the association between hypertension and dementia. These data support the fact that all individuals with hypertension are likely to benefit from antihypertensive treatment.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Jul-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385118/",
+      "summary_ja": "背景：アルツハイマー病（AD）の遺伝的リスクは60～80％の遺伝率を持ち非可変である一方、中年期の高血圧は認知症および死亡の修正可能なリスク因子である。  \n方法：米国4地域のコミュニティを対象とした前向きコホート研究（ARIC研究）で、55歳時点で認知症のない白人8,931名と黒人2,666名を対象に、ADの多遺伝子リスクスコアに基づく3群（低・中・高リスク）に分け、中年期高血圧と認知症発症の関連をCox比例ハザードモデルで解析した。追跡期間中央値は白人26.6年、黒人23.8年。  \n結果：白人全リスク群で中年期高血圧は認知症発症リスクを有意に増加させ（HR約1.2～1.3）、黒人では高リスク群で有意、低・中リスク群では傾向はあるが有意でなかった。遺伝的リスクによる高血圧と認知症の関連の差異は認められなかった。高血圧者は80歳までの認知症発症確率が0～2％上昇し、認知症発症なし生存率は6～13％低下した。  \n結論：ADの遺伝的リスクは高血圧と認知症の関連を修飾しない。高血圧のある全ての個人は降圧治療の利益を享受できることを支持する結果である。",
+      "summary_short_ja": "本研究は、アルツハイマー病（AD）の遺伝的リスクが中年期の高血圧と認知症発症の関連に与える影響を検討した。米国の大規模コホートで白人と黒人を対象に約24～27年追跡し、遺伝リスク別に解析。結果、高血圧は全遺伝リスク群で認知症リスクを有意に増加させたが、遺伝リスクによる影響修飾は認められなかった。高血圧患者は認知症発症確率がやや高く、抗高血圧治療の重要性が示された。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42492033",
       "doi": "10.1212/WNL.0000000000218373",
       "title": "Efficacy Measures Used in Alzheimer Disease Clinical Trials Between 2015 and 2025: A Systematic Review.",
@@ -208,21 +223,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42407019/",
       "summary_ja": "背景：これまでの研究では、内在的能力（Intrinsic Capacity, IC）が認知症の重要なリスク因子であることが示されてきたが、ICの動的変化に着目した研究は少なかった。  \n方法：米国のHealth and Retirement Studyのデータを用い、7,744名（平均年齢75.6歳）を対象に、ICの7因子による欠損スコアを算出し、ベースラインと第2回調査時のIC変化を比較。認知機能低下は記憶、実行機能、見当識の標準化zスコアで評価し、認知症は自己申告の医師診断または認知スコアに基づき診断。線形混合効果モデルとコックスモデルで解析を行った。  \n結果：ICが健全状態から欠損状態に進行した群は認知機能低下が加速し（β=-0.025）、認知症リスクも増加（HR=1.38）した。一方、欠損状態から健全状態に回復した群は認知機能低下が緩徐化（β=0.010）し、認知症リスクも低下（HR=0.84）した。人種別では、黒人でICの影響がやや強く認められた。  \n結論：ICの悪化は認知機能低下と認知症リスクの増加と関連し、ICの回復はこれらのリスクを軽減する可能性が示された。今後、多回測定による検証が必要である。",
       "summary_short_ja": "本研究は、内的能力（IC）の変化が認知機能低下および認知症リスクに与える影響を前向きコホートで検討した。ICが悪化すると認知機能低下が加速し認知症リスクが増加、一方でICが回復すると認知機能低下が緩やかになり認知症リスクが低減した。特に黒人でこれらの関連が強く認められた。ICの動的変化が認知症予防の重要指標となる可能性を示唆する。",
-      "disease": "dementia",
-      "section": "epidemiology"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42385118",
-      "doi": "10.1212/WNL.0000000000218280",
-      "title": "Genetic Risk for Alzheimer Disease, Midlife Hypertension, and Dementia: The ARIC Neurocognitive Study.",
-      "abstract": "Genetics represent a nonmodifiable risk factor for Alzheimer disease (AD), with 60%-80% heritability. Midlife hypertension is a modifiable risk factor for both dementia and death. Our primary objective was to determine how genetic risk for AD modifies the association between hypertension and dementia. The Atherosclerosis Risk in Communities Study is an ongoing community-based prospective cohort study of 4 US centers. We analyzed White and Black participants free of dementia at age 55 years with genotypes and blood pressure measured at visit 1 (1987-1989). Three genetic risk groups (low, medium, high) were defined based on tertiles of a race-specific AD polygenic risk score. Dementia was ascertained through cognitive testing, informant interviews, hospitalization, codes and death records. Death was ascertained through the National Death Index. We examined the association of midlife hypertension with incident dementia within 3 genetic risk groups using Cox proportional-hazards and cumulative incidence function estimations. We used age 55 years as the time origin, with left truncation to allow entry at ages older than 55 years; age on December 31, 2022, was the administrative censoring date. Among 8,931 White and 2,666 Black participants, the median follow up time was 26.6 and 23.8 years, the mean age was 54.0/53.5 years, and 53.0%/62.5% were female, respectively. After adjusting for demographics, midlife hypertension was significantly associated with dementia incidence across all genetic risk groups among White participants (low risk hazard ratio [HR] 1.29; 95% CI 1.07-1.55, medium risk HR 1.34; 95% CI 1.13-1.58, high risk HR 1.19; 95% CI 1.03-1.38) and among Black participants at high genetic risk (HR 1.31; 95% CI 1.04-1.66). Associations for low and medium genetic risk Black participants were consistent but not statistically significant. There were no significant differences in association of hypertension with dementia by AD genetic risk group. Individuals with hypertension had a 0%-2% higher probability of developing dementia by age 80 and a 6%-13% lower probability of dementia-free survival to age 80 years vs those without hypertension, across race and genetic risk groups. Genetic risk for AD does not modify the association between hypertension and dementia. These data support the fact that all individuals with hypertension are likely to benefit from antihypertensive treatment.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Jul-28",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385118/",
-      "summary_ja": "背景：アルツハイマー病（AD）の遺伝的リスクは60～80％の遺伝率を持ち非可変である一方、中年期の高血圧は認知症および死亡の修正可能なリスク因子である。  \n方法：米国4地域のコミュニティを対象とした前向きコホート研究（ARIC研究）で、55歳時点で認知症のない白人8,931名と黒人2,666名を対象に、ADの多遺伝子リスクスコアに基づく3群（低・中・高リスク）に分け、中年期高血圧と認知症発症の関連をCox比例ハザードモデルで解析した。追跡期間中央値は白人26.6年、黒人23.8年。  \n結果：白人全リスク群で中年期高血圧は認知症発症リスクを有意に増加させ（HR約1.2～1.3）、黒人では高リスク群で有意、低・中リスク群では傾向はあるが有意でなかった。遺伝的リスクによる高血圧と認知症の関連の差異は認められなかった。高血圧者は80歳までの認知症発症確率が0～2％上昇し、認知症発症なし生存率は6～13％低下した。  \n結論：ADの遺伝的リスクは高血圧と認知症の関連を修飾しない。高血圧のある全ての個人は降圧治療の利益を享受できることを支持する結果である。",
-      "summary_short_ja": "本研究は、アルツハイマー病（AD）の遺伝的リスクが中年期の高血圧と認知症発症の関連に与える影響を検討した。米国の大規模コホートで白人と黒人を対象に約24～27年追跡し、遺伝リスク別に解析。結果、高血圧は全遺伝リスク群で認知症リスクを有意に増加させたが、遺伝リスクによる影響修飾は認められなかった。高血圧患者は認知症発症確率がやや高く、抗高血圧治療の重要性が示された。",
       "disease": "dementia",
       "section": "epidemiology"
     },
