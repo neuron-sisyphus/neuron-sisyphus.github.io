@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42525900",
+      "doi": "10.1212/WNL.0000000000218379",
+      "title": "Value of Annual MRI Monitoring in Patients With Multiple Sclerosis Treated With Ocrelizumab: A Number Needed to Scan Analysis.",
+      "abstract": "Current guidelines recommend annual MRI scans during treatment with disease-modifying therapies, including ocrelizumab, in patients with multiple sclerosis (MS) to monitor treatment effectiveness and safety. However, the low rate of radiologic disease activity during long-term ocrelizumab treatment suggests that this recommendation should be re-evaluated to reduce burden on ocrelizumab-treated patients and the healthcare system. We aimed to describe the frequency of radiologic follow-up and the occurrence of radiologic disease activity in a cohort of ocrelizumab-treated MS patients to provide insight into the clinical value and efficiency of annual MRI monitoring in routine practice. We included ocrelizumab-treated MS patients from the Amsterdam MS Cohort, who had at least 2 brain MRI scans performed during ≥3 months of treatment. MRI scans were performed as part of routine clinical care and clinical MRI reports issued by radiologist were used. Radiologic activity was defined as either ≥1 contrast-enhancing lesions on a MRI scan performed ≥3 months after ocrelizumab initiation or any new/enlarging T2 lesions on a subsequent MRI scan compared with a scan performed at least ≥3 months after ocrelizumab initiation. The number needed to scan (NNS) was calculated as the inverse of the predicted probability of radiologic disease activity as a function of treatment duration in months, estimated using a mixed-effects logistic regression model. A total of 342 patients (mean age at start ocrelizumab 40.3 years (SD 10.8); 65.8% female; 208 relapsing-onset MS and 41 primary progressive MS) were included, contributing 1,639 follow-up MRI scans. Radiologic disease activity was detected in 29 scans in 23 patients (1.8% of scans; 6.7% of patients) over a median treatment duration of 49 months. The NNS increased with treatment duration, especially after 24 months of treatment, reaching 81.3 at month 30 and 152.9 at month 36. Routine annual MRI monitoring in patients with asymptomatic ocrelizumab-treated MS never led to treatments changes. The increasing NNS over time, especially after 2 years of treatment, indicates that MRI intervals can be safely extended in patients with stable MS treated with ocrelizumab, potentially doubling the interval from treatment year 2 onward (i.e.,; rebaseline, year 1, year 2, year 4, and year 8, etc.).",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525900/",
+      "summary_ja": "背景：多発性硬化症（MS）患者のオクレリズマブ治療中は、治療効果と安全性のモニタリングのために年1回のMRI検査が推奨されているが、長期治療での放射線学的疾患活動性は低く、この推奨の見直しが求められている。  \n方法：アムステルダムMSコホートのオクレリズマブ治療患者342名（平均年齢40.3歳、65.8%女性）を対象に、治療開始後3か月以降に2回以上実施された計1,639件の脳MRI検査を解析。造影病変や新規・増大T2病変の出現を放射線学的疾患活動性と定義し、混合効果ロジスティック回帰モデルで治療期間に応じた疾患活動性の発生確率を推定し、検査必要数（NNS）を算出した。  \n結果：中央値49か月の治療期間中、23名（6.7%）の患者で29件（1.8%）の放射線学的活動性を検出。NNSは治療期間の経過とともに増加し、特に24か月以降に顕著で、30か月で81.3、36か月で152.9に達した。無症状患者の定期的な年1回MRIは治療変更に結びつかなかった。  \n結論：オクレリズマブ治療で安定したMS患者においては、2年目以降のMRI検査間隔を安全に延長可能であり、検査頻度を半減させることが臨床的かつ経済的負担軽減につながる。",
+      "summary_short_ja": "オクレリズマブ治療中の多発性硬化症患者342名を対象に、定期的なMRI検査の有用性を検討した。治療開始から中央値49カ月での放射線学的活動は1.8％のスキャンで認められ、特に2年以降は活動検出率が低下し、検査必要数（NNS）が大幅に増加した。無症状の安定患者では年1回のMRIが治療変更に結びつかず、2年目以降は検査間隔を安全に延長可能であることが示唆された。",
+      "disease": "ms",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42485588",
       "doi": "10.1212/WNL.0000000000218240",
       "title": "Child Neurology: A Case of Concurrent Neurofibromatosis Type 1 and Multiple Sclerosis by 2024 Criteria.",

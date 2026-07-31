@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42525902",
+      "doi": "10.1212/WNL.0000000000218303",
+      "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",
+      "abstract": "Military service is one of the most consistent risk factors for the development of amyotrophic lateral sclerosis (ALS), but little is known about what aspects of military service matter. Understanding the distribution of ALS risk in military personnel may help identify key risk factors. We aimed to ascertain the association of United States (US) military branch and rank with incident ALS. We conducted a longitudinal cohort study including all veterans with a Veterans Health Administration encounter from January 1, 2000, through October 1, 2024, and more than 2 years of follow-up. Incident ALS was identified through medical records. Exposures included military branch (Army, Navy, Air Force, Marine Corps, Coast Guard, or multiple branches), military rank (officer, enlisted, or both), and length of service. Risk was estimated with Cox proportional hazards models, controlled for age, adjusted for race/ethnicity, and stratified by sex. The analytic sample comprised 9,157,938 men (13,935 incident ALS cases, mean age = 56.9 years) and 784,941 women (484 cases, mean age = 42.4 at start of follow up). Among men, compared with service in the Army, service in the Air Force (hazard ratio [HR] = 1.29, 95% CI 1.23-1.35), Navy (HR = 1.15, 95% CI 1.10-1.20), and Coast Guard (HR = 1.26, 95% CI 1.06-1.50) was associated with higher rates of ALS and service in the Marines a lower rate (HR = 0.78, 95% CI 0.68-0.88). Officers had higher rates than enlisted personnel (men, HR = 1.64, 95% CI 1.53-1.74; women, HR = 1.72, 95% CI 1.31-2.27). Longer service was associated with lower rates of ALS. In age-stratified models, differences in hazard rates between Army veterans and Air Force, Navy, and Coast Guard veterans were greatest for the youngest men (17-61 years, HR range = 1.26 to 1.51) and smallest for the oldest (>75-104 years, HR range = 0.99 to 1.12). ALS rates varied considerably by branch and rank in the US military, with larger differences among younger veterans. Officers and those serving in the Air Force, Navy, or Coast Guard may incur exposure to military environments that increase risk of ALS. It is imperative to identify relevant exposures to reduce harm to service members and, potentially, civilians with similar exposures.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525902/",
+      "summary_ja": "背景：筋萎縮性側索硬化症（ALS）の発症リスクにおいて、軍務経験は一貫した危険因子とされるが、どの軍種や階級が影響するかは不明である。  \n方法：2000年から2024年までの米国退役軍人健康管理記録を用い、約1,000万人の退役軍人を対象に縦断コホート研究を実施。軍種（陸軍、海軍、空軍、海兵隊、沿岸警備隊、複数軍種）、階級（士官、下士官）、勤務年数とALS発症の関連をコックス比例ハザードモデルで解析した。年齢、性別、人種・民族で調整。  \n結果：男性では陸軍と比較し、空軍（HR=1.29）、海軍（HR=1.15）、沿岸警備隊（HR=1.26）でALS発症率が高く、海兵隊は低かった（HR=0.78）。士官は下士官より発症率が高く（男性HR=1.64）、勤務年数が長いほど発症率は低かった。若年層（17-61歳）で軍種間の差が顕著であった。女性でも士官のリスク増加が認められた。  \n結論：米軍退役軍人のALS発症率は軍種や階級で大きく異なり、特に若年層で顕著である。空軍、海軍、沿岸警備隊の士官はALSリスクが高く、軍務環境に関連する曝露因子の特定が必要である。",
+      "summary_short_ja": "米国退役軍人約1,000万人を対象とした縦断研究で、ALS発症リスクが軍種や階級により異なることが示された。空軍、海軍、沿岸警備隊の兵士は陸軍より高リスクで、海兵隊は低リスクだった。士官は兵卒よりALS発症率が高く、勤務年数が長いほどリスクは低下。特に若年層で差が顕著であり、軍種や階級に関連する環境要因の特定が重要とされた。",
+      "disease": "als",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42407013",
       "doi": "10.1212/WNL.0000000000218273",
       "title": "Role of the Upper Motor Neuron in the Generation of Fasciculations in Early Disease Stages of Amyotrophic Lateral Sclerosis.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42525901",
+      "doi": "10.1212/WNL.0000000000218313",
+      "title": "Association of Sugar Restriction in Utero Through Age 2 Years on Dementia Risk Later in Life.",
+      "abstract": "Excess sugar intake in early life may affect long-term brain health, but evidence for dementia is limited. We used the abrupt end of UK sugar rationing in September 1953 as a natural experiment to test whether exposure to sugar rationing during different windows within the first 1,000 days from conception was associated with adult risk of all-cause dementia, Alzheimer disease (AD), and vascular dementia (VaD). We analyzed UK Biobank participants born around the end of UK sugar rationing. Exposure was classified as rationing in utero only, in utero plus the first year of life, in utero plus 1-2 years of life, or no exposure. Incident dementia was identified from linked ICD-10 records. MRI of the brain and cognitive function were assessed in the imaging subcohort. Adjusted Cox and Gompertz models estimated HRs and 95% CIs, Fine-Gray models accounted for competing risk, and mediation analyses evaluated type 2 diabetes and hypertension. Among 64,737 participants included in the analysis, the mean age at recruitment was 54.6 years, and 56.4% were women; 40,963 were exposed to sugar rationing during fetal and/or early-childhood life, and 23,774 were unexposed. Compared with unexposed individuals, sugar rationing in utero plus the first year of life was associated with lower hazards of all-cause dementia (HR, 0.79; 95% CI 0.66-0.94) and AD (HR, 0.77; 95% CI 0.59-1.00). Similar or slightly stronger associations were observed for exposure in utero plus 1-2 years (all-cause dementia: HR, 0.77; 95% CI 0.63-0.95; AD: HR, 0.72; 95% CI 0.53-0.98). Exposure in utero plus 1-2 years was associated with delayed onset of all-cause dementia by 2.55 years, AD by 2.87 years, and VaD by 2.49 years. Early-life sugar rationing was also associated with higher total gray matter volume (β, 3.27; 95% CI 0.46-6.07), lower white matter hyperintensity volume (β, -0.64; 95% CI -0.97 to -0.31), and better performance in processing speed and reasoning. Incident type 2 diabetes and hypertension jointly mediated 25.5% of the association. Sugar restriction in the first 1,000 days was associated with lower dementia hazards, delayed onset, and more favorable brain-health profiles. These results support early-life sugar reduction as a potential strategy for dementia prevention.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525901/",
+      "summary_ja": "背景：幼少期の過剰な糖分摂取が長期的な脳の健康に影響を与える可能性があるが、認知症リスクとの関連は不明である。  \n方法：英国の砂糖配給制度が1953年に突然終了したことを利用し、胎児期から生後2歳までの糖分制限曝露が成人期の認知症（全般、アルツハイマー病、血管性認知症）リスクに与える影響をUKバイオバンクの64,737名のデータで検証した。曝露群は胎児期のみ、胎児期＋生後1年、胎児期＋1〜2年、非曝露に分類し、認知症発症はICD-10記録で判定。脳MRIと認知機能も評価した。  \n結果：胎児期＋生後1年の糖分制限は全認知症リスクを21％低減（HR 0.79）、アルツハイマー病リスクも低減（HR 0.77）し、胎児期＋1〜2年曝露ではさらに強い関連が認められた。認知症発症は約2.5〜2.9年遅延し、灰白質体積増加、白質病変減少、認知機能向上も観察された。2型糖尿病と高血圧が25.5％の仲介効果を示した。  \n結論：胎児期から生後2歳までの糖分制限は認知症リスク低減と発症遅延に関連し、脳の健康にも好影響を与える。早期の糖分摂取制限は認知症予防の有望な戦略と考えられる。",
+      "summary_short_ja": "胎児期から生後2歳までの砂糖制限が、英国の砂糖配給終了を利用した自然実験で検証された。砂糖制限を受けた群は、認知症全般やアルツハイマー病の発症リスクが有意に低く、発症も約2.5年遅延した。脳MRIでは灰白質量増加や白質病変減少が認められ、認知機能も良好だった。2型糖尿病と高血圧が一部の効果を媒介しており、幼少期の砂糖摂取制限が認知症予防に有望な戦略であることを示唆する。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42385118",
       "doi": "10.1212/WNL.0000000000218280",
       "title": "Genetic Risk for Alzheimer Disease, Midlife Hypertension, and Dementia: The ARIC Neurocognitive Study.",
