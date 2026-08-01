@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-01",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42531532",
+      "doi": "10.1212/WNL.0000000000218357",
+      "title": "Clinical Reasoning: A Toddler With Heat Stroke.",
+      "abstract": "Evaluating children with acute encephalopathy can be challenging, particularly when the presentation overlaps with severe heat-related illnesses like heat stroke. This case describes a 17-month-old boy who initially presented with febrile seizures and encephalopathy after exposure to hot weather in a poorly ventilated car. Despite initial treatment for heat stroke, the child's clinical condition worsened with recurrent seizures, agitation, and dystonia. Infectious, autoimmune, and metabolic work up were unrevealing yet a detailed clinical examination and history taking as the child began to awaken hinted towards an underlying disorder confirmed by detailed genetic testing. This case highlights the diagnostic approach to pediatric encephalopathy and emphasizes a stepwise strategy in narrowing the differential diagnosis through careful clinical observation including the child behavior that can be missed during the acute encephalopathy stage.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42531532/",
+      "summary_ja": "背景：小児の急性脳症は診断が難しく、特に熱中症などの重篤な熱関連疾患と症状が重なる場合がある。  \n方法：17か月の男児が、換気の悪い車内での高温曝露後に熱性けいれんと脳症を呈し、熱中症として治療を開始。感染症や自己免疫、代謝異常の検査を実施した。  \n結果：初期治療後もけいれんの再発や興奮、ジストニアが続き、検査では異常が見られなかったが、覚醒時の詳細な臨床観察と病歴聴取により基礎疾患が疑われ、遺伝子検査で確定診断に至った。  \n結論：小児脳症の診断には段階的なアプローチが重要であり、急性期には見逃されがちな子どもの行動変化を含む綿密な臨床観察が鑑別診断の絞り込みに有用であることを示した。",
+      "summary_short_ja": "17か月男児が熱中症と診断され治療を受けたが、発作や異常運動が悪化。感染症や代謝異常は否定され、詳細な臨床観察と病歴聴取から遺伝子検査で基礎疾患が判明した。小児急性脳症の診断には、急性期の症状だけでなく、覚醒後の行動観察を含む段階的な鑑別診断が重要であることを示した症例報告。",
+      "disease": "stroke",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42531538",
+      "doi": "10.1212/WNL.0000000000218311",
+      "title": "Validation of the VasCog-2-WSO VCID Criteria in a Dementia-Free and Stroke-Free Community Cohort: Cardiovascular Risk and Mortality.",
+      "abstract": "Vascular cognitive impairment and dementia (VCID), a major contributor of dementia, remains underrecognized, owing to the absence of universally accepted diagnostic criteria. The VasCog Society and WSO recently released updated criteria (VasCog-2-WSO); however, their applicability is unknown yet. We aimed to evaluate these criteria in a dementia-free and stroke-free community cohort and determine their associations with vascular burden and long-term mortality. We conducted a community-based cohort study using data from the I-Lan Longitudinal Aging Study. Adults aged 50 years or older without prior stroke or dementia underwent standardized brain MRI and comprehensive neuropsychological assessment. VCID was classified according to the VasCog-2-WSO criteria using a neuroimaging-first approach. Participants were categorized as non-VCID, preclinical VCID (with or without objective cognitive impairment), or vascular mild cognitive impairment (vaMCI). Baseline 10-year Framingham cardiovascular disease risk was assessed. The primary outcome was all-cause mortality over a mean follow-up of 9.4 years, analyzed using multivariable Cox proportional hazards and Poisson regression models. A total of 1,236 participants (62.7 ± 8.8 years; 52.9% female) were included. Neuroimaging evidence of cerebrovascular disease was present in 19.6% of participants; 19.2% met criteria for preclinical VCID and 0.4% for vaMCI. Compared with non-VCID participants, neuroimaging-positive groups had worse cognitive performance and higher 10-year cardiovascular risk. Mortality increased across the VCID spectrum (7.4 [95% CI 5.7-9.4], 24.9 [16.0-37.1], 27.4 [18.2-39.6], and 137.9 [37.6-353.2] per 1,000 person-years). In adjusted Cox models, preclinical VCID was associated with a 1.5-1.7-fold higher mortality risk, and vaMCI with a hazard ratio of 7.2 (95% CI 2.4-21.1), with a significant graded association across the spectrum ( The VasCog-2-WSO criteria identify a spectrum of MRI-defined vascular cognitive vulnerability associated with increased cardiovascular risk and mortality, with excess mortality risk detectable at a neuroimaging-defined preclinical stage before overt cognitive impairment. These findings support their utility for early detection and risk stratification in community settings. A key limitation is the inability to assess mixed etiologies due to the absence of genetic data and Alzheimer disease biomarkers, which limits the ability to thoroughly evaluate the VasCog-2-WSO VCID diagnostic framework.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42531538/",
+      "summary_ja": "背景：血管性認知障害・認知症（VCID）は認知症の主要因であるが、診断基準の統一がなく認識が遅れている。VasCog学会とWSOが更新したVasCog-2-WSO基準の実用性は未検証であった。  \n方法：認知症・脳卒中既往のない50歳以上の地域住民1,236名を対象に、標準化MRIと神経心理検査を実施し、VasCog-2-WSO基準に基づきVCIDを非VCID、前臨床VCID（認知障害の有無問わず）、血管性軽度認知障害（vaMCI）に分類。10年フラミンガム心血管リスクと平均9.4年の全死亡率を多変量解析で評価。  \n結果：19.6%に脳血管病変を認め、19.2%が前臨床VCID、0.4%がvaMCIと判定。非VCID群に比べ、VCID群は認知機能低下と心血管リスクが有意に高く、死亡率も段階的に増加。調整後のハザード比は前臨床VCIDで1.5-1.7倍、vaMCIで7.2倍であった。  \n結論：VasCog-2-WSO基準はMRIで定義される血管性認知脆弱性のスペクトラムを同定し、心血管リスクおよび死亡率の増加と関連。認知障害前の前臨床段階で過剰死亡リスクを検出可能であり、地域医療での早期発見・リスク層別化に有用と示唆された。ただし、遺伝子情報やアルツハイマー病バイオマーカー欠如により混合病因の評価は制限される。",
+      "summary_short_ja": "VasCog-2-WSO基準を用いた無認知症・無脳卒中の地域住民コホート研究で、MRIにより血管性認知障害スペクトラムを同定。前臨床VCID群は心血管リスクと認知機能低下が認められ、死亡リスクも1.5～7倍に増加した。これにより、同基準は早期発見とリスク層別化に有用と示唆されるが、遺伝子情報やアルツハイマー病バイオマーカー欠如による混合病因評価の制約が課題である。",
+      "disease": "stroke",
+      "section": "prognosis"
+    }
+  ]
+}
