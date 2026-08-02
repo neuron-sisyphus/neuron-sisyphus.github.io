@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42538773",
+      "doi": "10.1111/ene.70720",
+      "title": "Early Cognitive and Behavioral Changes in Primary Lateral Sclerosis: A Population-Based Study.",
+      "abstract": "Primary lateral sclerosis (PLS) is a rare upper motor neuron neurodegenerative disorder whose cognitive profile, particularly at early stages, remains incompletely defined. We aimed to characterize cognitive and behavioral features of PLS at diagnosis and compare them with predominant upper motor neuron amyotrophic lateral sclerosis (PUMN-ALS) and healthy controls (HCs). Patients diagnosed with PLS between 2007 and 2021 were identified from the population-based Piemonte and Valle d'Aosta ALS Register. Diagnoses were established according to consensus criteria, including early, probable, and definite PLS. All patients underwent comprehensive neuropsychological and behavioral assessment within 3 months of their first ALS center visit. Cognitive-behavioral status was classified using ALS-frontotemporal dementia (FTD) consensus criteria. Thirty-two PLS patients were included (mean disease duration, 25 months). Cognitive and/or behavioral impairment was identified in 29.3% of patients, most commonly affecting executive function, memory, and social cognition, including 21.1% early PLS. Compared with HCs, PLS patients showed poorer performance across several cognitive domains and higher anxiety and depression scores. Compared with matched PUMN-ALS patients, PLS patients demonstrated slightly worse executive performance, while the overall frequency of cognitive-behavioral impairment was similar. Behavioral profiles differed qualitatively, with apathy more frequent in PUMN-ALS. No PLS patient met criteria for frontotemporal dementia. Cognitive and behavioral impairments are already detectable at the time of diagnosis in a substantial proportion of patients with PLS, including early PLS, supporting the view of PLS as a multidimensional neurodegenerative disorder with early extramotor involvement.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538773/",
+      "summary_ja": "背景：原発性側索硬化症（PLS）は稀な上位運動ニューロンの神経変性疾患であり、特に早期の認知機能障害の特徴は十分に解明されていない。  \n方法：2007年から2021年にかけて、ピエモンテ・ヴァッレ・ダオスタALS登録から診断されたPLS患者32名（平均罹病期間25ヶ月）を対象に、ALSセンター初診から3ヶ月以内に包括的な神経心理学的・行動評価を実施し、認知・行動障害の有無をALS-前頭側頭型認知症（FTD）コンセンサス基準で分類した。比較対象として、上位運動ニューロン優位ALS（PUMN-ALS）患者および健常対照群（HC）を設定。  \n結果：PLS患者の29.3％に認知・行動障害を認め、特に実行機能、記憶、社会認知が影響を受けていた。HCと比較して複数の認知領域で成績が低く、不安・抑うつも高かった。PUMN-ALS患者と比較すると、PLSは実行機能がやや劣るものの、認知・行動障害の頻度は同程度であった。行動特徴は異なり、PUMN-ALSでは無関心が多かった。FTD診断基準を満たすPLS患者はいなかった。  \n結論：PLSでは診断時点で早期から認知・行動障害がかなりの割合で検出され、運動機能以外の神経変性も早期に関与している多次元的疾患であることを示唆する。",
+      "summary_short_ja": "原発性側索硬化症（PLS）は希少な上位運動ニューロン疾患であり、診断時に約30％の患者で認知・行動障害が認められた。特に実行機能、記憶、社会的認知が影響を受け、健常者と比較して認知機能低下や不安・抑うつが顕著であった。PUMN-ALS患者と比べても認知障害の頻度は同程度だが、行動特性は異なり、PLSは早期から運動外領域も含む多面的な神経変性疾患であることが示された。",
+      "disease": "als",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42538750",
+      "doi": "10.1111/ene.70710",
+      "title": "Nationwide Epidemiology of Motor Neuron Diseases in Latvia (2020-2024): Incidence, Prevalence, and Clinical Characteristics.",
+      "abstract": "Motor neuron diseases (MNDs), including amyotrophic lateral sclerosis (ALS), spinal muscular atrophy (SMA), and spinal and bulbar muscular atrophy (SBMA), are rare, progressive neurodegenerative conditions. Although well-studied in Western Europe, no nationwide epidemiological data have been published from Latvia. This study aimed to assess the incidence, prevalence, and clinical characteristics of MNDs in the Latvian population. A retrospective, hospital-based analysis was performed using records from Pauls Stradiņš Clinical University Hospital, Riga East University Hospital, and the Children's Clinical University Hospital between January 2020 and December 2024. Patients were identified through relevant ICD-10 codes. Incidence and prevalence rates were calculated per 100,000 population and age-standardized to the 2013 European Standard Population. A total of 181 prevalent MND cases were identified: 131 with ALS or related phenotypes, 10 with adult-onset SMA, 33 with pediatric SMA, and 7 with SBMA. The age-standardized incidence of ALS was 1.22 per 100,000 person-years, and the prevalence was 4.69 per 100,000. Limb weakness or paresis was the most common initial symptom (48.1%). The mean diagnostic delay was 13.4 months for ALS, 43.8 months for PLS, 206.8 months for SBMA and 17.3 months for pediatric SMA. The prevalence of pediatric SMA was 9.91 per 100,000, with type II being the most frequent subtype. All SMA and SBMA cases were genetically confirmed. This first nationwide study of MNDs in Latvia highlights diagnostic delays and possible under-recognition of adult SMA and SBMA. Genetic testing, a national registry, and equitable therapy access should be prioritized.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538750/",
+      "summary_ja": "背景：運動ニューロン疾患（MND）は、筋萎縮性側索硬化症（ALS）、脊髄性筋萎縮症（SMA）、脊髄性球状筋萎縮症（SBMA）を含む進行性の希少神経変性疾患であるが、ラトビアにおける全国的な疫学データは存在しなかった。  \n方法：2020年から2024年までの期間に、ラトビアの主要3病院の診療記録を用い、ICD-10コードに基づきMND患者を後ろ向きに抽出。人口10万人当たりの発症率・有病率を2013年欧州標準人口で年齢調整して算出した。  \n結果：計181例のMND患者が確認され、うちALS関連が131例、成人発症SMAが10例、小児SMAが33例、SBMAが7例であった。ALSの年齢調整発症率は1.22/10万人・年、有病率は4.69/10万人。初発症状は四肢の筋力低下が48.1％を占めた。診断までの平均遅延はALSで13.4か月、PLSで43.8か月、SBMAで206.8か月、小児SMAで17.3か月であった。小児SMAの有病率は9.91/10万人で、タイプIIが最も多かった。全SMAおよびSBMA症例は遺伝子診断で確定された。  \n結論：ラトビアにおける初の全国疫学調査は、成人SMAおよびSBMAの診断遅延や認識不足を示唆。遺伝子検査の普及、全国登録制度の整備、公平な治療アクセスの確保が必要である。",
+      "summary_short_ja": "ラトビアにおける運動ニューロン病（MND）の全国疫学調査（2020-2024年）で、181例が確認された。ALSの年齢調整発症率は人口10万人当たり1.22、罹患率は4.69で、四肢の筋力低下が最も多い初期症状だった。診断遅延はALSで平均13.4か月、SBMAでは206.8か月に及んだ。小児型SMAは9.91/10万人で、全症例が遺伝子診断済み。成人SMAやSBMAの認識不足と診断遅延が課題であり、遺伝子検査や全国登録、治療アクセスの整備が必要とされた。",
+      "disease": "als",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42525902",
       "doi": "10.1212/WNL.0000000000218303",
       "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",

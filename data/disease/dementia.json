@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42538752",
+      "doi": "10.1111/ene.70668",
+      "title": "Biomarker-Based Diagnosis and Care Pathways for Alzheimer's Disease in the Era of Disease-Modifying Treatments: A Consensus Statement by Belgian Experts.",
+      "abstract": "The recent approval of disease-modifying therapies (DMTs) for early Alzheimer's disease (AD) marks a major shift in clinical practice. Biomarker confirmation of amyloid pathology is now required alongside clinical assessment, and blood-based tests are improving accessibility. This creates increased demand for timely and accurate diagnosis while avoiding overdiagnosis in low-probability cases. This Belgian consensus aims to guide biomarker-based diagnosis of AD in the era of DMTs and to highlight the system adaptations required for safe and equitable implementation. Belgium, with universal healthcare but regionally organised dementia care, provides a relevant case to illustrate both opportunities and challenges. This consensus was developed by 31 experts in cognitive neurology, geriatrics, neuropsychology, neuroimaging, neurochemistry, and primary care, coordinated by the Belgian Dementia Council (BeDeCo). Recommendations were based on multidisciplinary discussion, current evidence, and the organisation of dementia care in Belgium. The consensus outlines a stepwise diagnostic approach that integrates clinical assessment with biomarker confirmation using cerebrospinal fluid, amyloid-PET, and emerging blood-based tests. We review the strengths and limitations of each modality and provide guidance for use across clinical scenarios. Using Belgium as a case example, we illustrate challenges that are shared across European healthcare systems, such as limited reimbursement, unequal access to expertise, and insufficient diagnostic capacity, and formulate pragmatic recommendations to address these issues. This consensus offers practical guidance for embedding biomarker-based diagnostic strategies into clinical care. By outlining structured pathways and system-level priorities, it facilitates safe, feasible, and equitable implementation of DMTs for AD.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538752/",
+      "summary_ja": "背景：アルツハイマー病（AD）に対する疾患修飾療法（DMT）の承認により、臨床診療に大きな変化が生じている。特に、アミロイド病理のバイオマーカーによる確認が臨床評価とともに必須となり、血液検査の進展で診断のアクセス性が向上している。一方で、過剰診断の回避も求められている。  \n方法：ベルギーの認知神経学、老年医学、神経心理学、神経画像、神経化学、プライマリケアの31名の専門家が、ベルギー認知症評議会の調整のもと、多職種議論と現行エビデンス、ベルギーの認知症ケア体制を踏まえたコンセンサス声明を作成した。  \n結果：臨床評価と脳脊髄液検査、アミロイドPET、血液検査を組み合わせた段階的診断アプローチを提案し、それぞれの検査法の利点・限界を整理。ベルギーの地域別医療体制を例に、欧州共通の課題である診断能力不足、専門家へのアクセス格差、保険償還の制約を指摘し、実践的な対応策を示した。  \n結論：本コンセンサスは、バイオマーカー診断を臨床に組み込むための具体的指針とシステム優先事項を提示し、ADのDMTを安全かつ公平に導入するための道筋を示している。",
+      "summary_short_ja": "本論文は、アルツハイマー病（AD）の疾患修飾治療（DMT）時代におけるバイオマーカーを用いた診断とケアの指針をベルギーの専門家31名が合意形成したものである。臨床評価に加え、脳脊髄液検査やアミロイドPET、血液検査によるバイオマーカー確認を推奨し、診断の正確性と適時性を重視する。ベルギーの医療体制を例に、欧州共通の課題である診断体制の不足やアクセス格差に対する実践的対応策も示している。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42525901",
       "doi": "10.1212/WNL.0000000000218313",
       "title": "Association of Sugar Restriction in Utero Through Age 2 Years on Dementia Risk Later in Life.",
