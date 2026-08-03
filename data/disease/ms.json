@@ -4,6 +4,21 @@
     {
       "source": "pubmed",
       "pmid": "42538767",
+      "doi": "10.1148/radiol.13122424",
+      "title": "Predictors of Multiple Sclerosis After Clinically Isolated Syndrome: A Systematic Review and Meta-Analysis.",
+      "abstract": "Most people with multiple sclerosis (MS) present with a clinically isolated syndrome (CIS); however, not all individuals with CIS are subsequently diagnosed with MS. A systematic literature review was conducted until December 2025. Observational studies of adults with CIS that were later diagnosed with MS were included. Odds ratios (ORs) were pooled using random-effects meta-analysis. Heterogeneity was assessed with I Seventy-two studies with 9915 adults were included. In the meta-analysis, younger age (OR = 1.6, p < 0.01) and multifocal presentation (OR = 1.55, p = 0.02) were associated with a diagnosis of MS after a CIS. Magnetic resonance imaging findings, including a higher number of T2 lesions (OR = 7.46, p = 0.02), periventricular lesions (OR = 4.08, p < 0.01), corpus callosum lesions (OR = 14.89, p = 0.02), infratentorial lesions (OR = 2.16, p = 0.03), spinal cord lesions (OR = 1.4, p = 0.03), and gadolinium-enhancing lesions (OR = 1.91, p = 0.01), as well as cerebrospinal fluid inflammatory markers such as oligoclonal bands (OR = 3.57, p < 0.01) and pleocytosis (OR = 3.34, p = 0.02), were also associated with a subsequent diagnosis of MS. This meta-analysis identified factors associated with an increased likelihood of MS after a CIS. These findings may help identify high-risk individuals and guide personalized treatment strategies.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Aug",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538767/",
+      "summary_ja": "背景：多発性硬化症（MS）は多くの場合、臨床的に孤立した症候群（CIS）として初発するが、すべてのCIS患者がMSと診断されるわけではない。  \n方法：2025年12月までの文献を対象に、CISから後にMSと診断された成人を含む観察研究を系統的にレビューし、ランダム効果メタアナリシスでオッズ比（OR）を算出した。  \n結果：72件、9915名の成人が対象となった。若年（OR=1.6, p<0.01）や多巣性発症（OR=1.55, p=0.02）がMS診断と関連した。MRI所見では、T2病変数（OR=7.46, p=0.02）、脳室周囲病変（OR=4.08, p<0.01）、脳梁病変（OR=14.89, p=0.02）、幕下病変（OR=2.16, p=0.03）、脊髄病変（OR=1.4, p=0.03）、ガドリニウム造影病変（OR=1.91, p=0.01）が有意に関連。さらに、髄液の炎症マーカーであるオリゴクローナルバンド（OR=3.57, p<0.01）や細胞増多（OR=3.34, p=0.02）も関連した。  \n結論：CIS後のMS発症リスクを高める因子を特定し、高リスク患者の早期発見や個別化治療の指針となる知見を提供した。",
+      "summary_short_ja": "臨床的単一症候群（CIS）後に多発性硬化症（MS）と診断されるリスク因子を検討した72件の研究（9915人対象）のメタ解析で、若年、複数部位の症状、MRIでのT2病変数増加、脳室周囲病変、脳梁病変、後頭蓋窩病変、脊髄病変、ガドリニウム造影病変、さらに脳脊髄液のオリゴクローナルバンドや細胞増多がMS発症と有意に関連した。これらは高リスク患者の特定と個別治療に有用である。",
+      "disease": "ms",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42538767",
       "doi": "10.1111/ene.70711",
       "title": "Predictors of Multiple Sclerosis After Clinically Isolated Syndrome: A Systematic Review and Meta-Analysis.",
       "abstract": "Most people with multiple sclerosis (MS) present with a clinically isolated syndrome (CIS); however, not all individuals with CIS are subsequently diagnosed with MS. A systematic literature review was conducted until December 2025. Observational studies of adults with CIS that were later diagnosed with MS were included. Odds ratios (ORs) were pooled using random-effects meta-analysis. Heterogeneity was assessed with I Seventy-two studies with 9915 adults were included. In the meta-analysis, younger age (OR = 1.6, p < 0.01) and multifocal presentation (OR = 1.55, p = 0.02) were associated with a diagnosis of MS after a CIS. Magnetic resonance imaging findings, including a higher number of T2 lesions (OR = 7.46, p = 0.02), periventricular lesions (OR = 4.08, p < 0.01), corpus callosum lesions (OR = 14.89, p = 0.02), infratentorial lesions (OR = 2.16, p = 0.03), spinal cord lesions (OR = 1.4, p = 0.03), and gadolinium-enhancing lesions (OR = 1.91, p = 0.01), as well as cerebrospinal fluid inflammatory markers such as oligoclonal bands (OR = 3.57, p < 0.01) and pleocytosis (OR = 3.34, p = 0.02), were also associated with a subsequent diagnosis of MS. This meta-analysis identified factors associated with an increased likelihood of MS after a CIS. These findings may help identify high-risk individuals and guide personalized treatment strategies.",
