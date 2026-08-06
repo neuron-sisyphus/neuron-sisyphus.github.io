@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42555876",
+      "doi": "10.1212/WNL.0000000000218347",
+      "title": "Eligibility for Anti-Amyloid Therapies in Patients With Biomarker-Confirmed Atypical Alzheimer Disease Phenotypes.",
+      "abstract": "Clinical trials of anti-amyloid therapies (AATs) for Alzheimer disease (AD) primarily enrolled patients with mildly symptomatic, amnestic predominant presentations. The applicability of eligibility criteria to atypical AD phenotypes, including posterior cortical atrophy (PCA), logopenic variant primary progressive aphasia (lvPPA), dysexecutive AD (dAD), and corticobasal syndrome because of AD (CBS-AD), is unknown. We conducted a retrospective eligibility analysis of patients with atypical AD evaluated at Mayo Clinic. Theoretical eligibility for AAT was assessed at initial clinical evaluation by applying inclusion and exclusion criteria from landmark clinical trials (Study to Confirm Safety and Efficacy of Lecanemab in Participants With Early Alzheimer's Disease [CLARITY-AD] and the Study of LY3002813 (Donanemab) in Participants With Early Symptomatic Alzheimer's Disease [TRAILBLAZER-ALZ2]) and appropriate use criteria for lecanemab and donanemab. Eligibility percentages and reasons for exclusion were compared across phenotypes. The cohort included 184 patients (61.4% female) with biomarker-confirmed atypical AD: PCA (n = 98, 53.3%), lvPPA (n = 42, 22.8%), dAD (n = 37, 20.1%), and CBS-AD (n = 7, 3.8%). Age at onset ( Most patients with atypical AD would not meet eligibility criteria for AAT, typically because of MMSE-based exclusion rather than measures of cognitive function. Eligibility rates are broadly similar across atypical phenotypes. These findings highlight the need for phenotype-sensitive staging and patient selection for treatment in atypical AD.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555876/",
+      "summary_ja": "背景：抗アミロイド療法（AAT）は主に軽度の記憶障害を伴う典型的アルツハイマー病（AD）患者を対象に臨床試験が行われているが、後頭皮質萎縮（PCA）やログペニック型進行性失語（lvPPA）などの非典型的AD表現型への適用可能性は不明である。  \n方法：Mayo Clinicで診断されたバイオマーカー陽性の非典型的AD患者184名（PCA、lvPPA、dysexecutive AD、CBS-AD）を対象に、主要臨床試験（CLARITY-AD、TRAILBLAZER-ALZ2）およびレカネマブ・ドナネマブの適用基準を用いてAATの理論的適格性を後方解析した。  \n結果：非典型的AD患者の多くはMMSEスコアによる除外基準によりAAT適格とならず、認知機能の他の指標による除外は少なかった。適格率は各表現型間で大きな差は認められなかった。  \n結論：非典型的ADに対しては、従来のMMSE中心の基準では適切な患者選択が困難であり、表現型に応じた病期評価と選択基準の開発が必要である。",
+      "summary_short_ja": "本研究は、後頭皮質萎縮（PCA）や対数音声型進行性失語（lvPPA）などのバイオマーカー確認済み非典型アルツハイマー病（AD）患者184名を対象に、抗アミロイド療法（AAT）の適格性を過去の臨床試験基準で検討した。多くの非典型AD患者はMMSEスコアによる除外で適格とならず、適格率は各表現型で大差なかった。非典型ADに対する治療選択には、表現型に応じた評価基準の開発が必要であることを示唆する。",
+      "disease": "dementia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42550989",
       "doi": "10.1212/WNL.0000000000218356",
       "title": "Cognitive and Biomarker Signatures of Late-Onset Temporal Lobe Epilepsy: Toward Non-Alzheimer Neurodegenerative Mechanisms.",

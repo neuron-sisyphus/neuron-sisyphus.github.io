@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42555884",
+      "doi": "10.1212/WNL.0000000000218377",
+      "title": "Rate of Autoimmune Diseases in the 10 Years Preceding Myasthenia Gravis Diagnosis: A Nationwide Cohort Study in South Korea.",
+      "abstract": "Patients with myasthenia gravis (MG) are frequently associated with other autoimmune diseases. However, the temporal relationship between autoimmune diseases and MG remains unclear. This study aimed to evaluate the rates and temporal patterns of autoimmune diseases during the 10 years preceding MG diagnosis. This retrospective population-based cohort study analyzed claims data from the Korean National Health Insurance Service between 2010 and 2021 and included individuals aged ≥20 years. MG was defined using the International Classification of Diseases, 10th Revision (ICD-10) code (G70.0) and Rare Intractable Disease registration (V012). Each MG case was matched with 10 controls by age, sex, and index year. Outcomes were autoimmune thyroid disease (AITD), systemic lupus erythematosus (SLE), seropositive rheumatoid arthritis (SRA), Sjögren syndrome (SjS), psoriasis, type 1 diabetes mellitus (T1DM), Crohn disease, and ulcerative colitis occurring during the 10 years before the index year. Rate ratios (RRs) and 95% CIs were estimated using Poisson regression models for 0-2, 2-5, and 5-10 years before the index year. A total of 8,355 patients with MG and 83,550 matched controls were included. The mean age (SD) was 53.7 (16.0) years, and 44.1% were male. Patients with MG had a higher rate of any autoimmune disease during 10 years before diagnosis than controls (RR 2.12, 95% CI 1.97-2.28), with the highest rates in 0-2 years before diagnosis (RR 4.27, 95% CI 3.78-4.83). SLE (RR 4.87, 95% CI 2.71-8.77), SjS (RR 4.75, 95% CI 3.01-7.50), AITD (RR 3.66, 95% CI 3.29-4.07), and SRA (RR 2.45, 95% CI 1.89-3.19) showed the strongest associations. Psoriasis (RR 1.68, 95% CI 1.25-2.25) and T1DM (RR 2.03, 95% CI 1.52-2.71) were associated with MG only within 0-2 years before diagnosis, whereas Crohn disease and ulcerative colitis were not associated. Autoimmune diseases were more frequent in the years preceding MG diagnosis than in controls, particularly within 2 years before diagnosis. Strong associations were observed for SLE, SjS, AITD, and SRA. However, these findings should be interpreted with caution because of limitations of administrative claims data.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555884/",
+      "summary_ja": "背景：重症筋無力症（MG）患者は他の自己免疫疾患を合併しやすいが、自己免疫疾患とMG発症の時間的関係は不明である。  \n方法：韓国国民健康保険サービスの2010～2021年の診療報酬請求データを用い、20歳以上のMG患者8,355例と年齢・性別・基準年で一致させた対照群83,550例を対象に、MG診断前10年間の自己免疫疾患発症率を後ろ向きコホート研究で解析した。自己免疫疾患はAITD、SLE、SRA、SjS、乾癬、1型糖尿病、クローン病、潰瘍性大腸炎とした。  \n結果：MG患者は診断前10年間で自己免疫疾患の発症率が対照群の約2.1倍（特に診断直前2年間は約4.3倍）と高かった。特にSLE、SjS、AITD、SRAとの関連が強く、乾癬と1型糖尿病は診断直前2年以内に限り有意な関連を示した。クローン病と潰瘍性大腸炎は関連しなかった。  \n結論：MG発症前に自己免疫疾患の頻度が高く、特に診断直前2年で顕著であった。SLE、SjS、AITD、SRAとの強い関連が示されたが、保険請求データの限界を考慮し慎重な解釈が必要である。",
+      "summary_short_ja": "本研究は、重症筋無力症（MG）診断前10年間における自己免疫疾患の発生率と時系列パターンを韓国の全国保険データで検討した。MG患者は対照群に比べ自己免疫疾患の発症率が有意に高く、特に診断直前2年間で顕著であった。全身性エリテマトーデス、シェーグレン症候群、自己免疫性甲状腺疾患、リウマチ性関節炎との関連が強く認められたが、クローン病や潰瘍性大腸炎との関連はなかった。データの限界に留意が必要である。",
+      "disease": "myasthenia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42538851",
       "doi": "10.1093/ejcts/ezag018",
       "title": "Long-Term Cancer and Mortality After Thymectomy.",

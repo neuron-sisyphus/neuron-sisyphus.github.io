@@ -3,18 +3,18 @@
   "items": [
     {
       "source": "pubmed",
-      "pmid": "42546254",
-      "doi": "10.1212/WNL.0000000000218376",
-      "title": "Trends of Mortality and Years of Life Lost Due to Stroke Among Older Adults in China and Its Provinces, 2005-2020.",
-      "abstract": "To evaluate trends in stroke-related mortality and years of life lost (YLL) among older adults in China during 2005-2020. Leveraging data from National Mortality Surveillance System, we quantified counts and age-standardized rates for mortality and YLL attributable to stroke and its subtypes among adults aged 65 years and older in China and its provinces from 2005 to 2020. During 2005-2020, age-standardized mortality rate (ASMR) of stroke among older adults in China decreased from 1,327.30 to 1,000.69 per 100,000, accompanied by a 26.58% reduction in YLL rate. Specifically, ASMRs decreased by 48.08% for intracerebral hemorrhage (ICH) and 7.57% for subarachnoid hemorrhage (SAH), whereas that for ischemic stroke (IS) increased by 1.24%. In 2020, ASMRs for IS, ICH, and SAH were 610.52, 357.86, and 32.32 per 100,000, respectively, with IS exhibiting the highest rate. Notably, IS mortality increased among men aged 75-79 years (1.95%), men aged 80+ years (17.79%), and women aged 80+ years (5.02%). In 2020, the highest ASMR of stroke was observed in Tibet, Anhui, and Shaanxi. The substantial burden of IS persists among older adults in China. Increased IS mortality among men aged 75+ years and women aged 80+ years warrants particular attention.",
+      "pmid": "42555885",
+      "doi": "10.1212/WNL.0000000000218354",
+      "title": "Associations Between Cerebral Amyloid Angiopathy, Cognitive Impairment, and Depressive Symptoms.",
+      "abstract": "Cerebral amyloid angiopathy (CAA) is associated with intracerebral hemorrhage, cognitive decline, and dementia. We examined (1) associations between CAA, cognitive impairment, and depressive symptoms; (2) whether depressive symptoms mediate the relationship between CAA and cognition; and (3) whether CAA neuroimaging markers predict depressive symptom severity. Recruitment occurred through memory and stroke prevention clinics across 2 sites. Cross-sectional data from probable CAA and controls were analyzed. Neuropsychological tests were grouped into episodic memory, executive function, and processing speed domains. Scores ≥5 on the Geriatric Depression Scale: Short Form (GDS-15) defined \"possible depression.\" Regression and mediation analyses examined associations among CAA status, cognition, and depressive symptoms, and in CAA, associations between neuroimaging biomarkers and GDS-15. In 85 CAA (mean age 73.5; 35.3% female) and 83 controls (mean age 68.8; 62.7% female), CAA status was associated with poorer performance across cognitive domains. Higher GDS-15 scores were associated with poorer performance across domains. CAA participants had higher odds of \"possible depression\" (odds ratio 15.71; 95% CI 4.26-80.05,  CAA participants exhibited greater depressive symptoms and poorer cognition than controls. Depressive symptoms mediated a small portion of the association between CAA and cognition. Cerebral cortex damage may underlie some depressive symptoms. Interventions targeting CAA-related neurodegeneration and treatment of depressive symptoms may support cognitive health in CAA.",
       "journal": "Neurology",
       "year": "2026",
       "published": "2026-Sep-08",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42546254/",
-      "summary_ja": "背景：中国の高齢者における脳卒中関連の死亡率と生涯損失年数（YLL）の動向を評価する必要があった。  \n方法：2005年から2020年までの全国死亡監視システムのデータを用い、65歳以上の高齢者における脳卒中およびその亜型（脳内出血、くも膜下出血、虚血性脳卒中）に起因する死亡数と年齢調整死亡率、YLL率を中国全土および各省別に算出した。  \n結果：期間中、脳卒中の年齢調整死亡率は100,000人あたり1,327.30から1,000.69に減少し、YLL率も26.58%減少した。脳内出血は48.08%、くも膜下出血は7.57%減少した一方、虚血性脳卒中は1.24%増加した。2020年の死亡率は虚血性脳卒中が最も高く、特に75歳以上の男性と80歳以上の男女で増加傾向が顕著であった。地域別ではチベット、安徽、陝西で最も高い死亡率を示した。  \n結論：中国の高齢者における虚血性脳卒中の負担は依然として大きく、特に高齢男性と女性の虚血性脳卒中死亡率の増加に対する対策が重要である。",
-      "summary_short_ja": "中国の65歳以上高齢者における2005～2020年の脳卒中死亡率と生涯損失年数（YLL）を分析した結果、全体の年齢調整死亡率は約25%減少したが、虚血性脳卒中（IS）はわずかに増加した。特に75歳以上の男性と80歳以上の女性でIS死亡率が上昇し、2020年にはチベット、安徽、陝西で最も高かった。虚血性脳卒中の負担増加が今後の課題である。",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555885/",
+      "summary_ja": "背景：脳アミロイド血管症（CAA）は脳内出血や認知機能低下、認知症と関連するが、CAAと認知障害および抑うつ症状の関係は不明瞭である。方法：記憶クリニックと脳卒中予防クリニックの2施設で、CAA患者85名（平均年齢73.5歳）と対照83名（平均年齢68.8歳）を対象に横断的調査を実施。認知機能はエピソード記憶、実行機能、処理速度の3領域で評価し、GDS-15で抑うつ症状を測定した。回帰分析と媒介分析でCAA、認知機能、抑うつ症状の関連を検討した。結果：CAA群は全認知領域で成績が低く、抑うつ症状も有意に多かった（抑うつの可能性オッズ比15.71）。抑うつ症状はCAAと認知機能の関連の一部を媒介した。結論：CAAは認知機能低下と抑うつ症状の両方と関連し、抑うつ症状は認知障害の一因となる可能性がある。脳皮質の損傷が抑うつ症状の基盤と考えられ、CAA関連の神経変性と抑うつ症状の治療が認知機能維持に重要である。",
+      "summary_short_ja": "脳アミロイド血管症（CAA）は認知機能低下やうつ症状と関連し、CAA患者は認知機能が低く、うつ症状も強いことが示された。うつ症状はCAAと認知機能低下の関係の一部を媒介し、脳皮質の損傷がうつ症状の一因と考えられる。CAAに対する神経変性の介入と抑うつ治療が認知機能維持に有効と示唆された。",
       "disease": "stroke",
-      "section": "epidemiology"
+      "section": "prognosis"
     },
     {
       "source": "pubmed",
@@ -45,6 +45,21 @@
       "summary_short_ja": "本研究は、多様なヒスパニック/ラティーノ高齢者2,385名を対象に、白質（WM）損傷の画像バイオマーカーと認知機能の関連を検討した。WMの微細構造指標（自由水分率、異方性分率）および大規模構造指標（白質高信号体積）が認知機能低下と有意に関連し、自由水分率は連続的認知指標と、白質高信号は認知障害の有無と強く結びついた。これにより、WM病変の異なる指標が認知機能の多面的評価に重要であることが示された。",
       "disease": "stroke",
       "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42546254",
+      "doi": "10.1212/WNL.0000000000218376",
+      "title": "Trends of Mortality and Years of Life Lost Due to Stroke Among Older Adults in China and Its Provinces, 2005-2020.",
+      "abstract": "To evaluate trends in stroke-related mortality and years of life lost (YLL) among older adults in China during 2005-2020. Leveraging data from National Mortality Surveillance System, we quantified counts and age-standardized rates for mortality and YLL attributable to stroke and its subtypes among adults aged 65 years and older in China and its provinces from 2005 to 2020. During 2005-2020, age-standardized mortality rate (ASMR) of stroke among older adults in China decreased from 1,327.30 to 1,000.69 per 100,000, accompanied by a 26.58% reduction in YLL rate. Specifically, ASMRs decreased by 48.08% for intracerebral hemorrhage (ICH) and 7.57% for subarachnoid hemorrhage (SAH), whereas that for ischemic stroke (IS) increased by 1.24%. In 2020, ASMRs for IS, ICH, and SAH were 610.52, 357.86, and 32.32 per 100,000, respectively, with IS exhibiting the highest rate. Notably, IS mortality increased among men aged 75-79 years (1.95%), men aged 80+ years (17.79%), and women aged 80+ years (5.02%). In 2020, the highest ASMR of stroke was observed in Tibet, Anhui, and Shaanxi. The substantial burden of IS persists among older adults in China. Increased IS mortality among men aged 75+ years and women aged 80+ years warrants particular attention.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42546254/",
+      "summary_ja": "背景：中国の高齢者における脳卒中関連の死亡率と生涯損失年数（YLL）の動向を評価する必要があった。  \n方法：2005年から2020年までの全国死亡監視システムのデータを用い、65歳以上の高齢者における脳卒中およびその亜型（脳内出血、くも膜下出血、虚血性脳卒中）に起因する死亡数と年齢調整死亡率、YLL率を中国全土および各省別に算出した。  \n結果：期間中、脳卒中の年齢調整死亡率は100,000人あたり1,327.30から1,000.69に減少し、YLL率も26.58%減少した。脳内出血は48.08%、くも膜下出血は7.57%減少した一方、虚血性脳卒中は1.24%増加した。2020年の死亡率は虚血性脳卒中が最も高く、特に75歳以上の男性と80歳以上の男女で増加傾向が顕著であった。地域別ではチベット、安徽、陝西で最も高い死亡率を示した。  \n結論：中国の高齢者における虚血性脳卒中の負担は依然として大きく、特に高齢男性と女性の虚血性脳卒中死亡率の増加に対する対策が重要である。",
+      "summary_short_ja": "中国の65歳以上高齢者における2005～2020年の脳卒中死亡率と生涯損失年数（YLL）を分析した結果、全体の年齢調整死亡率は約25%減少したが、虚血性脳卒中（IS）はわずかに増加した。特に75歳以上の男性と80歳以上の女性でIS死亡率が上昇し、2020年にはチベット、安徽、陝西で最も高かった。虚血性脳卒中の負担増加が今後の課題である。",
+      "disease": "stroke",
+      "section": "epidemiology"
     },
     {
       "source": "pubmed",
