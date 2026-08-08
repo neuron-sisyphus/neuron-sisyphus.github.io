@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-08",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42566724",
+      "doi": "10.1212/WNL.0000000000218405",
+      "title": "Acute Attack Treatment Escalation and Subsequent Relapse Risk in Pediatric Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease.",
+      "abstract": "Acute treatment for myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) includes high-dose IV methylprednisolone (IVMP), with escalation to IV immunoglobulin (IVIG) and/or plasma exchange (PLEX) based on severity or incomplete response. We evaluated whether escalation at first attack influences disease course. We conducted a retrospective single-center study of pediatric-onset MOGAD evaluated between 2015 and 2024. Patients were classified to (1) steroid-only or (2) steroid-plus (IVMP followed by IVIG, PLEX, or both). Outcomes included early (≤1 year) and overall relapses. Time-to-event analyses used Kaplan-Meier and adjusted Cox regression. Ninety-six of 114 patients were included (58% female; median age 6.3 years [interquartile range (IQR) 4.1-11.3]; median follow-up 3.2 years [IQR 1.4-6.1]). Sixty-eight (71%) received steroid-only therapy and 28 (29%) escalation therapy. Relapses were more frequent with steroid-only treatment at 1 year (28% vs 4%; relative risk [RR] 7.80; 95% CI 1.10-55.3) and at final follow-up (43% vs 11%; RR 3.98; 95% CI 1.33-11.93). Escalation therapy was associated with reduced relapse risk (adjusted hazard ratio [HR] 0.25; 95% CI 0.07-0.85;  Acute immunotherapy escalation was associated with lower early and mid-term relapses, suggesting the first attack may represent a therapeutic opportunity to influence disease trajectory.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566724/",
+      "summary_ja": "背景：ミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）の急性期治療は、高用量静脈内メチルプレドニゾロン（IVMP）が基本であり、症状の重症度や反応不良に応じて静脈内免疫グロブリン（IVIG）や血漿交換（PLEX）への治療強化が行われる。方法：2015年から2024年までに小児発症MOGAD患者114名中96名を対象に、初回発作時の治療強化（ステロイド単独群 vs ステロイド＋IVIG/PLEX群）が再発リスクに与える影響を後ろ向き単施設研究で検討した。結果：中央値年齢6.3歳、追跡期間中央値3.2年。ステロイド単独群（71%）は1年以内の再発率が28%、治療強化群（29%）は4%であり（相対リスク7.80）、最終追跡時も再発率はそれぞれ43%と11%であった。治療強化は再発リスクを有意に低減（調整ハザード比0.25）した。結論：初回発作時の免疫療法強化は早期および中期の再発リスクを低減し、疾患経過に影響を与える治療機会となりうる。",
+      "summary_short_ja": "小児期発症のミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）において、初回急性発作時の治療強化（ステロイド単独からIVIGや血漿交換の追加）は、1年以内および中期の再発リスクを有意に低減させた。71％がステロイド単独治療、29％が治療強化を受け、治療強化群は再発率が大幅に低かった。初回発作時の積極的治療介入が疾患経過改善の鍵となる可能性を示唆する。",
+      "disease": "mogad",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42566723",
+      "doi": "10.1212/WNL.0000000000218446",
+      "title": "Pearls & Oy-sters: Bilateral Neuropathic Facial Pain With Autonomic Features and Neurovascular Contact.",
+      "abstract": "Trigeminal neuralgia (TN) is an uncommon disorder, with an annual prevalence of 0.03%-0.3% in North America. It is typically unilateral, most commonly involving the V2 and V3 distributions and may be accompanied by mild autonomic features. We report a 35-year-old woman who developed severe right more than left-sided facial pain in the V1 and V2 divisions (upper and midface), occurring up to 100 times daily after repetitive use of cosmetic products. Following a viral upper respiratory infection, the pain progressed to bilateral symmetric V1 and V2 involvement and was associated with new bilateral autonomic symptoms, including facial swelling, tearing, and nasal congestion. As recommended in all TN cases, MRI of the head was performed to assess for secondary causes, such as multiple sclerosis, cerebellopontine angle tumors, systemic lupus erythematosus, and neurosarcoidosis. Imaging revealed neurovascular contact between the superior cerebellar artery and the bilateral trigeminal nerves, without evidence of demyelination or nerve signal abnormality. Because the nerves appeared intact, this finding was felt unlikely to explain the symptoms, but rather, to be incidental. The patient experienced significant pain relief with carbamazepine and additional improvement in autonomic symptoms with a trial of indomethacin after a postinfectious pain flare, suggesting possible overlap with trigeminal autonomic cephalalgias (TACs). This case illustrates the diagnostic challenges of an uncommon facial pain presentation, characterized by progression to mirror-symmetric bilateral V1 and V2 involvement and autonomic features. Given the overlap between TN and other facial pain syndromes, including TACs, a multifaceted treatment approach may be necessary.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566723/",
+      "summary_ja": "【背景】三叉神経痛（TN）は北米で年間有病率0.03%-0.3%のまれな疾患で、通常は片側のV2およびV3領域に発症し、軽度の自律神経症状を伴うことがある。  \n【方法】35歳女性が化粧品使用後に右側優位のV1およびV2領域の激しい顔面痛を発症し、上気道感染後に両側対称のV1・V2領域と自律神経症状（顔面腫脹、流涙、鼻閉）が出現。MRI検査で小脳上動脈と両側三叉神経の神経血管接触を認めたが、脱髄や神経信号異常はなかった。  \n【結果】神経は正常に見え、症状の原因とは考えにくかった。カルバマゼピンで痛みが著明に軽減し、感染後の痛み増悪にはインドメタシンが自律神経症状の改善に寄与した。  \n【結論】本症例は、両側対称のV1・V2領域と自律神経症状を伴うまれな顔面痛で、TNと三叉神経自律神経性頭痛（TACs）との症状重複を示唆し、多角的治療が必要であることを示している。",
+      "summary_short_ja": "35歳女性が化粧品使用後に右優位の三叉神経V1・V2領域の顔面痛を発症し、上気道感染後に両側対称の痛みと自律神経症状（顔面腫脹、流涙、鼻閉）が出現。MRIで神経血管接触を認めたが神経損傷はなく偶発的所見と判断。カルバマゼピンで痛みが改善し、インドメタシンで自律神経症状も軽減。三叉神経痛と自律神経性頭痛の重複を示唆し、多角的治療の重要性を示した症例である。",
+      "disease": "ms",
+      "section": "diagnosis"
+    }
+  ]
+}
