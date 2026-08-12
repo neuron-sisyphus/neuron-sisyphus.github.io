@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42579824",
+      "doi": "10.1212/WNL.0000000000218301",
+      "title": "Accuracy of Antibody Testing in Myasthenia Gravis: The ADAM Study.",
+      "abstract": "Antibody testing has a pivotal role in the diagnosis of myasthenia gravis (MG). However, there are limited data on the accuracy of the different methods available for acetylcholine receptor (AChR) and muscle-specific kinase (MuSK) autoantibody (Ab) detection in a real-world setting. Our aim was to compare the diagnostic accuracy of in-house live cell-based assay (L-CBA), a commercially available fixed CBA (F-CBA), and an indirect ELISA in detecting AChR and MuSK antibodies in patients with suspected MG. Between July 2023 and December 2025, we prospectively recruited consecutive adult and pediatric patients with suspected MG across 4 Italian centers. Patients undergoing immunotherapy and those with incomplete diagnostic work-up or insufficient samples were excluded. Serum samples were tested blindly by L-CBA, F-CBA, and ELISA for AChR and MuSK antibodies. MG diagnosis was established independently based on neurologic examination, electrophysiologic studies, and/or sustained clinical response to pyridostigmine or corticosteroids as well as exclusion of other diagnoses. Diagnostic sensitivity, specificity, and receiver operating characteristic (ROC) curves were calculated using final diagnosis as the reference standard. Of the 327 included patients (median age 63 years, interquartile range 26, 52.9% female), 152 were diagnosed with MG and 175 with other diagnoses. For AChR antibodies, sensitivity was 71.7% (95% CI 63.8-78.7) for L-CBA, 69% (61.0-76.3) for F-CBA, and 63.8% (55.6-71.4) for ELISA, while specificity was 97.7% (94.2-99.3) for both CBAs vs 69.1% (61.7-75.9) for ELISA. ELISA showed lower concordance with CBAs and produced substantially more false positives (30.9%). For MuSK antibodies, sensitivity was similar (6.6 vs 7.2%) and specificity 100% across assays. ROC curve analysis confirmed higher diagnostic accuracy for L-CBA (AUC 0.85) compared with F-CBA (0.83) ( CBAs, especially live, demonstrated superior diagnostic performance for AChR antibody detection compared with ELISA, particularly in ocular MG. L-CBA showed a modest but significant diagnostic advantage over F-CBA, although fixed assays can be considered as a practical, nearly equivalent alternative, suitable for routine laboratories. By contrast, ELISA demonstrated lower specificity and should be interpreted cautiously. This study shows Class I data that L-CBA and F-CBA compare favorably with ELISA testing of AChR-Ab and MuSK-Ab, in the diagnosis of MG.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42579824/",
+      "summary_ja": "背景：重症筋無力症（MG）の診断において抗体検査は重要だが、アセチルコリン受容体（AChR）および筋特異的キナーゼ（MuSK）自己抗体検出法の実際の精度データは限られている。  \n方法：2023年7月から2025年12月までに、イタリアの4施設でMG疑い患者327名（成人・小児）を前向きに登録。免疫療法中や検査不十分な患者は除外。血清を用いて、ライブ細胞ベースアッセイ（L-CBA）、固定細胞ベースアッセイ（F-CBA）、間接ELISAでAChRおよびMuSK抗体を盲検検査し、最終診断を基準に感度・特異度・ROC曲線を評価。  \n結果：152例がMGと診断。AChR抗体検出感度はL-CBAが71.7%、F-CBAが69%、ELISAが63.8%、特異度はL-CBA・F-CBAが97.7%、ELISAは69.1%であった。ELISAは偽陽性が多く、CBAsとの一致度も低かった。MuSK抗体は感度が低いが特異度は100%であった。ROC解析でL-CBA（AUC0.85）がF-CBA（0.83）よりやや優位。  \n結論：L-CBAおよびF-CBAはELISAよりAChR抗体検出に優れ、特にL-CBAは診断精度が高い。固定法も実用的で日常検査に適する。一方、ELISAは特異度が低く慎重な解釈が必要である。",
+      "summary_short_ja": "本研究は、重症筋無力症（MG）診断におけるアセチルコリン受容体（AChR）および筋特異的キナーゼ（MuSK）抗体検査の精度を比較した。生細胞ベースアッセイ（L-CBA）と固定CBA（F-CBA）は、間接ELISAよりも感度・特異度が高く、特にL-CBAが最も優れた診断性能を示した。ELISAは偽陽性が多く特異度が低いため注意が必要である。L-CBAとF-CBAはMG診断において信頼性の高い検査法である。",
+      "disease": "myasthenia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42555884",
       "doi": "10.1212/WNL.0000000000218377",
       "title": "Rate of Autoimmune Diseases in the 10 Years Preceding Myasthenia Gravis Diagnosis: A Nationwide Cohort Study in South Korea.",
