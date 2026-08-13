@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42585607",
+      "doi": "10.1212/WNL.0000000000218416",
+      "title": "Prediction of Long-Term Postsurgical Seizure Recurrence From MRI Brain Hub Disruption in Patients With Temporal Lobe Epilepsy.",
+      "abstract": "Patients with temporal lobe epilepsy (TLE) can achieve seizure freedom in the early period after surgery, yet up to half experience seizure recurrence in the following years (i.e., long-term). TLE is associated with disruption of highly connected brain regions (hubs), which may reduce the likelihood of long-term surgical success. We tested whether disruption of physiologic (normative) hubs predicts long-term seizure outcomes. In a prospective, multimodal cohort of patients with drug-resistant TLE from 6 centers who underwent resective or laser ablative surgery and had more than 2 years of follow-up (mean = 5.4 years, SD = 3.2 years), we derived structural and functional connectomes from preoperative diffusion-weighted MRI and resting-state fMRI. Using a large multicenter healthy-control cohort, we identified normative connector hubs and quantified patient-specific disruption within these hubs using the graph-theory measure-participation coefficient. To classify seizure-free (positive class) and non-seizure-free (negative class) outcomes, we trained machine learning models using patient-specific disruption of the participation coefficient derived from structural and functional connectomes and their combination (multimodal approach). We evaluated model performance in an independent cohort. Models further incorporated clinical and demographic variables, as well as gray and white matter volumes. In our cohort of 175 patients, the multimodal approach outperformed a model based on clinical and demographic variables only and unimodal approaches, achieving high specificity (mean = 80.0%, SD = 9.9%) and moderate-to-high negative predictive value (mean = 63.9%, SD = 3.6%). Using 362 healthy controls to define normative connector hubs, Shapley Additive Explanation analyses identified disruption of the participation coefficient in the hippocampi and connector hubs of the dorsal attention network as predictive of long-term seizure recurrence, which includes areas not typically targeted in TLE surgery. Disruption of normative hub architecture provides biologically interpretable biomarkers of long-term seizure outcomes in TLE. Contrary to previous studies, the model achieved high specificity in predicting long-term seizure recurrence, which supports its potential clinical utility for postoperative risk stratification and counseling rather than surgical exclusion. By validating performance in an independent cohort under conservative evaluation, our study underscores the translational potential of network-level biomarkers to complement conventional predictors.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585607/",
+      "summary_ja": "背景：側頭葉てんかん（TLE）患者は手術後早期に発作が消失しても、長期的には約半数が再発する。TLEは脳の高連結領域（ハブ）の機能障害と関連し、これが長期的な手術成功率を低下させる可能性がある。  \n方法：6施設からの薬物抵抗性TLE患者175名を対象に、術前の拡散強調MRIと安静時fMRIから構造的・機能的コネクトームを作成。362名の健常者データを用いて基準となるハブを特定し、患者ごとのハブ障害度をグラフ理論の参加係数で評価。機械学習モデルにより、ハブ障害度と臨床・人口統計学的データを組み合わせて長期発作再発の予測を試みた。独立コホートでモデル性能を検証。  \n結果：多モーダルモデルは臨床情報のみや単一モーダルモデルを上回り、特異度80.0％、陰性的中率63.9％を達成。海馬や背側注意ネットワークのハブ障害が長期発作再発の予測因子として特定された。これらは従来の手術対象外の領域を含む。  \n結論：基準ハブの障害はTLEの長期発作再発を予測する生物学的に解釈可能なバイオマーカーとなりうる。高い特異度により、術後リスク層別化や患者指導への臨床応用が期待される。独立コホートでの検証により、ネットワークレベルの指標が従来の予測因子を補完する可能性が示された。",
+      "summary_short_ja": "側頭葉てんかん患者において、術後早期は発作消失しても長期的には約半数が再発する。術前MRIから得た構造・機能的脳ネットワークのハブ破壊度を機械学習で解析し、長期発作再発を高精度に予測可能であることを示した。特に海馬や注意ネットワークのハブ破壊が重要で、従来の臨床指標を上回る特異度を持つため、術後リスク評価や患者指導に有用なバイオマーカーとなる。",
+      "disease": "epilepsy",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42585604",
+      "doi": "10.1212/WNL.0000000000218442",
+      "title": "Intervention or Conservative Management for Symptomatic Cerebral Cavernous Malformations: A Prospective, Population-Based Cohort Study.",
+      "abstract": "There is ongoing clinical equipoise regarding the optimal treatment strategy for symptomatic cerebral cavernous malformations (CCMs). The aim of this study was to estimate the causal effect between CCM intervention (microsurgical resection or stereotactic radiosurgery) and clinical outcomes during long-term follow-up. This population-based cohort study included patients (aged 16 years or older) newly diagnosed with CCM using brain MRI or pathology in Scotland during 1999-2003 or 2006-2010. Using Cox regression analysis, we evaluated associations between CCM intervention (as a time-dependent covariate) and a primary outcome of persistent functional impairment or death (defined as at least 2 consecutive annual Oxford Handicap Scale [OHS] scores of ≥2, with sensitivity analysis of OHS scores ≥3), a composite of symptomatic intracranial hemorrhage or new persistent/progressive nonhemorrhagic focal neurologic deficit (ICH/FND) definitely/possibly related to CCM or CCM intervention, and epileptic seizure(s) definitely/possibly related to CCM during prospective follow-up. Among 306 patients with CCM, 190 were symptomatic (89 [47%] because of ICH/FND and 101 [53%] because of epileptic seizure(s), median age 40 years [interquartile range (IQR) 31-55], and 95 [50%] women). During a median follow-up of 16 years (IQR 14-21, completeness 95%), 37 (19%) patients underwent CCM intervention (n = 35 microsurgical resection and n = 2 stereotactic radiosurgery); they were younger (median 33 [26-40] vs 43 [32-59] years,  CCM intervention for symptomatic CCM was associated with persistent functional dependence or death during long-term follow-up. This may be explained by ICH/FND definitely related to CCM or CCM intervention. These findings should be investigated in a definitive randomized controlled trial.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585604/",
+      "summary_ja": "背景：症候性脳海綿状血管奇形（CCM）の最適治療法は未だ明確でなく、介入治療（顕微外科的切除または定位放射線治療）と保存的管理の効果比較が求められている。  \n方法：スコットランドで1999-2003年および2006-2010年に新規診断された16歳以上のCCM患者306名（うち症候性190名）を対象に、介入治療の有無と長期追跡における臨床転帰（持続的機能障害または死亡、症候性頭蓋内出血/新規神経障害、てんかん発作）との関連をコックス回帰分析で検討した。中央値16年の追跡期間中、37名が介入治療を受けた。  \n結果：介入群は若年であったが、長期追跡で持続的な機能依存または死亡のリスクが高かった。この悪化はCCMまたは治療に関連する頭蓋内出血や神経障害によるものと推察された。  \n結論：症候性CCMに対する介入治療は長期的に不良転帰と関連しており、その因果関係を明確にするためには無作為化比較試験が必要である。",
+      "summary_short_ja": "本研究は、症候性脳海綿状血管腫（CCM）に対する介入治療（顕微外科切除または定位放射線手術）と保存的管理の長期的な臨床転帰を比較した。306例中190例が症候性で、16年間の追跡で19％が介入を受けた。介入群は若年であったが、持続的な機能障害または死亡のリスクが高く、これはCCMや介入に関連した脳内出血や神経障害によると考えられる。最適治療法の確定には無作為化試験が必要である。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42479996",
       "doi": "10.1001/jama.1993.03510240069035",
       "title": "A Predictive Model for Short-Term Mortality After Status Epilepticus: The ACARD Score.",

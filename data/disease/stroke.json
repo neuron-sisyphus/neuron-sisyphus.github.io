@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42585603",
+      "doi": "10.1212/WNL.0000000000218420",
+      "title": "Individualized vs Standard Blood Pressure Control During Thrombectomy for Ischemic Stroke: The DETERMINE Randomized Clinical Trial.",
+      "abstract": "Current recommended blood pressure (BP) targets during mechanical thrombectomy (MT) rely on a one-size-fits-all approach aiming at preventing hypertension. The efficacy and safety of an individualized BP control during thrombectomy for ischemic stroke has not been well studied. We aimed to evaluate whether an individualized BP control during MT could improve functional outcome at 90 days. We conducted a multicenter, open-label, blinded-endpoint, randomized clinical trial at 8 academic comprehensive stroke centers in France. Adult patients with an acute ischemic stroke due to an anterior large vessel occlusion and an indication for MT were eligible. Recruitment was performed between March 10, 2021, and September 18, 2023. Patients were randomly assigned (1:1) to an individualized BP group during MT (where the mean arterial pressure [MAP] was maintained within 10% of the first MAP measured before MT) or a control BP group (systolic BP maintained within 140 and 180 mm Hg). The primary outcome was favorable functional outcome, defined as a modified Rankin Scale score between 0 and 2 at 90 days. Safety outcomes included symptomatic intracranial hemorrhages at 24 hours and mortality at 90 days. Overall, 433 patients (median age, 69.3 years, 228 females [52.8%]) were assigned to an individualized BP group (n = 215) or the control BP group (n = 218); one was excluded because of consent withdrawal. No significant differences in mean BP levels or BP variability were observed between groups during the procedure. Favorable functional outcome at 90 days was observed in 94 patients (44.2%) in the individualized BP group and 106 patients (48.8%) in the control group (adjusted odds ratio, 0.82; 95% CI 0.54-1.24;  In patients with acute ischemic stroke due to an anterior large vessel occlusion, an individualized BP management during MT did not increase rates of favorable functional outcome at 90 days compared with a standard BP management. ClinicalTrials.gov, DETERMINE, number NCT04352296. This study provides Class II evidence that in patients undergoing mechanical thrombectomy for stroke due to anterior large vessel occlusion, functional outcomes at 90 days were similar with individualized BP management and standard BP management.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585603/",
+      "summary_ja": "背景：虚血性脳卒中に対する機械的血栓除去術（MT）中の血圧管理は、現行のガイドラインで一律の目標値が推奨されているが、個別化血圧管理の有効性と安全性は十分に検証されていない。  \n方法：フランスの8つの包括的脳卒中センターで、多施設共同の無作為化臨床試験を実施。前方大血管閉塞による急性虚血性脳卒中患者433名を対象に、MT中の平均動脈圧（MAP）を術前値の±10％に維持する個別化血圧管理群（215名）と、収縮期血圧を140～180mmHgに維持する標準管理群（218名）に1:1で割り付けた。主要評価項目は90日後の修正Rankinスケール0～2の良好な機能的転帰。  \n結果：両群間で手技中の平均血圧や血圧変動に有意差はなく、90日後の良好な機能的転帰は個別化群44.2％、標準群48.8％で差は認められなかった（調整オッズ比0.82、95％CI 0.54-1.24）。安全性指標にも差はなかった。  \n結論：前方大血管閉塞による急性虚血性脳卒中患者のMT中において、個別化血圧管理は標準的血圧管理と比較して90日後の機能的転帰を改善しなかった。",
+      "summary_short_ja": "急性前方大血管閉塞による虚血性脳卒中患者を対象に、機械的血栓除去術（MT）中の血圧管理を個別化（術前平均動脈圧の±10％維持）と標準管理（収縮期血圧140～180mmHg維持）で比較した多施設ランダム化試験。90日後の機能的良好転帰（修正Rankinスケール0～2）に有意差はなく、安全性も同等であった。個別化血圧管理は標準管理に対し優位性を示さなかった。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42579828",
       "doi": "10.1212/WNL.0000000000218440",
       "title": "Distal Vessel Occlusions in Acute Ischemic Stroke: Reframing Patient Selection and Reperfusion Strategies.",
