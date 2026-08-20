@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42617146",
+      "doi": "10.1212/WNL.0000000000218375",
+      "title": "Paternal Valproate Exposure and Offspring Neurodevelopmental Outcomes.",
+      "abstract": "Evidence remains inconclusive on whether paternal valproate exposure during spermatogenesis is associated with adverse offspring outcomes, with findings lacking beyond Nordic countries. This study aimed to assess the risks of neurodevelopmental disorders (NDDs) and congenital malformations in offspring attributable to paternal exposure to valproate and other antiseizure medications (ASMs) during sperm development. This nationwide birth cohort study used data from the Taiwan National Health Insurance Research Database, including individuals born 2001-2016 who were followed up through 2021. Paternal exposure to valproate or other ASMs was defined during the time of spermatogenesis (3 months before conception). Exposure discordant sibling sets were identified for sibling-comparison analysis to control for shared genetic and lifestyle factors. NDDs-including autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD), intellectual disability (ID), and tic disorder-and congenital malformations were defined by outpatient and inpatient medical record(s). Relative risks were estimated through Cox proportional hazards models for NDDs (hazard ratios [HRs]) and logistic regression for congenital malformations (odds ratios [ORs]). In the population cohort of 2,583,503 individuals, 1,701 were exposed to paternal use of valproate and 548 exposure-discordant sibling sets were available for sibling-comparison analysis. In population-based analyses, paternal valproate exposure was not associated with the risk of NDDs (HRs = 0.86 [95% CI 0.61-1.22] for ASD, 1.02 [0.88-1.18] for ADHD, 0.80 [0.53-1.20] for tic disorders, and 0.81 [0.55-1.19] for ID) or congenital malformations (OR = 1.07 [0.83-1.37]) in offspring. These null effects persisted when restricting analyses to children of fathers with epilepsy to control for confounding by indication, and when the sibling-comparison analysis was conducted. For other ASMs, a few associations appeared at nominal significance, but none remained in sibling-comparison analyses. In this large population-based study in Asia, we found no increased risk of NDDs in offspring following paternal exposure to valproate or other ASMs. These findings may contribute to ongoing debates about the management of valproate in men of reproductive age, although additional evidence is needed before drawing conclusions about changes to current practice.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617146/",
+      "summary_ja": "本研究は、父親のバルプロ酸（valproate）曝露が子の神経発達障害（NDD）や先天異常に与える影響を検討した。台湾の国民健康保険データベースを用い、2001～2016年出生の約258万人を対象に、受精前3か月間の精子形成期における父親のバルプロ酸や他の抗てんかん薬（ASM）使用を曝露と定義。自家対照として曝露不一致の兄弟セットも分析した。結果、バルプロ酸曝露は自閉症スペクトラム障害（ASD）、注意欠陥多動性障害（ADHD）、チック障害、知的障害（ID）、先天異常のリスク上昇と関連せず（HRやORは有意差なし）、てんかん患者の父親に限定しても同様であった。他のASMについても有意な関連は兄弟比較で消失した。結論として、アジアの大規模コホートで父親のバルプロ酸曝露は子のNDDリスク増加を示さず、男性の生殖年齢におけるバルプロ酸管理の議論に重要な知見を提供するが、臨床方針変更にはさらなる証拠が必要である。",
+      "summary_short_ja": "本研究は台湾の全国出生コホートを用い、父親の精子形成期におけるバルプロ酸および他の抗てんかん薬（ASM）曝露が子の神経発達障害（自閉症、ADHD、知的障害、チック障害）や先天異常に与える影響を検討した。結果、バルプロ酸曝露はこれらのリスク増加と関連せず、兄弟比較分析でも同様の結果が得られた。これにより、父親のバルプロ酸使用が子の神経発達に悪影響を及ぼす証拠は見られなかった。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42585607",
       "doi": "10.1212/WNL.0000000000218416",
       "title": "Prediction of Long-Term Postsurgical Seizure Recurrence From MRI Brain Hub Disruption in Patients With Temporal Lobe Epilepsy.",

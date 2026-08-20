@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42617144",
+      "doi": "10.1212/WNL.0000000000218425",
+      "title": "Application of the 2024 McDonald Criteria: Earlier Diagnosis and Avoiding Misdiagnosis of Multiple Sclerosis in a Global Setting.",
+      "abstract": "The evolution of multiple sclerosis (MS) diagnostic criteria over the past 4 decades has shortened the time to diagnosis of MS, enabling earlier institution of immunomodulatory therapy and therefore improved clinical outcomes. In response to a recent expansion of knowledge related to approaches and paraclinical tools that may aid diagnosis of MS and identify causes of MS misdiagnosis, the 2024 McDonald criteria reflect substantive changes and introduce new pathways to MS diagnosis. These revisions carry potential for both earlier and more accurate diagnosis of MS, yet require expertise for their appropriate application in clinical practice and introduce new challenges for global implementation. These changes include expansion of anatomical locations that represent dissemination in space, new paraclinical findings that can substitute for dissemination in time, inclusion of patients with asymptomatic or nonspecific clinical presentations, and recommendations for diagnostic approaches in specific patient populations. These changes also incorporate new paraclinical tools for the first time, including MRI central vein sign and paramagnetic rim lesions, CSF kappa free light chains, and optical coherence tomography. The revised criteria have now unified the diagnostic pathway for clinical presentations typical of MS with attack or progressive onset, and established a new pathway for patients without symptoms or with nonspecific clinical presentations accompanied by MRI findings typical of MS. The 2024 revisions continue to rely on recognition of typical clinical and MRI findings of MS, and additionally recommend specific approaches to pediatric patients, patients with vascular comorbidities, and older patients to further reduce the risk of misdiagnosis. Previous data suggest barriers to implementation, and misunderstanding and misapplication of prior revisions to MS diagnostic criteria that may be associated with misdiagnosis. Implementation of the revised 2024 McDonald criteria globally, particularly in low and low-middle income countries, will require educational outreach, leveraging and maximizing existing resources, and engagement of health care systems to improve access to new technology. This review contextualizes the implications of key revisions in the 2024 criteria for routine clinical care, while providing accessible guidance for its appropriate application with a lens toward nonspecialist clinicians and trainees globally, to ensure early and accurate MS diagnosis.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617144/",
+      "summary_ja": "背景：多発性硬化症（MS）の診断基準は過去40年で進化し、診断までの時間短縮と早期の免疫調節療法開始による臨床成績の改善が可能となった。  \n方法：2024年改訂のMcDonald基準は、MS診断に役立つ新たな知見や誤診原因の特定を反映し、解剖学的部位の拡大、時間的拡散の代替となる新しい検査所見、無症候や非特異的症状患者の診断経路の追加、特定患者群への診断推奨を含む。MRIの中心静脈サインやパラ磁性リム病変、脳脊髄液中のカッパフリーライトチェーン、光干渉断層計など新規パラクリニカルツールも導入した。  \n結果：典型的なMS発症例と無症候・非特異的症状例の診断経路を統一し、小児、血管合併症、高齢患者への誤診リスク軽減策も盛り込んだ。過去の基準改訂では誤診や誤用の問題が指摘されており、2024年基準の世界的な実施には教育普及や既存資源の活用、医療システムの連携が必要である。  \n結論：本改訂はMSの早期かつ正確な診断を促進し、非専門医や研修医にも適用可能な指針を提供することで、グローバルな臨床現場での誤診回避と診断精度向上に寄与する。",
+      "summary_short_ja": "2024年改訂のMcDonald基準は、多発性硬化症（MS）の診断を早期かつ正確に行うために、解剖学的範囲の拡大や新たなパラクリニカル検査（MRI中心静脈徴候、CSFカッパフリーライトチェーンなど）を導入した。無症状や非特異的症状の患者にも対応し、小児や高齢者、血管合併症患者への診断指針も示す。世界的な適用には専門知識と教育が必要で、特に低所得国での普及が課題である。",
+      "disease": "ms",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42485605",
       "doi": "10.1212/WNL.0000000000218300",
       "title": "Effectiveness and Safety of Plasmapheresis in MOGAD Attacks: A Systematic Review and Meta-Analysis.",
