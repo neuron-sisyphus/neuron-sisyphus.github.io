@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42623575",
+      "doi": "10.1212/WNL.0000000000218491",
+      "title": "Effect of a ≥50% Reduction in Low-Density Lipoprotein Cholesterol From Baseline in Patients With Ischemic Stroke.",
+      "abstract": "Current secondary atherosclerotic cardiovascular disease prevention guidelines recommend both a ≥50% reduction in low-density lipoprotein cholesterol (LDL-C) from baseline and an absolute LDL-C goal (<70 or <55 mg/dL). Stroke-specific guidelines primarily emphasize only an absolute LDL-C goal, and the independent clinical impact of achieving a ≥50% reduction remains unclear in patients with ischemic stroke. This study aimed to evaluate whether achieving a ≥50% LDL-C reduction provides prognostic benefit independent of attaining an absolute LDL-C goal in patients with ischemic stroke. This retrospective cohort study included patients admitted for acute ischemic stroke (2014-2022) using the Korean National Health Insurance Database in South Korea. LDL-C status over time was derived from serial national health examinations following the index stroke. Patients were categorized into 4 groups according to attainment of absolute (<70 mg/dL) and relative (≥50% reduction from baseline) LDL-C goals. The primary outcome was a composite of recurrent stroke, myocardial infarction, and all-cause death, analyzed using time-varying Cox regression. Among 89,414 patients, 136,427 poststroke LDL-C measurements were analyzed over a mean follow-up of 5.72 ± 2.40 years. Throughout the follow-up period, the proportion of patients achieving a ≥50% LDL-C reduction from baseline remained at approximately 30%. Using the optimal group (achieving both <70 mg/dL and ≥50% reduction) as the reference, the risk of the primary outcome was significantly higher in groups failing to achieve a ≥50% reduction, regardless of attainment of the absolute LDL-C level (<70 mg/dL): adjusted hazard ratio [95% CI] 1.12 [1.06-1.18] for the <70 mg/dL and <50% reduction group and 1.28 [1.23-1.34] for the ≥70 mg/dL and <50% reduction group. Results were consistent across subgroups stratified by sex, age, baseline LDL-C level, and the presence of presumed cardioembolic source. Achieving a ≥50% reduction in LDL-C from baseline was independently associated with a lower risk of secondary cardiovascular events. A substantial proportion of patients with ischemic stroke fail to achieve optimal LDL-C reduction; thus, more intensive and multifaceted lipid-lowering strategies focusing on both absolute and relative LDL-C reduction may lead to improved long-term outcomes.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42623575/",
+      "summary_ja": "背景：虚血性脳卒中患者の二次予防において、LDLコレステロール（LDL-C）を基準値から50%以上減少させることの独立した臨床効果は不明であった。方法：韓国国民健康保険データベースを用い、2014～2022年に急性虚血性脳卒中で入院した89,414例を対象に、発症後のLDL-C測定値から絶対目標値（<70 mg/dL）および相対目標（基準値から≥50%減少）の達成状況で4群に分類し、再発脳卒中、心筋梗塞、全死亡を複合した主要転帰を追跡した。結果：平均5.7年の追跡期間中、基準値から50%以上のLDL-C減少を達成した患者は約30%にとどまった。絶対目標を達成していても50%減少を達成しない群は、主要転帰リスクが有意に高かった（調整ハザード比1.12～1.28）。性別、年齢、基準LDL-C値、心原性塞栓の有無に関わらず結果は一貫していた。結論：虚血性脳卒中患者において、LDL-Cを基準値から50%以上減少させることは、絶対目標達成の有無にかかわらず二次心血管イベントリスクの低減に独立して寄与する。より強化された多面的な脂質管理戦略が長期予後改善に重要である。",
+      "summary_short_ja": "虚血性脳卒中患者において、LDLコレステロール（LDL-C）を基準値から50%以上減少させることが、絶対値目標（<70 mg/dL）達成の有無にかかわらず、再発脳卒中や心筋梗塞、死亡リスクの低下と独立して関連することが示された。約9万人の韓国患者を対象にした追跡調査で、両目標達成群が最も良好な予後を示し、より積極的な脂質管理の重要性が示唆された。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42623571",
+      "doi": "10.1212/WNL.0000000000218467",
+      "title": "Effect of Baseline ASPECTS on Tenecteplase Efficacy Before Thrombectomy in Acute Large-Vessel Occlusion Stroke: A Post Hoc Analysis of the BRIDGE-TNK Randomized Trial.",
+      "abstract": "The impact of ischemic extent on the efficacy and safety of intravenous thrombolysis before thrombectomy remains uncertain. The aim of this study was to evaluate whether the baseline ischemic extent, measured by the Alberta Stroke Program Early Computed Tomography Score (ASPECTS), modifies outcomes of intravenous tenecteplase administered before endovascular thrombectomy. This was a post hoc analysis of the BRIDGE-TNK (thrombectomy with vs without rhTNK-tPA in stroke) trial, conducted across China from May 2022 to September 2024. We compared the efficacy and safety of intravenous tenecteplase plus thrombectomy vs thrombectomy alone in acute large-vessel occlusion stroke patients within 4.5 hours of last known well, stratified by baseline ASPECTS (<8 vs 8-10). The outcomes included 90-day functional independence (modified Rankin Scale score of 0-2), 48-hour symptomatic intracranial hemorrhage (sICH), and 90-day mortality. Regression models incorporating a treatment-by-ASPECTS interaction term were used for analysis. Among 550 patients, 241 (43.8%) had ASPECTS <8 (median [interquartile range, IQR] age, 69 [61-77] years; 56.4% male) and 309 had ASPECTS 8-10 (median [IQR] age, 70 [61-77] years; 59.5% male). The rate of functional independence was significantly higher in the tenecteplase plus thrombectomy group than in the thrombectomy-alone group in the ASPECTS <8 subgroup (adjusted risk ratio [aRR], 1.67; 95% CI 1.18-2.35), but not in the ASPECTS 8-10 subgroup (aRR, 0.99; 95% CI 0.84-1.17;  In this exploratory post hoc analysis, a signal of benefit was observed in patients with ASPECTS <8 who received intravenous tenecteplase before thrombectomy, whereas no functional improvement and possible safety concerns were seen in those with ASPECTS 8-10. Prospective confirmation in randomized trials is required before practice change. ClinicalTrials.gov; Unique identifier: NCT04733742.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42623571/",
+      "summary_ja": "背景：急性大血管閉塞脳梗塞における血栓除去術前の静脈内血栓溶解療法の効果と安全性は、虚血範囲の影響が不明である。方法：中国で実施されたBRIDGE-TNK試験の事後解析として、初期虚血範囲をASPECTSで評価し、ASPECTS<8群と8-10群に分けて、血栓除去術前にテネクテプラーゼを投与した群と血栓除去術単独群の効果と安全性を比較した。主要評価項目は90日後の機能的自立（mRS 0-2）、48時間以内の症候性頭蓋内出血、90日死亡率である。結果：550例中、241例がASPECTS<8、309例が8-10であった。ASPECTS<8群ではテネクテプラーゼ併用群の機能的自立率が有意に高かった（調整リスク比1.67、95%CI 1.18-2.35）が、ASPECTS 8-10群では差がなかった（調整リスク比0.99、95%CI 0.84-1.17）。結論：ASPECTS<8の患者ではテネクテプラーゼ併用が有益な可能性が示唆されたが、ASPECTS 8-10群では効果不明かつ安全性懸念もあり、臨床応用にはさらなる前向き試験での検証が必要である。",
+      "summary_short_ja": "BRIDGE-TNK試験の事後解析で、急性大血管閉塞脳卒中患者における基準ASPECTS値によるテネクテプラーゼ静注療法の効果を検討した。ASPECTS<8群ではテネクテプラーゼ併用が機能的独立性を有意に改善したが、ASPECTS8-10群では効果が認められず安全性懸念も示唆された。基準ASPECTSが低い患者に対するテネクテプラーゼ併用の有用性は今後の無作為試験での検証が必要である。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42600114",
       "doi": "10.1212/WNL.0000000000218449",
       "title": "DWI-Positive Lesions in Patients With Acute Intracerebral Hemorrhage: Associations With Cerebral Small Vessel Disease and Clinical Outcome.",

@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42623577",
+      "doi": "10.1212/WNL.0000000000218451",
+      "title": "Refining Treatment Monitoring in Patients With Relapsing Multiple Sclerosis Based on Changes on Neurofilament Light Chain Z-Scores.",
+      "abstract": "Serum neurofilament light chain (sNfL) reflects inflammatory axonal damage in relapsing multiple sclerosis (RMS). Longitudinal sNfL dynamics may aid treatment response assessment, although data on expected changes under disease-modifying treatments remain limited, particularly in real-world practice. This study evaluated whether on-treatment changes in sNfL were associated with subsequent evidence of disease activity (EDA) and whether they provided complementary information to established treatment response scoring systems (TRSS). This prospective, real-world cohort study was conducted at the Multiple Sclerosis Center of Catalonia (Cemcat). Adult RMS patients initiating disease-modifying treatments (DMTs) with serum samples at treatment initiation (baseline) and after 1 year (Y1) were included. The primary exposure was change in sNfL z-scores (ΔzNfL = zNfLY1 - zNfL-baseline) analyzed using data-derived thresholds (ΔzNfL ≥0 and <0.5-point reduction). At Y1, Expanded Disability Status Scale progression, clinical/radiologic activity, and TRSS (Rio [RS], modified Rio [mRS], and MAGNIMS) were assessed. The primary outcome was EDA between years 1 and 2 (EDA-Y2). Multivariable logistic regression models evaluated associations between ΔzNfL and EDA-Y2, as well as the added value of ΔzNfL across TRSS strata. A total of 329 patients (66.3% female; median age 39 years) initiated 352 DMTs; 342 remained on treatment for ≥1 year and 182 had complete EDA-Y2 data. Mean (SD) ΔzNfL at Y1 was -0.62 (1.2), with greater reductions in monoclonal antibody-treated and treatment-naïve patients. Lack of zNfL reduction over the first year (ΔzNfL ≥0) was associated with higher odds of EDA-Y2 in the overall cohort (OR [95% CI], p: 3.07 [1.47-6.39], 0.003), in treatment-naïve cases (14.04 [2.47-79.93], 0.003), and in those achieving No Evidence of Disease Activity (NEDA-3) at Y1 (4.54 [1.26-16.30], 0.02). Similar associations were observed for <0.5-point reductions. Adding ΔzNfL to TRSS showed persistent associations with EDA-Y2 despite otherwise favorable scores [e.g., RS: 2.26 (1.12-4.59), 0.024]. Failure to reduce zNfL levels after 1 year of treatment was associated with subsequent disease activity, even in patients otherwise considered stable, providing complementary information to clinical and MRI-based monitoring. Limitations include incomplete follow-up and the modest discriminative performance of ΔzNfL, supporting a complementary rather than stand-alone role for zNfL dynamics.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42623577/",
+      "summary_ja": "背景：再発型多発性硬化症（RMS）における血清ニューロフィラメントライト鎖（sNfL）は炎症性軸索損傷の指標であり、その経時的変化は治療効果の評価に有用とされるが、実臨床での変化パターンは不明確である。  \n方法：カタルーニャ多発性硬化症センターで、疾患修飾治療（DMT）開始時と1年後にsNfLを測定した成人RMS患者329名を対象に、sNfLのzスコア変化（ΔzNfL）と1～2年目の疾患活動（EDA）との関連を前向きに解析。既存の治療反応スコアリングシステム（TRSS）との補完的価値も検討した。  \n結果：1年後の平均ΔzNfLは-0.62で、モノクローナル抗体治療や治療未経験者で減少が大きかった。ΔzNfLが減少しない（≥0）患者はEDA発症リスクが有意に高く（全体OR=3.07、治療未経験者OR=14.04）、NEDA-3達成例でも同様の傾向を示した。ΔzNfLをTRSSに加えると、良好なスコア群でもEDA予測能が向上した。  \n結論：治療開始後1年でsNfLレベルが減少しないことは、その後の疾患活動と関連し、臨床・MRI評価を補完する有用なバイオマーカーとなる。ただし、単独での判別能は限定的であり、補助的指標としての活用が望ましい。",
+      "summary_short_ja": "再発型多発性硬化症患者において、治療開始から1年後の血清神経細胞軽鎖（sNfL）Zスコア変化（ΔzNfL）が、その後の疾患活動（EDA）発現と関連するかを検証した。ΔzNfLが減少しない患者は、治療効果良好とされる群でもEDAリスクが高く、既存の治療反応評価スコアに補完的な情報を提供した。ΔzNfLは単独指標ではなく、臨床・画像評価と併用すべきである。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42623573",
+      "doi": "10.1212/WNL.0000000000218428",
+      "title": "The Prognostic Value of Paramagnetic Rim Lesions in People With Multiple Sclerosis.",
+      "abstract": "Paramagnetic rim lesions (PRLs) have been established as a radiologic surrogate for chronic active inflammation in multiple sclerosis (MS). Although associations between PRLs and disability have been observed, data on their prognostic value for long-term risk of clinical worsening, especially in the form of progression independent of relapse activity (PIRA), remain limited. In this study, we assessed the association of PRLs with future disability accumulation over a median follow-up of 5 years and their relation to other (para) clinical parameters. From a large, ongoing single-center cohort study, people with MS were included according to the availability of susceptibility-sensitive MRI. PRLs were segmented on reconstructed quantitative susceptibility mapping scans using a deep learning-based segmentation model, visually inspected for plausibility, and corrected if necessary. Multivariable Cox proportional hazards models were used to investigate the prognostic value of PRLs for disability outcomes, including confirmed disability accumulation (CDA) and PIRA. Sensitivity analyses based on PRL count, MS diagnosis, prior disability accumulation, and treatment during follow-up were performed to evaluate the robustness of our findings. In addition, associations between PRL status and CSF parameters as well as future brain atrophy, measured by annual percentage brain volume change, were assessed in an exploratory manner. Among 862 participants (mean age 40.3 years, 64.7% female), 395 (45.8%) had at least 1 PRL. Over a median follow-up of 5.1 years, 142 of 801 individuals with clinical follow-up for longitudinal analysis experienced CDA (17.7%), and 104 of these CDA events (73.2%) occurred as PIRA. The presence of PRLs was associated with a higher risk of PIRA (adjusted hazard ratio 1.8, 95% CI 1.1-2.8;  PRLs are associated with an increased risk of future PIRA and accelerated rates of brain atrophy. These findings emphasize their potential as a prognostic biomarker for risk stratification in MS.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42623573/",
+      "summary_ja": "背景：多発性硬化症（MS）における慢性活動性炎症の放射線学的指標として、パラ磁性リム病変（PRLs）が注目されているが、長期的な臨床悪化リスク、特に再発活動に依存しない進行（PIRA）に対する予後的価値は不明であった。  \n方法：単一施設の大規模コホート研究から、感受性強調MRIが利用可能なMS患者862名を対象に、深層学習を用いた定量的感受性マッピングでPRLsを抽出・確認。中央値5年間の追跡期間中の障害蓄積（CDA）およびPIRA発症リスクとの関連を多変量Cox回帰モデルで解析。さらに、PRL数、診断、既往障害、治療の影響を感度分析し、脳脊髄液パラメータや脳萎縮との関連も探索的に評価した。  \n結果：被験者の45.8％にPRLsを認め、801名の追跡中17.7％がCDAを経験、そのうち73.2％がPIRAであった。PRLsの存在はPIRAリスクの有意な増加（調整ハザード比1.8、95％CI 1.1-2.8）および脳萎縮の進行速度上昇と関連した。  \n結論：PRLsはMSにおける将来のPIRAリスクおよび脳萎縮進行の予測因子として有用であり、リスク層別化のためのバイオマーカーとしての可能性を示す。",
+      "summary_short_ja": "多発性硬化症（MS）患者862名を対象に、パラマグネティックリム病変（PRLs）が将来の障害進行、特に再発非依存性進行（PIRA）と脳萎縮速度に与える影響を5年間追跡調査した。PRLsの存在はPIRAリスクを1.8倍に高め、脳萎縮の進行とも関連した。これにより、PRLsはMSの予後予測およびリスク層別化に有用なバイオマーカーであることが示された。",
+      "disease": "ms",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42617144",
       "doi": "10.1212/WNL.0000000000218425",
       "title": "Application of the 2024 McDonald Criteria: Earlier Diagnosis and Avoiding Misdiagnosis of Multiple Sclerosis in a Global Setting.",
