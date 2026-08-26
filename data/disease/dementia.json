@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42550989",
+      "doi": "10.1111/nan.70034",
+      "title": "Cognitive and Biomarker Signatures of Late-Onset Temporal Lobe Epilepsy: Toward Non-Alzheimer Neurodegenerative Mechanisms.",
+      "abstract": "Late-onset unexplained epilepsy (LOUE) represents a substantial proportion of epilepsies with onset after 50 years and often manifests as temporal lobe epilepsy (LO-TLE). Although a link with Alzheimer disease (AD) has been suggested, only a subset of LO-TLE shows AD-related biomarkers, indicating biological heterogeneity. This study aims to characterize the cognitive and CSF phenotype of LO-TLE and compare it with healthy controls (HCs) and patients with mild cognitive impairment due to AD (MCI-AD). This Italian cross-sectional cohort study included LO-TLE patients with normal CSF β-amyloid (Aβ) biomarkers, MCI-AD, and age-matched and sex-matched HC. Participants underwent structural MRI, neuropsychological assessment, and CSF biomarkers assay, including neurofilament light chain (NfL) and the phosphorylated-to-total tau ratio (p/t-tau). Cortical thickness and subcortical volumes were quantified from structural MRI. Cognitive performance was summarized using principal component analyses. Group differences in imaging, cognition, and CSF biomarkers were assessed, and associations between CSF markers and cognition were examined within groups. The study included 18 LO-TLE, 24 MCI-AD, and 17 HC. LO-TLE showed preserved cortical thickness and subcortical volumes comparable with HC, whereas MCI-AD exhibited widespread cortical thinning and medial temporal atrophy. Despite normal imaging, LO-TLE showed lower performance compared with HC in episodic memory ( LO-TLE with normal CSF AD biomarkers is characterized by distinct cognitive and biological features compared with MCI-AD, suggesting a disease process independent of AD. The low p/t-tau ratio may reflect alternative pathophysiologic mechanisms and warrants further investigation in larger longitudinal studies to clarify the underlying pathology and clinical trajectories.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42550989/",
+      "summary_ja": "背景：50歳以降に発症する原因不明のてんかん（LOUE）は、主に側頭葉てんかん（LO-TLE）として現れ、一部はアルツハイマー病（AD）関連バイオマーカーを示すが、生物学的に多様である。  \n方法：イタリアの横断的コホート研究で、正常な脳脊髄液（CSF）β-アミロイドを持つLO-TLE患者18名、ADによる軽度認知障害（MCI-AD）24名、年齢・性別一致の健常者（HC）17名を対象に、構造的MRI、神経心理学的評価、CSFバイオマーカー（神経細胞骨格タンパク質NfL、リン酸化タウ/全タウ比p/t-tau）を測定。  \n結果：LO-TLEはHCと同等の皮質厚および皮質下体積を保持した一方、MCI-ADは広範な皮質萎縮と内側側頭葉の萎縮を示した。認知機能では、LO-TLEはHCよりエピソード記憶が低下したが、AD関連の画像変化はなかった。  \n結論：正常なADバイオマーカーを持つLO-TLEはMCI-ADとは異なる認知・生物学的特徴を示し、ADとは独立した病態を示唆する。低いp/t-tau比は別の病理機序を反映しており、基礎病理と臨床経過解明のため大規模な縦断研究が必要である。",
+      "summary_short_ja": "後期発症側頭葉てんかん（LO-TLE）は、アルツハイマー病（AD）関連バイオマーカーが正常な患者群で、認知機能低下が見られるが、皮質の萎縮は認められないことが示された。これはADとは異なる非アルツハイマー性の神経変性機序を示唆し、特に低いリン酸化タウ比（p/t-tau）が独自の病態を反映している可能性がある。今後、大規模な縦断研究による検証が必要である。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42585606",
       "doi": "10.1212/WNL.0000000000218413",
       "title": "Association Between Menopausal Hormone Therapy and Alzheimer Disease Neuropathology.",

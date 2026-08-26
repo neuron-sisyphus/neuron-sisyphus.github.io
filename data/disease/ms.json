@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42555899",
+      "doi": "10.1111/jns.12251",
+      "title": "Quantifying Disease Progression in Patients With Charcot-Marie-Tooth Neuropathy Type 1A Using Quantitative Muscle MRI and Clinical Outcomes.",
+      "abstract": "Charcot-Marie-Tooth neuropathy type 1A (CMT1A) is a slowly progressive demyelinating neuropathy with distal muscle weakness and atrophy. Sensitive, objective outcome measures are needed for future clinical trials. We aimed to identify responsive imaging and clinical biomarkers in CMT1A over 24 months. In this prospective, monocentric natural history study, ambulatory adults with genetically confirmed CMT1A and healthy controls were enrolled for 3 visits (baseline, 12, and 24 months). Quantitative muscle MRI quantified proton density fat fraction (PDFF, %) and disease activity with water T2 (T2 Thirty-three patients with CMT1A (43.8 years, 64% female) and 33 controls (42.2 years, 61% female) were included. At baseline, PDFF (%) was elevated in CMT1A across all leg muscles ( Distal leg PDFF (%) from 3D whole-muscle segmentation detects CMT1A progression within 12 months. Combined with the MFM32 and INQoL, these measures enable sensitive 12-month endpoints for future clinical trials in adults with CMT1A.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Aug-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555899/",
+      "summary_ja": "背景：Charcot-Marie-Tooth神経障害タイプ1A（CMT1A）は、遠位筋の筋力低下と萎縮を伴う進行性の脱髄性神経障害であり、臨床試験には感度の高い客観的評価指標が求められている。  \n方法：遺伝的に確定したCMT1A患者33名（平均年齢43.8歳、女性64％）と健常対照33名（平均42.2歳、女性61％）を対象に、ベースライン、12か月、24か月の3回の訪問で前向き単施設自然経過観察研究を実施。定量的筋MRIにより、筋内のプロトン密度脂肪分率（PDFF）と水のT2値を測定し、筋病変の進行を評価した。  \n結果：CMT1A患者は全ての下肢筋でベースライン時にPDFFが有意に上昇しており、特に遠位下肢筋のPDFFは12か月以内に進行を検出可能であった。臨床評価尺度MFM32および生活の質指標INQoLと組み合わせることで、12か月の感度の高い評価指標となった。  \n結論：3D全筋セグメンテーションによる遠位下肢PDFFの定量的MRIは、CMT1Aの病態進行を短期間で捉える有効なバイオマーカーであり、今後の成人CMT1A臨床試験における評価指標として有用である。",
+      "summary_short_ja": "Charcot-Marie-Tooth病1A型（CMT1A）は進行性の脱髄性神経障害で、遠位筋の筋力低下と萎縮を伴う。本研究は24か月間、定量的筋MRIによる脂肪分画率（PDFF）と水のT2値を用い、CMT1A患者の疾患進行を評価した。33名の患者で、特に遠位脚筋のPDFFが有意に上昇し、12か月以内の進行検出が可能であった。これらの画像バイオマーカーと臨床評価を組み合わせることで、将来の臨床試験における感度の高い評価指標となる。",
+      "disease": "ms",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42623577",
       "doi": "10.1212/WNL.0000000000218451",
       "title": "Refining Treatment Monitoring in Patients With Relapsing Multiple Sclerosis Based on Changes on Neurofilament Light Chain Z-Scores.",
