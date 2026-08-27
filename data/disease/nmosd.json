@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42647788",
+      "doi": "10.1212/WNL.0000000000218482",
+      "title": "De-Escalating and Discontinuing Immunotherapies in Patients With NMOSD and MOGAD.",
+      "abstract": "Antibody-mediated inflammatory diseases of the CNS, including aquaporin-4 antibody neuromyelitis optica spectrum disorder (AQP4-Ab NMOSD) and myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD), have undergone major therapeutic transformation with the advent of sensitive antibody assays and targeted immunotherapies. These advances have markedly reduced relapse rates and improved long-term outcomes. With improved disease control, questions regarding optimal treatment duration and the possibility of de-escalation or discontinuation are increasingly relevant. In AQP4-Ab NMOSD, relapses are typically severe and disabling, and most observational studies show a high risk of reactivation after tapering or withdrawal. Thus, discontinuation is never recommended. Successful de-escalation has been reported in selected patients with prolonged remission, although relapse risk persists, underscoring the need for individualized decisions and close monitoring. In contrast, MOGAD is clinically heterogeneous. Many patients, particularly children, experience a monophasic illness with good recovery, whereas relapse risk in adults appears to decline after several years. De-escalation strategies can thus be applied for anti-CD20 and IVIG. Recent cohort studies suggest that even discontinuation may be feasible after 2 to 5 years of remission in children and adults, especially in those who become seronegative for myelin oligodendrocyte glycoprotein immunoglobulin G. In seronegative NMOSD, the evidence base is limited and prognosis uncertain; attacks can be severe, no therapies are specifically approved, and although some experts suggest that discontinuation may be considered after 5 years of stability, this remains guided by expert opinion alone. Treatment de-escalation is sometimes necessary because of adverse effects, comorbidities, infections, treatment fatigue, or life circumstances such as pregnancy. In pregnancy, management requires balancing maternal disease control with fetal safety, with strategies ranging from continuation of selected therapies to temporary tapering or deferral. Monitoring with MRI, OCT, and emerging fluid biomarkers offers potential to detect early recurrence of disease activity, although none are validated for routine use. Prospective studies, real-world registry data, and dedicated trials are urgently needed to inform safe and patient-centered de-escalation/discontinuation strategies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42647788/",
+      "summary_ja": "背景：抗体が関与する中枢神経系の炎症性疾患であるAQP4抗体陽性NMOSDおよびMOG抗体関連疾患（MOGAD）は、感度の高い抗体検査と標的免疫療法の進展により再発率が大幅に低下し、長期予後が改善した。これに伴い、治療期間の最適化や免疫療法の減量・中止の可能性が注目されている。\n\n方法：文献や観察研究を基に、各疾患における減量・中止のリスクと適応、ならびに妊娠時の管理やモニタリング手法について検討した。\n\n結果：AQP4抗体陽性NMOSDでは再発が重篤であり、減量や中止後の再燃リスクが高いため中止は推奨されない。一部の長期寛解患者で減量成功例はあるが、個別判断と厳重な経過観察が必要。MOGADは臨床的に多様で、特に小児では単相性経過が多く、成人でも数年後に再発リスクが低下するため、抗CD20抗体やIVIGの減量・中止が検討可能である。血清陰性NMOSDは証拠が乏しく予後不明であり、中止は専門家の意見に依存する。妊娠時は母体と胎児の安全を考慮し、治療継続や一時的減量が行われる。MRIやOCT、バイオマーカーによる早期再発検出の可能性も示唆された。\n\n結論：免疫療法の減量・中止は疾患特性や患者背景に応じて慎重に判断すべきであり、安全かつ患者中心の方針策定には前向き研究や実臨床データの蓄積が急務である。",
+      "summary_short_ja": "NMOSD（特にAQP4抗体陽性型）では再発リスクが高く、免疫療法の中止は推奨されないが、長期寛解例では慎重な減量が可能。一方、MOGADは臨床的に多様で、特に小児では単相性が多く、2～5年の寛解後に免疫療法の減量や中止も検討される。妊娠時や副作用時には治療調整が必要で、MRIやバイオマーカーによる早期再発検出が期待されるが、標準化は未達成。安全な減量・中止法確立にはさらなる研究が求められる。",
+      "disease": "nmosd",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42391599",
       "doi": "10.1177/13524585251325069",
       "title": "Factors Associated With Disability Improvement and Worsening Independent of Attacks in Patients With AQP4-IgG+ NMOSD and MOGAD: A Multicenter Cohort Study.",

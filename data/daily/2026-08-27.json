@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-27",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42647766",
+      "doi": "10.1212/WNL.0000000000218519",
+      "title": "EOAD-Signature Atrophy Predicts Dementia in Early-Onset MCI due to Alzheimer Disease: An MRI-Based Prognostic Biomarker.",
+      "abstract": "Early-onset Alzheimer disease (EOAD) is associated with substantial variability in clinical progression, and reliable biomarkers to predict the transition from mild cognitive impairment (MCI) to dementia remain limited. Structural MRI measures have demonstrated prognostic value in late-onset Alzheimer disease, but their utility for predicting progression in EOAD is less well understood. The goal was to examine whether baseline cortical atrophy predicts progression to dementia in patients with MCI because of EOAD. This study included a well-characterized cohort of patients with EOAD enrolled in the large multisite natural history Longitudinal Early-Onset Alzheimer's Disease Study. Participants underwent standardized clinical assessments and structural MRI at baseline. Participants were aged between 40 and 64 years with biomarker-supported sporadic EOAD at the MCI stage. Cortical atrophy was measured within the EOAD-signature, a set of predominantly parieto-temporal regions showing greater atrophy in EOAD than in controls. Clinical severity was measured with the global Clinical Dementia Rating. Cox proportional hazards models estimated the association between baseline EOAD-signature atrophy burden and the hazard of progression to dementia over time. We evaluated whether EOAD-signature atrophy improved prognostic performance beyond baseline clinical severity using likelihood ratio tests, Akaike Information Criterion (AIC), and Harrell concordance index. A total of 130 patients with MCI due to EOAD (mean age 59.6 ± 4.1 years; 49% female) and 97 cognitively normal controls (mean age 56.9 ± 6.0 years; 64% female) were included. Greater baseline atrophy within the EOAD-signature predicted faster progression to dementia (hazard ratio [HR] = 1.24 per 1-SD increase in atrophy; 95% CI 1.13-1.37;  Baseline cortical atrophy within the EOAD-signature predicts progression from MCI to dementia in EOAD and provides prognostic information beyond baseline clinical severity. These findings support the potential value of EOAD-signature atrophy as an MRI-based biomarker for individualized prognostication and clinical trial stratification.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42647766/",
+      "summary_ja": "背景：若年性アルツハイマー病（EOAD）における軽度認知障害（MCI）から認知症への進行予測には信頼できるバイオマーカーが不足している。構造的MRIは後期発症アルツハイマー病で予後評価に有用とされるが、EOADでの有用性は不明であった。  \n方法：多施設共同のLongitudinal Early-Onset Alzheimer's Disease Studyに登録された40～64歳のEOAD患者130名（MCI段階）と認知正常者97名を対象に、ベースラインで標準化された臨床評価と構造的MRIを実施。EOAD特有の頭頂側頭葉領域の萎縮（EOAD-signature）を測定し、Cox比例ハザードモデルで認知症進行との関連を解析した。  \n結果：EOAD-signature領域の萎縮が大きいほど認知症への進行リスクが高く（ハザード比1.24、95％CI 1.13-1.37）、臨床重症度を超えた予後予測能を示した。  \n結論：EOAD-signature萎縮はEOADにおけるMCIから認知症への進行予測に有用なMRIバイオマーカーであり、個別予後評価や臨床試験の層別化に役立つ可能性が示された。",
+      "summary_short_ja": "本研究は、早発型アルツハイマー病（EOAD）による軽度認知障害（MCI）患者において、特有の皮質萎縮（EOADサイン）をMRIで測定し、認知症への進行予測に有用であることを示した。130名のEOAD-MCI患者を対象に解析し、EOADサインの萎縮度が高いほど認知症進行リスクが増加した。臨床評価を超えた予後情報を提供し、個別化診断や臨床試験の層別化に役立つ可能性がある。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42647788",
+      "doi": "10.1212/WNL.0000000000218482",
+      "title": "De-Escalating and Discontinuing Immunotherapies in Patients With NMOSD and MOGAD.",
+      "abstract": "Antibody-mediated inflammatory diseases of the CNS, including aquaporin-4 antibody neuromyelitis optica spectrum disorder (AQP4-Ab NMOSD) and myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD), have undergone major therapeutic transformation with the advent of sensitive antibody assays and targeted immunotherapies. These advances have markedly reduced relapse rates and improved long-term outcomes. With improved disease control, questions regarding optimal treatment duration and the possibility of de-escalation or discontinuation are increasingly relevant. In AQP4-Ab NMOSD, relapses are typically severe and disabling, and most observational studies show a high risk of reactivation after tapering or withdrawal. Thus, discontinuation is never recommended. Successful de-escalation has been reported in selected patients with prolonged remission, although relapse risk persists, underscoring the need for individualized decisions and close monitoring. In contrast, MOGAD is clinically heterogeneous. Many patients, particularly children, experience a monophasic illness with good recovery, whereas relapse risk in adults appears to decline after several years. De-escalation strategies can thus be applied for anti-CD20 and IVIG. Recent cohort studies suggest that even discontinuation may be feasible after 2 to 5 years of remission in children and adults, especially in those who become seronegative for myelin oligodendrocyte glycoprotein immunoglobulin G. In seronegative NMOSD, the evidence base is limited and prognosis uncertain; attacks can be severe, no therapies are specifically approved, and although some experts suggest that discontinuation may be considered after 5 years of stability, this remains guided by expert opinion alone. Treatment de-escalation is sometimes necessary because of adverse effects, comorbidities, infections, treatment fatigue, or life circumstances such as pregnancy. In pregnancy, management requires balancing maternal disease control with fetal safety, with strategies ranging from continuation of selected therapies to temporary tapering or deferral. Monitoring with MRI, OCT, and emerging fluid biomarkers offers potential to detect early recurrence of disease activity, although none are validated for routine use. Prospective studies, real-world registry data, and dedicated trials are urgently needed to inform safe and patient-centered de-escalation/discontinuation strategies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42647788/",
+      "summary_ja": "背景：抗体が関与する中枢神経系の炎症性疾患であるAQP4抗体陽性NMOSDおよびMOG抗体関連疾患（MOGAD）は、感度の高い抗体検査と標的免疫療法の進展により再発率が大幅に低下し、長期予後が改善した。これに伴い、治療期間の最適化や免疫療法の減量・中止の可能性が注目されている。\n\n方法：文献や観察研究を基に、各疾患における減量・中止のリスクと適応、ならびに妊娠時の管理やモニタリング手法について検討した。\n\n結果：AQP4抗体陽性NMOSDでは再発が重篤であり、減量や中止後の再燃リスクが高いため中止は推奨されない。一部の長期寛解患者で減量成功例はあるが、個別判断と厳重な経過観察が必要。MOGADは臨床的に多様で、特に小児では単相性経過が多く、成人でも数年後に再発リスクが低下するため、抗CD20抗体やIVIGの減量・中止が検討可能である。血清陰性NMOSDは証拠が乏しく予後不明であり、中止は専門家の意見に依存する。妊娠時は母体と胎児の安全を考慮し、治療継続や一時的減量が行われる。MRIやOCT、バイオマーカーによる早期再発検出の可能性も示唆された。\n\n結論：免疫療法の減量・中止は疾患特性や患者背景に応じて慎重に判断すべきであり、安全かつ患者中心の方針策定には前向き研究や実臨床データの蓄積が急務である。",
+      "summary_short_ja": "NMOSD（特にAQP4抗体陽性型）では再発リスクが高く、免疫療法の中止は推奨されないが、長期寛解例では慎重な減量が可能。一方、MOGADは臨床的に多様で、特に小児では単相性が多く、2～5年の寛解後に免疫療法の減量や中止も検討される。妊娠時や副作用時には治療調整が必要で、MRIやバイオマーカーによる早期再発検出が期待されるが、標準化は未達成。安全な減量・中止法確立にはさらなる研究が求められる。",
+      "disease": "nmosd",
+      "section": "treatment"
+    }
+  ]
+}
