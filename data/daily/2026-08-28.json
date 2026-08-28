@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-28",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42659615",
+      "doi": "10.1212/WNL.0000000000218472",
+      "title": "Lesion-Level Subtypes of White Matter Hyperintensity Evolution Beyond Spatial Location.",
+      "abstract": "White matter hyperintensities (WMHs) are common neuroimaging markers of cerebrovascular pathology in aging and neurodegeneration. Despite their clinical relevance, WMH are typically quantified using global burden measures that assume a relatively homogeneous pathologic process. However, growing evidence suggests substantial biological heterogeneity across lesions. We aimed to identify lesion-level WMH subtypes beyond anatomic location and evaluate their associations with neurodegeneration and vascular risk. We conducted a longitudinal observational study analyzing 3224 MRI scans from 403 participants spanning cognitively normal aging, mild cognitive impairment, Alzheimer, and Parkinson disease. Imaging at baseline and 2-year follow-up included structural, diffusion, and resting-state MRI. A total of 2107 WMH lesions were identified, and lesion-wise longitudinal changes were used to derive subtypes using unsupervised clustering. Associations with neurodegeneration and vascular risk factors were assessed using multivariable models with false discovery rate correction. Three lesion subtypes (L WMH are not a homogeneous entity but comprise biologically distinct lesion subtypes with differential neurobiological and clinical significance. Lesion composition may therefore offer a more informative framework than global WMH burden for understanding cerebrovascular contributions to aging and neurodegeneration, with potential implications for risk stratification, clinical interpretation, and targeted interventions.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42659615/",
+      "summary_ja": "背景：白質高信号（WMH）は加齢や神経変性に伴う脳血管病変の一般的な画像マーカーであるが、通常は全体量で評価され、病理学的均質性が仮定されている。しかし、病変ごとに生物学的多様性が示唆されている。  \n方法：認知正常、高次認知障害、アルツハイマー病、パーキンソン病の403名から得られた3224件のMRI（構造、拡散、安静時機能）を基に、2107のWMH病変の縦断的変化を解析し、教師なしクラスタリングで病変サブタイプを抽出。神経変性や血管リスクとの関連を多変量モデルで検討した。  \n結果：3つの病変サブタイプが同定され、それぞれ神経変性や血管リスクとの関連性が異なった。WMHは均質な病変群ではなく、生物学的に異なるサブタイプから構成されていることが示された。  \n結論：WMHの病変構成は全体量評価よりも脳血管病変の理解に有用であり、リスク層別化や臨床解釈、治療介入の指針となる可能性がある。",
+      "summary_short_ja": "白質高信号（WMH）は加齢や神経変性に伴う脳血管病変の指標であるが、従来は全体量で評価され均質と見なされてきた。本研究は403名のMRIデータを用い、2107のWMH病変を病変レベルでクラスタリングし、解剖学的位置を超えた3つの異なる病変サブタイプを同定した。これらサブタイプは神経変性や血管リスクと異なる関連を示し、WMHの生物学的多様性と臨床的意義を明らかにした。病変構成に基づく評価は、加齢や神経疾患の血管寄与理解やリスク層別化、治療戦略に有用である。",
+      "disease": "parkinson",
+      "section": "imaging"
+    }
+  ]
+}
