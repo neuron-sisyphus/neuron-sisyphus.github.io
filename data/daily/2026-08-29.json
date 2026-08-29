@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-29",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42664477",
+      "doi": "10.1212/WNL.0000000000218484",
+      "title": "Bridging the Gap: Translating Microemboli-Induced Spreading Depolarization Into Clinical Practice.",
+      "abstract": "A 68-year-old woman developed daily episodes of migraine aura following mitral valve surgery. During aura symptoms, microemboli in the posterior circulation were detected in real time by transcranial Doppler. After initiation of antiplatelet therapy, the daily clinical episodes ceased, and microemboli were not detectable on repeated transcranial Doppler. Spreading depolarization, the underlying mechanism of migraine aura symptoms, is a conserved electrophysiologic phenomenon characterized by a propagating wave of neuronal and glial depolarization. Experimental models demonstrate that spreading depolarization can be triggered by cortical ischemic lesions and by air emboli, cholesterol crystals, or microspheres in the cerebral circulation without apparent tissue injury. This case illustrates cerebral microembolism-triggered clinical episodes suggestive of cortical spreading depolarization. We therefore suggest that transient neurologic episodes with the characteristics of cortical spreading depolarization, that is, sequential, retinotopically or somatotopically spreading, neurologic symptoms with positive features, can be induced by microembolism in humans.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664477/",
+      "summary_ja": "背景：68歳女性が僧帽弁手術後に毎日の片頭痛前兆を発症し、その症状中に後方循環で微小塞栓が経時的に経頭蓋ドップラーで検出された。  \n方法：症状発現時の微小塞栓のリアルタイム検出と抗血小板療法の開始後の経過観察を行った。  \n結果：抗血小板療法開始後、臨床症状は消失し、繰り返しの経頭蓋ドップラー検査でも微小塞栓は検出されなくなった。実験モデルでは、皮質虚血病変や空気塞栓、コレステロール結晶、微小球が脳循環内に存在しても組織損傷なく皮質スプレッディング脱分極（CSD）が誘発されることが示されている。  \n結論：本症例は、微小塞栓によって誘発される皮質スプレッディング脱分極に基づく神経症状の臨床的実例を示しており、ヒトにおいても微小塞栓がCSD様の一過性神経症状を引き起こす可能性を示唆する。",
+      "summary_short_ja": "68歳女性が僧帽弁手術後に毎日の片頭痛前兆を発症し、発作時に経頭蓋ドップラーで後方循環の微小塞栓を検出。抗血小板療法開始後、症状と微小塞栓は消失した。片頭痛前兆の基盤である皮質拡散脱分極は、微小塞栓によって誘発されうることを示し、微小塞栓がヒトの一過性神経症状を引き起こす可能性を示唆する症例である。",
+      "disease": "migraine",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42664488",
+      "doi": "10.1212/WNL.0000000000218475",
+      "title": "Centrally Acting Medications, Chronic Pain, and Orthopedic Surgical History Among Former American Football Players.",
+      "abstract": "Former American football players exposed to repetitive head impacts (RHI) are at a risk of chronic traumatic encephalopathy (CTE), but chronic pain, polypharmacy, and extensive orthopedic surgeries may also contribute to cognitive and behavioral symptoms. This study evaluated associations between chronic pain, centrally acting medications (CAMs), and orthopedic surgeries with cognitive and behavioral symptoms among former American football players. The sample included former professional (PRO) and collegiate (COL) football players and unexposed, asymptomatic men (UE) from DIAGNOSE CTE. Number of CAMs, orthopedic surgeries, and average pain scores were compared between the groups. Among former football players, logistic regression tested associations between CAMs, average pain score, and orthopedic surgeries with diagnoses of cognitive impairment and neurobehavioral dysregulation (NBD) using traumatic encephalopathy syndrome (TES) research criteria. Linear regression tested associations between CAMs, average pain score, and orthopedic surgeries with the Montreal Cognitive Assessment (MoCA) and behavioral and mood symptom scales. Covariates included age, education, race, and total years of football. The study included 236 men (120 PRO, 60 COL, 56 UE). The mean ages were 59.1 (PRO), 53.5 (COL) and 59.6 (UE) years. PRO and COL used more CAMs (mean PRO = 0.76, COL = 1.14, UE = 0.14), had higher average pain scores (PRO = 4.22, COL = 3.21, UE = 1.05), and more orthopedic surgeries than the UE (mean PRO = 2.76, COL = 1.22, UE = 0.34). CAMs and average pain scores were associated with increased odds of consensus diagnosed NBD (CAMs OR = 2.15, 95% CI 1.53 to 3.26; average pain score OR = 1.55, 95% CI 1.32 to 1.85). CAMs and average pain scores were associated with increased measures of impulsivity, depression, anxiety, behavioral regulation, and aggression. CAMs and average pain scores were not associated with consensus diagnosed cognitive impairment, but CAMs were negatively associated with MoCA score (estimate = -0.47, 95% CI -0.81 to -0.13). There was no association between number of orthopedic surgeries and cognition or NBD. CAMs and chronic pain are associated with NBD and CAMs are associated with reduced MoCA scores in former American football players.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664488/",
+      "summary_ja": "背景：元アメリカンフットボール選手は反復性頭部外傷（RHI）により慢性外傷性脳症（CTE）のリスクがあるが、慢性疼痛や中枢作用薬（CAMs）、整形外科手術歴も認知・行動症状に影響する可能性がある。  \n方法：プロ（PRO）、大学（COL）元選手および非曝露無症状者（UE）計236名を対象に、CAMs使用数、疼痛スコア、整形外科手術数を比較。CAMs、疼痛、手術歴と認知障害・神経行動調節障害（NBD）の関連をロジスティック回帰で解析。MoCA認知評価や行動・気分尺度との関連は線形回帰で検討。年齢、教育、民族、フットボール歴を共変量とした。  \n結果：PRO・COLはUEよりCAMs使用数（PRO=0.76、COL=1.14、UE=0.14）、疼痛スコア（PRO=4.22、COL=3.21、UE=1.05）、手術数（PRO=2.76、COL=1.22、UE=0.34）が有意に多かった。CAMs使用と疼痛スコアはNBDの診断リスク増加（CAMs OR=2.15、疼痛 OR=1.55）および衝動性、抑うつ、不安、行動調節、攻撃性の増加と関連。認知障害診断とは関連せず、CAMsはMoCAスコア低下と関連した。手術数は認知・NBDと関連しなかった。  \n結論：元アメリカンフットボール選手において、CAMs使用と慢性疼痛は神経行動調節障害と関連し、CAMsは認知機能低下の指標であるMoCAスコアの低下とも関連するが、整形外科手術歴は影響しない。",
+      "summary_short_ja": "元アメリカンフットボール選手は、慢性的な痛みや中枢作用薬（CAMs）の使用、整形外科手術歴が認知・行動症状に影響する可能性がある。本研究では、これらの要因と認知障害や神経行動調節障害（NBD）との関連を調査。結果、CAMs使用と痛みの程度はNBDのリスク増加や衝動性・抑うつ・不安などの症状悪化と関連し、CAMsは認知機能検査スコア低下とも関連したが、整形外科手術数とは関連しなかった。",
+      "disease": "other",
+      "section": "prognosis"
+    }
+  ]
+}
