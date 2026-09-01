@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-01",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42673560",
+      "doi": "10.1212/WNL.0000000000214881",
+      "title": "Pharmacologic Treatment for Migraine Prevention in Adults Practice Guideline Recommendations: Report of the AAN Guidelines Subcommittee and the American Headache Society.",
+      "abstract": "This practice guideline provides updated evidence-based recommendations regarding the use of pharmacologic migraine prevention in adults. A multidisciplinary panel conducted a systematic review and developed practice recommendations following the process outlined in the 2017 edition of the American Academy of Neurology Clinical Practice Guideline Process Manual. The systematic review includes studies published through June 6, 2024, and is available in a companion publication. Recommendations are supported by structured rationales that integrate evidence from the systematic review, related evidence, principles of care, and inferences from evidence. Recommendations are provided on how to decide when it is appropriate to start a pharmacologic migraine preventive medication and how to decide which migraine preventive medication to start. Recommendations address decision making on appropriate choices of migraine preventive medications in specific situations and populations, including patients with fibromyalgia, obesity, or hypertension; considerations for older adults; treatment during pregnancy and lactation; sex-related factors in choosing medications; and treatment for patients with medication overuse. Recommendations on assessment of treatment efficacy, adverse effects, and discontinuing migraine preventive medications are provided.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673560/",
+      "summary_ja": "背景：成人の片頭痛予防における薬物療法の最新のエビデンスに基づく推奨を提供するため、アメリカ神経学会（AAN）とアメリカ頭痛学会が共同でガイドラインを作成した。  \n方法：多職種パネルが2017年のAAN臨床ガイドラインプロセスマニュアルに従い、2024年6月6日までに発表された研究を対象に系統的レビューを実施し、関連エビデンスやケアの原則を統合して推奨を策定した。  \n結果：薬物予防開始の適切なタイミングや薬剤選択の指針を示し、線維筋痛症、肥満、高血圧患者、妊娠・授乳期、性差、高齢者、薬物乱用患者など特定の状況や集団に応じた治療選択を詳細に解説した。また、治療効果の評価、副作用の管理、中止の判断基準も提供している。  \n結論：本ガイドラインは、成人片頭痛の薬物予防に関する包括的かつ個別化された意思決定を支援し、臨床現場での適切な治療選択と管理を促進するための重要な指針となる。",
+      "summary_short_ja": "本ガイドラインは、成人の片頭痛予防における薬物療法の最新のエビデンスに基づく推奨を示す。多職種パネルが2024年6月までの研究を系統的にレビューし、開始時期や薬剤選択、特定の患者群（線維筋痛症、肥満、高血圧、妊娠中など）への対応、治療効果の評価、副作用管理、中止基準について具体的指針を提供している。",
+      "disease": "migraine",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42673559",
+      "doi": "10.1212/WNL.0000000000218112",
+      "title": "Systematic Review of Pharmacologic Treatment for Migraine Prevention in Adults: Report of the AAN Guidelines Subcommittee and the American Headache Society.",
+      "abstract": "This systematic review (SR) provides updated evidence-based conclusions regarding the use of pharmacologic migraine prevention in adults to inform a new joint American Academy of Neurology (AAN) and American Headache Society practice guideline. A multidisciplinary panel conducted an SR following the 2017 AAN Clinical Practice Guideline Process Manual. Randomized controlled trials evaluating pharmacologic preventive treatments for adults with episodic or chronic migraine were included. Searches encompassed MEDLINE, Embase, and ClinicalTrials.gov from database inception through June 6, 2024. Studies were screened in duplicate, with dual independent risk-of-bias assessment. Outcomes included change in monthly headache days, ≥50% responder rate, and validated patient-reported quality of life (QOL) measures. Raw mean differences, standardized mean differences, and risk ratios were calculated. A modified Grading of Recommendations Assessment, Development, and Evaluation process was used to classify certainty of evidence. A total of 217 studies met inclusion criteria. For episodic migraine, high-confidence evidence showed that galcanezumab and erenumab are more effective than placebo in reducing headache frequency. Moderate-confidence evidence supported benefit from atogepant, eptinezumab, fremanezumab, propranolol, topiramate, and valproate. Several additional oral agents including amitriptyline, bisoprolol, flunarizine, fluoxetine, levetiracetam, metoprolol, nifedipine, pizotifen, and telmisartan had low-confidence evidence suggesting possible benefit. For chronic migraine, high-confidence evidence supported reductions in headache frequency with fremanezumab, galcanezumab, and onabotulinumtoxinA. Moderate-confidence evidence supported benefit from atogepant, eptinezumab, erenumab, topiramate and valproate. Across both episodic and chronic migraine populations, erenumab, fremanezumab, galcanezumab, eptinezumab, rimegepant, atogepant, topiramate and onabotulinumtoxinA demonstrated improvements in patient-reported QOL outcomes on validated instruments. Evidence comparing active treatments was limited and generally of low or very low confidence, restricting conclusions about comparative effectiveness. This SR provides a comprehensive synthesis of evidence on pharmacologic migraine prevention in adults. High- and moderate-confidence findings confirm the efficacy of several established and newer preventive therapies and demonstrate improvements in patient-reported outcomes across multiple validated measures. These conclusions informed the development of evidence-based recommendations, presented in a companion publication, to guide clinicians in selecting preventive medications for adults with episodic and chronic migraine.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673559/",
+      "summary_ja": "背景：成人の片頭痛予防における薬物療法の最新のエビデンスを整理し、米国神経学会（AAN）と米国頭痛学会による診療ガイドライン作成の基礎とするために実施された。  \n方法：2017年のAAN臨床ガイドライン手順に従い、多職種パネルがランダム化比較試験を対象に系統的レビューを実施。MEDLINE、Embase、ClinicalTrials.govをデータベース開始から2024年6月まで検索し、バイアス評価を二重独立で行った。主要評価項目は月間頭痛日数の変化、50％以上改善者率、患者報告によるQOL指標であった。  \n結果：217件の研究が対象となった。反復性片頭痛では、ガルカネズマブとエレヌマブがプラセボより有効（高信頼度）、アトゲパント、エプチネズマブ、フレマネズマブ、プロプラノロール、トピラマート、バルプロ酸も効果を示した（中信頼度）。慢性片頭痛では、フレマネズマブ、ガルカネズマブ、オナボツリヌストキシンAが頭痛頻度を減少させる（高信頼度）。多くの薬剤で患者報告QOLの改善も確認された。  \n結論：本レビューは成人片頭痛予防薬の効果を包括的に示し、複数の既存および新規治療薬の有効性を高・中信頼度で支持。これらの知見は臨床現場での薬剤選択に役立つエビデンスに基づく推奨作成に活用された。",
+      "summary_short_ja": "本システマティックレビューは、成人の片頭痛予防に用いられる薬物療法の最新エビデンスを総合的に評価した。217件のRCTを分析し、エレヌマブやガルカネズマブなどの抗CGRP抗体が発作頻度を有意に減少させる高信頼性の証拠を示した。プロプラノロールやトピラマートなども中程度の効果が認められ、慢性片頭痛にはオンボトキシンAも有効であった。患者報告のQOL改善も確認され、臨床ガイドライン作成に資する内容である。",
+      "disease": "migraine",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42673553",
+      "doi": "10.1212/WNL.0000000000218476",
+      "title": "Association Between Alzheimer Pathology, Sleep, and Cognition in Patients With Late-Onset Unexplained Epilepsy.",
+      "abstract": "Late-onset unexplained epilepsy (LOUE) has been linked to accelerated cognitive decline. However, the role of neurodegenerative proteins and whether they exert their effects through sleep-related mechanisms remain unexplored in this population. The goal of this study was to investigate the association of plasma p-tau217, a measure of Alzheimer disease (AD) pathology, with cognition in LOUE and its association with sleep. Participants with LOUE, with new-onset unprovoked seizures, age at onset 55 years or older, and absence of cortical lesions on MRI, were prospectively recruited. They underwent cognitive testing which included the extended Preclinical Alzheimer Cognitive Composite (PACC5). A 24-hour EEG was obtained, and sleep manually scored. Measures of sleep macroarchitecture and N2/N3 microarchitecture were extracted including slow oscillation (SO), fast spindle (FS), slow spindle (SS), and spindle-SO coupling measures. Eighty-five participants enrolled (mean age 71.3 ± 7.1 years; 49% female). The average PACC5 Z score (±SD) was -0.63 ± 1.0. Higher plasma levels of log-transformed p-tau217 (per 1 unit increase) were associated with poorer cognition, PACC5 (β = -0.66; 95% CI -1.19 to -0.13;  In individuals with LOUE, elevated plasma p-tau217 was associated with both cognitive impairment and disrupted sleep microarchitecture, with the most pronounced cognitive deficits observed in individuals with medication refractory epilepsy. These findings support the utility of plasma p-tau217 as a biomarker in this population and underscore the role of sleep processes in the relationship between neurodegenerative pathology and cognition in older adults with epilepsy.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673553/",
+      "summary_ja": "背景：後期発症の原因不明てんかん（LOUE）は認知機能の急速な低下と関連するが、神経変性タンパク質の役割や睡眠を介した影響は未解明である。  \n方法：55歳以上で新規発症のLOUE患者85名（平均年齢71.3歳、女性49％）を前向きに登録し、認知機能検査（拡張版PACC5）と24時間脳波検査を実施。睡眠のマクロ・マイクロ構造（N2/N3段階の遅い振動、速い紡錘波、遅い紡錘波、紡錘波-遅い振動の結合）を解析。血漿中のp-tau217（アルツハイマー病病理の指標）も測定した。  \n結果：p-tau217の増加は認知機能低下（PACC5スコア低下）と有意に関連し、睡眠の微細構造の乱れとも関連した。特に薬物抵抗性てんかん患者で認知障害が顕著であった。  \n結論：LOUE患者において、血漿p-tau217は認知障害のバイオマーカーとして有用であり、神経変性病理と認知機能低下の関連に睡眠過程が重要な役割を果たしていることを示唆する。",
+      "summary_short_ja": "後期発症の原因不明てんかん（LOUE）患者において、血漿中のアルツハイマー病関連タンパク質p-tau217の上昇が認知機能低下および睡眠微細構造の異常と関連することが示された。特に薬物抵抗性てんかん患者で認知障害が顕著であり、p-tau217はLOUEのバイオマーカーとして有用である可能性がある。睡眠異常が神経変性病理と認知機能低下の関連に重要な役割を果たすことを示唆している。",
+      "disease": "dementia",
+      "section": "prognosis"
+    }
+  ]
+}

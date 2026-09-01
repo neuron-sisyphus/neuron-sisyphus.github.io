@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42673553",
+      "doi": "10.1212/WNL.0000000000218476",
+      "title": "Association Between Alzheimer Pathology, Sleep, and Cognition in Patients With Late-Onset Unexplained Epilepsy.",
+      "abstract": "Late-onset unexplained epilepsy (LOUE) has been linked to accelerated cognitive decline. However, the role of neurodegenerative proteins and whether they exert their effects through sleep-related mechanisms remain unexplored in this population. The goal of this study was to investigate the association of plasma p-tau217, a measure of Alzheimer disease (AD) pathology, with cognition in LOUE and its association with sleep. Participants with LOUE, with new-onset unprovoked seizures, age at onset 55 years or older, and absence of cortical lesions on MRI, were prospectively recruited. They underwent cognitive testing which included the extended Preclinical Alzheimer Cognitive Composite (PACC5). A 24-hour EEG was obtained, and sleep manually scored. Measures of sleep macroarchitecture and N2/N3 microarchitecture were extracted including slow oscillation (SO), fast spindle (FS), slow spindle (SS), and spindle-SO coupling measures. Eighty-five participants enrolled (mean age 71.3 ± 7.1 years; 49% female). The average PACC5 Z score (±SD) was -0.63 ± 1.0. Higher plasma levels of log-transformed p-tau217 (per 1 unit increase) were associated with poorer cognition, PACC5 (β = -0.66; 95% CI -1.19 to -0.13;  In individuals with LOUE, elevated plasma p-tau217 was associated with both cognitive impairment and disrupted sleep microarchitecture, with the most pronounced cognitive deficits observed in individuals with medication refractory epilepsy. These findings support the utility of plasma p-tau217 as a biomarker in this population and underscore the role of sleep processes in the relationship between neurodegenerative pathology and cognition in older adults with epilepsy.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42673553/",
+      "summary_ja": "背景：後期発症の原因不明てんかん（LOUE）は認知機能の急速な低下と関連するが、神経変性タンパク質の役割や睡眠を介した影響は未解明である。  \n方法：55歳以上で新規発症のLOUE患者85名（平均年齢71.3歳、女性49％）を前向きに登録し、認知機能検査（拡張版PACC5）と24時間脳波検査を実施。睡眠のマクロ・マイクロ構造（N2/N3段階の遅い振動、速い紡錘波、遅い紡錘波、紡錘波-遅い振動の結合）を解析。血漿中のp-tau217（アルツハイマー病病理の指標）も測定した。  \n結果：p-tau217の増加は認知機能低下（PACC5スコア低下）と有意に関連し、睡眠の微細構造の乱れとも関連した。特に薬物抵抗性てんかん患者で認知障害が顕著であった。  \n結論：LOUE患者において、血漿p-tau217は認知障害のバイオマーカーとして有用であり、神経変性病理と認知機能低下の関連に睡眠過程が重要な役割を果たしていることを示唆する。",
+      "summary_short_ja": "後期発症の原因不明てんかん（LOUE）患者において、血漿中のアルツハイマー病関連タンパク質p-tau217の上昇が認知機能低下および睡眠微細構造の異常と関連することが示された。特に薬物抵抗性てんかん患者で認知障害が顕著であり、p-tau217はLOUEのバイオマーカーとして有用である可能性がある。睡眠異常が神経変性病理と認知機能低下の関連に重要な役割を果たすことを示唆している。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42647766",
       "doi": "10.1212/WNL.0000000000218519",
       "title": "EOAD-Signature Atrophy Predicts Dementia in Early-Onset MCI due to Alzheimer Disease: An MRI-Based Prognostic Biomarker.",
