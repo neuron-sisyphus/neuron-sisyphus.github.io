@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42679336",
+      "doi": "10.1212/WNL.0000000000218494",
+      "title": "Longitudinal Dynamics of the Blood Proteome Within the Alzheimer Spectrum in Down Syndrome.",
+      "abstract": "Adults with Down syndrome (DS) have an increased risk of developing early Alzheimer disease. While our previous cross-sectional study investigated the blood proteome in the context of Alzheimer in DS, identifying CBLN4, CD14, C-X-C motif chemokine 17 (CXCL17), ectodysplasin A2 receptor (EDA2R), glial fibrillary acidic protein (GFAP), insulin-like growth factor binding protein-2 (IGFBP2), neurofilament light (NFL), SEPTIN3, and SPON1 as proteins of interest, longitudinal trajectories remain mostly unexplored. We aimed to characterize the longitudinal dynamics of these plasma proteins to evaluate their potential contribution to disease pathophysiology and associated cognitive decline. Adults with diagnosis of DS and ability to understand instructions of neuropsychological assessments were recruited at Ludwig Maximilians University Hospital Munich, returning for at least 1 annual follow-up visit for repeated clinical assessment, neuropsychological testing, and blood sample collection after baseline visit. Longitudinal blood protein dynamics were assessed using OLINK technology. Bayesian modeling analyzed longitudinal protein trajectories and their impact on cognitive performance. Spearman correlations of regression-derived rates of change investigated relationships between proteins and cognitive subdomains stratified by clinical diagnosis. We included 59 adults with DS (46% female, median age = 32 years [interquartile range: 27-47]). All completed the first annual follow-up visit (median duration 13.37 months [12.35-20.95]), with 14 of them returning for a follow-up 2 visit (median 25.43 months [24.79-33.8]). Stratified analysis included 13 individuals with DS with (38% female, 54 years [49-58]) and 41 without diagnosis of cognitive decline (49% female, 29 years [24-35]). Cluster of differentiation 14, CXCL17, EDA2R, GFAP, IGFBP2, NFL, SEPTIN3, and SPON1 exhibited longitudinal increase, while CBLN4 decreased (all posterior distributions ≥ 99.12%), with age. Protein baseline levels were associated with cognitive decline over time while controlling for age in the whole cohort (all posterior distributions ≥ 94.75%). After correction for multiple comparisons, no longitudinal changes in protein markers exhibited a significant relationship when correlated with changes in cognitive subdomain performance within subcohorts. In DS, longitudinal characterization of all previously identified proteins revealed distinct trajectories over time and an association of baseline levels with future cognitive decline. This suggests potential contributions of these proteins to the complex underlying pathophysiology of Alzheimer in DS and should motivate further investigation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679336/",
+      "summary_ja": "背景：ダウン症（DS）成人は早期アルツハイマー病（AD）発症リスクが高いが、血中タンパク質の縦断的変化は未解明であった。  \n方法：ミュンヘン大学病院でDS成人59名を対象に、神経心理検査と血液採取をベースラインおよび年1回のフォローアップで実施。OLINK技術で血漿タンパク質の動態を測定し、ベイズモデルで縦断的変化と認知機能への影響を解析。  \n結果：CD14、CXCL17、EDA2R、GFAP、IGFBP2、NFL、SEPTIN3、SPON1は年齢とともに増加し、CBLN4は減少した。これらのタンパク質のベースライン値は認知機能低下と関連したが、縦断的変化と認知サブドメインの変化との関連はサブコホート内で有意ではなかった。  \n結論：DSにおけるアルツハイマー病関連タンパク質は時間経過で異なる動態を示し、初期レベルが将来の認知低下と関連することから、これらのタンパク質が病態に寄与している可能性が示唆される。さらなる研究が必要である。",
+      "summary_short_ja": "ダウン症成人は早期アルツハイマー病のリスクが高く、血中タンパク質の縦断的変化を調査した。本研究では59名のダウン症成人を対象に、CBLN4を含む複数の血漿タンパク質の経時的変動を解析。多くのタンパク質は加齢とともに増加し、CBLN4は減少した。基準時のタンパク質レベルは認知機能低下と関連し、これらのタンパク質がアルツハイマー病の病態形成に関与する可能性を示唆する。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42673553",
       "doi": "10.1212/WNL.0000000000218476",
       "title": "Association Between Alzheimer Pathology, Sleep, and Cognition in Patients With Late-Onset Unexplained Epilepsy.",

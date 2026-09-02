@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42656011",
+      "doi": "10.1038/s41746-026-02368-0",
+      "title": "Shared Spectral Parameters Between EEG and Basal Ganglia LFP Distinguish Sleep-Specific Oscillations in Parkinson's Disease.",
+      "abstract": "In Parkinson's disease (PD), sleep-related oscillatory dynamics between basal ganglia and cortical nodes may inform sleep dysfunction. The subthalamic nucleus (STN) is highly interconnected with human sleep circuitry and is a current target of interest for sleep neuromodulation. To investigate correlated cortical-subcortical activity, we recorded simultaneous PSG and STN local field potentials (LFP) in 19 patients undergoing deep brain stimulation (DBS) for PD. We evaluated the correlation in spectral power between STN-LFP and EEG during polysomnogram (PSG)-defined stages of sleep. In addition, we analyzed aperiodic 1/f spectral parameters (exponent and offset), which have been identified as markers of arousal across sleep stages. Finally, we trained classifiers on aperiodic features to test whether 1/f structure alone could recover PSG-defined sleep stages from EEG and STN-LFP. Results revealed a significant interaction between recording modality and sleep stage. During wakefulness and REM sleep, STN-LFP exhibited a significantly steeper spectral slope compared to scalp EEG. However, this dissociation diminished with sleep depth; slopes appeared more similar during N2 and reversed during N3, where EEG became steeper than LFP. Across subjects, the aperiodic component showed robust state dependence and modality differences with STN-LFP maintaining higher exponents overall. STN-LFP aperiodic features alone classified sleep stages above chance and outperformed scalp EEG, approaching the combined-modality ceiling. These findings highlight distinct subcortical electrophysiological signatures in sleep-dependent regulation of neural arousal across brain networks in PD. These insights offer potential biomarkers for both invasive and non-invasive forms of closed-loop neuromodulation strategies targeting sleep dysfunction. ClinicalTrials.gov identifier: NCT04620551.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42656011/",
+      "summary_ja": "背景：パーキンソン病（PD）では、基底核と皮質間の睡眠関連振動動態が睡眠障害の理解に重要である。特に、視床下核（STN）は睡眠回路と密接に連結し、睡眠神経調節の標的として注目されている。  \n方法：PD患者19名に対し、深部脳刺激療法（DBS）施行中に同時に多相睡眠ポリグラフ検査（PSG）とSTN局所場電位（LFP）を記録し、睡眠段階ごとのSTN-LFPと脳波（EEG）のスペクトルパワー相関を解析した。さらに、覚醒度指標とされる非周期的1/fスペクトルパラメータ（指数とオフセット）を評価し、これらの特徴のみで睡眠段階分類を試みた。  \n結果：覚醒時とREM睡眠ではSTN-LFPのスペクトル傾斜がEEGより急峻であったが、睡眠の深さが増すにつれ差異は減少し、深いN3睡眠では逆転した。非周期的成分は状態依存性と記録モダリティの差異を示し、STN-LFPは全体的に高い指数を保持した。STN-LFPの非周期的特徴のみで睡眠段階分類はEEGを上回り、両者の組み合わせに近い精度を示した。  \n結論：PDにおける睡眠依存的な神経覚醒調節には、皮質下の独自の電気生理学的特徴が存在する。これらは睡眠障害を対象とした侵襲的・非侵襲的閉ループ神経調節のバイオマーカーとして有望である。",
+      "summary_short_ja": "パーキンソン病患者19名の深部脳刺激中に、睡眠段階ごとの脳波（EEG）と視床下核（STN）局所場電位（LFP）を同時記録し、スペクトルパワーの相関を解析した。覚醒・REM睡眠ではSTN-LFPのスペクトル傾斜がEEGより急峻だが、深い睡眠段階で逆転。1/fスペクトルパラメータは睡眠段階の識別に有効で、STN-LFPはEEGより高精度だった。これにより、PDにおける睡眠障害の神経調節のバイオマーカー候補が示された。",
+      "disease": "parkinson",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42659615",
       "doi": "10.1212/WNL.0000000000218472",
       "title": "Lesion-Level Subtypes of White Matter Hyperintensity Evolution Beyond Spatial Location.",

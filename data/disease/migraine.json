@@ -33,6 +33,21 @@
     },
     {
       "source": "pubmed",
+      "pmid": "42670230",
+      "doi": "10.1186/s10194-024-01735-0",
+      "title": "Migraine and Work-Disability: New Treatments Reduce Work-Related Burden Among Migraine Population.",
+      "abstract": "Migraine's economic burden is mostly due to reduced work productivity, which is underestimated by commonly used patient-reported outcome measures (PROMs). In this prospective, multicentric, real-world study, we used the HEADWORK questionnaire (HWq), a disease-specific work-related PROM, to assess the impact of anti-calcitonin gene receptor peptide (anti-CGRP) monoclonal antibodies (mAbs) on work-related limitations. Migraine patients eligible for treatment with anti-CGRP mAbs were enrolled from three headache centers: IRCCS C.Besta, Mondino Foundation and Policlinico Campus Bio-Medico. Migraine days per month (MMDs), monthly acute medications (MAMs), and HWq were collected every 3 months up to 12 months of follow-up. A GLM design was used to address change in HWq scales' score (primary endpoint), MAMs and MMDs; we also tested whether change in HWq differed across responders' group and defined minimum clinically important difference (MCID) for HWq. Out of 175 patients (130 females, mean age 48.9 ± 8.8) 152 completed the study. Among them: 37 (24.3%) were non-responders, 69 (45.4%) were responders, and 46 (30.3%) were super-responders. A reduction in all endpoints was observed since the first 3 months of treatment and maintained up to 12-month follow-up. Time*group interaction showed a superior effect, both in HWq scales and MAMs, with super-responders achieving the best outcome. A significant reduction in MMDs and MAMs and an improvement in both HWq scales in patients under mAbs treatment was found from the 3-month follow-up onwards. The positive impact on work-related disability should be taken into consideration in planning cost-effectiveness evaluations and drug policy strategy.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Sep",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42670230/",
+      "summary_ja": "背景：片頭痛は労働生産性の低下による経済的負担が大きいが、一般的な患者報告アウトカム指標（PROMs）では過小評価されがちである。  \n方法：抗カルシトニン遺伝子関連ペプチド（anti-CGRP）モノクローナル抗体（mAbs）治療の労働関連制限への影響を、片頭痛特異的労働関連PROMであるHEADWORK質問票（HWq）を用いて、3つの頭痛センターで前向き多施設リアルワールド研究として評価した。月間片頭痛日数（MMDs）、月間急性薬使用量（MAMs）、HWqを3か月ごとに最大12か月追跡。  \n結果：175名中152名が完遂。非応答者24.3％、応答者45.4％、超応答者30.3％。治療開始3か月目から全指標で改善が認められ、12か月まで維持。超応答者群でHWqスコアとMAMsの改善が最も顕著。  \n結論：anti-CGRP mAbs治療は片頭痛患者の労働関連障害を有意に軽減し、労働負担の軽減効果は費用対効果評価や医薬品政策策定に重要な考慮要素となる。",
+      "summary_short_ja": "本研究は、片頭痛患者に対する抗CGRPモノクローナル抗体治療が、片頭痛による労働制限を評価するHEADWORK質問票を用いて、労働関連の負担軽減効果を実証した。175名中152名が12か月追跡され、片頭痛日数や急性薬使用量が減少し、労働機能も改善。特に治療反応者で効果が顕著であり、労働障害軽減の観点から費用対効果評価や医薬品政策に重要な示唆を与える。",
+      "disease": "migraine",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42664477",
       "doi": "10.1212/WNL.0000000000218484",
       "title": "Bridging the Gap: Translating Microemboli-Induced Spreading Depolarization Into Clinical Practice.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42679340",
+      "doi": "10.1212/WNL.0000000000218474",
+      "title": "Prevalence of Slowly Expanding Lesions in Patients With Multiple Sclerosis: A Systematic Review and Meta-Analysis.",
+      "abstract": "Chronic active lesions (CALs) reflect chronic inflammation in multiple sclerosis (MS). Slowly expanding lesions (SELs) are CALs identified on conventional MRI by linear, concentric expansion over time, while paramagnetic rim lesions (PRLs) are CALs characterized by a paramagnetic rim on susceptibility-sensitive MRI. However, the prevalence of SELs and their overlap with PRLs remain unclear. The aims of this study were to (1) estimate the proportion of SELs among all T2 lesions and the proportion of patients with at least 1 SEL and (2) assess the proportion of SELs overlapping with PRLs. We systematically searched PubMed, Scopus, Web of Science, and Embase on February 1, 2026, for studies evaluating SELs in MS. At least 2 authors independently assessed study eligibility. Primary outcomes were the pooled proportion of SELs among T2 lesions and the proportion of patients with at least 1 SEL. We estimated mean per-patient volumes of SELs and total T2 lesions and the proportion of SELs overlapping with PRLs. Random-effects generalized linear mixed-effects models and inverse-variance methods were used, with between-study heterogeneity assessed using τ Of 5,980 records, 20 studies comprising 4,786 patients with MS were included (mean age: 43.6 ± 6.3 years; 63.7% female). Sample sizes varied by outcome. SELs accounted for 14% (95% CI 10-21) of all T2 lesions, and 78% (67-85) of patients had at least 1 SEL. After sensitivity analysis, per-patient mean volumes were 1.42 mL (0.79-2.06) for SELs and 10.6 mL (8.53-12.67) for total T2 lesions. In total, 11% (6-20) of SELs overlapped with PRLs. In subgroup analyses, proportions of SELs were similar in relapsing-remitting and progressive MS (15%), but the proportion of patients with at least 1 SEL was higher in progressive MS. Between-study heterogeneity was high across analyses with no significant sources identified. Although SELs represent a minority of T2 lesions, most patients have at least 1 SEL and a subset overlaps with PRLs, suggesting a partial correspondence between these 2 imaging markers of chronic inflammatory activity. Limitations include possible publication bias, high unexplained heterogeneity, differences in SEL identification methods, and differences in MRI time point number/timing.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679340/",
+      "summary_ja": "背景：多発性硬化症（MS）における慢性活動性病変（CALs）は慢性炎症を反映し、徐々に拡大する病変（SELs）と磁化率感受性MRIで観察されるパラ磁性リム病変（PRLs）が知られているが、SELsの有病率やPRLsとの重複は不明であった。  \n方法：PubMedなど4データベースを用い、MS患者のSELsを評価した研究を系統的に検索し、20研究4,786例をメタ解析。SELsのT2病変に占める割合、患者ごとのSEL保有率、SELsとPRLsの重複率を算出。ランダム効果モデルを用い、異質性も評価した。  \n結果：SELsは全T2病変の14％（95％CI 10-21）を占め、78％（67-85）の患者が少なくとも1つのSELを有した。患者あたりの平均SEL体積は1.42mL、全T2病変は10.6mLであった。SELsの11％（6-20）はPRLsと重複。再発寛解型と進行型MSでSEL割合は同程度だが、進行型ではSEL保有患者割合が高かった。異質性は高く、原因は特定できなかった。  \n結論：SELsはT2病変の少数派だが、多くのMS患者に存在し、一部はPRLsと重複するため、慢性炎症の2つの画像マーカーとして部分的に対応していると示唆される。研究間の異質性や方法差異が限界である。",
+      "summary_short_ja": "多発性硬化症（MS）患者におけるゆっくり拡大する病変（SELs）の有病率を系統的レビューとメタ解析で評価した。SELsは全T2病変の約14％を占め、患者の78％が少なくとも1つのSELを有していた。SELsの一部（約11％）は磁化率感受性MRIで検出されるパラ磁性リム病変（PRLs）と重複し、慢性炎症の画像マーカーとして部分的に対応することが示唆された。ただし、研究間の異質性や方法論の違いが課題である。",
+      "disease": "ms",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42555899",
       "doi": "10.1111/jns.12251",
       "title": "Quantifying Disease Progression in Patients With Charcot-Marie-Tooth Neuropathy Type 1A Using Quantitative Muscle MRI and Clinical Outcomes.",

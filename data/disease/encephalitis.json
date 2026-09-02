@@ -1,4 +1,20 @@
 {
   "disease": "encephalitis",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42679339",
+      "doi": "10.1212/WNL.0000000000218522",
+      "title": "Pearls & Oy-sters: DPPX Antibody-Associated Encephalitis in a Patient With Diarrhea, Tremor, Ocular Flutter, and Cognitive-Psychiatric Changes.",
+      "abstract": "Dipeptidyl-peptidase-like protein-6 antibody-associated encephalitis (DPPXE) is an autoimmune, multisystem disorder characterized by a triad of gastrointestinal prodrome, cognitive-psychiatric change, and CNS hyperexcitability. We report a 57-year-old man with 2 months of progressive gastrointestinal symptoms despite extensive normal gastrointestinal evaluation. He then developed tremor, myoclonus, gait ataxia, hyperekplexia, insomnia, emotional lability, memory impairment, and abnormal eye movements. Examination showed ocular flutter, tremor, ataxia, and cognitive impairment. Brain MRI revealed bilateral T2/fluid-attenuated inversion recovery hyperintensities in the brainstem and limbic regions. CSF demonstrated lymphocytic pleocytosis and 10 unique oligoclonal bands. DPPX-immunoglobulin G was detected in serum and CSF, confirming the diagnosis of DPPXE. Acute immunotherapy with intravenous methylprednisolone and plasma exchange followed by maintenance treatment with rituximab led to dramatic improvement of his symptoms, with residual memory impairment and tremor at 3 months. This case underscores the characteristic gastrointestinal prodrome and syndromic breadth of DPPXE, highlights the diagnostic value of panel-based screening, and supports treatment with immunomodulation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679339/",
+      "summary_ja": "背景：DPPX抗体関連脳炎（DPPXE）は自己免疫性の多系統疾患で、消化器症状の前駆期、認知・精神症状、中枢神経過敏性の三徴が特徴である。  \n方法：57歳男性が2か月間の進行性消化器症状を呈し、詳細な消化器検査は正常であったが、その後振戦、ミオクローヌス、運動失調、過剰驚愕反応、不眠、感情不安定、記憶障害、異常眼球運動を発症。神経学的検査、脳MRI、髄液検査、血清・髄液中のDPPX抗体検査を実施した。  \n結果：眼球フラッター、振戦、運動失調、認知障害を認め、MRIでは脳幹および辺縁系に高信号域を確認。髄液にはリンパ球増多と10本の特異的オリゴクローナルバンドを認めた。血清・髄液でDPPX-IgG抗体が検出され、DPPXEと診断。ステロイドパルス療法と血漿交換、維持療法にリツキシマブを用い、症状は著明に改善したが、3か月後も記憶障害と振戦が残存した。  \n結論：本症例はDPPXEの特徴的な消化器前駆症状と多彩な神経精神症状を示し、パネル検査による診断の有用性と免疫調節療法の効果を支持するものである。",
+      "summary_short_ja": "DPPX抗体関連脳炎（DPPXE）は、消化器症状、認知・精神症状、中枢神経過敏性を特徴とする自己免疫性多系統疾患である。57歳男性が2か月間の消化器症状に続き、振戦や眼球運動異常、認知障害を発症。MRIや髄液検査で異常を認め、血清・髄液でDPPX抗体を検出。免疫療法により症状は著明に改善した。本症の診断にはパネル検査が有用であり、免疫調節療法が効果的であることを示す。",
+      "disease": "encephalitis",
+      "section": "diagnosis"
+    }
+  ]
 }

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42679338",
+      "doi": "10.1212/WNL.0000000000218486",
+      "title": "Clinical Reasoning: A Patient With Progressive Sensory Neuropathy: Using Nerve Ultrasound and Skin Biopsy to Refine Diagnostic Reasoning.",
+      "abstract": "A 74-year-old man presented with a 5-year history of progressive feet numbness followed by gait unsteadiness. Neurologic examination revealed absent tendon reflexes, markedly reduced vibration sense in the lower limbs with sensory ataxia, and preserved motor strength. The clinical picture was consistent with a chronic sensory-predominant neuropathy causing sensory ataxia. Nerve conduction studies demonstrated a sensory axonal polyneuropathy with absent sensory nerve action potentials and preserved compound motor action potentials. Extensive screening for potential acquired causes of polyneuropathy (including metabolic, autoimmune, infectious, and toxic etiologies) yielded negative results, and the condition was initially classified as an idiopathic sensory polyneuropathy. Nerve ultrasound showed bilateral reduction of upper-limb nerve cross-sectional area, predominantly in the median and ulnar nerves at the forearm. Skin biopsy revealed loss of somatic intraepidermal fibers with relative preservation of autonomic innervation. This multimodal assessment refined diagnostic reasoning, shortened the diagnostic odyssey associated with establishing an etiologic diagnosis in idiopathic axonal sensory polyneuropathy, and prompted targeted genetic testing. Such an approach may improve diagnostic yield in idiopathic sensory-predominant axonal polyneuropathies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679338/",
+      "summary_ja": "背景：74歳男性が5年間の進行性の足のしびれと歩行不安定を訴え、感覚優位の慢性末梢神経障害が疑われた。方法：神経学的検査、神経伝導検査、神経超音波検査、皮膚生検を実施し、代謝・自己免疫・感染・中毒などの二次性原因を除外。結果：神経伝導検査で感覚性軸索性多発神経障害が確認され、神経超音波では前腕の正中神経・尺骨神経の断面積が両側で減少。皮膚生検では体性感覚神経線維の減少が認められたが、自律神経線維は比較的温存されていた。結論：多角的評価により特発性感覚優位軸索性多発神経障害の診断精度が向上し、診断までの時間短縮と遺伝子検査の適応決定に寄与した。この手法は同様の症例の診断能向上に有用と示唆される。",
+      "summary_short_ja": "74歳男性が5年間の足のしびれと歩行不安定を訴え、神経学的検査で感覚失調を伴う慢性感覚優位ニューロパチーと診断された。神経伝導検査は感覚性軸索性多発ニューロパチーを示し、原因検索は陰性。神経超音波と皮膚生検により末梢神経の萎縮と表皮内感覚線維の減少が確認され、診断の精度向上と遺伝子検査の実施につながった。本手法は特発性感覚性軸索性多発ニューロパチーの診断に有用である。",
+      "disease": "neuropathy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42467871",
       "doi": "10.1212/WNL.0000000000218266",
       "title": "Rasch-Built Overall Disability Scale for Chronic Idiopathic Axonal Polyneuropathy.",
