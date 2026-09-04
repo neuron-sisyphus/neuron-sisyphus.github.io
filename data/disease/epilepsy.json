@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42685297",
+      "doi": "10.1212/WNL.0000000000218456",
+      "title": "Gestational Changes in Antiseizure Medication Concentrations and the Impact of Polytherapy: A Prospective Multicenter Cohort Study in China.",
+      "abstract": "Pregnancy alters the pharmacokinetics of antiseizure medications (ASMs). The aim of this study was to quantify gestational changes in ASM concentrations and identify independent covariates among women with epilepsy in China. In this prospective, multicenter observational cohort study in China, women with epilepsy aged 18-45 years were enrolled and followed longitudinally. Steady-state trough ASM concentrations were measured, with concentration-to-dose (C/D) ratio as the primary pharmacokinetic parameter. Linear mixed-effects models with model averaging were used to evaluate the independent effects of gestational age, concomitant ASMs, and demographic covariates on ASM C/D ratios. A total of 947 women were included and contributed 1,638 samples between 2019 and 2025, including 1,187 samples collected during nonpregnant periods (821 women, mean age 29.31 ± 8.38 years) and 451 during pregnancy (228 women, mean age 28.67 ± 4.30 years), with 64.3% receiving polytherapy. Lamotrigine exhibited the greatest gestational effect, with C/D ratios declining by 28.8% (β = -0.339; 95% CI -0.508 to -0.339;  Pregnancy was the primary driver of declining C/D ratios, and concomitant ASMs and body weight acted as secondary modifiers. These findings support individual therapeutic drug monitoring. ChiCTR2100046318 (Chinese Clinical Trial Registry, chictr.org.cn).",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685297/",
+      "summary_ja": "背景：妊娠は抗てんかん薬（ASM）の薬物動態に影響を与えるが、その具体的な変化や多剤併用の影響は不明であった。  \n方法：中国の18～45歳のてんかん女性947名を対象に、多施設で前向きコホート研究を実施。非妊娠期1,187検体、妊娠期451検体のASMの定常状態トラフ濃度を測定し、用量あたり濃度比（C/D比）を主要評価指標とした。線形混合効果モデルで妊娠週数、併用薬、体重などの影響を解析。  \n結果：妊娠中のASM濃度は全体的に低下し、特にラモトリギンのC/D比は28.8％減少した。妊娠がC/D比低下の主因であり、併用薬や体重が二次的に影響を与えた。64.3％が多剤併用であった。  \n結論：妊娠に伴うASM濃度の変動は顕著であり、個別の治療薬物モニタリングが重要である。",
+      "summary_short_ja": "本研究は中国のてんかん女性947名を対象に、妊娠中の抗てんかん薬（ASM）血中濃度変化を前向き多施設コホートで解析した。妊娠によりASMの濃度対用量比（C/D比）が低下し、特にラモトリギンで28.8%の減少が顕著であった。多剤併用や体重も影響因子であり、妊娠中の個別的な治療薬モニタリングの重要性が示された。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42691468",
+      "doi": "10.1212/WNL.0000000000218470",
+      "title": "Autonomic Network Signatures of Interictal Cardiorespiratory Dysfunction in Patients With Temporal Lobe Epilepsy.",
+      "abstract": "Temporal lobe epilepsy (TLE) co-occurs with interictal impairments in autonomic regulation and respiratory chemoreception, which have been related to higher risk of sudden unexpected death in epilepsy (SUDEP). Studies indicate that seizures lead to reorganization of central autonomic circuits extending beyond the temporal lobe. However, the relationship between brain network disruptions and interictal cardiorespiratory dysfunction remains largely unknown. The goal of this work was to test whether central autonomic network alterations underlie interictal cardiorespiratory dysfunction and higher SUDEP risk. We included simultaneous fMRI and peripheral physiology from patients with drug-resistant unilateral TLE and healthy controls. We used mediation and correlation analyses to relate atypical functional connectivity strength and structural volume of central autonomic regions in TLE to alterations of high-frequency and low-frequency heart rate variability (HF-HRV/LF-HRV), breathing rate (BR), and respiratory rate variability (RRV). Multivariate models were then used to investigate associations with disease variables and risk factors of SUDEP. Finally, we analyzed a subcohort of patients with postsurgical data and examined whether autonomic connectivity changes following surgery impact cardiorespiratory function. Patients with TLE (n = 72, 49% female, 40.0 ± 12.8 years) exhibited widespread reductions in autonomic connectivity and volume compared with controls (n = 105, 53% female, 36.7 ± 12.8 years) ( Our results suggest that reorganization of the central autonomic network may contribute to chronic autonomic and interoceptive deficits in TLE. Mapping these brain network disruptions may help guide novel strategies to restore cardiorespiratory function. Validation in SUDEP cases is needed to establish clinical utility as biomarkers of SUDEP.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691468/",
+      "summary_ja": "背景：側頭葉てんかん（TLE）は、自律神経調節や呼吸化学受容の発作間欠期障害を伴い、これがてんかん突然死（SUDEP）のリスク増加に関連するとされる。発作による中枢自律神経回路の再編成は側頭葉を超えて広がるが、脳ネットワークの障害と発作間欠期の心肺機能異常の関係は不明である。  \n方法：薬剤抵抗性の片側TLE患者72名と健常者105名を対象に、同時fMRIと末梢生理学的データを取得。自律神経領域の機能的結合強度と構造体積を心拍変動（HF-HRV/LF-HRV）、呼吸数（BR）、呼吸変動性（RRV）と関連付けるため、媒介分析や相関分析を実施。多変量モデルで病態やSUDEPリスク因子との関連も検討し、術後データを持つ患者サブコホートで自律神経結合の変化と心肺機能の影響を解析した。  \n結果：TLE患者は健常者に比べ、自律神経ネットワークの広範な結合低下と体積減少を示した。これらの変化は心肺機能異常と関連し、術後の自律神経結合変化も心肺機能に影響を与えた。  \n結論：中央自律神経ネットワークの再編成がTLEの慢性的な自律神経・内受容機能障害に寄与している可能性が示唆された。これらの脳ネットワーク障害のマッピングは、心肺機能回復の新たな治療戦略開発に役立つと期待されるが、SUDEP症例での検証が必要である。",
+      "summary_short_ja": "側頭葉てんかん（TLE）患者は、発作間欠期に自律神経調節や呼吸化学受容機能の障害を示し、SUDEP（てんかん突然死）リスクが高い。本研究は、fMRIと生理データを用いて、TLEにおける中枢自律神経ネットワークの機能・構造変化が心拍変動や呼吸機能異常と関連することを示した。手術後の自律神経接続変化も検討し、これらのネットワーク再編が慢性的な自律神経障害に寄与する可能性を示唆。SUDEPバイオマーカーとしての臨床応用にはさらなる検証が必要である。",
+      "disease": "epilepsy",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42617146",
       "doi": "10.1212/WNL.0000000000218375",
       "title": "Paternal Valproate Exposure and Offspring Neurodevelopmental Outcomes.",

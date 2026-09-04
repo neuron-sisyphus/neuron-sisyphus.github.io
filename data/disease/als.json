@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42685299",
+      "doi": "10.1212/WNL.0000000000218471",
+      "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",
+      "abstract": "There is a long history of early- and mid-phase amyotrophic lateral sclerosis (ALS) clinical trial data being used to make claims of clinical benefit that fail to translate into successful phase 3 outcomes. It is suggested that fallacious scientific reasoning is being encouraged by perverse incentives arising from a \"clinical trial industrial complex\" that greatly influences trial design, data interpretation, and results communication. Recurring fallacies include false premises underlying outcome comparisons, misuse and incorrect interpretation of biomarkers, mismatches between study design and stated objectives, selective reporting of outcomes, over-reliance on post hoc analyses and open-label extension data, and overly optimistic framing of inconclusive data. We argue that these practices, reinforced by misaligned incentives across industry and academia, lead to premature claims of therapeutic promise and tangible harm to patients. To address the resulting ALS clinical trial credibility gap, we call for rigorous adherence to established standards for reporting clinical trial results, clearer distinction between hypothesis generation and hypothesis testing, more measured description of trial results, and more disciplined triage of phase 2 programs. A cultural shift toward scientific skepticism and methodological rigor is essential to accelerate the development of genuinely effective ALS therapies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685299/",
+      "summary_ja": "背景：筋萎縮性側索硬化症（ALS）の臨床試験では、初期・中期の試験データに基づく治療効果の主張が第3相試験で再現されない問題が長く続いている。  \n方法：本論文は、試験設計やデータ解釈、結果の伝達に影響を与える「臨床試験産業複合体」による誤った科学的推論の誘発を指摘し、具体的な誤謬例（誤った前提、バイオマーカーの誤用、目的と設計の不整合、選択的報告、事後解析への過度依存など）を分析した。  \n結果：これらの誤った慣行は、産業界と学術界の利害不一致により助長され、治療効果の早期過大評価と患者への実害をもたらしていることが明らかとなった。  \n結論：ALS臨床試験の信頼性ギャップを埋めるため、報告基準の厳格な遵守、仮説生成と検証の明確な区別、結果の慎重な表現、第2相試験の厳格な選別が必要である。科学的懐疑心と方法論的厳密性の文化的変革が、真に効果的なALS治療の開発促進に不可欠である。",
+      "summary_short_ja": "筋萎縮性側索硬化症（ALS）の臨床試験では、初期段階の有望な結果が第3相試験で再現されず、誤った科学的解釈や利害の不一致が信頼性低下を招いている。試験設計の不整合や選択的報告、過度な後付け解析などが問題であり、厳格な報告基準の遵守や仮説検証の明確化、科学的懐疑心の醸成が必要とされる。これにより、真に効果的なALS治療の開発促進が期待される。",
+      "disease": "als",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42525902",
       "doi": "10.1212/WNL.0000000000218303",
       "title": "Association of Military Branch and Rank With Amyotrophic Lateral Sclerosis Incidence Among United States Veterans.",
