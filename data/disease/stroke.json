@@ -3,21 +3,6 @@
   "items": [
     {
       "source": "pubmed",
-      "pmid": "42685298",
-      "doi": "10.1212/WNL.0000000000218543",
-      "title": "Association Between Immigration Status and the Intensity of Acute Stroke Care in Ontario, Canada: A Retrospective Study.",
-      "abstract": "Immigration status is associated with stroke incidence and outcomes; however, its association with admission to and length of stay in the intensive care unit (ICU) in patients with stroke is unknown. We aimed to determine the association between immigration status and intensity of ICU care among patients with ischemic stroke. We conducted a population-based retrospective cohort study of adults hospitalized for ischemic stroke in Ontario, Canada, between April 1, 2014, and March 30, 2023. People born outside Canada and who arrived after 1985 were defined as immigrants. We reported rates of thrombolysis, thrombectomy (reperfusion treatments), ventilatory support, and feeding tube insertion in immigrants and long-term residents. We calculated adjusted odds ratios (aOR) of ICU admission using logistic models and adjusted risk ratios (aRR) of longer ICU stays using negative binomial models, comparing immigrants with long-term residents, in the entire cohort and among those who did not receive reperfusion treatments. Of 85,507 patients included (45% female), 12.9% were immigrants. Immigrants were younger (median age 69 years vs 76 years, standardized difference = 0.38), had lower stroke severity and rates of reperfusion, and had higher rates of life-sustaining treatments compared with long-term residents. Immigrants had similar odds of ICU admission compared with long-term residents (18.2% vs 19.7%; aOR 0.97; 95% CI 0.91-1.04), but their ICU stays were longer (mean 5.6 ± 18.5 days vs 3.8 ± 7.7 days; aRR 1.30; 1.13-1.48) in the adjusted models, and this remained the case for those who did not receive reperfusion treatments (length of stay; aRR 1.27; 1.09-1.49). These associations did not vary by whether a hospital cared for a higher-than-median proportion of immigrants across all hospitals. Immigrants who came as refugees, and those who came from Africa, East Asia, and the Middle East, had longer ICU stays than long-term residents. Immigrant ischemic stroke patients have similar ICU admission rates, but longer ICU stays. The longer ICU stays among immigrant stroke patients may in part be driven by higher rates of life-saving treatments; however, the impact of these differences on the long-term functional outcomes remains to be studied.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Oct-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42685298/",
-      "summary_ja": "背景：移民の状態は脳卒中の発症率や予後に関連するが、脳卒中患者の集中治療室（ICU）入室率や滞在期間との関連は不明である。  \n方法：カナダ・オンタリオ州で2014年4月から2023年3月までに虚血性脳卒中で入院した成人85,507人（うち12.9%が1985年以降に移住した移民）を対象に、移民と長期居住者のICU入室率、滞在期間、血栓溶解療法や機械換気、経管栄養の使用率を比較し、調整オッズ比（aOR）や調整リスク比（aRR）を算出した。  \n結果：移民は年齢が若く（中央値69歳対76歳）、脳卒中重症度や再灌流療法の実施率は低いが、生命維持治療の使用率は高かった。ICU入室率は移民と長期居住者でほぼ同等（18.2%対19.7%、aOR 0.97）であったが、ICU滞在期間は移民の方が有意に長かった（平均5.6日対3.8日、aRR 1.30）。再灌流療法未実施群でも同様の傾向が認められた。難民やアフリカ・東アジア・中東出身の移民で特に滞在期間が長かった。  \n結論：移民の虚血性脳卒中患者はICU入室率は長期居住者と同等だが、ICU滞在期間が長い。これは生命維持治療の多用が一因と考えられるが、これらの差異が長期的な機能的予後に与える影響は今後の検討課題である。",
-      "summary_short_ja": "カナダ・オンタリオ州の虚血性脳卒中患者85,507人を対象に、移民と長期居住者の集中治療室（ICU）ケアの強度を比較した。移民は若年で重症度が低いが、生命維持治療の割合が高く、ICU入室率は同等ながら滞在期間は有意に長かった。特に難民やアフリカ・東アジア・中東出身者で顕著であり、これらの差異が長期的な機能回復に与える影響は今後の課題である。",
-      "disease": "stroke",
-      "section": "epidemiology"
-    },
-    {
-      "source": "pubmed",
       "pmid": "42691470",
       "doi": "10.1212/WNL.0000000000218441",
       "title": "Carotid Artery Stenting Is Now an Evidence-Based Adjunct to Intensive Medical Therapy for Stroke Prevention.",
@@ -45,6 +30,21 @@
       "summary_short_ja": "本研究は、推定脳アミロイド血管症（CAA）患者102名を対象に、髄液中のβアミロイド42（Aβ42）および40（Aβ40）レベルとMRIによる出血性・非出血性病変の関連を検討した。結果、低いAβ42およびAβ40濃度は皮質表層鉄沈着（cSS）などの病態指標と有意に関連し、臨床症状やアルツハイマー型病態とは独立して血管アミロイド負荷を反映する可能性が示された。今後、予後評価への応用が期待される。",
       "disease": "stroke",
       "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42685298",
+      "doi": "10.1212/WNL.0000000000218543",
+      "title": "Association Between Immigration Status and the Intensity of Acute Stroke Care in Ontario, Canada: A Retrospective Study.",
+      "abstract": "Immigration status is associated with stroke incidence and outcomes; however, its association with admission to and length of stay in the intensive care unit (ICU) in patients with stroke is unknown. We aimed to determine the association between immigration status and intensity of ICU care among patients with ischemic stroke. We conducted a population-based retrospective cohort study of adults hospitalized for ischemic stroke in Ontario, Canada, between April 1, 2014, and March 30, 2023. People born outside Canada and who arrived after 1985 were defined as immigrants. We reported rates of thrombolysis, thrombectomy (reperfusion treatments), ventilatory support, and feeding tube insertion in immigrants and long-term residents. We calculated adjusted odds ratios (aOR) of ICU admission using logistic models and adjusted risk ratios (aRR) of longer ICU stays using negative binomial models, comparing immigrants with long-term residents, in the entire cohort and among those who did not receive reperfusion treatments. Of 85,507 patients included (45% female), 12.9% were immigrants. Immigrants were younger (median age 69 years vs 76 years, standardized difference = 0.38), had lower stroke severity and rates of reperfusion, and had higher rates of life-sustaining treatments compared with long-term residents. Immigrants had similar odds of ICU admission compared with long-term residents (18.2% vs 19.7%; aOR 0.97; 95% CI 0.91-1.04), but their ICU stays were longer (mean 5.6 ± 18.5 days vs 3.8 ± 7.7 days; aRR 1.30; 1.13-1.48) in the adjusted models, and this remained the case for those who did not receive reperfusion treatments (length of stay; aRR 1.27; 1.09-1.49). These associations did not vary by whether a hospital cared for a higher-than-median proportion of immigrants across all hospitals. Immigrants who came as refugees, and those who came from Africa, East Asia, and the Middle East, had longer ICU stays than long-term residents. Immigrant ischemic stroke patients have similar ICU admission rates, but longer ICU stays. The longer ICU stays among immigrant stroke patients may in part be driven by higher rates of life-saving treatments; however, the impact of these differences on the long-term functional outcomes remains to be studied.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685298/",
+      "summary_ja": "背景：移民の状態は脳卒中の発症率や予後に関連するが、脳卒中患者の集中治療室（ICU）入室率や滞在期間との関連は不明である。  \n方法：カナダ・オンタリオ州で2014年4月から2023年3月までに虚血性脳卒中で入院した成人85,507人（うち12.9%が1985年以降に移住した移民）を対象に、移民と長期居住者のICU入室率、滞在期間、血栓溶解療法や機械換気、経管栄養の使用率を比較し、調整オッズ比（aOR）や調整リスク比（aRR）を算出した。  \n結果：移民は年齢が若く（中央値69歳対76歳）、脳卒中重症度や再灌流療法の実施率は低いが、生命維持治療の使用率は高かった。ICU入室率は移民と長期居住者でほぼ同等（18.2%対19.7%、aOR 0.97）であったが、ICU滞在期間は移民の方が有意に長かった（平均5.6日対3.8日、aRR 1.30）。再灌流療法未実施群でも同様の傾向が認められた。難民やアフリカ・東アジア・中東出身の移民で特に滞在期間が長かった。  \n結論：移民の虚血性脳卒中患者はICU入室率は長期居住者と同等だが、ICU滞在期間が長い。これは生命維持治療の多用が一因と考えられるが、これらの差異が長期的な機能的予後に与える影響は今後の検討課題である。",
+      "summary_short_ja": "カナダ・オンタリオ州の虚血性脳卒中患者85,507人を対象に、移民と長期居住者の集中治療室（ICU）ケアの強度を比較した。移民は若年で重症度が低いが、生命維持治療の割合が高く、ICU入室率は同等ながら滞在期間は有意に長かった。特に難民やアフリカ・東アジア・中東出身者で顕著であり、これらの差異が長期的な機能回復に与える影響は今後の課題である。",
+      "disease": "stroke",
+      "section": "epidemiology"
     },
     {
       "source": "pubmed",

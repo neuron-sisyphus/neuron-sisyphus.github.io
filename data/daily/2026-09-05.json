@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-05",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42691470",
+      "doi": "10.1212/WNL.0000000000218441",
+      "title": "Carotid Artery Stenting Is Now an Evidence-Based Adjunct to Intensive Medical Therapy for Stroke Prevention.",
+      "abstract": "The CREST-2 trial demonstrated that carotid artery stenting combined with intensive medical management (IMM) significantly reduces stroke risk in patients with high-grade asymptomatic carotid stenosis compared with IMM alone. Careful patient selection and operator skill are critical factors for procedural success and can provide real-world validation of stenting as an important adjunct to IMM for stroke prevention. Continued advances in medical management and stenting are expected. It remains vital to engage in shared decision-making when considering moving forward with stenting of asymptomatic carotid stenosis.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691470/",
+      "summary_ja": "背景：無症候性の高度な頸動脈狭窄患者における脳卒中予防には、集中的な内科的治療（IMM）が標準であるが、頸動脈ステント留置術（CAS）の有効性は議論されてきた。  \n方法：CREST-2試験において、CASとIMMの併用療法とIMM単独療法の比較が行われた。  \n結果：CASをIMMに加えることで、IMM単独に比べて脳卒中リスクが有意に低減した。手技成功には患者選択と術者の技術が重要であり、現実の臨床現場でもCASがIMMの有効な補助療法であることが示された。  \n結論：CASは無症候性頸動脈狭窄の脳卒中予防において、エビデンスに基づくIMMの補助療法として位置づけられる。今後も医療管理とステント技術の進歩が期待され、治療方針決定には患者との共有意思決定が不可欠である。",
+      "summary_short_ja": "CREST-2試験により、高度無症候性頸動脈狭窄患者において、集中的内科治療（IMM）に頸動脈ステント留置を併用すると、IMM単独よりも脳卒中リスクが有意に低減することが示された。適切な患者選択と術者の技術が成功の鍵であり、ステント留置はIMMの重要な補助療法として実臨床での有効性が確認された。今後も治療法の進歩が期待され、患者との十分な共有意思決定が重要である。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42691468",
+      "doi": "10.1212/WNL.0000000000218470",
+      "title": "Autonomic Network Signatures of Interictal Cardiorespiratory Dysfunction in Patients With Temporal Lobe Epilepsy.",
+      "abstract": "Temporal lobe epilepsy (TLE) co-occurs with interictal impairments in autonomic regulation and respiratory chemoreception, which have been related to higher risk of sudden unexpected death in epilepsy (SUDEP). Studies indicate that seizures lead to reorganization of central autonomic circuits extending beyond the temporal lobe. However, the relationship between brain network disruptions and interictal cardiorespiratory dysfunction remains largely unknown. The goal of this work was to test whether central autonomic network alterations underlie interictal cardiorespiratory dysfunction and higher SUDEP risk. We included simultaneous fMRI and peripheral physiology from patients with drug-resistant unilateral TLE and healthy controls. We used mediation and correlation analyses to relate atypical functional connectivity strength and structural volume of central autonomic regions in TLE to alterations of high-frequency and low-frequency heart rate variability (HF-HRV/LF-HRV), breathing rate (BR), and respiratory rate variability (RRV). Multivariate models were then used to investigate associations with disease variables and risk factors of SUDEP. Finally, we analyzed a subcohort of patients with postsurgical data and examined whether autonomic connectivity changes following surgery impact cardiorespiratory function. Patients with TLE (n = 72, 49% female, 40.0 ± 12.8 years) exhibited widespread reductions in autonomic connectivity and volume compared with controls (n = 105, 53% female, 36.7 ± 12.8 years) ( Our results suggest that reorganization of the central autonomic network may contribute to chronic autonomic and interoceptive deficits in TLE. Mapping these brain network disruptions may help guide novel strategies to restore cardiorespiratory function. Validation in SUDEP cases is needed to establish clinical utility as biomarkers of SUDEP.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691468/",
+      "summary_ja": "背景：側頭葉てんかん（TLE）は、自律神経調節や呼吸化学受容の発作間欠期障害を伴い、これがてんかん突然死（SUDEP）のリスク増加に関連するとされる。発作による中枢自律神経回路の再編成は側頭葉を超えて広がるが、脳ネットワークの障害と発作間欠期の心肺機能異常の関係は不明である。  \n方法：薬剤抵抗性の片側TLE患者72名と健常者105名を対象に、同時fMRIと末梢生理学的データを取得。自律神経領域の機能的結合強度と構造体積を心拍変動（HF-HRV/LF-HRV）、呼吸数（BR）、呼吸変動性（RRV）と関連付けるため、媒介分析や相関分析を実施。多変量モデルで病態やSUDEPリスク因子との関連も検討し、術後データを持つ患者サブコホートで自律神経結合の変化と心肺機能の影響を解析した。  \n結果：TLE患者は健常者に比べ、自律神経ネットワークの広範な結合低下と体積減少を示した。これらの変化は心肺機能異常と関連し、術後の自律神経結合変化も心肺機能に影響を与えた。  \n結論：中央自律神経ネットワークの再編成がTLEの慢性的な自律神経・内受容機能障害に寄与している可能性が示唆された。これらの脳ネットワーク障害のマッピングは、心肺機能回復の新たな治療戦略開発に役立つと期待されるが、SUDEP症例での検証が必要である。",
+      "summary_short_ja": "側頭葉てんかん（TLE）患者は、発作間欠期に自律神経調節や呼吸化学受容機能の障害を示し、SUDEP（てんかん突然死）リスクが高い。本研究は、fMRIと生理データを用いて、TLEにおける中枢自律神経ネットワークの機能・構造変化が心拍変動や呼吸機能異常と関連することを示した。手術後の自律神経接続変化も検討し、これらのネットワーク再編が慢性的な自律神経障害に寄与する可能性を示唆。SUDEPバイオマーカーとしての臨床応用にはさらなる検証が必要である。",
+      "disease": "epilepsy",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42691466",
+      "doi": "10.1212/WNL.0000000000218458",
+      "title": "Evaluation of Disease Severity Using CSF Biomarkers in Patients With Probable Cerebral Amyloid Angiopathy.",
+      "abstract": "Cerebral amyloid angiopathy (CAA) is currently diagnosed using MRI-based Boston criteria. However, imaging markers represent downstream consequences of vascular injury and may not fully reflect disease severity. CSF biomarkers, particularly β-amyloid 1-42 (Aβ42) and β-amyloid 1-40 (Aβ40), may provide a more direct measure of vascular amyloid burden. We investigated the association between CSF biomarkers and hemorrhagic and nonhemorrhagic MRI markers of disease severity in probable CAA. We conducted a retrospective multicenter cohort study including consecutive patients diagnosed with probable CAA according to Boston criteria v2.0 at 2 tertiary centers (2014-2023) who underwent lumbar puncture (LP) as part of clinical evaluation. CSF Aβ42, Aβ40, total tau, and phosphorylated-tau 181 (p-tau181) were measured using standardized immunoassays. MRI markers included lobar cerebral microbleeds (CMBs), cortical superficial siderosis (cSS), white matter hyperintensity burden, Fazekas score, and enlarged perivascular spaces in the centrum semiovale. Multivariable linear regression models were adjusted for age, sex, MRI sequence type, and delay between onset and LP. False discovery rate correction was applied for multiple testing. We also used principal component analysis to explore associations between MRI and CSF biomarkers. A total of 102 patients were included (mean age at LP 72.0 ± 7.5 years; 65% male). Initial presentations were cognitive impairment in 53%, intracerebral hemorrhage in 34%, and transient focal neurologic episodes in 13%. Lower CSF Aβ40 and Aβ42 levels were significantly associated with greater cSS burden (standardized β -0.49 [95% CI -0.8 to -0.17],  In probable CAA, lower CSF Aβ40 and Aβ42 levels are associated with established MRI markers of disease severity, independently of clinical presentation and concomitant Alzheimer-like profile. These findings suggest that CSF Aβ levels may reflect vascular amyloid burden rather than downstream neurodegeneration. Prospective longitudinal studies are needed to determine their prognostic value.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691466/",
+      "summary_ja": "背景：脳アミロイド血管症（CAA）はMRIを用いたBoston基準で診断されるが、画像所見は血管障害の結果を示すに過ぎず、病態の重症度を十分に反映しない可能性がある。方法：2施設でBoston基準v2.0に基づき診断されたCAA患者102名（平均年齢72歳）を対象に、腰椎穿刺で採取した脳脊髄液（CSF）のβ-アミロイド1-42（Aβ42）、β-アミロイド1-40（Aβ40）、タウ蛋白などを測定し、MRIの出血性・非出血性マーカーとの関連を多変量解析で検討した。結果：CSFのAβ40およびAβ42の低値は、皮質表層鉄沈着（cSS）などのMRI重症度指標と有意に関連した（標準化β=-0.49）。臨床症状やアルツハイマー様の併存を調整しても独立した関連が認められた。結論：CSF中のAβレベルは神経変性の下流過程ではなく、血管内のアミロイド蓄積を直接反映している可能性が示唆された。今後、予後予測における有用性を検証するための前向き研究が必要である。",
+      "summary_short_ja": "本研究は、推定脳アミロイド血管症（CAA）患者102名を対象に、髄液中のβアミロイド42（Aβ42）および40（Aβ40）レベルとMRIによる出血性・非出血性病変の関連を検討した。結果、低いAβ42およびAβ40濃度は皮質表層鉄沈着（cSS）などの病態指標と有意に関連し、臨床症状やアルツハイマー型病態とは独立して血管アミロイド負荷を反映する可能性が示された。今後、予後評価への応用が期待される。",
+      "disease": "stroke",
+      "section": "diagnosis"
+    }
+  ]
+}

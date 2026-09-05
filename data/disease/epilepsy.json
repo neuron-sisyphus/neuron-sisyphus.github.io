@@ -3,21 +3,6 @@
   "items": [
     {
       "source": "pubmed",
-      "pmid": "42685297",
-      "doi": "10.1212/WNL.0000000000218456",
-      "title": "Gestational Changes in Antiseizure Medication Concentrations and the Impact of Polytherapy: A Prospective Multicenter Cohort Study in China.",
-      "abstract": "Pregnancy alters the pharmacokinetics of antiseizure medications (ASMs). The aim of this study was to quantify gestational changes in ASM concentrations and identify independent covariates among women with epilepsy in China. In this prospective, multicenter observational cohort study in China, women with epilepsy aged 18-45 years were enrolled and followed longitudinally. Steady-state trough ASM concentrations were measured, with concentration-to-dose (C/D) ratio as the primary pharmacokinetic parameter. Linear mixed-effects models with model averaging were used to evaluate the independent effects of gestational age, concomitant ASMs, and demographic covariates on ASM C/D ratios. A total of 947 women were included and contributed 1,638 samples between 2019 and 2025, including 1,187 samples collected during nonpregnant periods (821 women, mean age 29.31 ± 8.38 years) and 451 during pregnancy (228 women, mean age 28.67 ± 4.30 years), with 64.3% receiving polytherapy. Lamotrigine exhibited the greatest gestational effect, with C/D ratios declining by 28.8% (β = -0.339; 95% CI -0.508 to -0.339;  Pregnancy was the primary driver of declining C/D ratios, and concomitant ASMs and body weight acted as secondary modifiers. These findings support individual therapeutic drug monitoring. ChiCTR2100046318 (Chinese Clinical Trial Registry, chictr.org.cn).",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Oct-13",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42685297/",
-      "summary_ja": "背景：妊娠は抗てんかん薬（ASM）の薬物動態に影響を与えるが、その具体的な変化や多剤併用の影響は不明であった。  \n方法：中国の18～45歳のてんかん女性947名を対象に、多施設で前向きコホート研究を実施。非妊娠期1,187検体、妊娠期451検体のASMの定常状態トラフ濃度を測定し、用量あたり濃度比（C/D比）を主要評価指標とした。線形混合効果モデルで妊娠週数、併用薬、体重などの影響を解析。  \n結果：妊娠中のASM濃度は全体的に低下し、特にラモトリギンのC/D比は28.8％減少した。妊娠がC/D比低下の主因であり、併用薬や体重が二次的に影響を与えた。64.3％が多剤併用であった。  \n結論：妊娠に伴うASM濃度の変動は顕著であり、個別の治療薬物モニタリングが重要である。",
-      "summary_short_ja": "本研究は中国のてんかん女性947名を対象に、妊娠中の抗てんかん薬（ASM）血中濃度変化を前向き多施設コホートで解析した。妊娠によりASMの濃度対用量比（C/D比）が低下し、特にラモトリギンで28.8%の減少が顕著であった。多剤併用や体重も影響因子であり、妊娠中の個別的な治療薬モニタリングの重要性が示された。",
-      "disease": "epilepsy",
-      "section": "treatment"
-    },
-    {
-      "source": "pubmed",
       "pmid": "42691468",
       "doi": "10.1212/WNL.0000000000218470",
       "title": "Autonomic Network Signatures of Interictal Cardiorespiratory Dysfunction in Patients With Temporal Lobe Epilepsy.",
@@ -30,6 +15,21 @@
       "summary_short_ja": "側頭葉てんかん（TLE）患者は、発作間欠期に自律神経調節や呼吸化学受容機能の障害を示し、SUDEP（てんかん突然死）リスクが高い。本研究は、fMRIと生理データを用いて、TLEにおける中枢自律神経ネットワークの機能・構造変化が心拍変動や呼吸機能異常と関連することを示した。手術後の自律神経接続変化も検討し、これらのネットワーク再編が慢性的な自律神経障害に寄与する可能性を示唆。SUDEPバイオマーカーとしての臨床応用にはさらなる検証が必要である。",
       "disease": "epilepsy",
       "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42685297",
+      "doi": "10.1212/WNL.0000000000218456",
+      "title": "Gestational Changes in Antiseizure Medication Concentrations and the Impact of Polytherapy: A Prospective Multicenter Cohort Study in China.",
+      "abstract": "Pregnancy alters the pharmacokinetics of antiseizure medications (ASMs). The aim of this study was to quantify gestational changes in ASM concentrations and identify independent covariates among women with epilepsy in China. In this prospective, multicenter observational cohort study in China, women with epilepsy aged 18-45 years were enrolled and followed longitudinally. Steady-state trough ASM concentrations were measured, with concentration-to-dose (C/D) ratio as the primary pharmacokinetic parameter. Linear mixed-effects models with model averaging were used to evaluate the independent effects of gestational age, concomitant ASMs, and demographic covariates on ASM C/D ratios. A total of 947 women were included and contributed 1,638 samples between 2019 and 2025, including 1,187 samples collected during nonpregnant periods (821 women, mean age 29.31 ± 8.38 years) and 451 during pregnancy (228 women, mean age 28.67 ± 4.30 years), with 64.3% receiving polytherapy. Lamotrigine exhibited the greatest gestational effect, with C/D ratios declining by 28.8% (β = -0.339; 95% CI -0.508 to -0.339;  Pregnancy was the primary driver of declining C/D ratios, and concomitant ASMs and body weight acted as secondary modifiers. These findings support individual therapeutic drug monitoring. ChiCTR2100046318 (Chinese Clinical Trial Registry, chictr.org.cn).",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42685297/",
+      "summary_ja": "背景：妊娠は抗てんかん薬（ASM）の薬物動態に影響を与えるが、その具体的な変化や多剤併用の影響は不明であった。  \n方法：中国の18～45歳のてんかん女性947名を対象に、多施設で前向きコホート研究を実施。非妊娠期1,187検体、妊娠期451検体のASMの定常状態トラフ濃度を測定し、用量あたり濃度比（C/D比）を主要評価指標とした。線形混合効果モデルで妊娠週数、併用薬、体重などの影響を解析。  \n結果：妊娠中のASM濃度は全体的に低下し、特にラモトリギンのC/D比は28.8％減少した。妊娠がC/D比低下の主因であり、併用薬や体重が二次的に影響を与えた。64.3％が多剤併用であった。  \n結論：妊娠に伴うASM濃度の変動は顕著であり、個別の治療薬物モニタリングが重要である。",
+      "summary_short_ja": "本研究は中国のてんかん女性947名を対象に、妊娠中の抗てんかん薬（ASM）血中濃度変化を前向き多施設コホートで解析した。妊娠によりASMの濃度対用量比（C/D比）が低下し、特にラモトリギンで28.8%の減少が顕著であった。多剤併用や体重も影響因子であり、妊娠中の個別的な治療薬モニタリングの重要性が示された。",
+      "disease": "epilepsy",
+      "section": "treatment"
     },
     {
       "source": "pubmed",
