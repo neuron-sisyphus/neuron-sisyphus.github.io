@@ -4,6 +4,21 @@
     {
       "source": "pubmed",
       "pmid": "42566724",
+      "doi": "10.1136/jnnp-2017-316286",
+      "title": "Acute Attack Treatment Escalation and Subsequent Relapse Risk in Pediatric Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease.",
+      "abstract": "Acute treatment for myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) includes high-dose IV methylprednisolone (IVMP), with escalation to IV immunoglobulin (IVIG) and/or plasma exchange (PLEX) based on severity or incomplete response. We evaluated whether escalation at first attack influences disease course. We conducted a retrospective single-center study of pediatric-onset MOGAD evaluated between 2015 and 2024. Patients were classified to (1) steroid-only or (2) steroid-plus (IVMP followed by IVIG, PLEX, or both). Outcomes included early (≤1 year) and overall relapses. Time-to-event analyses used Kaplan-Meier and adjusted Cox regression. Ninety-six of 114 patients were included (58% female; median age 6.3 years [interquartile range (IQR) 4.1-11.3]; median follow-up 3.2 years [IQR 1.4-6.1]). Sixty-eight (71%) received steroid-only therapy and 28 (29%) escalation therapy. Relapses were more frequent with steroid-only treatment at 1 year (28% vs 4%; relative risk [RR] 7.80; 95% CI 1.10-55.3) and at final follow-up (43% vs 11%; RR 3.98; 95% CI 1.33-11.93). Escalation therapy was associated with reduced relapse risk (adjusted hazard ratio [HR] 0.25; 95% CI 0.07-0.85;  Acute immunotherapy escalation was associated with lower early and mid-term relapses, suggesting the first attack may represent a therapeutic opportunity to influence disease trajectory.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566724/",
+      "summary_ja": "背景：ミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）の急性発作治療は、高用量静脈内メチルプレドニゾロン（IVMP）が基本であり、重症例や反応不十分な場合は免疫グロブリン静注（IVIG）や血漿交換（PLEX）への治療強化が行われる。方法：2015～2024年に小児発症MOGAD患者114例中96例を対象に、初回発作時の治療をステロイド単独群（IVMPのみ）と治療強化群（IVMP後にIVIG、PLEXまたは両方）に分け、1年以内および全期間の再発率を後ろ向きに解析した。結果：ステロイド単独群（68例）は治療強化群（28例）に比べ、1年以内の再発率が28%対4%（相対リスク7.80）、最終フォローアップ時も43%対11%（相対リスク3.98）と有意に高かった。治療強化は再発リスクを有意に低減（調整ハザード比0.25）した。結論：初回発作時の免疫療法強化は早期および中期の再発を減少させ、疾患経過に影響を与える治療機会となり得ることが示唆された。",
+      "summary_short_ja": "小児期発症のミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）において、初回急性期治療でステロイド単独療法と免疫グロブリン投与や血漿交換を加えた治療の効果を比較した。28%のステロイド単独群で1年以内に再発したのに対し、エスカレーション治療群は4%にとどまり、再発リスクが有意に低減した。初回発作時の積極的治療が疾患経過改善に寄与する可能性を示唆する。",
+      "disease": "mogad",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42566724",
       "doi": "10.1212/WNL.0000000000218405",
       "title": "Acute Attack Treatment Escalation and Subsequent Relapse Risk in Pediatric Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease.",
       "abstract": "Acute treatment for myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) includes high-dose IV methylprednisolone (IVMP), with escalation to IV immunoglobulin (IVIG) and/or plasma exchange (PLEX) based on severity or incomplete response. We evaluated whether escalation at first attack influences disease course. We conducted a retrospective single-center study of pediatric-onset MOGAD evaluated between 2015 and 2024. Patients were classified to (1) steroid-only or (2) steroid-plus (IVMP followed by IVIG, PLEX, or both). Outcomes included early (≤1 year) and overall relapses. Time-to-event analyses used Kaplan-Meier and adjusted Cox regression. Ninety-six of 114 patients were included (58% female; median age 6.3 years [interquartile range (IQR) 4.1-11.3]; median follow-up 3.2 years [IQR 1.4-6.1]). Sixty-eight (71%) received steroid-only therapy and 28 (29%) escalation therapy. Relapses were more frequent with steroid-only treatment at 1 year (28% vs 4%; relative risk [RR] 7.80; 95% CI 1.10-55.3) and at final follow-up (43% vs 11%; RR 3.98; 95% CI 1.33-11.93). Escalation therapy was associated with reduced relapse risk (adjusted hazard ratio [HR] 0.25; 95% CI 0.07-0.85;  Acute immunotherapy escalation was associated with lower early and mid-term relapses, suggesting the first attack may represent a therapeutic opportunity to influence disease trajectory.",
