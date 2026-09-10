@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42715510",
+      "doi": "10.1212/WNL.0000000000218515",
+      "title": "Levodopa Use and Characteristics of Freezing-of-Gait in Patients With Parkinson Disease in the NS-Park and PPMI Cohorts.",
+      "abstract": "Recent reports have suggested that levodopa exposure may contribute to freezing of gait (FOG), but this relationship remains controversial because of confounding by disease severity and duration. Our goal was to assess the relationship between levodopa use and FOG incidence and severity. We studied 2 prospective, multicentric cohorts: NS-Park and Parkinson's Progression Markers Initiative (PPMI). Patients with ≥2 visits were selected. Three nested subcohorts were defined based on disease duration, baseline FOG, and levodopa exposure. FOG was assessed using the Movement Disorder Society-Unified Parkinson's Disease Rating Scale (MDS-UPDRS) Part II 2.13. Analyses included mixed-effects ordered logistic regression to evaluate FOG severity and Kaplan-Meier and Cox proportional hazards models to assess incident FOG. Models adjusted for disease duration, Hoehn and Yahr (H&Y) stage, and MDS-UPDRS Part III scores. A total of 25,602 patients with Parkinson disease from the NS-Park (mean age 68.3 ± 29.1, 42% female) and 1,441 from the PPMI (mean age 62.9 ± 9.8, 37% female) cohorts were included. In unadjusted analyses with the NS-Park cohort, levodopa use was associated with higher FOG severity and incidence, but this association was no longer statistically significant in the PPMI cohort. In mixed-effects ordinal logistic regression models adjusting for disease duration/severity, levodopa status showed a nonsignificant effect size on FOG (NS-Park odds ratio [OR] 1.84, 95% CI 0.94-3.61,  No significant or consistent association between levodopa exposure and FOG severity or incidence was observed after adjustment for disease duration and severity, with the effect estimates significantly attenuated despite residual uncertainty.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42715510/",
+      "summary_ja": "背景：パーキンソン病患者におけるレボドパ使用と歩行の凍結（FOG）発症・重症度の関係は、病状の重症度や経過期間の影響で議論が続いている。  \n方法：NS-ParkおよびPPMIの2つの多施設前向きコホートから、2回以上受診した患者を対象に、病歴、FOGの有無、レボドパ使用状況に基づく3つのサブコホートを設定。FOGはMDS-UPDRSパートIIの項目2.13で評価し、混合効果順序ロジスティック回帰や生存解析を用いて解析。病歴、Hoehn and Yahrステージ、MDS-UPDRSパートIIIスコアで調整を行った。  \n結果：NS-Park（25,602例）では未調整解析でレボドパ使用がFOGの重症度・発症と関連したが、PPMI（1,441例）では有意な関連は認められなかった。調整後の解析でも、レボドパ使用のFOGへの影響は有意ではなく、効果推定値は減弱した。  \n結論：病状の重症度や経過期間を考慮すると、レボドパ使用とFOGの重症度・発症には一貫した有意な関連は認められず、レボドパがFOGに直接寄与する証拠は限定的である。",
+      "summary_short_ja": "パーキンソン病患者におけるレボドパ使用と歩行凍結（FOG）の関係を、NS-ParkおよびPPMIの大規模コホートで検討した。調整前はレボドパ使用がFOGの重症度・発症率と関連したが、病状の進行度や期間を調整すると有意な関連は認められなかった。したがって、レボドパ使用とFOG発症・重症化の因果関係は明確でなく、病状の影響が大きいと示唆された。",
+      "disease": "parkinson",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42656011",
       "doi": "10.1038/s41746-026-02368-0",
       "title": "Shared Spectral Parameters Between EEG and Basal Ganglia LFP Distinguish Sleep-Specific Oscillations in Parkinson's Disease.",
