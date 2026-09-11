@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42721413",
+      "doi": "10.1212/WNL.0000000000218409",
+      "title": "Metabolic Markers of MRI-Confirmed Lacunar Stroke: Observational and Mendelian Randomization Analyses.",
+      "abstract": "Lacunar stroke results from cerebral small vessel disease (SVD) and is a major cause of vascular dementia and cognitive decline. We aimed to evaluate the associations of metabolites with lacunar stroke, neuroimaging markers of SVD, and cognition to help elucidate SVD pathogenesis. In a clinical cohort of MRI-confirmed lacunar stroke cases and unrelated hospital controls recruited from stroke centers across the United Kingdom, we assayed 250 serum metabolites using NMR spectroscopy. We investigated the association of metabolites with MRI-confirmed lacunar stroke, neuroimaging markers, and cognitive impairment. We also conducted a genome-wide association analysis for each metabolite and applied bidirectional Mendelian randomization (MR) to investigate causality. Among 2,408 participants, there were 1,456 lacunar stroke cases (mean age, 62 [SD 12]; 34% female) and 952 controls (mean age, 57 [SD 6]; 38% female). Observational analyses identified 211 metabolites that were significantly associated with lacunar stroke. MR analyses identified significant evidence to support causal associations of 2 of these metabolites, glycine and the proportion of cholesterol to total lipids within medium low-density lipoprotein (LDL) (%C/Total in M-LDL), with 2 distinct lacunar stroke subtypes-isolated lacunar infarcts (ILI, 1 lacunar infarct with Fazekas grade <2) and multiple lacunar infarcts and/or leukoaraiosis (MLI/LA, >1 lacunar infarct and/or Fazekas grade ≥2). Glycine was inversely associated with ILI (OR: 0.704, 95% CI 0.585-0.848), and %C/Total in M-LDL was inversely associated with MLI/LA (OR: 0.541, 95% CI 0.401-0.730). Five metabolites (Total S-high-density lipoprotein [HDL], S-HDL concentration, phospholipid (PL) in S-HDL, %CE/Total in L-LDL, and lactate) were significantly associated with executive functioning and processing speed in observational analyses. MR analyses also implicated genetically determined levels of ω-3/Total FA with 2 diffusion tensor imaging markers of SVD. Overall, the most robust and consistent associations across both observational and MR analyses were identified for glycine and %C/Total in M-LDL with lacunar stroke subtypes. We identified inverse associations of glycine and the proportion of cholesterol to total lipids within medium LDL with distinct subtypes of MRI-confirmed lacunar stroke. These findings reveal metabolomics signatures associated with lacunar stroke subtypes, which may inform future studies of SVD pathogenesis and biomarker development.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42721413/",
+      "summary_ja": "背景：ラクナ梗塞は脳の小血管病（SVD）に起因し、血管性認知症や認知機能低下の主要因である。本研究は、ラクナ梗塞、SVDの神経画像マーカー、認知機能と代謝物の関連を評価し、SVDの病態解明を目指した。  \n方法：英国の脳卒中センターでMRI診断されたラクナ梗塞患者1,456名と対照952名の血清250種類の代謝物をNMR分光法で測定。代謝物とラクナ梗塞、神経画像マーカー、認知機能の関連を観察的に解析し、さらにゲノムワイド関連解析と双方向メンデルランダム化解析（MR）で因果関係を検証した。  \n結果：211種類の代謝物がラクナ梗塞と有意に関連。MR解析により、グリシンと中間密度リポタンパク質（M-LDL）中のコレステロール比率が、それぞれ異なるラクナ梗塞亜型（孤立性ラクナ梗塞と多発性ラクナ梗塞/白質病変）と因果的に関連することが示された。さらに、複数の代謝物が認知機能の一部指標と関連し、ω-3脂肪酸がSVDの拡散テンソル画像マーカーと関連した。  \n結論：グリシンとM-LDL中のコレステロール比率はラクナ梗塞亜型と逆相関し、これらの代謝物はSVDの病態解明やバイオマーカー開発に有用な代謝シグネチャーを提供する可能性がある。",
+      "summary_short_ja": "本研究は、MRIで確認されたラクナ梗塞患者と対照群の血清250代謝物を解析し、ラクナ梗塞および脳小血管病（SVD）マーカー、認知機能との関連を調査した。観察分析で211代謝物が関連し、メンデルランダム化解析によりグリシンと中型LDL中のコレステロール比率が異なるラクナ梗塞亜型と因果的に関連することを示した。これら代謝物はSVDの病態解明やバイオマーカー開発に有用と期待される。",
+      "disease": "stroke",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42585603",
       "doi": "10.1212/WNL.0000000000218420",
       "title": "Individualized vs Standard Blood Pressure Control During Thrombectomy for Ischemic Stroke: The DETERMINE Randomized Clinical Trial.",
