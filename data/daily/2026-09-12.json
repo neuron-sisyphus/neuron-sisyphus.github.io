@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-12",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42727040",
+      "doi": "10.1212/WNL.0000000000218492",
+      "title": "Characteristics of Patients With Bibrachial Amyotrophy Due to Spontaneous Spinal CSF Leaks.",
+      "abstract": "Spontaneous spinal CSF leaks cause intracranial hypotension (SIH) and may be complicated by bibrachial amyotrophy (BBA), but the clinical and radiographic features of this complication are not well characterized. The objective of this study was to identify the unique characteristics and outcomes of treatment in patients with SIH and BBA. In this case-control study of patients with SIH complicated by BBA, 2 matched controls were selected per patient based on type of underlying leak (ventral vs lateral) and year of encounter. The patients were evaluated at a quaternary referral center between January 1, 2001, and June 30, 2024. The study population consisted of 25 consecutive patients with SIH who had been suffering from BBA for a mean of 51 months. Compared with controls, men were overrepresented (80 vs 18%;  BBA due to SIH is rare, typically affects men, occurs years after SIH symptom onset, and is associated with a thick anterior extradural CSF collection on MRI. Our data suggest that surgical repair is low risk, durable, and should arrest or reverse motor impairment if performed within 10 years of BBA symptom onset, but more rigorous study designs are needed to address outcomes in these patients.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727040/",
+      "summary_ja": "背景：自発性脊髄脳脊髄液（CSF）漏出による頭蓋内低圧症（SIH）は、両上肢筋萎縮（BBA）を合併することがあるが、その臨床的・画像的特徴は十分に解明されていない。  \n方法：SIHにBBAを合併した患者25例を対象に、漏出部位（前方または側方）と受診年を基に2対1の症例対照研究を実施。2001年から2024年までの四次医療機関で評価を行った。  \n結果：BBA患者の平均罹患期間は51か月で、男性が80％と対照群の18％に比べて多かった。MRIでは前方硬膜外に厚いCSF貯留が認められた。  \n結論：SIHに伴うBBAは稀で主に男性に発症し、SIH症状発現から数年後に生じる。手術的修復は低リスクで効果が持続し、BBA発症から10年以内に施行すれば運動障害の進行を止めるか改善が期待できるが、さらなる厳密な研究が必要である。",
+      "summary_short_ja": "特発性脊髄脳脊髄液（CSF）漏による頭蓋内低圧症（SIH）に合併する両上肢筋萎縮症（BBA）は稀で、主に男性に多く、SIH発症から数年後に発症する。MRIでは前方硬膜外に厚いCSF貯留が認められる。外科的修復は低リスクで効果的であり、発症10年以内に施行すれば運動障害の進行を止めるか改善が期待されるが、さらなる検証が必要である。",
+      "disease": "spontaneous_intracranial_hypotension",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42721413",
+      "doi": "10.1212/WNL.0000000000218409",
+      "title": "Metabolic Markers of MRI-Confirmed Lacunar Stroke: Observational and Mendelian Randomization Analyses.",
+      "abstract": "Lacunar stroke results from cerebral small vessel disease (SVD) and is a major cause of vascular dementia and cognitive decline. We aimed to evaluate the associations of metabolites with lacunar stroke, neuroimaging markers of SVD, and cognition to help elucidate SVD pathogenesis. In a clinical cohort of MRI-confirmed lacunar stroke cases and unrelated hospital controls recruited from stroke centers across the United Kingdom, we assayed 250 serum metabolites using NMR spectroscopy. We investigated the association of metabolites with MRI-confirmed lacunar stroke, neuroimaging markers, and cognitive impairment. We also conducted a genome-wide association analysis for each metabolite and applied bidirectional Mendelian randomization (MR) to investigate causality. Among 2,408 participants, there were 1,456 lacunar stroke cases (mean age, 62 [SD 12]; 34% female) and 952 controls (mean age, 57 [SD 6]; 38% female). Observational analyses identified 211 metabolites that were significantly associated with lacunar stroke. MR analyses identified significant evidence to support causal associations of 2 of these metabolites, glycine and the proportion of cholesterol to total lipids within medium low-density lipoprotein (LDL) (%C/Total in M-LDL), with 2 distinct lacunar stroke subtypes-isolated lacunar infarcts (ILI, 1 lacunar infarct with Fazekas grade <2) and multiple lacunar infarcts and/or leukoaraiosis (MLI/LA, >1 lacunar infarct and/or Fazekas grade ≥2). Glycine was inversely associated with ILI (OR: 0.704, 95% CI 0.585-0.848), and %C/Total in M-LDL was inversely associated with MLI/LA (OR: 0.541, 95% CI 0.401-0.730). Five metabolites (Total S-high-density lipoprotein [HDL], S-HDL concentration, phospholipid (PL) in S-HDL, %CE/Total in L-LDL, and lactate) were significantly associated with executive functioning and processing speed in observational analyses. MR analyses also implicated genetically determined levels of ω-3/Total FA with 2 diffusion tensor imaging markers of SVD. Overall, the most robust and consistent associations across both observational and MR analyses were identified for glycine and %C/Total in M-LDL with lacunar stroke subtypes. We identified inverse associations of glycine and the proportion of cholesterol to total lipids within medium LDL with distinct subtypes of MRI-confirmed lacunar stroke. These findings reveal metabolomics signatures associated with lacunar stroke subtypes, which may inform future studies of SVD pathogenesis and biomarker development.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42721413/",
+      "summary_ja": "背景：ラクナ梗塞は脳の小血管病（SVD）に起因し、血管性認知症や認知機能低下の主要因である。本研究は、ラクナ梗塞、SVDの神経画像マーカー、認知機能と代謝物の関連を評価し、SVDの病態解明を目指した。  \n方法：英国の脳卒中センターでMRI診断されたラクナ梗塞患者1,456名と対照952名の血清250種類の代謝物をNMR分光法で測定。代謝物とラクナ梗塞、神経画像マーカー、認知機能の関連を観察的に解析し、さらにゲノムワイド関連解析と双方向メンデルランダム化解析（MR）で因果関係を検証した。  \n結果：211種類の代謝物がラクナ梗塞と有意に関連。MR解析により、グリシンと中間密度リポタンパク質（M-LDL）中のコレステロール比率が、それぞれ異なるラクナ梗塞亜型（孤立性ラクナ梗塞と多発性ラクナ梗塞/白質病変）と因果的に関連することが示された。さらに、複数の代謝物が認知機能の一部指標と関連し、ω-3脂肪酸がSVDの拡散テンソル画像マーカーと関連した。  \n結論：グリシンとM-LDL中のコレステロール比率はラクナ梗塞亜型と逆相関し、これらの代謝物はSVDの病態解明やバイオマーカー開発に有用な代謝シグネチャーを提供する可能性がある。",
+      "summary_short_ja": "本研究は、MRIで確認されたラクナ梗塞患者と対照群の血清250代謝物を解析し、ラクナ梗塞および脳小血管病（SVD）マーカー、認知機能との関連を調査した。観察分析で211代謝物が関連し、メンデルランダム化解析によりグリシンと中型LDL中のコレステロール比率が異なるラクナ梗塞亜型と因果的に関連することを示した。これら代謝物はSVDの病態解明やバイオマーカー開発に有用と期待される。",
+      "disease": "stroke",
+      "section": "imaging"
+    }
+  ]
+}

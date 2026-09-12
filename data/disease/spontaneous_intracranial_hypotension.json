@@ -1,4 +1,20 @@
 {
   "disease": "spontaneous_intracranial_hypotension",
-  "items": []
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42727040",
+      "doi": "10.1212/WNL.0000000000218492",
+      "title": "Characteristics of Patients With Bibrachial Amyotrophy Due to Spontaneous Spinal CSF Leaks.",
+      "abstract": "Spontaneous spinal CSF leaks cause intracranial hypotension (SIH) and may be complicated by bibrachial amyotrophy (BBA), but the clinical and radiographic features of this complication are not well characterized. The objective of this study was to identify the unique characteristics and outcomes of treatment in patients with SIH and BBA. In this case-control study of patients with SIH complicated by BBA, 2 matched controls were selected per patient based on type of underlying leak (ventral vs lateral) and year of encounter. The patients were evaluated at a quaternary referral center between January 1, 2001, and June 30, 2024. The study population consisted of 25 consecutive patients with SIH who had been suffering from BBA for a mean of 51 months. Compared with controls, men were overrepresented (80 vs 18%;  BBA due to SIH is rare, typically affects men, occurs years after SIH symptom onset, and is associated with a thick anterior extradural CSF collection on MRI. Our data suggest that surgical repair is low risk, durable, and should arrest or reverse motor impairment if performed within 10 years of BBA symptom onset, but more rigorous study designs are needed to address outcomes in these patients.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42727040/",
+      "summary_ja": "背景：自発性脊髄脳脊髄液（CSF）漏出による頭蓋内低圧症（SIH）は、両上肢筋萎縮（BBA）を合併することがあるが、その臨床的・画像的特徴は十分に解明されていない。  \n方法：SIHにBBAを合併した患者25例を対象に、漏出部位（前方または側方）と受診年を基に2対1の症例対照研究を実施。2001年から2024年までの四次医療機関で評価を行った。  \n結果：BBA患者の平均罹患期間は51か月で、男性が80％と対照群の18％に比べて多かった。MRIでは前方硬膜外に厚いCSF貯留が認められた。  \n結論：SIHに伴うBBAは稀で主に男性に発症し、SIH症状発現から数年後に生じる。手術的修復は低リスクで効果が持続し、BBA発症から10年以内に施行すれば運動障害の進行を止めるか改善が期待できるが、さらなる厳密な研究が必要である。",
+      "summary_short_ja": "特発性脊髄脳脊髄液（CSF）漏による頭蓋内低圧症（SIH）に合併する両上肢筋萎縮症（BBA）は稀で、主に男性に多く、SIH発症から数年後に発症する。MRIでは前方硬膜外に厚いCSF貯留が認められる。外科的修復は低リスクで効果的であり、発症10年以内に施行すれば運動障害の進行を止めるか改善が期待されるが、さらなる検証が必要である。",
+      "disease": "spontaneous_intracranial_hypotension",
+      "section": "prognosis"
+    }
+  ]
 }
