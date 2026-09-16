@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42743444",
+      "doi": "10.1212/WNL.0000000000218510",
+      "title": "How Language Shapes Mechanistic Thinking in Parkinson Disease.",
+      "abstract": "Language often incorporates mechanistic assumptions. Terms used to describe protein behavior and properties, such as \"accumulation,\" \"replication,\" \"propagation,\" and \"strains,\" largely borrowed from prion biology and investigated in animal models, have shaped how Parkinson disease is understood. Similarly, clinical constructs such as \"phenoconversion,\" \"prodrome,\" \"resilience,\" and \"copathology\" embed assumptions about disease onset and pathogenicity. In this article, we explore how our vocabulary has contributed to the transformation of hypotheses into widely accepted conventions. We argue that greater precision in language may help clarify the difference between observation and inference: Aggregated proteins can be described as pathologic deposits representing the insoluble fraction of proteins no longer in their soluble functional state, their variants as polymorphs rather than \"strains,\" and seeding phenomena as nucleation-dependent aggregation or precipitation rather than replication. Such distinctions avoid conflating pathologic observations with etiology and have implications for biomarker interpretation, taxonomy, and therapeutic innovation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42743444/",
+      "summary_ja": "背景：パーキンソン病の理解には、プリオン生物学から借用された「蓄積」「複製」「伝播」「株」などの機械論的な言語が多用されている。また、「フェノコンバージョン」「前駆症状」「レジリエンス」「共病理」などの臨床用語も、病気の発症や病因に関する前提を含む。  \n方法：本論文では、これらの言語表現がどのように仮説を広く受け入れられた通念へと変容させたかを検討し、観察と推論の区別を明確にするための言語の精緻化を提案した。  \n結果：凝集したタンパク質は「病理学的沈着物」として、可溶性機能状態を失った不溶性タンパク質の一部と表現し、変異体は「株」ではなく「多形体」と呼び、種まき現象は「複製」ではなく「核形成依存的凝集・沈殿」と表現することが適切であることを示した。  \n結論：言語の精密化により、病理学的観察と病因の混同を避けられ、バイオマーカー解釈や分類学、治療法開発に重要な示唆を与える。",
+      "summary_short_ja": "本論文は、パーキンソン病の理解において用いられる言語表現が機械論的思考を形成していることを指摘する。特に「蓄積」「複製」「伝播」「株」などの用語が病態解釈に影響を与え、観察と推論の混同を招いていると論じる。より正確な言語使用により、病理学的観察と病因の区別が明確になり、バイオマーカー解釈や分類、治療開発に重要な示唆をもたらすと結論づけている。",
+      "disease": "parkinson",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42715510",
       "doi": "10.1212/WNL.0000000000218515",
       "title": "Levodopa Use and Characteristics of Freezing-of-Gait in Patients With Parkinson Disease in the NS-Park and PPMI Cohorts.",

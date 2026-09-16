@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42449500",
+      "doi": "10.1001/jamaneurol.2025.5670",
+      "title": "Prognostic Value of Blood-Based P-Tau217 Levels for Progression to Cognitive Impairment.",
+      "abstract": "Blood-based biomarkers for Alzheimer disease, particularly plasma phosphorylated tau 217 (p-tau217), accurately reflect early Alzheimer disease brain pathology in cognitively unimpaired individuals, but estimates of absolute risk of progression to cognitive impairment across multiple cohorts are needed. To estimate absolute risk of progression to cognitive impairment and rates of cognitive decline based on plasma p-tau217 across cognitively unimpaired older adults. Longitudinal cohort study using harmonized data from 2684 cognitively unimpaired older adults (defined within cohort) across 6 observational and clinical trial cohorts based in North America, Japan, and Australia. The earliest enrollment was in 2004, with most recent follow-up in 2025. Baseline plasma p-tau217. The primary outcome was time to progression to cognitive impairment (mild cognitive impairment, dementia, or 2 consecutive global Clinical Dementia Rating scores ≥0.5). The secondary outcome was longitudinal change on the latent Preclinical Alzheimer Cognitive Composite (PACC; higher values indicate better performance). Among the 2684 participants (median [IQR] age, 69.6 [66.2-74.2] years; 1697 [63%] female), there were 478 events of progression to cognitive impairment over a median follow-up of 5.4 years (maximum follow-up of 13.5 years). Each 1-SD increase in baseline p-tau217 level was associated with an increased risk of progression to cognitive impairment (hazard ratio, 1.38 [95% CI, 1.30-1.46]), and the association remained significant after adjustment, including β-amyloid positron emission tomography scan Centiloids (hazard ratio, 1.32 [95% CI, 1.24-1.41]). Participants with high (1.1-2.4 SD) and very high (>2.5 SD) baseline p-tau217 had 24% (95% CI, 20%-28%) and 38% (95% CI, 33%-43%) absolute risk of progression over 5 years, respectively, and risk was markedly higher over 10 years, although longer-term estimates were constrained by limited data. Elevated p-tau217 was also associated with faster cognitive decline based on change in latent PACC score. Among the overall sample, baseline latent PACC scores ranged from -0.8 to 2.7. The 5-year annualized decline for the very high p-tau217 group was -0.07 latent PACC units/y (95% CI, -0.10 to -0.05), relative to 0.03 units/y (95% CI, 0.02-0.04) in the low p-tau217 group. In a pooled sample of multiple selected cohorts of cognitively unimpaired older adults, higher plasma p-tau217 levels were consistently associated with increased risk of clinical progression and accelerated cognitive decline. By providing time-specific absolute risk estimates, these findings support the potential of p-tau217 for prognostic model development, with direct implications for future trial design. Further validation in unselected populations is needed to inform individual prognosis and clinical decision-making in cognitively unimpaired individuals.",
+      "journal": "JAMA",
+      "year": "2026",
+      "published": "2026-Sep-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42449500/",
+      "summary_ja": "背景：アルツハイマー病の早期脳病理を反映する血中バイオマーカー、特に血漿中のリン酸化タウ217（p-tau217）は、認知機能に障害のない高齢者における認知障害進行の絶対リスク推定が求められている。  \n方法：北米、日本、オーストラリアの6つの観察・臨床試験コホートから2684名の認知機能正常高齢者を対象に、2004年から2025年までの縦断的データを用いて、ベースラインの血漿p-tau217レベルと認知障害への進行リスクおよび認知機能低下速度を解析した。  \n結果：中央値5.4年の追跡期間中に478名が認知障害へ進行。p-tau217が1標準偏差上昇するごとに進行リスクは約1.38倍増加し、β-アミロイドPETを調整後も有意であった。高p-tau217群は5年で24～38％の絶対リスクを示し、認知機能低下も加速した。  \n結論：血漿p-tau217は認知障害進行の強力な予測因子であり、将来的な予後モデルや臨床試験設計に有用である。ただし、一般集団への適用にはさらなる検証が必要である。",
+      "summary_short_ja": "本研究は、認知機能に問題のない高齢者2684名を対象に、血中のリン酸化タウ217（p-tau217）濃度が認知障害への進行リスクおよび認知機能低下速度と関連することを示した。p-tau217値が高いほど5年以内の認知障害進行リスクが最大38％に達し、認知機能もより速く低下した。これによりp-tau217は予後予測や臨床試験設計に有用であるが、さらなる一般集団での検証が必要である。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42585606",
       "doi": "10.1212/WNL.0000000000218413",
       "title": "Association Between Menopausal Hormone Therapy and Alzheimer Disease Neuropathology.",
