@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42748393",
+      "doi": "10.1212/WNL.0000000000218500",
+      "title": "Longitudinal EEG, Seizure, and Developmental Patterns in Children With ",
+      "abstract": "Although there is near-universal early-onset epileptic encephalopathy in cyclin-dependent kinase-like 5 ( This multicenter study included 48 infants and young children with CDD (75% female) aged 0-24 months, recruited to a clinic-based research study from 2  Across the first 2 years of life, EEGs obtained at older ages showed greater background severity than those obtained earlier, including higher odds of discontinuity ( In CDD, EEG background severity, burden of interictal epileptiform activities, and parieto-occipital paroxysmal fast activity may be associated with developmental and clinical severity. Parieto-occipital paroxysmal fast activity and sequential seizures, while not specific to CDD, are highly suggestive of it.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748393/",
+      "summary_ja": "背景：Cyclin-dependent kinase-like 5（CDD）遺伝子変異による早期発症のてんかん性脳症はほぼ普遍的であり、その発達や発作、脳波（EEG）パターンの経時的変化についての理解が求められている。  \n方法：多施設共同研究として、0～24か月のCDD患児48名（75％が女性）を対象に、クリニックでの追跡調査を実施。複数回のEEG記録を取得し、発作パターンや発達状況と関連付けて解析した。  \n結果：生後2年間で、年齢が上がるにつれてEEGの背景異常が悪化し、特に不連続性の出現率が増加した。EEGの背景異常の重症度、間欠的てんかん性放電の負荷、後頭頂葉の発作性高速活動は、発達障害や臨床症状の重症度と関連していた。後頭頂葉の発作性高速活動および連続発作はCDD特有ではないものの、診断の重要な示唆となる。  \n結論：CDD患児の発達・臨床重症度はEEG背景異常や特定の発作性活動と関連し、これらの指標は診断や病態理解に有用である。",
+      "summary_short_ja": "本研究は、0～24か月のCDD（cyclin-dependent kinase-like 5欠損症）患児48名を対象に、2年間の縦断的EEG解析を行った。年齢とともにEEGの背景異常が悪化し、断続性の増加が認められた。EEGの背景異常や間欠的てんかん性活動、後頭頂部の発作性高速活動は発達障害や臨床重症度と関連し、これらの特徴はCDDの診断に有用である可能性が示された。",
+      "disease": "epilepsy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42585607",
       "doi": "10.1212/WNL.0000000000218416",
       "title": "Prediction of Long-Term Postsurgical Seizure Recurrence From MRI Brain Hub Disruption in Patients With Temporal Lobe Epilepsy.",
