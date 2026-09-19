@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42758958",
+      "doi": "10.1212/WNL.0000000000218546",
+      "title": "Vascular Imaging Features and Time-Specific Recurrence Risk After Craniocervical Artery Dissection.",
+      "abstract": "Craniocervical artery dissection (CCAD) is a major cause of stroke in young adults, yet its recurrence risk remains poorly defined because of delayed enrollment in prior research. We aimed to determine the temporal distribution of recurrent ischemic stroke and evaluate whether dissection location or specific vascular morphologies are associated with recurrence risk across discrete time intervals after the index event. This multicenter cohort study analyzed data from the nationwide CRCS-K-NIH registry in South Korea (2011-2021). We included adult patients with acute ischemic stroke or TIA and CCAD diagnosed within 7 days of symptom onset (median onset-to-arrival time, 7.7 hours). The primary outcome was 1-year recurrent ischemic stroke. Recurrent events required MRI confirmation of new or extending infarction. Location (intracranial [I-CCAD] vs extracranial [E-CCAD]) and morphology (angiographic subtypes and features such as double lumen) were evaluated across 4 intervals (≤1, 2-3, 4-7, and >7 days). Among 75,903 hospitalized patients with acute ischemic stroke or TIA, 711 (0.94%) were diagnosed with CCAD. The mean age was 49.0 years, and 26.9% were women. I-CCAD accounted for 76.1% of cases. Recurrence was 8.7% on day 1, 17.4% within 1 week, and 19.9% at 1 year. Incidence rates declined steeply from 271.2 events per 1,000 person-days on day 1 to 0.1 beyond 7 days. Dissection location was not associated with recurrence risk. However, stenosis without dilatation (adjusted hazard ratio [aHR], 1.69 [95% CI 1.04-2.75]) and double lumen (aHR, 1.87 [95% CI 1.15-3.04]) were independently associated with higher 1-year recurrence risk. Double lumen sign was associated with recurrence between days 2 and 3 (adjusted incidence rate ratio, 3.84 [95% CI 1.67-8.81]). Stroke recurrence after CCAD is strongly clustered in the hyperacute phase. Early recurrence risk appeared to vary according to vascular morphology rather than anatomical location, with the presence of a double lumen demonstrating a distinct early temporal recurrence pattern. These findings support morphology-based, time-specific risk characterization to inform monitoring and secondary prevention strategies. Limitations include the retrospective design and restriction to an East Asian population.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42758958/",
+      "summary_ja": "背景：頭頸部動脈解離（CCAD）は若年成人の脳卒中の主要原因であるが、再発リスクの時間的分布は不明確であった。  \n方法：韓国の全国多施設コホート研究（CRCS-K-NIH登録、2011-2021年）で、急性虚血性脳卒中または一過性脳虚血発作（TIA）患者711例（中央値発症から来院時間7.7時間）を対象に、解離部位（頭蓋内I-CCAD vs 頭蓋外E-CCAD）や血管形態（狭窄、二重腔など）と再発リスクの関連を4つの時間区間（発症後1日以内、2-3日、4-7日、7日超）で検討した。  \n結果：1年以内の再発率は19.9%で、特に発症初日（8.7%）と1週間以内（17.4%）に集中。発症初日の再発発生率は1,000人日あたり271.2件と高く、7日以降は急激に低下した。解離部位は再発リスクに影響しなかったが、狭窄のみ（拡張なし、aHR 1.69）および二重腔（aHR 1.87）は独立して再発リスクを高め、二重腔は特に2-3日目の再発と関連した。  \n結論：CCAD後の脳卒中再発は超急性期に集中し、解離部位よりも血管形態が再発リスクの時間的変動に影響する。二重腔の存在は早期再発の特徴的指標であり、形態に基づく時間特異的リスク評価が再発予防と管理に有用である。研究は後ろ向きかつ東アジア集団に限定される点が限界。",
+      "summary_short_ja": "頭頸部動脈解離（CCAD）は若年者の脳卒中原因の一つであり、再発リスクの時間的分布と血管形態の関連を検討した。韓国の全国コホートで711例を解析し、再発は発症初日に最も高く、その後急激に減少した。解離部位は再発リスクに影響しなかったが、狭窄のみや二重腔形態は1年以内の再発リスク上昇と関連し、特に二重腔は発症2～3日目の再発に強く関与した。血管形態に基づく時間特異的リスク評価が重要である。",
+      "disease": "stroke",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42748386",
       "doi": "10.1212/WNL.0000000000218595",
       "title": "Linking Military Blast Exposure to Veterans Health Administration Diagnoses: Chronic Health Outcomes in the Millennium Cohort Study.",
