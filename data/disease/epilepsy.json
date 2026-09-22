@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42766827",
+      "doi": "10.1212/WNL.0000000000218544",
+      "title": "Diagnostic Yield and Therapeutic Impact of Etiologic Investigations After Status Epilepticus: Insights From the ICTAL Registry.",
+      "abstract": "Status epilepticus (SE) is a critical neurologic emergency requiring prompt symptomatic and etiologic treatment. However, the diagnostic yield of etiologic investigations remains poorly characterized. We aimed to evaluate the diagnostic yield and therapeutic impact of etiologic investigations in SE, using pretest probability strata. This prospective multicenter cohort study based on the ICTAL registry was conducted in 26 university-affiliated intensive care units (ICUs) in France (2018-2025). All adults (≥18 years) admitted for SE were included. Participants underwent a predefined diagnostic protocol including brain imaging (CT scan/MRI), laboratory investigations, lumbar puncture, toxicology screening, antiseizure medication (ASM) assays, and paraneoplastic/autoimmune disease workup. The primary outcome was the diagnostic yield of each test, defined as confirmation, codiagnosis, or reclassification of SE etiology. The secondary outcome was management changes directly attributable to test results. Among 1,123 patients (64% male; median age 60 years), SE was motor-predominant in 90%. Across high pretest probability strata, first-line investigations confirmed the suspected etiology in 8.5%-44.5% of cases and reclassified it in 22.1%-35.1%. Confirmation rates were the highest for toxicology screening in alcohol/toxic/iatrogenic causes (44.5%), ASM assays in precipitating factors (44.0%), paraneoplastic/autoimmune workup in noninfectious encephalitis (40.0%), brain CT in vascular causes (28.0%) and brain tumor (27.7%), laboratory investigations in metabolic causes (21.4%), and lumbar puncture in CNS infection (17.2%). Reclassification was most evident for brain MRI (27.8%-35.1%) across CNS infection, metabolic, noninfectious encephalitis, and sequelae strata, with the highest rate in noninfectious encephalitis (35.1%); brain CT contributed similarly (22.1%-27.9%). Toxicology screening reclassified 32.4% of high pretest probability metabolic presentations. Management changes were most frequent following brain MRI (up to 58.3%), brain CT (up to 56.9%), lumbar puncture (39.4%), paraneoplastic/autoimmune workup (33.3%), and ASM assays (up to 35.1%). Diagnostic yield and therapeutic impact of investigations in SE are strongly influenced by pretest clinical probability. Stratified diagnostic strategies may optimize etiologic identification and guide timely, targeted interventions. The study is registered with ClinicalTrials.gov, number NCT03457831.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766827/",
+      "summary_ja": "背景：てんかん重積状態（SE）は迅速な症状緩和と原因治療が必要な神経救急であるが、原因検索の診断的有用性は十分に明らかでない。  \n方法：フランスの26大学付属ICUで2018～2025年に実施されたICTALレジストリに基づく前向き多施設コホート研究。18歳以上のSE患者1,123例を対象に、脳画像（CT/MRI）、検査室検査、腰椎穿刺、毒物検査、抗てんかん薬測定、パルアニュープラスティック/自己免疫疾患検査を含む標準化された診断プロトコルを実施。  \n結果：高い事前確率群では、第一選択検査で原因確定率は8.5～44.5%、再分類率は22.1～35.1%であった。毒物検査はアルコール・中毒・医原性原因で44.5%、抗てんかん薬測定は誘因で44.0%、自己免疫検査は非感染性脳炎で40.0%の確定率を示した。MRIは非感染性脳炎で35.1%の再分類率を示し、CTも同様の貢献をした。診断結果に基づく治療変更はMRI（最大58.3%）、CT（最大56.9%）、腰椎穿刺（39.4%）で多かった。  \n結論：SEにおける原因検索の診断的有用性と治療影響は事前確率に強く依存し、層別化された診断戦略が原因同定と適時の治療介入を最適化する可能性が示された。",
+      "summary_short_ja": "本研究は、てんかん重積状態（SE）患者1,123例を対象に、原因検索の診断的有用性と治療への影響を前検査確率別に評価した。毒物検査や抗てんかん薬測定、自己免疫検査、脳画像検査などが原因確定や再分類に寄与し、特に脳MRIやCT、腰椎穿刺が診断と治療方針変更に大きく貢献した。前検査確率に基づく層別化診断戦略が、迅速かつ的確な介入に有効であることを示した。",
+      "disease": "epilepsy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42748393",
       "doi": "10.1212/WNL.0000000000218500",
       "title": "Longitudinal EEG, Seizure, and Developmental Patterns in Children With ",

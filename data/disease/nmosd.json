@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42766829",
+      "doi": "10.1212/WNL.0000000000218507",
+      "title": "Diagnostic Utility of Novel and Established Spinal MRI Signs in AQP4-IgG-Seropositive NMOSD Myelitis.",
+      "abstract": "Myelitis is a common manifestation of aquaporin-4 immunoglobulin G-seropositive (AQP4-IgG+) neuromyelitis optica spectrum disorder (NMOSD), with longitudinally extensive transverse myelitis (LETM) as a characteristic MRI feature. Bright spotty lesions (BSLs) and a novel \"double-contoured LETM\" sign have also been increasingly observed, but their prevalence and diagnostic utility are unclear. This study aimed to characterize spinal cord MRI findings and evaluate the diagnostic performance of established and novel MRI signs in AQP4-IgG+ NMOSD myelitis. We retrospectively reviewed spinal cord MRI scans from adults with AQP4-IgG+ NMOSD myelitis at a university-based hospital across acute (<30 days), subacute (1-3 months), and remission (>3 months) stages. MRI features were descriptively analyzed. Acute scans were assessed for specific MRI signs, including the H sign, double-contoured LETM sign, BSLs, and sagittal ring enhancement and compared with other causes of myelopathy. Sensitivity, specificity, and likelihood ratios were calculated. Among 217 patients with AQP4-IgG+ NMOSD (median age at onset 44.5 years, 95.9% women), 170 (78.3%) experienced myelitis. A total of 331 NMOSD spinal MRI scans were reviewed. The comparison group included 72 scans, most commonly from patients with spinal cord infarction (39) and idiopathic transverse myelitis (14). Restricting the analysis to first-ever myelitis (53 scans), LETM was observed in 88.7%, and sensitivities of BSLs, the double-contoured LETM sign, and sagittal ring enhancement were 64.0% (95% CI 50.1%-75.9%), 47.2% (95% CI 34.4%-60.3%), and 60.0% (95% CI 46.2%-72.4%), respectively, with specificities of 98.6% (95% CI 92.2%-99.7%), 98.6% (95% CI 92.4%-99.8%), and 96.4% (95% CI 87.9%-99.0%). Combining these signs increased specificity further but reduced sensitivity to approximately 30%. When acute first-ever and recurrent myelitis were analyzed together (161 scans), the prevalence of these signs decreased to 56.5%, 19.9%, and 44.1%, respectively. During remission, complete radiologic resolution was observed in 12.4% of 129 scans, whereas spinal cord atrophy was present in 56.6%. BSLs, the double-contoured LETM sign, and sagittal ring enhancement demonstrate high specificity and may aid in differentiating NMOSD from other causes of longitudinally extensive myelopathy. The double-contoured LETM sign represents a novel imaging feature, particularly in first-ever acute myelitis. However, the comparison cohort was enriched with noninflammatory myelopathies, which may limit generalizability. Further validation in independent cohorts is warranted.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766829/",
+      "summary_ja": "背景：AQP4-IgG陽性NMOSDの脊髄炎では、特徴的なMRI所見として長大横断性脊髄炎（LETM）が知られているが、新たに報告された「二重輪郭LETMサイン」や明るい斑点病変（BSLs）の診断的有用性は不明である。  \n方法：大学病院でAQP4-IgG陽性NMOSD患者の急性期（30日未満）、亜急性期（1～3ヶ月）、寛解期（3ヶ月以上）の脊髄MRIを後ろ向きに解析し、既存および新規のMRIサインの感度・特異度を他の脊髄疾患と比較した。  \n結果：217例中170例が脊髄炎を呈し、331件のNMOSD脊髄MRIを評価。初回発症の脊髄炎53件ではLETMが88.7％に認められ、BSLs、二重輪郭LETMサイン、矢状面リング造影の感度はそれぞれ64.0％、47.2％、60.0％、特異度は98％以上であった。これらのサインを組み合わせると特異度は向上するが感度は低下した。寛解期では12.4％で画像所見が消失し、56.6％で脊髄萎縮を認めた。  \n結論：BSLsや二重輪郭LETMサイン、矢状面リング造影は高い特異度を持ち、NMOSDの診断補助に有用である。特に二重輪郭LETMサインは初回急性期に特徴的だが、非炎症性疾患が多い比較群の影響もあり、さらなる検証が必要である。",
+      "summary_short_ja": "AQP4-IgG陽性NMOSDの脊髄炎において、従来のLETMに加え、新規の「ダブルコンツアLETM」サインや明るい斑点病変（BSLs）、矢状面リング造影が高い特異性を示し、他の原因の脊髄障害との鑑別に有用であることが示された。特に初発急性期での診断価値が高いが、非炎症性疾患を多く含む比較群のため、さらなる検証が必要である。",
+      "disease": "nmosd",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42647788",
       "doi": "10.1212/WNL.0000000000218482",
       "title": "De-Escalating and Discontinuing Immunotherapies in Patients With NMOSD and MOGAD.",
