@@ -18,6 +18,21 @@
     },
     {
       "source": "pubmed",
+      "pmid": "42691468",
+      "doi": "10.1016/j.wneu.2021.01.097",
+      "title": "Autonomic Network Signatures of Interictal Cardiorespiratory Dysfunction in Patients With Temporal Lobe Epilepsy.",
+      "abstract": "Temporal lobe epilepsy (TLE) co-occurs with interictal impairments in autonomic regulation and respiratory chemoreception, which have been related to higher risk of sudden unexpected death in epilepsy (SUDEP). Studies indicate that seizures lead to reorganization of central autonomic circuits extending beyond the temporal lobe. However, the relationship between brain network disruptions and interictal cardiorespiratory dysfunction remains largely unknown. The goal of this work was to test whether central autonomic network alterations underlie interictal cardiorespiratory dysfunction and higher SUDEP risk. We included simultaneous fMRI and peripheral physiology from patients with drug-resistant unilateral TLE and healthy controls. We used mediation and correlation analyses to relate atypical functional connectivity strength and structural volume of central autonomic regions in TLE to alterations of high-frequency and low-frequency heart rate variability (HF-HRV/LF-HRV), breathing rate (BR), and respiratory rate variability (RRV). Multivariate models were then used to investigate associations with disease variables and risk factors of SUDEP. Finally, we analyzed a subcohort of patients with postsurgical data and examined whether autonomic connectivity changes following surgery impact cardiorespiratory function. Patients with TLE (n = 72, 49% female, 40.0 ± 12.8 years) exhibited widespread reductions in autonomic connectivity and volume compared with controls (n = 105, 53% female, 36.7 ± 12.8 years) ( Our results suggest that reorganization of the central autonomic network may contribute to chronic autonomic and interoceptive deficits in TLE. Mapping these brain network disruptions may help guide novel strategies to restore cardiorespiratory function. Validation in SUDEP cases is needed to establish clinical utility as biomarkers of SUDEP.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691468/",
+      "summary_ja": "背景：側頭葉てんかん（TLE）患者では、発作間欠期に自律神経調節や呼吸化学受容機能の障害が認められ、これがてんかん突然死（SUDEP）のリスク増加と関連している。発作により側頭葉を超えた中枢自律神経回路の再編成が示唆されているが、脳ネットワークの障害と発作間欠期の心肺機能異常の関係は不明である。  \n方法：薬剤抵抗性の片側TLE患者72名と健常者105名を対象に、同時fMRIと末梢生理データを取得。中枢自律神経領域の機能的結合強度と構造体積を心拍変動（HF-HRV、LF-HRV）、呼吸数（BR）、呼吸変動性（RRV）と関連付けるための媒介・相関解析を実施。多変量モデルで疾患指標やSUDEPリスク因子との関連も検討し、術後データを持つサブコホートで自律神経結合の変化が心肺機能に与える影響を解析した。  \n結果：TLE患者は健常者と比較し、自律神経ネットワークの広範な結合低下と体積減少を示した。これらの変化は心肺機能の異常と関連し、術後の自律神経結合変化も心肺機能に影響を与えた。  \n結論：中枢自律神経ネットワークの再編成がTLEの慢性的な自律神経・内受容機能障害に寄与している可能性が示された。これらの脳ネットワーク障害のマッピングは、心肺機能回復の新たな治療戦略の指針となり得る。SUDEP症例での検証が今後の課題である。",
+      "summary_short_ja": "側頭葉てんかん（TLE）患者は、自律神経調節や呼吸化学受容の異常を伴い、突発性てんかん死（SUDEP）のリスクが高い。本研究は、TLEにおける中枢自律神経ネットワークの機能的・構造的変化が心肺機能障害と関連するかをfMRIと生理指標で検証。結果、TLE患者は自律神経ネットワークの結合性と体積が広範に低下し、これが慢性的な自律神経障害に寄与すると示唆された。これらの知見はSUDEP予測バイオマーカー開発に有用である可能性がある。",
+      "disease": "epilepsy",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42748393",
       "doi": "10.1212/WNL.0000000000218500",
       "title": "Longitudinal EEG, Seizure, and Developmental Patterns in Children With ",
