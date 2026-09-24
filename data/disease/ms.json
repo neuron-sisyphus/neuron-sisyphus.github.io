@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42623577",
+      "doi": "10.1212/WNL.0000000000218451",
+      "title": "Refining Treatment Monitoring in Patients With Relapsing Multiple Sclerosis Based on Changes on Neurofilament Light Chain Z-Scores.",
+      "abstract": "Serum neurofilament light chain (sNfL) reflects inflammatory axonal damage in relapsing multiple sclerosis (RMS). Longitudinal sNfL dynamics may aid treatment response assessment, although data on expected changes under disease-modifying treatments remain limited, particularly in real-world practice. This study evaluated whether on-treatment changes in sNfL were associated with subsequent evidence of disease activity (EDA) and whether they provided complementary information to established treatment response scoring systems (TRSS). This prospective, real-world cohort study was conducted at the Multiple Sclerosis Center of Catalonia (Cemcat). Adult RMS patients initiating disease-modifying treatments (DMTs) with serum samples at treatment initiation (baseline) and after 1 year (Y1) were included. The primary exposure was change in sNfL z-scores (ΔzNfL = zNfLY1 - zNfL-baseline) analyzed using data-derived thresholds (ΔzNfL ≥0 and <0.5-point reduction). At Y1, Expanded Disability Status Scale progression, clinical/radiologic activity, and TRSS (Rio [RS], modified Rio [mRS], and MAGNIMS) were assessed. The primary outcome was EDA between years 1 and 2 (EDA-Y2). Multivariable logistic regression models evaluated associations between ΔzNfL and EDA-Y2, as well as the added value of ΔzNfL across TRSS strata. A total of 329 patients (66.3% female; median age 39 years) initiated 352 DMTs; 342 remained on treatment for ≥1 year and 182 had complete EDA-Y2 data. Mean (SD) ΔzNfL at Y1 was -0.62 (1.2), with greater reductions in monoclonal antibody-treated and treatment-naïve patients. Lack of zNfL reduction over the first year (ΔzNfL ≥0) was associated with higher odds of EDA-Y2 in the overall cohort (OR [95% CI], p: 3.07 [1.47-6.39], 0.003), in treatment-naïve cases (14.04 [2.47-79.93], 0.003), and in those achieving No Evidence of Disease Activity (NEDA-3) at Y1 (4.54 [1.26-16.30], 0.02). Similar associations were observed for <0.5-point reductions. Adding ΔzNfL to TRSS showed persistent associations with EDA-Y2 despite otherwise favorable scores [e.g., RS: 2.26 (1.12-4.59), 0.024]. Failure to reduce zNfL levels after 1 year of treatment was associated with subsequent disease activity, even in patients otherwise considered stable, providing complementary information to clinical and MRI-based monitoring. Limitations include incomplete follow-up and the modest discriminative performance of ΔzNfL, supporting a complementary rather than stand-alone role for zNfL dynamics.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Sep-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42623577/",
+      "summary_ja": "背景：再発型多発性硬化症（RMS）における血清ニューロフィラメントライト鎖（sNfL）は炎症性軸索損傷の指標であり、その経時的変化は治療効果の評価に有用とされるが、実臨床での変化パターンは不明確である。  \n方法：カタルーニャ多発性硬化症センターで、疾患修飾治療（DMT）開始時と1年後にsNfLを測定した成人RMS患者329名を対象に、sNfLのzスコア変化（ΔzNfL）と1～2年目の疾患活動（EDA）との関連を前向きに解析。既存の治療反応スコアリングシステム（TRSS）との補完的価値も検討した。  \n結果：1年後の平均ΔzNfLは-0.62で、モノクローナル抗体治療や治療未経験者で減少が大きかった。ΔzNfLが減少しない（≥0）患者はEDA発症リスクが有意に高く（全体OR=3.07、治療未経験者OR=14.04）、NEDA-3達成例でも同様の傾向を示した。ΔzNfLをTRSSに加えると、良好なスコア群でもEDA予測能が向上した。  \n結論：治療開始後1年でsNfLレベルが減少しないことは、その後の疾患活動と関連し、臨床・MRI評価を補完する有用なバイオマーカーとなる。ただし、単独での判別能は限定的であり、補助的指標としての活用が望ましい。",
+      "summary_short_ja": "再発型多発性硬化症患者において、治療開始から1年後の血清神経細胞軽鎖（sNfL）Zスコア変化（ΔzNfL）が、その後の疾患活動（EDA）発現と関連するかを検証した。ΔzNfLが減少しない患者は、治療効果良好とされる群でもEDAリスクが高く、既存の治療反応評価スコアに補完的な情報を提供した。ΔzNfLは単独指標ではなく、臨床・画像評価と併用すべきである。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42679340",
       "doi": "10.1212/WNL.0000000000218474",
       "title": "Prevalence of Slowly Expanding Lesions in Patients With Multiple Sclerosis: A Systematic Review and Meta-Analysis.",
@@ -30,21 +45,6 @@
       "summary_short_ja": "Charcot-Marie-Tooth病1A型（CMT1A）は進行性の脱髄性神経障害で、遠位筋の筋力低下と萎縮を伴う。本研究は24か月間、定量的筋MRIによる脂肪分画率（PDFF）と水のT2値を用い、CMT1A患者の疾患進行を評価した。33名の患者で、特に遠位脚筋のPDFFが有意に上昇し、12か月以内の進行検出が可能であった。これらの画像バイオマーカーと臨床評価を組み合わせることで、将来の臨床試験における感度の高い評価指標となる。",
       "disease": "ms",
       "section": "imaging"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42623577",
-      "doi": "10.1212/WNL.0000000000218451",
-      "title": "Refining Treatment Monitoring in Patients With Relapsing Multiple Sclerosis Based on Changes on Neurofilament Light Chain Z-Scores.",
-      "abstract": "Serum neurofilament light chain (sNfL) reflects inflammatory axonal damage in relapsing multiple sclerosis (RMS). Longitudinal sNfL dynamics may aid treatment response assessment, although data on expected changes under disease-modifying treatments remain limited, particularly in real-world practice. This study evaluated whether on-treatment changes in sNfL were associated with subsequent evidence of disease activity (EDA) and whether they provided complementary information to established treatment response scoring systems (TRSS). This prospective, real-world cohort study was conducted at the Multiple Sclerosis Center of Catalonia (Cemcat). Adult RMS patients initiating disease-modifying treatments (DMTs) with serum samples at treatment initiation (baseline) and after 1 year (Y1) were included. The primary exposure was change in sNfL z-scores (ΔzNfL = zNfLY1 - zNfL-baseline) analyzed using data-derived thresholds (ΔzNfL ≥0 and <0.5-point reduction). At Y1, Expanded Disability Status Scale progression, clinical/radiologic activity, and TRSS (Rio [RS], modified Rio [mRS], and MAGNIMS) were assessed. The primary outcome was EDA between years 1 and 2 (EDA-Y2). Multivariable logistic regression models evaluated associations between ΔzNfL and EDA-Y2, as well as the added value of ΔzNfL across TRSS strata. A total of 329 patients (66.3% female; median age 39 years) initiated 352 DMTs; 342 remained on treatment for ≥1 year and 182 had complete EDA-Y2 data. Mean (SD) ΔzNfL at Y1 was -0.62 (1.2), with greater reductions in monoclonal antibody-treated and treatment-naïve patients. Lack of zNfL reduction over the first year (ΔzNfL ≥0) was associated with higher odds of EDA-Y2 in the overall cohort (OR [95% CI], p: 3.07 [1.47-6.39], 0.003), in treatment-naïve cases (14.04 [2.47-79.93], 0.003), and in those achieving No Evidence of Disease Activity (NEDA-3) at Y1 (4.54 [1.26-16.30], 0.02). Similar associations were observed for <0.5-point reductions. Adding ΔzNfL to TRSS showed persistent associations with EDA-Y2 despite otherwise favorable scores [e.g., RS: 2.26 (1.12-4.59), 0.024]. Failure to reduce zNfL levels after 1 year of treatment was associated with subsequent disease activity, even in patients otherwise considered stable, providing complementary information to clinical and MRI-based monitoring. Limitations include incomplete follow-up and the modest discriminative performance of ΔzNfL, supporting a complementary rather than stand-alone role for zNfL dynamics.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Sep-22",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42623577/",
-      "summary_ja": "背景：再発型多発性硬化症（RMS）における血清ニューロフィラメントライト鎖（sNfL）は炎症性軸索損傷の指標であり、その経時的変化は治療効果の評価に有用とされるが、実臨床での変化パターンは不明確である。  \n方法：カタルーニャ多発性硬化症センターで、疾患修飾治療（DMT）開始時と1年後にsNfLを測定した成人RMS患者329名を対象に、sNfLのzスコア変化（ΔzNfL）と1～2年目の疾患活動（EDA）との関連を前向きに解析。既存の治療反応スコアリングシステム（TRSS）との補完的価値も検討した。  \n結果：1年後の平均ΔzNfLは-0.62で、モノクローナル抗体治療や治療未経験者で減少が大きかった。ΔzNfLが減少しない（≥0）患者はEDA発症リスクが有意に高く（全体OR=3.07、治療未経験者OR=14.04）、NEDA-3達成例でも同様の傾向を示した。ΔzNfLをTRSSに加えると、良好なスコア群でもEDA予測能が向上した。  \n結論：治療開始後1年でsNfLレベルが減少しないことは、その後の疾患活動と関連し、臨床・MRI評価を補完する有用なバイオマーカーとなる。ただし、単独での判別能は限定的であり、補助的指標としての活用が望ましい。",
-      "summary_short_ja": "再発型多発性硬化症患者において、治療開始から1年後の血清神経細胞軽鎖（sNfL）Zスコア変化（ΔzNfL）が、その後の疾患活動（EDA）発現と関連するかを検証した。ΔzNfLが減少しない患者は、治療効果良好とされる群でもEDAリスクが高く、既存の治療反応評価スコアに補完的な情報を提供した。ΔzNfLは単独指標ではなく、臨床・画像評価と併用すべきである。",
-      "disease": "ms",
-      "section": "treatment"
     },
     {
       "source": "pubmed",
