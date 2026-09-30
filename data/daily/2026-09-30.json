@@ -1,0 +1,20 @@
+{
+  "date": "2026-09-30",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42809801",
+      "doi": "10.1212/WNL.0000000000218511",
+      "title": "Disease Progression in Iatrogenic Cerebral Amyloid Angiopathy.",
+      "abstract": "Iatrogenic cerebral amyloid angiopathy (iCAA), likely caused by transmission of amyloid-beta by medical procedures, is a rare but distinct cerebral amyloid angiopathy (CAA) subtype, with rising numbers of patients identified globally. However, given its relatively recent recognition, data on long-term outcomes and prognosis are scarce. Therefore, we aimed to investigate the clinical disease progression in patients diagnosed with iCAA. After a systematic literature search for larger case series of iCAA (n ≥ 5), we included patients from 4 European countries (Austria, Italy, The Netherlands, and the United Kingdom) meeting modified Queen Square criteria for possible or probable iCAA. Clinical outcomes of interest were symptomatic intracerebral hemorrhage (ICH), convexity subarachnoid hemorrhage (cSAH), cognitive status at last follow-up, and mortality. We used Cox regression to investigate clinical variables associated with those outcome events. We included 82 patients (59.8% male, median age at presentation 50 years, median latency from exposure 39 years); 50% of patients initially presented with ICH and 32.9% with cSAH/transient focal neurologic episodes. During a median follow-up time of 3.8 years (IQR 1.8-5.9; total follow-up 385 patient-years), 74 symptomatic ICH occurred, corresponding to a rate of 19.2 per 100 patient-years after first presentation. Patients who initially presented with ICH had an increased rate of recurrent ICH compared with other presentations (hazard ratio 3.14, 95% CI 1.55-6.33,  Following a long latency from presumed exposure, patients diagnosed with iCAA have a high rate of subsequent symptomatic ICH (∼20% yearly risk), with recurrence risk being the highest among patients initially presenting with ICH and those exposed by brain rather than spinal surgery. The mortality rate was low despite the high frequency of ICH.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809801/",
+      "summary_ja": "背景：医療行為によるアミロイドベータの伝播が原因と考えられる医原性脳アミロイド血管症（iCAA）は、稀ながら世界的に患者数が増加しているが、長期予後に関するデータは乏しい。  \n方法：欧州4カ国（オーストリア、イタリア、オランダ、英国）から、修正Queen Square基準に基づくiCAA患者82例（中央値発症年齢50歳、曝露からの潜伏期間中央値39年）を対象に、症候性脳内出血（ICH）、凸面硬膜下出血（cSAH）、認知機能、死亡率を評価し、Cox回帰分析で臨床因子と転帰の関連を検討した。  \n結果：初発症状は50%がICH、32.9%がcSAHまたは一過性局所神経症状であった。中央値3.8年の追跡期間中に74例のICHが発生し、初発後のICH発生率は年間約19.2%であった。初発ICH患者は再発ICHリスクが高く（ハザード比3.14）、脳手術曝露例で特に高かった。死亡率はICH頻度の高さに反して低かった。  \n結論：iCAAは長い潜伏期間を経て発症し、その後の症候性ICHリスクが非常に高いが、死亡率は低い。特に初発ICH例と脳手術曝露例で再発リスクが顕著であり、長期管理が重要である。",
+      "summary_short_ja": "医原性脳アミロイドアンギオパチー（iCAA）は医療手技によるアミロイドβの伝播が原因とされ、発症までに長い潜伏期間（中央値39年）がある。欧州4か国の82例を解析した結果、初発症状が脳内出血（ICH）の患者は再発リスクが高く、年間約20％の高頻度で症候性ICHを発症した。脳手術による曝露例で再発率が特に高い一方、死亡率は低かった。",
+      "disease": "stroke",
+      "section": "prognosis"
+    }
+  ]
+}
