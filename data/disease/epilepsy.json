@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42803131",
+      "doi": "10.1111/ane.13510",
+      "title": "Continuous Versus Routine EEG in Critically Ill Patients Without Primary Neurologic Condition: Analysis of a Randomized Controlled Trial.",
+      "abstract": "Continuous EEG (cEEG) is increasingly used in critically ill patients, driven by its superior seizure detection sensitivity over routine EEG (rEEG). However, cEEG is resource-demanding, and whether its use translates into improved clinical outcomes in patients without primary neurologic conditions remains unknown. This is a post hoc analysis of the multicenter randomized CERTA trial, in which critically-ill adults were randomized 1:1 to cEEG or two rEEG recordings. Six-month mortality represented the primary outcome, while exploratory outcomes included functional outcome (Cerebral Performance Categories, CPC), detection of seizures/status epilepticus, ictal-interictal continuum features, medication changes, and infections within 4 weeks. Analysis was restricted to patients without primary neurologic injury. Among 364 enrolled patients, 76 lacked a primary neurologic condition (cEEG: n = 34, rEEG: n = 42). Continuous EEG was not associated with mortality (p = 0.970) or functional outcome (CPC 1-2; p = 0.893). No seizures or status epilepticus were detected in either group. Rates of EEG periodic patterns, ictal-interictal continuum features, medication changes, and infections were comparable between groups. In critically ill adults without a primary neurologic condition, cEEG was not associated with measurable benefits in survival, neurological recovery, or epileptiform activity detection compared with repeated rEEG, in a cohort without detected electrographic seizures or status epilepticus. Pending larger, ideally prospective comparative studies, repeated routine EEG may represent a reasonable alternative in resource-limited settings.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803131/",
+      "summary_ja": "【背景】重症患者における持続的脳波検査（cEEG）は、発作検出感度が高い一方で資源を多く消費する。神経疾患を主病としない患者での臨床効果は不明である。  \n【方法】多施設ランダム化試験CERTAの事後解析として、神経疾患を持たない重症成人76名（cEEG群34名、rEEG群42名）を対象に、6か月死亡率を主要評価項目とし、機能的予後（CPC）、発作検出、治療変更、感染率を比較した。  \n【結果】cEEG群とrEEG群で6か月死亡率（p=0.970）や機能的予後（p=0.893）に差はなく、いずれの群でも発作やてんかん重積は検出されなかった。脳波の周期性パターンや治療変更、感染率も両群で同等であった。  \n【結論】神経疾患を主病としない重症患者において、cEEGはrEEGに比べて生存率や神経回復、発作検出に有意な利点を示さなかった。資源制約のある環境では、繰り返しのrEEGが合理的な代替となり得る。",
+      "summary_short_ja": "本研究は、神経疾患を持たない重症患者における連続脳波（cEEG）と定期脳波（rEEG）の効果を比較した多施設ランダム化試験の後解析である。76名の対象者で、cEEGは6か月死亡率や神経機能回復に優位差を示さず、発作検出もなかった。資源制約下では、繰り返し行うrEEGが合理的な代替手段となり得ることを示唆している。",
+      "disease": "epilepsy",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42798297",
+      "doi": "10.1152/PHYSREV.00049.2021",
+      "title": "Cannabidiol in Adults With Lennox-Gastaut Syndrome: Real-World Experience.",
+      "abstract": "We report a single centre experience of cannabidiol use as adjunctive treatment in adults with Lennox-Gastaut Syndrome (LGS). Retrospective review of adults with LGS treated with cannabidiol with clinical data collected from electronic records and caregiver standardised seizure diaries with seizure-related outcomes assessed at baseline, 6 months, and last follow-up. Seventy-nine adults (median age 29 years; 40 male) were included. Median follow-up was 41 months. Four patients died unrelated to cannabidiol treatment. Sixty-seven (86%) remained on treatment at last follow-up. Across all seizure types, 59.5% achieved ≥ 50% reduction at 6 months and 67.1% at last follow-up. Among those with 'Drop Seizures' (n = 78), 50% achieved > 50% reduction at 6 months and 61.5% at last follow-up. 'Drop Seizure' responder rates were numerically higher with clobazam > 5 mg/day, but with no statistically significant dose-response relationship seen. Seizure-free days increased (baseline 5.7/month; last follow-up 12.5/month). Seizure-related hospital admissions and injuries declined. Cognitive or behavioural improvements were reported in 48 patients (60.8%); there was no statistically significant association with achieving ≥ 50% seizure reduction. Drowsiness (n = 33) was the most frequent adverse event often related to drug-drug interactions. Diarrhoea (n = 24) was more common than previously reported. Side-effects necessitated ASM adjustments in 51 patients. Fourteen were able to withdraw one or more ASMs. CBD was associated with sustained effectiveness and good tolerability in adults with LGS, with high retention and improvement in seizure and other clinically meaningful outcomes. Adverse effects, mainly interaction-related, were usually managed with concomitant medication adjustments.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798297/",
+      "summary_ja": "背景：レノックス・ガストー症候群（LGS）は難治性てんかんであり、成人におけるカンナビジオール（CBD）の実臨床効果は十分に報告されていない。  \n方法：単一施設でLGS成人79名（中央値年齢29歳）を対象に、CBDを補助療法として使用した後ろ向きレビューを実施。電子カルテと介護者の発作日誌からデータを収集し、ベースライン、6か月、最終追跡時の発作関連アウトカムを評価した。中央値追跡期間は41か月。  \n結果：最終追跡時に86％が治療継続。全発作タイプで6か月時点で59.5％、最終追跡で67.1％が50％以上の発作減少を達成。特に「ドロップ発作」では6か月で50％、最終追跡で61.5％が改善。発作日数は月5.7日から12.5日に増加し、入院や外傷も減少。認知・行動面の改善は60.8％に報告されたが、発作減少との統計的関連はなかった。副作用は主に眠気（33例）や下痢（24例）で、薬物相互作用が多く、抗てんかん薬の調整が必要な場合があった。  \n結論：成人LGSにおけるCBDは持続的な有効性と良好な忍容性を示し、高い治療継続率と発作および関連症状の改善が認められた。副作用は主に併用薬との相互作用によるもので、適切な薬剤調整により管理可能であった。",
+      "summary_short_ja": "本研究は成人のレノックス・ガストー症候群（LGS）患者79名に対するカンナビジオール（CBD）の補助療法の実臨床効果を報告する。中央値41か月の追跡で、約67%が治療継続し、全発作で50%以上の発作減少率は6か月時点で59.5%、最終追跡で67.1%に達した。発作日数減少や入院・外傷の減少も認められ、認知・行動改善も60%以上で報告された。副作用は主に薬物相互作用による眠気や下痢で、薬剤調整により管理可能であった。CBDはLGS成人において持続的な効果と良好な忍容性を示した。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42691468",
       "doi": "10.1016/j.wneu.2021.01.097",
       "title": "Autonomic Network Signatures of Interictal Cardiorespiratory Dysfunction in Patients With Temporal Lobe Epilepsy.",

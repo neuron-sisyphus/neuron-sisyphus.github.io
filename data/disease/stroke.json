@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42804552",
+      "doi": "10.1161/STROKEAHA.126.056028",
+      "title": "Prehospital Stroke Treatment Trials in Conventional EMS Settings: An Expert Consensus Statement on Operational, Ethical, and Technological Priorities.",
+      "abstract": "Prehospital stroke trials enable assessments of ultraearly administration of treatments and management strategies, but face unique challenges in their design, conduct, and analysis. We outline important considerations and recommendations for planning prehospital stroke trials, focusing on patient identification, consent models, randomization strategies, end point selection, and statistical frameworks. As this field evolves, multidisciplinary collaboration, pragmatic study design, and scalable technology integration are critical to ensuring scientific rigor and equitable access. This framework is intended to inform and support future investigators in designing effective, ethically sound, and operationally feasible prehospital stroke trials in conventional emergency medical services settings.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Oct",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804552/",
+      "summary_ja": "背景：脳卒中の超早期治療評価を目的とした院外（救急医療現場での）試験は、設計や実施、解析に特有の課題がある。  \n方法：患者の識別方法、同意取得モデル、無作為化戦略、評価項目の選定、統計的枠組みなど、院外脳卒中試験の計画に必要な重要事項と推奨事項を専門家の合意に基づき整理した。  \n結果：多職種連携、実践的な研究デザイン、拡張可能な技術導入が科学的厳密性と公平なアクセスの確保に不可欠であることが示された。  \n結論：本声明は、従来の救急医療サービス環境における効果的かつ倫理的に適正で運用可能な院外脳卒中試験の設計を支援し、今後の研究者の指針となることを目的としている。",
+      "summary_short_ja": "本論文は、従来の救急医療体制における院外脳卒中治療試験の設計・実施・解析に関する専門家の合意声明を示す。患者識別、同意取得、無作為化、評価指標、統計手法の重要課題と推奨を提示し、多職種連携や実用的設計、技術統合の必要性を強調。科学的厳密性と倫理的妥当性を両立した試験実施の指針を提供する。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42809801",
       "doi": "10.1212/WNL.0000000000218511",
       "title": "Disease Progression in Iatrogenic Cerebral Amyloid Angiopathy.",
