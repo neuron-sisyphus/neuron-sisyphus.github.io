@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42821850",
+      "doi": "10.1212/WNL.0000000000218583",
+      "title": "Association of Skin Denervation With Brain Atrophy and Cognitive Impairment in Patients With Parkinson Disease.",
+      "abstract": "Small fiber pathology is an intrinsic feature of Parkinson disease (PD), yet its relevance to central neurodegeneration remains unclear. Given that cognitive impairment is a major manifestation of disease progression closely linked to cortical structural changes, we aimed to determine whether peripheral skin denervation is associated with cognitive impairment and brain atrophy in PD. In this cross-sectional study at a movement disorders center in China, patients with PD and healthy controls (HCs) were recruited. Key inclusion criteria included a clinical PD diagnosis based on the Movement Disorder Society criteria and an age range of 50-99 years. Patients were classified into normal cognition (PD-NC), mild cognitive impairment (PD-MCI), and patients develop dementia (PDD). All participants underwent skin biopsy for quantification of intraepidermal nerve fiber density (IENFD), neuropsychological assessments, and structural MRI. Multivariable regression and mediation analyses examined associations among IENFD, cognition, and brain volumes. A total of 155 patients with PD (mean age, 63.4 years; 52% female; PD-NC: n = 75; PD-MCI: n = 40; PDD: n = 40) and 50 HCs (mean age, 60.3 years; 50% female) were included. IENFD demonstrated a progressive decline across the PD cognitive spectrum (HC: 7.18 ± 2.44; PD-NC: 5.89 ± 2.05; PD-MCI: 4.65 ± 1.33; PDD: 3.40 ± 1.15 fibers/mm). IENFD positively correlated with global and 5 domain-specific cognitive scores (β = 0.170-0.387,  Our study suggests that skin denervation is closely associated with cognitive impairment in PD and that regional brain atrophy statistically mediates this relationship. These findings provide novel evidence for the peripheral-central axis in PD, suggesting that small fiber pathology may mirror central neurodegeneration. Future multicenter and longitudinal studies are required for validation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821850/",
+      "summary_ja": "背景：パーキンソン病（PD）では小径神経線維の病変が知られているが、中枢神経変性との関連は不明である。認知障害はPD進行の主要な症状であり、皮質構造変化と密接に関連するため、末梢の皮膚脱神経が認知障害および脳萎縮と関連するかを検討した。  \n方法：中国の運動障害センターでPD患者155名（正常認知、軽度認知障害、認知症に分類）と健常対照50名を対象に、皮膚生検による表皮内神経線維密度（IENFD）測定、神経心理検査、構造的MRIを実施。多変量回帰分析と媒介分析でIENFD、認知機能、脳容積の関連を解析した。  \n結果：IENFDは認知機能の低下に伴い段階的に減少し（健常者7.18→認知症3.40 fibers/mm）、IENFDは全般的および5つの認知ドメインスコアと正の相関を示した。さらに、脳の特定領域の萎縮がこの関連を媒介していた。  \n結論：皮膚の脱神経はPDにおける認知障害と密接に関連し、脳萎縮がその関係を統計的に媒介することが示された。末梢神経病変が中枢神経変性を反映する可能性を示唆し、今後多施設かつ縦断的研究による検証が必要である。",
+      "summary_short_ja": "本研究はパーキンソン病（PD）患者における皮膚の小繊維脱神経と認知障害および脳萎縮の関連を検討した。155名のPD患者と50名の健常者を対象に皮膚生検、認知機能検査、MRIを実施。皮膚内神経線維密度は認知機能の低下に伴い段階的に減少し、脳の特定領域の萎縮がこの関係を媒介していた。小繊維病変が中枢神経変性を反映する可能性を示唆する。",
+      "disease": "parkinson",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42821843",
+      "doi": "10.1212/WNL.0000000000218569",
+      "title": "Clinical Reasoning: A 13-Year-Old Boy With Acute-Onset Generalized Dystonia, Rostrocaudal Gradient, and Severe Bulbar Dysfunction.",
+      "abstract": "A 13-year-old adolescent boy developed progressive generalized slowness over 1 month, followed by 10 days of rapidly worsening speech loss, dysphagia, rigidity, and dystonic posturing. Acquired evaluations, including CSF, infectious studies, autoimmune encephalitis panels, and brain MRI, were unrevealing, and empirical corticosteroid/antiviral therapy produced no meaningful improvement. Examination showed severe generalized dystonia with a rostrocaudal severity distribution, prominent bulbar and upper limb involvement, hyperreflexia, ankle clonus, and bilateral Babinski signs. Symptomatic medication produced only a partial reduction of painful paroxysmal episodes without meaningful functional recovery. The patient later underwent bilateral centromedian-parafascicular complex (CM-Pf) deep brain stimulation with limited functional response. This case illustrates how rostrocaudal severity distribution and bulbar dysfunction can redirect the diagnostic approach from acquired encephalitis-like disorders toward early genetic testing.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821843/",
+      "summary_ja": "背景：13歳の少年が1か月間で全身の動作緩慢が進行し、その後10日間で急激に言語障害、嚥下困難、筋強剛、ジストニア姿勢が悪化した。  \n方法：髄液検査、感染症検査、自己免疫性脳炎パネル、脳MRIなどの獲得性疾患の評価を行い、経験的にステロイドや抗ウイルス薬を投与したが改善は見られなかった。  \n結果：身体所見では、頭尾方向に重症度が強い全身性ジストニア、特に球麻痺と上肢の障害、腱反射亢進、足関節クローヌス、両側バビンスキー徴候を認めた。対症療法は痛みのある発作的症状を部分的に軽減したが機能回復は乏しく、後に両側中心中間核・傍束核複合体への脳深部刺激を施行したが効果は限定的であった。  \n結論：頭尾方向の重症度分布と重度の球麻痺を伴う急性発症の全身性ジストニアは、獲得性脳炎様疾患から遺伝子検査を早期に検討すべき診断指針となることを示している。",
+      "summary_short_ja": "13歳男児が1か月で全身の動作緩慢を発症し、その後10日間で言語障害、嚥下困難、筋強剛、ジストニアが急速に悪化した。感染症や自己免疫性脳炎の検査は陰性で、ステロイドや抗ウイルス薬も効果なし。神経学的検査で頭尾方向に重症度が強い全身ジストニアと重度の球麻痺を認めた。対症療法や深部脳刺激も限定的効果であり、症状分布から後天性疾患ではなく早期の遺伝子検査が重要と示唆された。",
+      "disease": "parkinson",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42659615",
       "doi": "10.1212/WNL.0000000000200782",
       "title": "Lesion-Level Subtypes of White Matter Hyperintensity Evolution Beyond Spatial Location.",

@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42821849",
+      "doi": "10.1212/WNL.0000000000218592",
+      "title": "The Mechanical Penumbra in Intracerebral Hemorrhage.",
+      "abstract": "Penumbral imaging has profoundly changed acute ischemic stroke care by improving patient selection for acute intervention. No such innovation has occurred in intracerebral hemorrhage (ICH), despite a long debate about the existence of a penumbra in the tissue surrounding the hemorrhage. Different types of penumbrae, including an ischemic and metabolic penumbrae, have been proposed; however, we would like to draw attention to the likely existence of a mechanical penumbra that is, perilesional tissue compressed by the physical forces of the hematoma, that remains structurally intact, but recovers if the compression is relieved in a timely manner. Many ICHs occur in deep subcortical structures and compress adjacent white matter tracts. Axonal integrity is measured with diffusion tensor imaging (DTI), which may be able to estimate penumbral tissue in ICH. We propose the presence of a core and penumbra surrounding each ICH. DTI could potentially differentiate irreversibly damaged axons (core axons) from axons that remain salvageable (penumbral axons) and define the extent of a mechanical penumbra. We advocate for developing imaging biomarkers of perihematomal tissue viability to optimally select patients for surgical evacuation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821849/",
+      "summary_ja": "【背景】急性虚血性脳卒中ではペナンブラ（救済可能な周囲組織）の画像診断が治療選択を大きく進展させたが、脳内出血（ICH）ではペナンブラの存在自体が議論されている。従来は虚血性や代謝性のペナンブラが提唱されてきたが、本研究は「機械的ペナンブラ」、すなわち血腫の物理的圧迫により構造的には保たれているが圧迫解除で回復可能な周囲組織に注目する。  \n【方法】深部皮質下構造に発生するICHが隣接する白質線維を圧迫することに着目し、拡散テンソル画像（DTI）を用いて軸索の損傷度を評価。不可逆的損傷軸索（コア）と救済可能な軸索（ペナンブラ）を区別し、機械的ペナンブラの範囲を推定する手法を提案。  \n【結果】DTIにより圧迫されているが構造的に保たれた軸索の識別が可能であり、機械的ペナンブラの存在を示唆。  \n【結論】周囲組織の生存性を示す画像バイオマーカーの開発が、外科的血腫除去の適応選択を最適化しうると提唱する。",
+      "summary_short_ja": "脳内出血（ICH）周囲の組織に存在するとされる「機械的ペナンブラ」に着目し、血腫の圧迫で構造的には保たれるが圧迫解除で回復可能な組織を提唱する。拡散テンソル画像（DTI）により、不可逆的損傷軸索（コア）と救済可能軸索（ペナンブラ）を識別し、手術適応の最適化に向けた周囲組織の生存性評価指標の開発を目指す。",
+      "disease": "stroke",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42821842",
+      "doi": "10.1212/WNL.0000000000218568",
+      "title": "Early Catheter Ablation for Patients With Atrial Fibrillation and a Stroke History: A Target Trial Emulation Analysis.",
+      "abstract": "Atrial fibrillation (AF) is a major contributor to ischemic stroke, yet evidence on whether catheter ablation improves outcomes in patients with AF and a history of stroke remains limited. We emulated a target trial using observational data to estimate the effect of early catheter ablation vs medical therapy on clinical outcomes in this high-risk population. We retrospectively included patients aged 18-85 years with AF and a history of ischemic stroke from 6 Chinese centers between January 2019 and December 2024. The primary outcome was major adverse cardiovascular events (MACEs). Secondary outcomes included all-cause rehospitalization, cardiovascular rehospitalization, all-cause death, and functional and cognitive outcomes assessed by modified Rankin Scale (mRS) and post hoc AD8 scores. A cloning-censoring-weighting approach was used to emulate a target trial comparing early ablation (within a 1-year grace period) and medical therapy in time-dependent outcomes, using weighted Kaplan-Meier curves. Restricted mean survival time (RMST) was used when the proportional hazards assumption was violated. mRS and AD8 were assessed after propensity score matching. A total of 431 patients were included (median age, 70 years; 37% female), of whom 207 underwent early catheter ablation. The median follow-up was 3.0 years. At 36 months, early ablation was associated with a gain of 1.54 MACE-free months (95% CI 0.40-2.85;  In this target trial emulation analysis, catheter ablation was associated with a modestly lower long-term risk of MACE in patients with AF and a stroke history. Secondary analyses suggested exploratory associations between ablation and lower long-term cardiovascular rehospitalization, and better neurologic and cognitive outcomes. Major limitations include the retrospective design and potential residual confounding. Randomized trials with larger sample sizes are warranted. This study provides Class III evidence that early catheter ablation in adult patients with AF and a history of ischemic stroke decreases the risk of MACEs compared with guideline-directed medical therapy.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821842/",
+      "summary_ja": "背景：心房細動（AF）は虚血性脳卒中の主要因であるが、脳卒中既往のあるAF患者に対するカテーテルアブレーションの効果は不明確である。  \n方法：中国の6施設で2019年から2024年までに虚血性脳卒中既往のAF患者431名（中央値年齢70歳、女性37％）を対象に、早期カテーテルアブレーション（1年以内）と薬物療法の効果を観察データからターゲットトライアル模倣法で比較した。主要評価項目は重大心血管イベント（MACE）、副次評価項目に再入院率、死亡率、神経機能・認知機能（mRS、AD8スコア）を含む。  \n結果：中央値3年の追跡で、早期アブレーション群は36か月時点でMACE非発生期間が1.54か月延長（95％CI 0.40-2.85）し、心血管再入院率の低下や神経・認知機能の改善も示唆された。  \n結論：脳卒中既往のAF患者において、早期カテーテルアブレーションはガイドラインに基づく薬物療法と比較し、長期的にMACEリスクを低減する可能性がある。ただし後ろ向き解析のため残存交絡の可能性があり、さらなる大規模ランダム化試験が必要である。",
+      "summary_short_ja": "心房細動（AF）と脳梗塞既往の患者431名を対象に、早期カテーテルアブレーション（1年以内）と薬物療法の効果を後ろ向き観察データで比較した。中央値3年の追跡で、早期アブレーションは主要心血管イベント（MACE）発生を有意に遅延させ、心血管再入院や神経・認知機能の改善も示唆された。設計上の限界はあるが、AFと脳梗塞歴患者における早期アブレーションの有用性を示すClass IIIエビデンスを提供する。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42804552",
       "doi": "10.1161/STROKEAHA.126.056028",
       "title": "Prehospital Stroke Treatment Trials in Conventional EMS Settings: An Expert Consensus Statement on Operational, Ethical, and Technological Priorities.",

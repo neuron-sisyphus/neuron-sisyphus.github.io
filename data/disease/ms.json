@@ -3,18 +3,18 @@
   "items": [
     {
       "source": "pubmed",
-      "pmid": "42814910",
-      "doi": "10.1212/WNL.0000000000218517",
-      "title": "Disentangling Age-Related and Disease-Specific Effects on Upper Cervical Cord Area in Patients With Multiple Sclerosis.",
-      "abstract": "Cervical cord atrophy is a key predictor of disability and disease progression in multiple sclerosis (MS); however, age-related vs disease-related contributions remain unclear. Here, we investigated whether MS results in a disease-specific reduction in mean upper cervical cord area (MUCCA) beyond aging, and whether this deviation is modulated by sex and age at disease onset. In this cross-sectional, multicenter study (3 Italian sites), we analyzed volumetric T1-weighted 3.0T brain MRIs and clinical data from healthy controls (HCs) and patients with MS (ages 18-70 years) without other cord pathology. Active-surface MUCCA measurements were obtained between C1 and C2/3 and normalized for head size (nMUCCA). nMUCCA lifespan trajectories were modelled in HC using polynomial regression accounting for age, age squared, sex, scanner, and interaction terms. Such model was applied to patients with MS generating nMUCCA  In HC (n = 480, median age 41.0 years, 59% female), nMUCCA showed a nonlinear age relationship, increasing until late 30s ( In MS, upper cord atrophy exceeds age-related effects, especially in fifth-sixth decades, and attenuates later as aging effects increase. Disease-specific atrophy is independent of sex. Differences across onset groups largely reflect disease duration. Upper cord atrophy correlates with disability, supporting its role as a sensitive MS-related neurodegeneration biomarker beyond aging.",
+      "pmid": "42821841",
+      "doi": "10.1212/WNL.0000000000218575",
+      "title": "Pearls & Oy-sters: Diagnosis of Pediatric Tumefactive Multiple Sclerosis With MRI Biomarkers.",
+      "abstract": "Multiple sclerosis (MS) is a demyelinating disease of the CNS with an estimated incidence of 0.05-2.85 per 100,000 children. One subtype, tumefactive MS, is particularly rare and difficult to diagnose, especially in differentiating from tumor. We describe the case of a 16-year-old boy who presented with subacute onset of headaches, cognitive difficulties, dizziness, blurry vision, right arm weakness, numbness, and gait difficulty. MRI of the brain demonstrated a multilobulated, contrast-enhancing, T2 hyperintense area of diffusion restriction in the left frontal lobe, an extensive left periventricular lesion, and multifocal T2/fluid-attenuated inversion recovery hyperintense lesions. He clinically improved with IV steroids and a 1-month oral steroid taper, and then, 2 weeks after completion of the taper, he experienced recurrent headaches and cognitive decline. Repeat brain MRI (3T) with MS protocol which included 3D T2* gradient recalled echo was notable for lesions demonstrating central vein sign (CVS) and paramagnetic rim-like areas within the large left frontal lesion characterized by positive phase shift and associated contrast enhancement. Based on the presence of typical symptoms, multiple enhancing and nonenhancing lesions in the periventricular and juxtacortical regions, and 6 CVS-positive lesions, the patient met 2024 McDonald criteria, and the diagnosis of MS was made. The patient was treated with IV steroids followed by oral steroids and then started on ocrelizumab. This case demonstrates how recognition of CVS is critical, because early and accurate diagnosis enables timely treatment without unnecessary interventions.",
       "journal": "Neurology",
       "year": "2026",
       "published": "2026-Oct-27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42814910/",
-      "summary_ja": "背景：多発性硬化症（MS）における頸髄萎縮は障害進行の重要な予測因子であるが、加齢による影響と疾患特異的影響の区別は不明である。  \n方法：イタリアの3施設で実施した横断的多施設研究で、18～70歳のMS患者と健常者の3.0T脳MRI（T1強調画像）を用い、上部頸髄（C1～C2/3間）の平均断面積（MUCCA）を頭部サイズで正規化（nMUCCA）して測定。健常者のnMUCCAの年齢推移を多項式回帰でモデル化し、MS患者に適用して疾患特異的変化を評価した。  \n結果：健常者（n=480）ではnMUCCAは30代後半まで増加し、その後減少する非線形の加齢関係を示した。MS患者では、特に50～60代で加齢による変化を超える頸髄萎縮が認められ、加齢の影響が強まる高齢期には萎縮の差が縮小。性別による差はなく、発症年齢群間の違いは主に疾患期間の差を反映していた。頸髄萎縮は障害度と相関し、MS特異的な神経変性の敏感なバイオマーカーであることが示された。  \n結論：MSは加齢とは独立して上部頸髄の萎縮を引き起こし、疾患進行や障害評価に有用な指標となる。",
-      "summary_short_ja": "多発性硬化症（MS）患者の上部頸髄断面積（MUCCA）は、加齢による変化を超えて特異的に減少することが明らかとなった。特に50～60代で顕著であり、性別による影響は見られなかった。発症年齢別の差異は主に病歴期間の違いに起因し、上部頸髄萎縮は障害度と相関し、MSの神経変性の敏感なバイオマーカーとして有用である。",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821841/",
+      "summary_ja": "背景：多発性硬化症（MS）は中枢神経系の脱髄疾患で、小児では発症率が非常に低い。特に腫瘤様MSは稀で、腫瘍との鑑別が困難である。  \n方法：16歳男児が頭痛、認知障害、めまい、視力障害、右腕の筋力低下・感覚障害、歩行困難を呈し、脳MRIで左前頭葉に多房性の造影増強病変や広範な脳室周囲病変、多発性のT2高信号病変を認めた。治療はステロイド静注および経口漸減を行い、再発時には3T MRIのMSプロトコルで中央静脈徴候（CVS）や磁性縁様病変を確認した。  \n結果：典型的症状、多発性の造影・非造影病変、6つのCVS陽性病変により2024年McDonald基準を満たしMSと診断。治療はステロイド後にオクレリズマブを開始した。  \n結論：CVSの認識は腫瘤様MSの早期かつ正確な診断に不可欠であり、不要な侵襲的検査を避け、適切な治療開始を可能にする。",
+      "summary_short_ja": "16歳男児の腫瘤性多発性硬化症（MS）症例を報告。頭痛や認知障害などの症状と、MRIで左前頭葉の多発病変や中心静脈徴候（CVS）を確認。2024年McDonald基準に基づきMSと診断し、ステロイド治療後オクレリズマブを開始。CVSの認識が早期診断と適切治療に重要であることを示した。",
       "disease": "ms",
-      "section": "imaging"
+      "section": "diagnosis"
     },
     {
       "source": "pubmed",
@@ -30,6 +30,21 @@
       "summary_short_ja": "多発性硬化症患者（PwMS）は長期的な疲労と課題誘発性の疲労感（疲労困難度）が異なるメカニズムで生じることが示された。認知処理速度（CPS）の低下が、線条体の萎縮や病変と長期疲労の関連を媒介し、疲労困難度とは無関係である。個別のCPSに応じた課題負荷調整により、疲労困難度は健常者と同等化し、疲労対策において認知負荷の個別最適化が重要であることが示唆された。",
       "disease": "ms",
       "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42814910",
+      "doi": "10.1212/WNL.0000000000218517",
+      "title": "Disentangling Age-Related and Disease-Specific Effects on Upper Cervical Cord Area in Patients With Multiple Sclerosis.",
+      "abstract": "Cervical cord atrophy is a key predictor of disability and disease progression in multiple sclerosis (MS); however, age-related vs disease-related contributions remain unclear. Here, we investigated whether MS results in a disease-specific reduction in mean upper cervical cord area (MUCCA) beyond aging, and whether this deviation is modulated by sex and age at disease onset. In this cross-sectional, multicenter study (3 Italian sites), we analyzed volumetric T1-weighted 3.0T brain MRIs and clinical data from healthy controls (HCs) and patients with MS (ages 18-70 years) without other cord pathology. Active-surface MUCCA measurements were obtained between C1 and C2/3 and normalized for head size (nMUCCA). nMUCCA lifespan trajectories were modelled in HC using polynomial regression accounting for age, age squared, sex, scanner, and interaction terms. Such model was applied to patients with MS generating nMUCCA  In HC (n = 480, median age 41.0 years, 59% female), nMUCCA showed a nonlinear age relationship, increasing until late 30s ( In MS, upper cord atrophy exceeds age-related effects, especially in fifth-sixth decades, and attenuates later as aging effects increase. Disease-specific atrophy is independent of sex. Differences across onset groups largely reflect disease duration. Upper cord atrophy correlates with disability, supporting its role as a sensitive MS-related neurodegeneration biomarker beyond aging.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42814910/",
+      "summary_ja": "背景：多発性硬化症（MS）における頸髄萎縮は障害進行の重要な予測因子であるが、加齢による影響と疾患特異的影響の区別は不明である。  \n方法：イタリアの3施設で実施した横断的多施設研究で、18～70歳のMS患者と健常者の3.0T脳MRI（T1強調画像）を用い、上部頸髄（C1～C2/3間）の平均断面積（MUCCA）を頭部サイズで正規化（nMUCCA）して測定。健常者のnMUCCAの年齢推移を多項式回帰でモデル化し、MS患者に適用して疾患特異的変化を評価した。  \n結果：健常者（n=480）ではnMUCCAは30代後半まで増加し、その後減少する非線形の加齢関係を示した。MS患者では、特に50～60代で加齢による変化を超える頸髄萎縮が認められ、加齢の影響が強まる高齢期には萎縮の差が縮小。性別による差はなく、発症年齢群間の違いは主に疾患期間の差を反映していた。頸髄萎縮は障害度と相関し、MS特異的な神経変性の敏感なバイオマーカーであることが示された。  \n結論：MSは加齢とは独立して上部頸髄の萎縮を引き起こし、疾患進行や障害評価に有用な指標となる。",
+      "summary_short_ja": "多発性硬化症（MS）患者の上部頸髄断面積（MUCCA）は、加齢による変化を超えて特異的に減少することが明らかとなった。特に50～60代で顕著であり、性別による影響は見られなかった。発症年齢別の差異は主に病歴期間の違いに起因し、上部頸髄萎縮は障害度と相関し、MSの神経変性の敏感なバイオマーカーとして有用である。",
+      "disease": "ms",
+      "section": "imaging"
     },
     {
       "source": "pubmed",
