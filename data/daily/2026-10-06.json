@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-06",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42832743",
+      "doi": "10.1212/WNL.0000000000218545",
+      "title": "Ofatumumab vs Ocrelizumab in Relapsing-Remitting Multiple Sclerosis: A Nationwide Cohort Study.",
+      "abstract": "B-cell-depleting therapy with anti-CD20 monoclonal antibodies is a highly effective and increasingly used treatment strategy for multiple sclerosis (MS); however, comparative effectiveness of anti-CD20 therapies is unclear. In this study, we aimed to evaluate the effectiveness of ofatumumab compared with ocrelizumab in relapsing-remitting MS (RRMS). This was an observational cohort study based on data extracted from the Danish Multiple Sclerosis Registry. Patients with RRMS initiating ofatumumab or ocrelizumab treatment were included between January 2022 and November 2025. Primary outcomes were annualized relapse rate (ARR) rate ratio between the ofatumumab and ocrelizumab groups and hazard ratio (HR) for time to first relapse. Secondary outcomes were time to first 24-week confirmed disability worsening (CDW), progression independent of relapse activity (PIRA), and brain MRI lesion activity. We used the inverse probability of treatment weighting based on propensity scores to estimate the average treatment effects adjusted for baseline confounders. Main analyses followed an intention-to-treat (ITT) principle, with additional per-protocol (PP) analyses performed. A total of 1,870 patients were included in the study, of whom 485 started ocrelizumab treatment at baseline (mean age 41.1 years, 65.2% female) and 1,385 started ofatumumab (mean age 41.3 years, 72.0% female). In the ITT analysis, the mean ARR was 0.05 (95% CI 0.04-0.06) for the ofatumumab group and 0.03 (0.02-0.04) for the ocrelizumab group, with a rate ratio of 1.65 (1.09-2.50) ( The study indicates that ofatumumab treatment is associated with a marginally increased relapse rate compared with ocrelizumab treatment in patients with RRMS. However, the ARR was very low with both anti-CD20 therapies, and the difference is of limited clinical relevance. Important limitations include the observational design and the risk of residual indication bias. This study provides Class II evidence that in patients with RRMS, ofatumumab is associated with a marginally increased ARR compared with ocrelizumab, with both drugs having very low ARRs.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42832743/",
+      "summary_ja": "背景：多発性硬化症（MS）の再発寛解型（RRMS）に対する抗CD20抗体によるB細胞除去療法は効果的だが、オファツムマブとオクレリズマブの比較効果は不明である。  \n方法：デンマーク多発性硬化症登録データを用いた観察コホート研究で、2022年1月から2025年11月までにRRMS患者でオファツムマブまたはオクレリズマブを開始した1870名（オクレリズマブ485名、オファツムマブ1385名）を対象とした。主な評価項目は年換算再発率（ARR）と初回再発までのハザード比（HR）、副次的に24週持続の障害進行、再発非依存性進行、脳MRI病変活動を評価した。傾向スコアに基づく逆確率重み付けで交絡因子を調整し、意図治療解析（ITT）を実施。  \n結果：ITT解析でオファツムマブ群のARRは0.05、オクレリズマブ群は0.03で、再発率比は1.65（95%CI 1.09-2.50）とオファツムマブ群でわずかに高かった。両群ともARRは非常に低かった。  \n結論：RRMS患者において、オファツムマブはオクレリズマブに比べて再発率がわずかに高いが、臨床的差異は限定的である。観察研究のため残存バイアスの可能性があるものの、両薬剤は有効な治療選択肢である。",
+      "summary_short_ja": "本研究は再発寛解型多発性硬化症（RRMS）患者における抗CD20抗体治療のオファツムマブとオクレリズマブの効果を比較した全国コホート研究である。1870名を対象に解析した結果、オファツムマブ群はオクレリズマブ群に比べ再発率がわずかに高かったが、両群とも再発率は非常に低く臨床的差異は限定的であった。観察研究のため残存バイアスの可能性があるものの、両薬剤はRRMS治療において有効であることを示している。",
+      "disease": "ms",
+      "section": "treatment"
+    }
+  ]
+}
