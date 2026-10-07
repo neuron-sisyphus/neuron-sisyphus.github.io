@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42441390",
+      "doi": "10.1016/j.jalz.2011.10.007",
+      "title": "Amyloid PET Quantitation and Centiloid Thresholds in the Diagnosis of Alzheimer Disease: An Individual Participant Data Meta-Analysis.",
+      "abstract": "Amyloid positron emission tomography (PET) is increasingly used in research and clinical settings to determine the etiology of cognitive decline and eligibility for amyloid-targeting therapies. To assist with amyloid PET evaluation and to guide clinical decision-making, images can be quantified in a standardized unit called Centiloid, the interpretation of which can vary according to the method and threshold used. To collect Centiloid values from available studies and determine robust positivity cutoffs using data-driven methods and correspondence with visual reads. PubMed search (October 2024) identified studies with Centiloid values. Corresponding authors were invited to share individual participant data. Additional data were obtained through access-controlled repositories and conference outreach (July 2024-July 2025). Studies were included if they provided Centiloids, radiotracer, age, and sex. Each study was analyzed using a unified statistical pipeline; study estimates were pooled using random-effects meta-analysis. Gaussian mixture models (GMMs) were fitted to Centiloid values for each study. In studies with a bimodal distribution (per integrated completed likelihood), single cutoffs for positivity were set as mean plus 2 SDs of the lower gaussian component. Using GMMs, a double-cutoff approach defined a lower certainty range using a 90% posterior probability cutoff for assignment to the low (amyloid-negative) vs high (amyloid-positive) component. An alternative Centiloid cutoff was derived from maximizing the correspondence (Cohen κ) with the binary visual reads when available. This meta-analysis included cross-sectional amyloid PET scans acquired with 5 radiotracers from 49 227 participants across 53 studies from 15 countries (mean age, 71 years; 54% female, 62% cognitively impaired). The data-driven GMM approach identified a bimodal distribution in 51 studies (n = 48 786), resulting in a single cutoff for positivity of 18 Centiloids (95% CI,16-19; I2 = 97%). The double-cutoff approach revealed high confidence for interpreting scans as negative when Centiloid values were lower than 11 (95% CI, 9-13; I2 = 95%) and interpreting scans as positive if Centiloid values were higher than 26 (95% CI, 24-28; I2 = 95%). In analyses of correspondence with binary (positive or negative) visual reads of amyloid PET scans (n = 35 045; 36 studies), Centiloids were highly predictive of visual positivity (Cohen κ, 0.86; 95% CI, 0.83-0.89; I2 = 96%) with a cutoff of 27 Centiloids (95% CI, 24-30; I2 = 80%). In this individual participant data meta-analysis, positivity cutoffs converged around 18 Centiloids (data-driven) and 27 Centiloids (visual reads). Findings from a double-cutoff analysis suggest that scans in the 11 to 26 Centiloid range should be interpreted with caution depending on the context of use.",
+      "journal": "JAMA",
+      "year": "2026",
+      "published": "2026-Oct-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42441390/",
+      "summary_ja": "背景：アルツハイマー病診断において、アミロイドPETは認知機能低下の原因特定や治療適格判定に用いられているが、画像評価の標準化単位であるCentiloidの解釈は方法や閾値により異なる。  \n方法：PubMed検索やデータベース、学会連絡を通じて、Centiloid値を含む53研究（49,227名、平均年齢71歳、54％女性、62％認知障害あり）から個別参加者データを収集。統一解析パイプラインとランダム効果メタ解析を用い、ガウス混合モデル（GMM）で閾値を決定。視覚評価との一致度も検証。  \n結果：51研究で二峰性分布を確認し、単一の陽性カットオフは18 Centiloid（95％CI 16-19）と算出。二重カットオフ法では陰性確信域が11未満、陽性確信域が26超であった。視覚評価との一致度は高く（Cohen κ=0.86）、対応するカットオフは27 Centiloid（95％CI 24-30）であった。  \n結論：Centiloidの陽性閾値はデータ駆動で18、視覚評価基準で27に収束。11～26の中間域は解釈に注意が必要であり、使用文脈に応じた慎重な判断が求められる。",
+      "summary_short_ja": "本研究は、アルツハイマー病診断に用いられるアミロイドPET画像の定量単位「Centiloid」の閾値を個人データメタ解析で検討した。49,227例のデータから、データ駆動型解析で18 Centiloidを陽性カットオフと特定。二重カットオフ法では11未満を陰性、26超を陽性とし、中間域は慎重な解釈が必要と示唆。視覚評価との一致も高く（カッパ0.86）、臨床判断の指標となる。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42821845",
       "doi": "10.1093/sleep/zsaa133",
       "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
