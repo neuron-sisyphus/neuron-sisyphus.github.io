@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42842855",
+      "doi": "10.1212/WNL.0000000000218682",
+      "title": "Physical Activity and Motor and Cognitive Progression in Parkinson Disease: A Longitudinal Cohort Study.",
+      "abstract": "Evidence for the effect of physical activity on disease progression in Parkinson disease (PD) remains limited. We aimed to examine whether physical activity is associated with the rate of motor and cognitive progression in PD and to identify specific components of physical activity underlying these associations. In this longitudinal cohort study, we analyzed data from individuals with mild-to-moderate PD enrolled in the Cincinnati Cohort Biomarker Program between January 2019 and February 2025. Physical activity was assessed using standardized interviews and quantified as total physical activity time (TPT), total physical activity volume (TPV), and vigorous physical activity time (VPT). Longitudinal associations between physical activity and annual changes in Movement Disorder Society-Unified Parkinson's Disease Rating Scale, part III (MDS-UPDRS-III; higher is worse) and Montreal Cognitive Assessment (MoCA; higher is better) scores were assessed using linear mixed-effects models adjusted for demographic and disease-related covariates. We compared predicted severity trajectories across tertiles of TPT and used residualized analyses to evaluate the independent effects of activity intensity and timing. A total of 294 individuals with PD (mean age, 66.4 years; 33.0% female) were included, with up to 5 years of follow-up for MoCA and 7 years for MDS-UPDRS-III. Higher TPT, TPV, and VPT were each associated with slower cognitive decline and motor progression. The annual MoCA change was -0.478, -0.090, and -0.007 points in the low, mid, and high TPT tertiles, respectively, with corresponding annual MDS-UPDRS-III changes of 0.143, -0.225, and -0.783. Compared with the lowest tertile, the highest tertile showed slower cognitive (β = 0.470; 95% CI 0.203-0.737;  Higher levels of physical activity were associated with slower cognitive and motor progression in PD. The beneficial associations of moderate-to-vigorous physical activity may be related to activity duration and ongoing engagement. Limitations include the observational design, self-reported physical activity, and potential selection bias.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842855/",
+      "summary_ja": "背景：パーキンソン病（PD）における身体活動が病状進行に与える影響は十分に解明されていない。  \n方法：軽度から中等度のPD患者294名（平均年齢66.4歳、女性33%）を対象に、2019年から2025年までの縦断的コホート研究を実施。身体活動は標準化面接で評価し、総活動時間（TPT）、総活動量（TPV）、強度の高い活動時間（VPT）として定量化。運動機能はMDS-UPDRS-III、認知機能はMoCAで評価し、線形混合効果モデルで身体活動と年次変化の関連を解析した。  \n結果：TPT、TPV、VPTのいずれも高い群で認知機能低下および運動機能悪化の進行が有意に遅かった。例えば、MoCAの年次変化は低TPT群で-0.478点、中間群で-0.090点、高TPT群で-0.007点であった。  \n結論：中等度から高強度の身体活動の増加と継続的な実践は、PDにおける認知・運動機能の進行抑制に寄与する可能性が示された。ただし、観察研究で自己申告による身体活動評価の限界や選択バイアスの影響は考慮が必要である。",
+      "summary_short_ja": "パーキンソン病（PD）患者294名を対象とした縦断的研究で、身体活動量の多さが認知機能低下および運動機能悪化の進行を遅らせることが示された。特に中強度から高強度の身体活動の時間と継続的な実施が効果的であった。観察研究で自己申告による身体活動評価の限界はあるが、身体活動の促進がPDの進行抑制に有望であることを示唆する。",
+      "disease": "parkinson",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42821850",
       "doi": "10.1212/WNL.0000000000218583",
       "title": "Association of Skin Denervation With Brain Atrophy and Cognitive Impairment in Patients With Parkinson Disease.",

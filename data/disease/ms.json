@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42842889",
+      "doi": "10.1212/WNL.0000000000218508",
+      "title": "Comparative Effectiveness of Treatments for Relapse Prevention in Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease.",
+      "abstract": "The most effective treatment strategy to prevent relapses after a first myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) event remains unclear. Our objective was to evaluate the comparative effectiveness of maintenance therapies in preventing relapses in pediatric-onset MOGAD. We analyzed prospectively collected data from November 2011 to August 2023 across 13 US pediatric neuroimmunology centers. Eligible patients had demyelinating disease onset before age 18 years, confirmed MOG-IgG positivity through cell-based assay, and negative aquaporin-4 IgG. Maintenance therapies were defined as ≥90 consecutive days of treatment and included IV immunoglobulin (IVIG), anti-CD20 therapy, oral corticosteroids, and other immunosuppressants. Two complementary approaches were used: (1) a primary full-course analysis using time-varying Cox proportional hazards models, adjusted for a priori-selected confounders, accounting for treatment changes throughout the disease course, and (2) a secondary early-course analysis using 1:1 propensity score-matched Cox models for the first qualifying treatment initiated within 90 days of onset, applying an intention-to-treat framework to minimize immortal time bias. Among 312 patients (58% female; mean age at onset 8.9 ± 4.2 years), 145 (46%) experienced at least 1 relapse during a median follow-up of 2.53 years (interquartile range 0.75-5.26). In the full-course analysis, IVIG was associated with a statistically significant 46% reduction in relapse risk (hazard ratio [HR] 0.54; 95% CI 0.31-0.93;  In this large, prospective, multicenter pediatric MOGAD cohort, IVIG was the only treatment consistently associated with reduced relapse risk across both analytical approaches, supporting its potential role as first-line maintenance therapy. Anti-CD20 therapy showed directional trends warranting further investigation. Key limitations include potential residual confounding by indication and small sample sizes in certain treatment categories. Randomized controlled trials are needed to confirm these findings.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842889/",
+      "summary_ja": "背景：ミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）の初発後の再発予防に最も効果的な治療法は不明である。  \n方法：2011年11月から2023年8月までに米国13の小児神経免疫学センターで前向きに収集されたデータを用い、18歳未満でMOG-IgG陽性かつアクアポリン4-IgG陰性の小児発症MOGAD患者312名を対象に、IVIG、抗CD20療法、経口ステロイド、その他免疫抑制剤の維持療法（90日以上連続投与）による再発予防効果を比較。時間依存性Coxモデルと傾向スコアマッチングを用いた解析を実施。  \n結果：中央値2.53年の追跡期間中、46％が再発。IVIGは再発リスクを46％有意に低減（HR 0.54、95％CI 0.31-0.93）。抗CD20療法も再発抑制の傾向を示したが統計的有意性はなかった。  \n結論：小児MOGADにおいて、IVIGは再発予防に最も有効な維持療法として示唆される。抗CD20療法の効果も今後の検証が必要である。残存交絡やサンプルサイズの制約があり、ランダム化比較試験による検証が望まれる。",
+      "summary_short_ja": "小児発症MOG抗体関連疾患（MOGAD）の再発予防における維持療法の効果を13施設で312例を対象に検討した。中央値2.53年の追跡で、IVIGは再発リスクを46％有意に低減し、最も効果的な治療法と判明した。抗CD20療法も有望だがさらなる検証が必要。結果は観察研究のため、無作為化試験による確認が望まれる。",
+      "disease": "ms",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42832743",
       "doi": "10.1212/WNL.0000000000218545",
       "title": "Ofatumumab vs Ocrelizumab in Relapsing-Remitting Multiple Sclerosis: A Nationwide Cohort Study.",

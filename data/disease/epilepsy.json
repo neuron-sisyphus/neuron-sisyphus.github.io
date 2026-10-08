@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42842852",
+      "doi": "10.1212/WNL.0000000000218679",
+      "title": "Contraceptive and Enzyme-Inducing Antiseizure Medication Coprescription Among US Medicaid Beneficiaries With Epilepsy.",
+      "abstract": "People with epilepsy of child-bearing potential (PWECP) require access to highly effective contraception, yet many antiseizure medications (ASMs) can reduce the effectiveness of some hormonal methods by inducing hepatic enzymes. In this retrospective cohort study, we aimed to identify the proportion of PWECP prescribed a susceptible hormonal contraceptive method who were concurrently prescribed an interacting ASM and patient characteristics associated with coprescription. We obtained Medicaid claims data from 2016 to 2021 for female beneficiaries and defined a cohort of people with epilepsy on ASMs prescribed at least 1 method of hormonal contraception susceptible to hepatic enzyme induction. Using prescription fill dates and contraceptive procedure dates, we identified periods of inducing ASM and susceptible contraceptive overlap lasting at least 14 days. We used descriptive statistics to calculate the proportion experiencing overlap and median days of overlap. We used logistic regression to identify associated patient characteristics with any 14-day period of overlap and binominal regression to identify characteristics associated with greater proportion of overlap days. Our cohort included 110,976 PWECP (median age 24 [interquartile range 18-30] years, 54.8% White non-Hispanic). Of those, 21,923 were prescribed a susceptible contraceptive method from 2018 to 2021. In that group, 7,154 (32.6%) had at least a 14-day period of overlap with an enzyme-inducing ASM. The median days of overlap for this group were 218 days (interquartile range 74-511). Patient characteristics associated with both any period of overlap and longer periods of overlap included intellectual disability (any overlap: adjusted odds ratio [aOR] 2.33, 95% CI 2.19-2.48; longer overlap: 2.27, 95% CI 2.05-2.53), drug-resistant epilepsy (any overlap: aOR 1.73, 95% CI 1.62-1.84; longer overlap: 1.27, 95% CI 1.14-1.41), and age older than 35 years compared with 19-34 years (any overlap: 1.45, 95% CI 1.32-1.59; longer overlap: 1.51, 95% CI 1.29-1.75). Drug interactions with ASMs leading to reduced contraceptive effectiveness are common among PWECP prescribed susceptible hormonal contraception. Certain populations, including those with intellectual disability, drug-resistant epilepsy, or age older than 35 years, were more likely to experience these drug interactions. Limitations include that our data set lacks information on adherence, counseling, pregnancy intentions, sexual orientation and activity, and barrier use.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842852/",
+      "summary_ja": "背景：生殖年齢のてんかん患者（PWECP）は効果的な避妊が必要だが、多くの抗てんかん薬（ASM）は肝酵素誘導によりホルモン避妊薬の効果を低下させる可能性がある。  \n方法：2016～2021年の米国メディケイド請求データを用い、ホルモン避妊薬を処方されたPWECPのうち、酵素誘導性ASMと14日以上重複して処方された割合と関連患者特性を後ろ向きコホート研究で分析した。  \n結果：11万9876人のPWECPのうち、2018～2021年に2万1923人が感受性のあるホルモン避妊薬を処方され、そのうち7154人（32.6％）が酵素誘導ASMと14日以上重複していた。重複期間の中央値は218日であった。知的障害、薬剤抵抗性てんかん、35歳以上の年齢が重複処方のリスク因子であった。  \n結論：感受性ホルモン避妊薬を処方されたPWECPにおいて、ASMとの薬物相互作用による避妊効果低下が頻繁に起こっている。特に知的障害や薬剤抵抗性てんかん、年長者でリスクが高い。データは服薬遵守や避妊カウンセリング情報を欠く点が限界である。",
+      "summary_short_ja": "米国メディケイド受給者の生殖年齢のてんかん患者（PWECP）を対象に、肝酵素誘導性抗てんかん薬（ASM）とホルモン避妊薬の併用状況を調査した。2018～2021年にホルモン避妊薬を処方されたPWECPの32.6％が少なくとも14日間ASMと重複服用しており、重複期間の中央値は218日であった。知的障害、薬剤抵抗性てんかん、35歳以上の患者で重複服用のリスクが高かった。薬物相互作用による避妊効果低下が広く認められ、注意が必要である。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42803131",
       "doi": "10.1111/ane.13510",
       "title": "Continuous Versus Routine EEG in Critically Ill Patients Without Primary Neurologic Condition: Analysis of a Randomized Controlled Trial.",

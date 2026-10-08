@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-08",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42842855",
+      "doi": "10.1212/WNL.0000000000218682",
+      "title": "Physical Activity and Motor and Cognitive Progression in Parkinson Disease: A Longitudinal Cohort Study.",
+      "abstract": "Evidence for the effect of physical activity on disease progression in Parkinson disease (PD) remains limited. We aimed to examine whether physical activity is associated with the rate of motor and cognitive progression in PD and to identify specific components of physical activity underlying these associations. In this longitudinal cohort study, we analyzed data from individuals with mild-to-moderate PD enrolled in the Cincinnati Cohort Biomarker Program between January 2019 and February 2025. Physical activity was assessed using standardized interviews and quantified as total physical activity time (TPT), total physical activity volume (TPV), and vigorous physical activity time (VPT). Longitudinal associations between physical activity and annual changes in Movement Disorder Society-Unified Parkinson's Disease Rating Scale, part III (MDS-UPDRS-III; higher is worse) and Montreal Cognitive Assessment (MoCA; higher is better) scores were assessed using linear mixed-effects models adjusted for demographic and disease-related covariates. We compared predicted severity trajectories across tertiles of TPT and used residualized analyses to evaluate the independent effects of activity intensity and timing. A total of 294 individuals with PD (mean age, 66.4 years; 33.0% female) were included, with up to 5 years of follow-up for MoCA and 7 years for MDS-UPDRS-III. Higher TPT, TPV, and VPT were each associated with slower cognitive decline and motor progression. The annual MoCA change was -0.478, -0.090, and -0.007 points in the low, mid, and high TPT tertiles, respectively, with corresponding annual MDS-UPDRS-III changes of 0.143, -0.225, and -0.783. Compared with the lowest tertile, the highest tertile showed slower cognitive (β = 0.470; 95% CI 0.203-0.737;  Higher levels of physical activity were associated with slower cognitive and motor progression in PD. The beneficial associations of moderate-to-vigorous physical activity may be related to activity duration and ongoing engagement. Limitations include the observational design, self-reported physical activity, and potential selection bias.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842855/",
+      "summary_ja": "背景：パーキンソン病（PD）における身体活動が病状進行に与える影響は十分に解明されていない。  \n方法：軽度から中等度のPD患者294名（平均年齢66.4歳、女性33%）を対象に、2019年から2025年までの縦断的コホート研究を実施。身体活動は標準化面接で評価し、総活動時間（TPT）、総活動量（TPV）、強度の高い活動時間（VPT）として定量化。運動機能はMDS-UPDRS-III、認知機能はMoCAで評価し、線形混合効果モデルで身体活動と年次変化の関連を解析した。  \n結果：TPT、TPV、VPTのいずれも高い群で認知機能低下および運動機能悪化の進行が有意に遅かった。例えば、MoCAの年次変化は低TPT群で-0.478点、中間群で-0.090点、高TPT群で-0.007点であった。  \n結論：中等度から高強度の身体活動の増加と継続的な実践は、PDにおける認知・運動機能の進行抑制に寄与する可能性が示された。ただし、観察研究で自己申告による身体活動評価の限界や選択バイアスの影響は考慮が必要である。",
+      "summary_short_ja": "パーキンソン病（PD）患者294名を対象とした縦断的研究で、身体活動量の多さが認知機能低下および運動機能悪化の進行を遅らせることが示された。特に中強度から高強度の身体活動の時間と継続的な実施が効果的であった。観察研究で自己申告による身体活動評価の限界はあるが、身体活動の促進がPDの進行抑制に有望であることを示唆する。",
+      "disease": "parkinson",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42842854",
+      "doi": "10.1212/WNL.0000000000218518",
+      "title": "Portable Ultra-Low-Field MRI in Neurologic Diseases: Current Status and Potential in Clinical Practice, Research, and Trials.",
+      "abstract": "Neurologic diseases are highly prevalent, and MRI plays a crucial role in their diagnosis, prognosis, and treatment monitoring. Conventional MRI at high magnetic field strength (≥1.5 tesla) is one of the most widely used modalities in clinical practice and a common outcome measure in clinical trials. Despite its importance and effectiveness, challenges, such as high cost, limited accessibility, and disease-related constraints, can hinder its widespread use. Recent advancements in portable ultra-low-field (<0.1 tesla) MRI technology offer potential solutions by enabling point-of-care brain imaging for neurologic diseases. However, the substantially lower magnetic field strength results in lower signal-to-noise ratio, reduced spatial resolution, and more limited imaging contrast, although ongoing computational approaches aim to mitigate some of these limitations. In this narrative review, we examine current evidence on applications of portable ultra-low-field MRI to neurologic disorders, discussing the technology's utility, limitations, and clinical implications. In addition, we highlight key open research questions and future opportunities for further integration of this emerging technology.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842854/",
+      "summary_ja": "背景：神経疾患は高頻度で発症し、診断や予後評価、治療効果のモニタリングにMRIが重要な役割を果たしている。従来の高磁場MRI（≥1.5テスラ）は臨床や試験で広く用いられるが、高コストやアクセス制限などの課題がある。  \n方法：本論文は、携帯型の超低磁場MRI（<0.1テスラ）技術の現状をレビューし、その神経疾患への応用可能性を検討した。超低磁場MRIは現場での脳画像取得を可能にする一方、信号対雑音比の低下や空間分解能の制限があるが、計算技術での改善も進んでいる。  \n結果：携帯型超低磁場MRIは、従来MRIの課題を補完しうる技術として期待されるが、画像品質やコントラストの制約が依然として存在する。臨床応用や研究、治験における有用性と限界が示された。  \n結論：携帯型超低磁場MRIは神経疾患診療に新たな可能性をもたらすが、技術的課題の克服やさらなる研究が必要であり、今後の発展と臨床統合に向けた検討が求められる。",
+      "summary_short_ja": "神経疾患の診断や治療評価に不可欠なMRIは、高磁場（≥1.5テスラ）が主流だが、高コストやアクセス制限が課題である。近年、携帯型超低磁場（<0.1テスラ）MRIが開発され、現場での脳画像取得が可能となった。低磁場による画質低下はあるものの、計算技術で改善が進む。本論文は、この技術の現状、利点・限界、臨床応用の可能性と今後の研究課題を概説している。",
+      "disease": "other",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42842852",
+      "doi": "10.1212/WNL.0000000000218679",
+      "title": "Contraceptive and Enzyme-Inducing Antiseizure Medication Coprescription Among US Medicaid Beneficiaries With Epilepsy.",
+      "abstract": "People with epilepsy of child-bearing potential (PWECP) require access to highly effective contraception, yet many antiseizure medications (ASMs) can reduce the effectiveness of some hormonal methods by inducing hepatic enzymes. In this retrospective cohort study, we aimed to identify the proportion of PWECP prescribed a susceptible hormonal contraceptive method who were concurrently prescribed an interacting ASM and patient characteristics associated with coprescription. We obtained Medicaid claims data from 2016 to 2021 for female beneficiaries and defined a cohort of people with epilepsy on ASMs prescribed at least 1 method of hormonal contraception susceptible to hepatic enzyme induction. Using prescription fill dates and contraceptive procedure dates, we identified periods of inducing ASM and susceptible contraceptive overlap lasting at least 14 days. We used descriptive statistics to calculate the proportion experiencing overlap and median days of overlap. We used logistic regression to identify associated patient characteristics with any 14-day period of overlap and binominal regression to identify characteristics associated with greater proportion of overlap days. Our cohort included 110,976 PWECP (median age 24 [interquartile range 18-30] years, 54.8% White non-Hispanic). Of those, 21,923 were prescribed a susceptible contraceptive method from 2018 to 2021. In that group, 7,154 (32.6%) had at least a 14-day period of overlap with an enzyme-inducing ASM. The median days of overlap for this group were 218 days (interquartile range 74-511). Patient characteristics associated with both any period of overlap and longer periods of overlap included intellectual disability (any overlap: adjusted odds ratio [aOR] 2.33, 95% CI 2.19-2.48; longer overlap: 2.27, 95% CI 2.05-2.53), drug-resistant epilepsy (any overlap: aOR 1.73, 95% CI 1.62-1.84; longer overlap: 1.27, 95% CI 1.14-1.41), and age older than 35 years compared with 19-34 years (any overlap: 1.45, 95% CI 1.32-1.59; longer overlap: 1.51, 95% CI 1.29-1.75). Drug interactions with ASMs leading to reduced contraceptive effectiveness are common among PWECP prescribed susceptible hormonal contraception. Certain populations, including those with intellectual disability, drug-resistant epilepsy, or age older than 35 years, were more likely to experience these drug interactions. Limitations include that our data set lacks information on adherence, counseling, pregnancy intentions, sexual orientation and activity, and barrier use.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842852/",
+      "summary_ja": "背景：生殖年齢のてんかん患者（PWECP）は効果的な避妊が必要だが、多くの抗てんかん薬（ASM）は肝酵素誘導によりホルモン避妊薬の効果を低下させる可能性がある。  \n方法：2016～2021年の米国メディケイド請求データを用い、ホルモン避妊薬を処方されたPWECPのうち、酵素誘導性ASMと14日以上重複して処方された割合と関連患者特性を後ろ向きコホート研究で分析した。  \n結果：11万9876人のPWECPのうち、2018～2021年に2万1923人が感受性のあるホルモン避妊薬を処方され、そのうち7154人（32.6％）が酵素誘導ASMと14日以上重複していた。重複期間の中央値は218日であった。知的障害、薬剤抵抗性てんかん、35歳以上の年齢が重複処方のリスク因子であった。  \n結論：感受性ホルモン避妊薬を処方されたPWECPにおいて、ASMとの薬物相互作用による避妊効果低下が頻繁に起こっている。特に知的障害や薬剤抵抗性てんかん、年長者でリスクが高い。データは服薬遵守や避妊カウンセリング情報を欠く点が限界である。",
+      "summary_short_ja": "米国メディケイド受給者の生殖年齢のてんかん患者（PWECP）を対象に、肝酵素誘導性抗てんかん薬（ASM）とホルモン避妊薬の併用状況を調査した。2018～2021年にホルモン避妊薬を処方されたPWECPの32.6％が少なくとも14日間ASMと重複服用しており、重複期間の中央値は218日であった。知的障害、薬剤抵抗性てんかん、35歳以上の患者で重複服用のリスクが高かった。薬物相互作用による避妊効果低下が広く認められ、注意が必要である。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42842889",
+      "doi": "10.1212/WNL.0000000000218508",
+      "title": "Comparative Effectiveness of Treatments for Relapse Prevention in Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease.",
+      "abstract": "The most effective treatment strategy to prevent relapses after a first myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD) event remains unclear. Our objective was to evaluate the comparative effectiveness of maintenance therapies in preventing relapses in pediatric-onset MOGAD. We analyzed prospectively collected data from November 2011 to August 2023 across 13 US pediatric neuroimmunology centers. Eligible patients had demyelinating disease onset before age 18 years, confirmed MOG-IgG positivity through cell-based assay, and negative aquaporin-4 IgG. Maintenance therapies were defined as ≥90 consecutive days of treatment and included IV immunoglobulin (IVIG), anti-CD20 therapy, oral corticosteroids, and other immunosuppressants. Two complementary approaches were used: (1) a primary full-course analysis using time-varying Cox proportional hazards models, adjusted for a priori-selected confounders, accounting for treatment changes throughout the disease course, and (2) a secondary early-course analysis using 1:1 propensity score-matched Cox models for the first qualifying treatment initiated within 90 days of onset, applying an intention-to-treat framework to minimize immortal time bias. Among 312 patients (58% female; mean age at onset 8.9 ± 4.2 years), 145 (46%) experienced at least 1 relapse during a median follow-up of 2.53 years (interquartile range 0.75-5.26). In the full-course analysis, IVIG was associated with a statistically significant 46% reduction in relapse risk (hazard ratio [HR] 0.54; 95% CI 0.31-0.93;  In this large, prospective, multicenter pediatric MOGAD cohort, IVIG was the only treatment consistently associated with reduced relapse risk across both analytical approaches, supporting its potential role as first-line maintenance therapy. Anti-CD20 therapy showed directional trends warranting further investigation. Key limitations include potential residual confounding by indication and small sample sizes in certain treatment categories. Randomized controlled trials are needed to confirm these findings.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842889/",
+      "summary_ja": "背景：ミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）の初発後の再発予防に最も効果的な治療法は不明である。  \n方法：2011年11月から2023年8月までに米国13の小児神経免疫学センターで前向きに収集されたデータを用い、18歳未満でMOG-IgG陽性かつアクアポリン4-IgG陰性の小児発症MOGAD患者312名を対象に、IVIG、抗CD20療法、経口ステロイド、その他免疫抑制剤の維持療法（90日以上連続投与）による再発予防効果を比較。時間依存性Coxモデルと傾向スコアマッチングを用いた解析を実施。  \n結果：中央値2.53年の追跡期間中、46％が再発。IVIGは再発リスクを46％有意に低減（HR 0.54、95％CI 0.31-0.93）。抗CD20療法も再発抑制の傾向を示したが統計的有意性はなかった。  \n結論：小児MOGADにおいて、IVIGは再発予防に最も有効な維持療法として示唆される。抗CD20療法の効果も今後の検証が必要である。残存交絡やサンプルサイズの制約があり、ランダム化比較試験による検証が望まれる。",
+      "summary_short_ja": "小児発症MOG抗体関連疾患（MOGAD）の再発予防における維持療法の効果を13施設で312例を対象に検討した。中央値2.53年の追跡で、IVIGは再発リスクを46％有意に低減し、最も効果的な治療法と判明した。抗CD20療法も有望だがさらなる検証が必要。結果は観察研究のため、無作為化試験による確認が望まれる。",
+      "disease": "ms",
+      "section": "treatment"
+    }
+  ]
+}
