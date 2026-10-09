@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42848968",
+      "doi": "10.1212/WNL.0000000000218469",
+      "title": "Relationship Between Braak and Clinical Stage in Autopsy-Confirmed Parkinson Disease: A UK Brain Bank Study.",
+      "abstract": "The gold standard for Parkinson disease (PD) diagnosis is postmortem examination, based on the presence and distribution of pathologic α-synuclein (Lewy pathology) across brain regions. Whether pathologic α-synuclein Braak staging reflects clinical disease progression remains uncertain. We examined the relationship between Braak stage with clinical indices of PD progression in an autopsy-proven cohort. We performed a retrospective clinicopathologic analysis of autopsy-confirmed PD cases from the Parkinson's UK Brain Bank (Imperial College London). Clinical records were systematically reviewed to extract age at symptom onset, disease duration, brain weight, Hoehn and Yahr (H&Y) stage at death, and key clinical features. Normality was assessed using Shapiro-Wilk tests; comparisons across Braak stages used Kruskal-Wallis tests. Correlations with Braak stage were examined using Spearman correlation with 95% CIs. Prevalence of major copathologies was summarized descriptively. Of 119 clinically diagnosed PD cases, we included all 61 with autopsy confirmation and available Braak staging. Mean ± SD age at death was 79.1 ± 7.4 years, disease duration was 13.5 ± 5.8 years, H&Y stage at death was 4.0 ± 0.8, and brain weight was 1,234.2 ± 108 g. Braak stage was not correlated with H&Y at death (ρ = 0.146, 95% CI -0.11 to 0.39,  Braak stage was not associated with H&Y at death, disease duration, age at death, or brain weight in autopsy-proven PD patients. These findings provide evidence that pathologic α-synuclein-based staging does not represent a model of clinical progression in PD. The quantification of both monomeric and pathologic α-synuclein may be needed to overcome the clinical limitations of pathology-based staging.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42848968/",
+      "summary_ja": "背景：パーキンソン病（PD）の診断のゴールドスタンダードは、死後の脳検査による病理的α-シヌクレイン（レビー病変）の分布評価であるが、Braak病期が臨床的進行を反映するかは不明である。  \n方法：英国パーキンソンズUK脳バンクの自験例を対象に、死後確認されたPD症例61例の臨床記録を遡及的に解析。発症年齢、病期（Hoehn and Yahrスケール）、病理学的Braak病期、脳重量などを抽出し、統計的に関連性を検討した。  \n結果：平均死亡年齢79.1歳、病期4.0、病歴13.5年の症例で、Braak病期はHoehn and Yahr病期、病歴期間、死亡年齢、脳重量と有意な相関を示さなかった（ρ=0.146、95%CI -0.11～0.39）。  \n結論：病理的α-シヌクレインに基づくBraak病期は、PDの臨床進行を反映するモデルとは言えない。臨床的評価には、単量体および病理的α-シヌクレインの定量化が必要と示唆された。",
+      "summary_short_ja": "本研究は、英国パーキンソン病脳バンクの剖検確定例61例を対象に、病理的α-シヌクレインのBraakステージと臨床進行指標（Hoehn and Yahrステージ、病期、死亡時年齢、脳重量）との関連を検討した。結果、Braakステージは臨床進行度と有意な相関を示さず、病理学的ステージングが臨床進行を反映しないことを示唆した。今後は単量体および病理的α-シヌクレインの定量化が必要とされる。",
+      "disease": "parkinson",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42842855",
       "doi": "10.1212/WNL.0000000000218682",
       "title": "Physical Activity and Motor and Cognitive Progression in Parkinson Disease: A Longitudinal Cohort Study.",

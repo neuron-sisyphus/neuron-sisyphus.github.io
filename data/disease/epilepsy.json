@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42848964",
+      "doi": "10.1212/WNL.0000000000218597",
+      "title": "Emergency Department Visits for Falls and First-Time Seizure.",
+      "abstract": "Unrecognized seizures occur in up to 77% of individuals with epilepsy, leading to delays in diagnosis with significant consequences including injury, mortality, impaired psychosocial functioning, and negative socioeconomic impacts. Falls are a common reason to present to the emergency department (ED) and may be a sentinel sign of an unrecognized seizure. Whether falls represent missed opportunities for earlier seizure recognition remains unknown. We therefore evaluated the temporal association between ED visits for falls and first-time seizure. We conducted a retrospective case-crossover study using the State Inpatient Databases and State Emergency Department Databases from 11 states (Arkansas, Florida, Georgia, Iowa, Massachusetts, Maryland, Nebraska, New York, Utah, Vermont, and Wisconsin) between 2016 and 2021. Adults aged 18 years and older with an acute care visit for a first-time seizure were identified using ICD-10 codes. Using patients as their own controls, we applied conditional logistic regression to compare the odds of an ED visit for a fall during prespecified case periods preceding the seizure (1-7, 8-30, 31-90, and 91-180 days prior) vs corresponding control periods 1 year earlier. Prespecified intervals were selected to assess graded temporal proximity. There were 57,547 patients with a first-time seizure and 7,307 patients (mean age 49.3 years and 55.2% female) with at least one prior ED visit for a fall during the case or control periods. ED visits for a fall were more common in case compared with control periods, with the highest odds in the 7 days immediately before the acute care visit for first-time seizure (OR = 2.6, 95% CI 2.2-3.2). In a week-by-week analysis, the association persisted up to 22 weeks before seizure, demonstrating temporal attenuation as time from the event increased. These findings were consistent across age and sex strata and after excluding those who had traumatic brain injury. In analyses restricted to first-time status epilepticus, the association in the 7 days preceding seizure was most pronounced (OR = 4.5, 95% CI 2.5-9.0). ED visits for falls are more common immediately preceding first-time seizure, potentially representing missed opportunities for earlier diagnosis, evaluation, and intervention. Prospective studies are needed to clarify the underlying mechanisms and clinical implications.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42848964/",
+      "summary_ja": "背景：てんかん患者の最大77％で発作が見逃され、診断遅延により負傷や死亡、社会的機能障害など深刻な影響が生じる。転倒は救急外来受診の一般的な理由であり、未認識の発作の前兆である可能性があるが、その関連性は不明であった。  \n方法：2016～2021年の11州の入院・救急データベースを用い、18歳以上の初回発作患者57,547人を対象に、発作前の転倒による救急受診の頻度を患者自身を対照とした症例交差研究で評価。発作前1～7日、8～30日、31～90日、91～180日の期間と1年前の同期間を比較した。  \n結果：7,307人が発作前後に転倒で救急受診しており、発作直前7日間の転倒受診は発作時より2.6倍多かった（95％CI 2.2-3.2）。この関連は最大22週間前まで持続し、年齢・性別や外傷性脳損傷除外後も一貫。初回重積発作では直前7日間の関連が最も強く（OR=4.5、95％CI 2.5-9.0）認められた。  \n結論：転倒による救急受診は初回発作直前に増加し、早期診断や介入の機会逸失を示唆する。今後、機序解明と臨床的意義を明らかにする前向き研究が必要である。",
+      "summary_short_ja": "初発てんかん発作患者の救急外来受診データを解析した結果、発作直前の7日間に転倒による受診が有意に増加（OR=2.6）し、最大22週間前まで関連が認められた。特に初回てんかん重積状態では関連が強く（OR=4.5）、転倒は未診断てんかんの早期発見の機会を示唆する。転倒を契機とした早期診断・介入の重要性が示され、今後の前向き研究が求められる。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42842852",
       "doi": "10.1212/WNL.0000000000218679",
       "title": "Contraceptive and Enzyme-Inducing Antiseizure Medication Coprescription Among US Medicaid Beneficiaries With Epilepsy.",
