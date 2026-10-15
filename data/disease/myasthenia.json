@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42868333",
+      "doi": "10.1212/WNL.0000000000218557",
+      "title": "Disease Control in Generalized Myasthenia Gravis: Consensus Definition, Evolution, and Patient Characterization.",
+      "abstract": "Generalized myasthenia gravis (gMG) is a chronic fluctuating neuromuscular disease. Some patients keep experiencing symptoms or adverse events (AEs) despite tailored therapeutic schemes. The aim of this study was to characterize adequately controlled gMG and describe patients' evolution and outcomes, including estimated direct health costs in a universal health care system. Spanish expert neurologists developed a definition of adequately controlled gMG using Delphi methodology. This was applied to an existing cohort of patients recently diagnosed with gMG during 1998-2020 in a Spanish referral neuromuscular diseases' unit. Control status, clinical outcomes, AEs, and health care resource utilization (HCRU) were described biennially. We assessed 220 patients diagnosed with gMG (54.5% women; mean age at onset of 58 years; 84% anti-AChR, 6% anti-MuSK, 10% seronegative). Adequately controlled gMG was defined as achieving Myasthenia Gravis Foundation of America Post-Intervention Status classification of clinical stable remission, pharmacologic remission, or minimal manifestations stable for a year; having an MG-ADL score ≤2; experiencing no clinical exacerbations during the last year requiring a change in immunosuppressive therapy or rescue therapy; and having no or mild AE to therapies (100% of experts in agreement or total agreement). The proportion adequately controlled (AC) patients increased from 62.0% at 2 years after first visit to 81.9% after 8 years of follow-up. 47.3% of patients remained AC in every observation, and 17.7% remained not adequately controlled (NC) in every observation. No features were significantly associated with adequate control. AE-related drug interruption rates were higher in NC patients (ranging from 50% to 100% during the study). The mean cost per patient/year ranged from 2,718.6€ in the first biennial period to 843.1€ in the last biennial period for AC patients and from 10,190.1€ to 5,827.4€ for NC patients. Based on the new gMG control consensus definition, almost 1 in 5 patients do not reach disease control even after 8 years of evolution. Those patients lacked specific clinical features, underscoring the unpredictability of the gMG course. Burden of AE-related drug interruptions, HCRU, and costs per patients/year were higher among those patients NC. However, our study is unicentric and included patients from a referral unit, with a possible overrepresentation of NC patients.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42868333/",
+      "summary_ja": "背景：全身性重症筋無力症（gMG）は慢性的で症状が変動する神経筋疾患であり、一部の患者は適切な治療を受けても症状や副作用が続く。  \n方法：スペインの神経内科専門医がデルファイ法で「適切にコントロールされたgMG」の定義を作成し、1998～2020年に診断された220例の患者データに適用。2年ごとに病状、臨床転帰、副作用、医療資源利用を評価した。  \n結果：適切にコントロールされたgMGは、臨床的安定寛解や最小症状状態が1年以上続き、MG-ADLスコアが2以下、副作用が軽度で免疫抑制療法の変更が不要な状態と定義。2年後の62.0%から8年後には81.9%が適切にコントロールされ、47.3%は全期間安定。副作用による薬剤中断は非コントロール群で多く、年間医療費も非コントロール群で高かった。  \n結論：新定義により約2割の患者は8年経過後も病態が十分に制御されず、特異的な臨床特徴は認められなかった。副作用や医療費負担が高いことから、gMGの経過は予測困難であり、さらなる管理改善が必要である。",
+      "summary_short_ja": "全身性重症筋無力症（gMG）の適切な疾患コントロールの定義をスペインの専門家がデルファイ法で策定し、1998～2020年に診断された220例を対象に経過と臨床結果、医療費を解析した。適切コントロール患者は2年後62.0％から8年後81.9％に増加したが、約2割は8年間コントロール不良であった。コントロール不良群は副作用による治療中断や医療資源利用、医療費が高く、gMGの経過予測の難しさが示された。",
+      "disease": "myasthenia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42579824",
       "doi": "10.1212/WNL.0000000000218301",
       "title": "Accuracy of Antibody Testing in Myasthenia Gravis: The ADAM Study.",
