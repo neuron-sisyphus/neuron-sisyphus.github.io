@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-16",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42874008",
+      "doi": "10.1212/WNL.0000000000218700",
+      "title": "Association Between Epilepsy and Young-Onset Dementia: Nationwide Data From France and Sweden.",
+      "abstract": "Epilepsy is linked to late-onset dementia, but evidence for young-onset dementia (YOD; <65 years) is limited. We assessed the epilepsy-YOD association in France and Sweden and YOD risk after midlife epilepsy. We conducted 3 nationwide analyses. A French nested case-control analysis included patients with incident YOD aged 40-64 years, diagnosed between January 1, 2016, and December 31, 2018. Index date was the first YOD-related health care event; controls were risk-set matched on age, sex, and region. A Swedish nested case-control replication included patients with YOD diagnosed between January 1, 1987, and December 31, 2016, with matched controls. In both studies, epilepsy-related diagnoses and antiseizure medication (ASM) dispensations were assessed up to 10 years before index date. Odds ratios (ORs) were estimated with conditional logistic regression. A French retrospective cohort included adults aged 30-55 years with incident epilepsy in 2008, matched to individuals with prevalent epilepsy before 2008 or no epilepsy. The cohort index was the first ASM reimbursement in the incident epilepsy group or the matched date for comparators. Follow-up ended at YOD, death, or 10 years. We estimated 10-year cumulative incidence and adjusted (comorbidities, deprivation) hazard ratios (HRs), treating death as a competing event. Sensitivity analyses included lagged entry up to 5 years. Case-control studies included 11,360 cases and 113,600 controls in France and 16,433 cases and 164,330 controls in Sweden. In France, 12.5% of YOD cases vs 1.2% of controls had previous epilepsy-related codes (adjusted OR 3.76, 95% CI 3.42-4.14), and 27.3% vs 10.3% had ASM dispensations (adjusted OR 1.44, 95% CI 1.36-1.52). The French cohort included 12,901 individuals with incident epilepsy, 64,083 with prevalent epilepsy, and 129,010 without epilepsy (mean age 44.0 years; 55.5% female participants). Ten-year cumulative YOD incidence was 2.20% (95% CI 1.94-2.48) with incident epilepsy (adjusted HR compared with individuals without epilepsy 6.02, 95% CI 4.98-7.26), 1.74% (1.64-1.85) with prevalent epilepsy (adjusted HR 5.38, 95% CI 4.64-6.25), and 0.21% (0.19-0.24) without epilepsy. Associations attenuated with longer lags but persisted beyond 5 years. Across 2 countries and complementary designs, epilepsy was strongly associated with YOD. Epilepsy conferred higher YOD risk in midlife, especially with multimorbidity, supporting epilepsy inclusion in YOD risk stratification and prevention.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874008/",
+      "summary_ja": "背景：てんかんは高齢発症認知症と関連があるが、65歳未満の若年発症認知症（YOD）との関連は不明瞭である。  \n方法：フランスとスウェーデンの全国データを用い、YOD患者と年齢・性別・地域でマッチした対照群を比較するネストケースコントロール研究と、フランスの30～55歳の新規てんかん患者を対象とした後ろ向きコホート研究を実施。てんかん診断や抗てんかん薬処方歴を最大10年前まで遡り、条件付きロジスティック回帰やハザード比で関連を評価した。  \n結果：フランスのケースコントロールでは、YOD患者の12.5%が過去にてんかん診断コードを持ち、対照の1.2%を大きく上回った（調整後オッズ比3.76）。抗てんかん薬処方もYOD群で有意に多かった。コホート研究では、新規てんかん患者の10年累積YOD発症率は2.20%で、てんかんなし群の0.21%に比べて有意に高く（調整後ハザード比6.02）、多疾患併存でリスクはさらに増加した。関連は5年以上遡っても持続。  \n結論：てんかんは若年発症認知症の強いリスク因子であり、中年期のてんかん患者におけるYODリスク評価や予防戦略にてんかんを組み込むことが重要である。",
+      "summary_short_ja": "フランスとスウェーデンの全国データを用いた解析で、てんかん患者は40～64歳の若年性認知症（YOD）リスクが有意に高いことが示された。フランスのコホート研究では、てんかん発症後10年以内のYOD累積発症率が2.20％で、てんかんなしの0.21％に比べ6倍以上のリスク増加が認められた。リスクは多疾患併存でさらに高まり、てんかんがYODのリスク評価と予防に重要であることを示唆する。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    }
+  ]
+}
