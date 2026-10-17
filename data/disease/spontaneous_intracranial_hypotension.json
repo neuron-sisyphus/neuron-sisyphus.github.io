@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42886874",
+      "doi": "10.1212/WNL.0000000000218638",
+      "title": "Recommendations for the Management of Spontaneous Intracranial Hypotension With Spinal Longitudinal Epidural CSF Collection: A Delphi Study.",
+      "abstract": "Spontaneous intracranial hypotension (SIH) results from spinal CSF leakage. Epidural blood patch (EBP) is an important first-line treatment. However, pre-EBP, intra-EBP, and post-EBP practice varies widely owing to limited consensus guidance. We aimed to develop expert consensus statements to support clinical decision-making in SIH management, including peri-EBP practices, focusing on patients with spinal longitudinal epidural CSF collection (SLEC) before definitive leak type classification. An international multidisciplinary Delphi process was conducted between January 2024 and July 2025, involving experts in neurology, neurosurgery, radiology, and anesthesiology. Consensus was defined a priori as ≥70% agreement for strong agreement, 60%-69% for partial agreement, and <60% for no consensus, based on a 5-point Likert scale in round 3. Responses were collected anonymously using an online survey platform, with summarized feedback from the previous round provided between rounds. Fourteen experts were invited, with 10, 9, and 9 participants in rounds 1, 2, and 3, respectively. Before EBP, bed rest was recommended for recent-onset SIH with severe orthostatic headache (88.9%); other conservative methods such as abdominal binder and hydration were considered not mandatory (90%). Semitargeted EBP was recommended as initial management for patients with extradural CSF collections (70%). Dynamic CT myelography was preferred for localization (70%). Post-EBP care was variable, particularly in bed rest duration, with most recommendations (70%) exceeding 12 hours. Definitions of clinical remission (80%) and radiologic remission (90%) were established. Radiologic follow-up after clinical remission was recommended (78%). No consensus was reached on follow-up strategies for persistent symptoms, although \"doing nothing\" was not recommended. No consensus was reached for persistent extradural CSF despite clinical remission, requiring an individualized approach. Light activity after EBP was recommended within a few days (70%). No consensus was reached on the optimal number of EBPs before invasive leak localization or surgical intervention. This Delphi study outlines expert recommendations and uncertainties for SIH management, including peri-EBP practices. This study incorporated the initial management strategy for patients in whom leak-type classification was incomplete. However, the treatment section primarily focused on the SLEC-positive setting and presumed ventral dural tears; lateral dural tears and CSF-venous fistulas warrant future consensus development.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886874/",
+      "summary_ja": "【背景】自発性頭蓋内低髄液圧（SIH）は脊髄髄液漏出が原因であり、硬膜外血液パッチ（EBP）が第一選択治療とされるが、EBPの前後の管理法には統一的指針が不足している。特に脊髄縦走性硬膜外髄液貯留（SLEC）患者の治療方針は明確でない。  \n【方法】神経内科、脳神経外科、放射線科、麻酔科の国際専門家14名を対象に、2024年1月～2025年7月にかけてデルファイ法による合意形成を実施。3回の匿名オンライン調査で、5段階リッカート尺度に基づき70%以上の同意を強い合意と定義した。  \n【結果】急性発症の重度起立性頭痛を伴うSIHには安静を推奨（88.9%）、腹部バインダーや水分補給は必須でないとされた（90%）。初期治療は半標的的EBP（70%）、漏出部位特定には動的CTミエログラフィーが好まれた（70%）。EBP後の安静期間は12時間超が多く推奨（70%）。臨床的・画像的寛解の定義が確立（80%、90%）、寛解後の画像フォローも推奨（78%）。持続症状や画像異常の管理には合意が得られず、個別対応が必要とされた。EBP後数日以内の軽い活動は推奨（70%）。侵襲的検査や手術前のEBP回数には合意なし。  \n【結論】本研究はSLEC陽性SIH患者の初期管理を含むEBP周辺の実践指針と未解決課題を示した。側方硬膜裂孔や髄液静脈瘻に関する合意形成は今後の課題である。",
+      "summary_short_ja": "自発性頭蓋内低圧症（SIH）の管理に関し、脊髄縦走硬膜外脳脊髄液貯留（SLEC）患者を対象に、国際専門家によるデルファイ法で合意形成を行った。初期治療は重度の起立性頭痛に対し安静を推奨し、半標的的硬膜外血液パッチ（EBP）を第一選択とした。漏出部位の同定には動的CTミエログラフィーが推奨され、EBP後は軽度活動を数日以内に開始することが望ましい。臨床・画像的寛解基準を設定し、経過観察の重要性を強調したが、持続症状や漏出残存例の対応には個別判断が必要であり、さらなる合意形成が求められる。",
+      "disease": "spontaneous_intracranial_hypotension",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42727040",
       "doi": "10.1212/WNL.0000000000218492",
       "title": "Characteristics of Patients With Bibrachial Amyotrophy Due to Spontaneous Spinal CSF Leaks.",

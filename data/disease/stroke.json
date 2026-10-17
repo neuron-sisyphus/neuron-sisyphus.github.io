@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42886872",
+      "doi": "10.1212/WNL.0000000000218457",
+      "title": "Incidence and Post-Stroke Survival in the Normandy Stroke Population-Based Study (2017-2022): Impact of Time-Based Versus Tissue-Based Definitions.",
+      "abstract": "The 11th edition of the International Classification of Diseases (ICD-11) incorporates a tissue-based definition of stroke and may alter estimates of incidence and outcomes. We assessed whether transitioning from a time-based to a tissue-based definition introduces age-dependent changes in stroke incidence and post-stroke survival. The Normandy Stroke Study is a population-based study using multiple overlapping sources to identify stroke cases in Caen-Normandy-Metropole, France. Events occurring between May 15, 2017, and December 31, 2022, were classified using time-based (symptoms ≥24 hours) and tissue-based definitions (symptoms ≥24 hours or <24 hours with neuroimaging evidence of ischemic injury). Among 3,826 first-ever strokes meeting the tissue-based definition, median (IQR) age was 76 (64-85) years, and 1,932 (50.5%) were female. The age-standardized incidence rate of stroke (95% CI) was 161 (156-166) per 100,000 person-years (ESP2013), including 132 (128-137) for ischemic or undetermined stroke, 22 (20-24) for intracerebral hemorrhage, and 7 (6-8) for subarachnoid hemorrhage. Three-year mortality was 36.4% (95% CI 34.9-38.0). Compared with the time-based definition, the tissue-based definition increased stroke incidence by 6.5% and reduced 3-year mortality by 3.9%. The impact of the tissue-based definition on stroke incidence was greater at younger ages (all strokes: younger than 55 years = +8.5%; 55 years or older = +6.0%; ischemic stroke: younger than 55 years = +12.5%; 55 years or older = +7.3%). Adoption of a tissue-based definition modestly increased stroke incidence and post-stroke survival, with greater impacts at younger ages. Implementation of ICD-11 may introduce age-related differences in temporal trends, highlighting the importance of consistent definitions in stroke surveillance.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886872/",
+      "summary_ja": "背景：ICD-11では脳卒中の定義が時間基準から組織基準へ変更され、発症率や予後の推定に影響を与える可能性がある。  \n方法：フランス・ノルマンディー地域の人口ベースの脳卒中調査（2017-2022年）で、時間基準（症状持続24時間以上）と組織基準（症状持続24時間以上または24時間未満で神経画像で虚血性損傷を確認）による脳卒中発症例を比較した。  \n結果：組織基準での初回脳卒中3,826例の中央値年齢は76歳、女性50.5%。年齢調整発症率は人口10万人年あたり161件で、3年死亡率は36.4%。組織基準は時間基準に比べ発症率を6.5%増加させ、3年死亡率を3.9%低下させた。特に若年層（55歳未満）での発症率増加が顕著であった（全脳卒中で+8.5%、虚血性で+12.5%）。  \n結論：組織基準の導入により脳卒中発症率と生存率が若年層でより大きく変動し、ICD-11の実施は年齢依存的な傾向変化をもたらすため、脳卒中監視には一貫した定義の重要性が示された。",
+      "summary_short_ja": "ノルマンディ脳卒中研究（2017-2022年）で、時間基準（症状持続24時間以上）と組織基準（症状24時間未満でも画像で虚血性損傷確認）による脳卒中定義を比較。組織基準は脳卒中発症率を6.5％増加させ、3年死亡率を3.9％低下させた。特に若年層（55歳未満）での影響が大きく、虚血性脳卒中では12.5％増加。ICD-11の組織基準導入は年齢依存的な発症率・生存率の変化をもたらし、脳卒中監視における定義の一貫性が重要と示唆された。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42879724",
+      "doi": "10.1212/WNL.0000000000218675",
+      "title": "Intracerebral Hemorrhage Expansion in Late Presenters: Proposed Target Expansion Criteria.",
+      "abstract": "The benefit of therapies targeting hematoma expansion (HE) in acute intracerebral hemorrhage (ICH) is highly time dependent and greatest within the first 2 hours after onset. We aimed to develop imaging-based \"target expansion criteria\" to identify late presenters (2-12 hours from onset/last seen well) who remain at high risk of HE. To achieve this goal, a practical risk score (target expansion score) was developed. We conducted a multicenter, international, retrospective cohort study. To mirror a clinical trial population, we excluded patients with brainstem ICH, anticoagulation, and baseline ICH volume >100 mL. The primary outcome was HE (>33%/6 mL). The following imaging predictors of HE were analyzed: high ultra-early hematoma growth (uHG) (baseline volume/onset to imaging time >10 mL/h), hypodensities on noncontrast CT (NCCT), and spot sign on CT angiography (CTA). The study population was randomly divided into development and validation cohorts, and a weighted score was derived from estimates from multivariable logistic regression. Overall, 492 patients were included: 345 (70.1%) in the development and 147 (29.9%) in the validation cohort. A 4-point score was created, based on independent predictors of HE (high uHG: 1 point, NCCT hypodensities: 1 point, and CTA spot sign: 2 points). The score showed good discrimination in the development and validation cohorts (area under the curve [AUC] 0.77, 95% CI 0.71-0.83, and AUC 0.79, 95% CI 0.71-0.87, respectively). We observed a nonlinear increase in the frequency of HE and mean absolute hematoma growth with higher scores: 9.8% and 0.9 mL (score 0), 17.1% and 3.9 mL (score 1), 48.3% and 11.5 mL (score 2), 70.8% and 13.0 mL (score 3), and 87.5% and 26.9 mL (score 4). These findings were confirmed in the validation cohort. A dichotomized score greater than or equal to 2 predicted HE with 0.61 sensitivity and 0.85 specificity in the development cohort and 0.64 sensitivity with 0.84 specificity in the validation cohort. Imaging-based target expansion criteria, defined as a target expansion score ≥2, identified late-presenting patients with ICH at high risk of HE. These findings might inform future trials targeting HE and increase the pool of eligible patients.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879724/",
+      "summary_ja": "背景：急性脳内出血（ICH）における血腫拡大（HE）を抑制する治療効果は発症後2時間以内が最も高いが、2～12時間後に来院する遅発例でもHEリスクの高い患者を特定する基準が求められている。  \n方法：多施設国際後ろ向きコホート研究で、脳幹ICH、抗凝固療法中、初期血腫量100mL超の患者を除外。HE（33%以上または6mL超の増大）予測因子として、超早期血腫成長率（uHG）、非造影CTの低吸収域、CT血管造影のスポットサインを解析。患者を開発群（345例）と検証群（147例）に分け、重回帰分析でリスクスコアを作成。  \n結果：HEの独立予測因子に基づき4点満点のスコアを設定（uHG1点、低吸収域1点、スポットサイン2点）。スコアが高いほどHE頻度と血腫増大量が非線形に増加し、スコア≥2でHE感度約0.62、特異度約0.85を示した。検証群でも同様の結果を確認。  \n結論：スコア2点以上をHE高リスクの遅発ICH患者の判別基準とし、HE抑制治療の対象拡大や臨床試験の患者選定に有用である。",
+      "summary_short_ja": "本研究は、発症後2～12時間の遅れて来院した脳内出血（ICH）患者の血腫拡大（HE）リスクを評価するため、画像診断に基づく「ターゲット拡大スコア」を開発した。高い超早期血腫成長率、非造影CTの低吸収域、CT血管造影のスポットサインを指標とし、4点満点のスコアでHEリスクを予測。スコア2点以上でHE高リスク群を特定でき、今後の治療試験の対象選定に有用と示唆された。",
+      "disease": "stroke",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42758958",
       "doi": "10.1212/WNL.0000000000218546",
       "title": "Vascular Imaging Features and Time-Specific Recurrence Risk After Craniocervical Artery Dissection.",
