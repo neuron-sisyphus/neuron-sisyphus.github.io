@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42900856",
+      "doi": "10.1212/WNL.0000000000218673",
+      "title": "Differential Trajectories of Brain Atrophy in Multiple Sclerosis, MOGAD, and AQP4 + NMOSD: The Role of Disease Activity in MOGAD.",
+      "abstract": "Multiple sclerosis (MS), myelin oligodendrocyte glycoprotein antibody-associated disease (MOGAD), and aquaporin-4 antibody-positive neuromyelitis optica spectrum disorder (AQP4 + NMOSD) are inflammatory demyelinating disorders with distinct mechanisms of tissue injury. MS is characterized by diffuse neurodegeneration, whereas damage in antibody-mediated diseases is considered attack related. In MOGAD, the relationship between disease activity and brain atrophy remains unclear. We aimed to compare longitudinal trajectories of global and regional brain atrophy across MS, MOGAD, and AQP4 + NMOSD and investigate whether atrophy in MOGAD is associated with disease course and lesion dynamics. In this retrospective multicenter Magnetic Resonance Imaging in Multiple Sclerosis (MAGNIMS) study, patients fulfilling the following criteria were enrolled: (1) age 18 years or older, (2) MS/MOGAD/AQP4 + NMOSD diagnosis, (3) ≥2 same-scanner brain MRIs ≥6 months apart and ≥3 months postattack, (4) concurrent Expanded Disability Status Scale, and (5) disease course information. White matter lesions were segmented using the Lesion Segmentation Toolbox. Longitudinal brain volumes were quantified on lesion-filled T1-weighted images using Sequence Adaptive Multimodal SEGmentation (SAMSEG) with a within-subject template approach. In MOGAD, lesion dynamics were classified as stable/new lesions/lesion resolution. Linear mixed-effects models adjusted for age, sex, baseline volume, and center estimated atrophy rates. Overall, 489 participants from 15 centers were included (98 MS [mean age 39.79 years, 68.37% female], 72 MOGAD [42.14 years, 66.67%], 41 AQP4 + NMOSD [51.25 years, 87.80%], and 278 healthy controls [42.94 years, 61.87%]). The mean follow-up was MS: 2.44 ± 1.55 years, MOGAD: 2.57 ± 1.85, and AQP4 + NMOSD: 3.22 ± 2.42. Compared with controls, MS showed accelerated global brain atrophy (β = -2.027 cm Each inflammatory demyelinating disease exhibits a characteristic pattern of brain atrophy. In MOGAD, neuroaxonal loss seems associated with inflammatory activity and lesion accrual, supporting an event-driven pattern of tissue injury rather than diffuse neurodegeneration. Limitations include small NMOSD sample, heterogeneous follow-up, and potential scanner-related variability.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900856/",
+      "summary_ja": "背景：多発性硬化症（MS）、ミエリンオリゴデンドロサイト糖タンパク抗体関連疾患（MOGAD）、およびアクアポリン4抗体陽性視神経脊髄炎スペクトラム障害（AQP4+ NMOSD）は、それぞれ異なる組織損傷機序を持つ炎症性脱髄疾患である。MSは広範な神経変性を特徴とする一方、抗体介在性疾患では病変の活動に伴う損傷が主とされるが、MOGADにおける脳萎縮と疾患活動性の関係は不明であった。  \n\n方法：MAGNIMS多施設共同研究にて、MS、MOGAD、AQP4+ NMOSD患者計211名と278名の健常対照を対象に、同一MRI装置で6か月以上間隔を空けた2回以上の脳MRIを用い、Lesion Segmentation ToolboxとSAMSEG法で白質病変と脳体積を定量。MOGADの病変動態は安定、新規、消失に分類し、線形混合効果モデルで萎縮速度を推定した。  \n\n結果：MSは健常者に比べ全脳萎縮が有意に加速。MOGADでは病変の増加や炎症活動に伴い神経軸索損失が進行し、拡散的な神経変性ではなく発作に伴う局所的損傷パターンを示した。AQP4+ NMOSDはサンプル数が少なく解析に制限があった。  \n\n結論：各疾患は特徴的な脳萎縮パターンを示し、MOGADの脳萎縮は炎症活動と病変動態に強く関連することから、イベント駆動型の組織損傷機序が示唆された。研究の限界として、NMOSDの症例数の少なさや追跡期間のばらつき、装置間差異の影響が挙げられる。",
+      "summary_short_ja": "多発性硬化症（MS）、MOG抗体関連疾患（MOGAD）、およびAQP4抗体陽性視神経脊髄炎スペクトラム障害（AQP4+NMOSD）は、それぞれ異なる脳萎縮の進行パターンを示す。特にMOGADでは、脳萎縮が炎症活動や新旧病変の動態と関連し、拡散的な神経変性ではなく発作に伴う組織障害が主因と示唆された。本研究は多施設MRIデータを用い、これら疾患の萎縮速度と病態の違いを比較した。",
+      "disease": "ms",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42842889",
       "doi": "10.1212/WNL.0000000000218508",
       "title": "Comparative Effectiveness of Treatments for Relapse Prevention in Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42900876",
+      "doi": "10.1212/WNL.0000000000218572",
+      "title": "Child Neurology: Neonatal Management of Tyrosine Hydroxylase Deficiency: How Early Is Early Enough?",
+      "abstract": "Tyrosine hydroxylase deficiency is a rare, treatable, autosomal recessive disorder of monoamine neurotransmitter biosynthesis that typically presents in infancy or early childhood. Despite potential benefits of presymptomatic treatment with levodopa/carbidopa, prenatal or neonatal diagnosis remains extremely rare. We report 2 preterm neonates from unrelated families, both with known family history of tyrosine hydroxylase deficiency. After early diagnosis, levodopa/carbidopa therapy was initiated during the neonatal period. This proactive approach proved feasible and well tolerated, leading to early normalization of subtle motor abnormalities. These cases highlight the importance of early genetic diagnosis of this rare condition and the feasibility of levodopa/carbidopa treatment in neonates.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900876/",
+      "summary_ja": "背景：チロシンヒドロキシラーゼ欠損症は、モノアミン神経伝達物質の合成異常によるまれな常染色体劣性遺伝疾患であり、通常は乳児期や幼児期に発症する。レボドパ/カルビドパによる無症状期の治療が有益とされるが、出生前や新生児期の診断例は非常に少ない。  \n方法：チロシンヒドロキシラーゼ欠損症の家族歴がある2組の未熟児新生児を対象に、早期遺伝子診断を行い、新生児期にレボドパ/カルビドパ療法を開始した。  \n結果：早期治療は実施可能で副作用も少なく、微細な運動異常の早期正常化が認められた。  \n結論：本報告は、この希少疾患の早期遺伝子診断の重要性と、新生児期におけるレボドパ/カルビドパ治療の有用性および安全性を示している。",
+      "summary_short_ja": "チロシンヒドロキシラーゼ欠損症は、乳児期に発症するまれな遺伝性神経伝達物質合成障害である。家族歴のある早産新生児2例に対し、新生児期に早期診断を行いレボドパ/カルビドパ療法を開始したところ、運動異常の早期正常化が認められた。本報告は、早期遺伝子診断の重要性と新生児期からの治療の有効性を示している。",
+      "disease": "parkinson",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42743444",
       "doi": "10.1212/WNL.0000000000218510",
       "title": "How Language Shapes Mechanistic Thinking in Parkinson Disease.",

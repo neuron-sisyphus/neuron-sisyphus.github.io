@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42900873",
+      "doi": "10.1212/WNL.0000000000218566",
+      "title": "Recanalization After Acute Cervical Artery Dissection: A Multicenter International Study.",
+      "abstract": "The rates and factors associated with complete recanalization after cervical artery dissection (CeAD) have not been comprehensively quantified in large cohorts. We sought to determine the 6-month rate of complete recanalization in CeAD, clinical and imaging factors associated with recanalization, and risk of recurrent ischemic stroke based on recanalization status. This was a planned subanalysis of the Antithrombotic Treatment for Stroke Prevention in Cervical Artery Dissection study, a multicenter retrospective cohort including patients with imaging-confirmed CeAD diagnosed between January 2015 and June 2022 at 63 sites worldwide. For this analysis, we included 1,095 patients with single-vessel CeAD causing stenosis at presentation who had available follow-up vascular imaging at 6 months after CeAD. The primary outcome was complete recanalization within 6 months after CeAD. Clinical and imaging variables, as well as recurrent stroke, were compared between patients with and those without complete recanalization. Factors independently associated with complete recanalization were identified using multivariable logistic regression. Time to complete recanalization was analyzed using an accelerated failure time Weibull model. Among 1,095 included patients (median age 45 years; 46.7% female), 634 (57.9%) achieved complete recanalization by 6 months. In multivariable analysis, each additional year of age was associated with lower odds of complete recanalization (odds ratio [OR] 0.97 per year; 95% CI 0.96-0.98;  Almost 60% of patients with CeAD achieved complete vessel recanalization by 6 months. Older age, diabetes, smoking, and complete occlusion at presentation were independently associated with incomplete recanalization. Further study is required to determine whether these findings may help guide tailored imaging surveillance and secondary prevention strategies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900873/",
+      "summary_ja": "背景：頸部動脈解離（CeAD）後の完全再開通率や関連因子は大規模コホートで十分に検証されていない。方法：2015年1月から2022年6月までに63施設で画像診断されたCeAD患者1,095例（単一血管の狭窄例）を対象に、6か月後の血管画像フォローアップを行い、完全再開通率と臨床・画像因子、再発虚血性脳卒中リスクを比較検討した。多変量ロジスティック回帰で再開通に独立して関連する因子を解析し、再開通までの時間は加速失敗時間モデルで評価した。結果：中央値45歳、女性46.7%の患者のうち、57.9%が6か月以内に完全再開通を達成。年齢増加（OR 0.97/年）、糖尿病、喫煙、初診時の完全閉塞が不完全再開通と独立して関連した。結論：CeAD患者の約60%が6か月で完全再開通するが、高齢、糖尿病、喫煙、完全閉塞は再開通不良のリスク因子である。これらの知見は個別化した画像監視や二次予防戦略の指針となる可能性があり、さらなる研究が必要である。",
+      "summary_short_ja": "急性頸部動脈解離（CeAD）患者1,095例を対象に6カ月後の完全再開通率を調査した結果、約58％が完全再開通を達成した。年齢上昇、糖尿病、喫煙、完全閉塞の初期所見が再開通不全の独立した因子であった。これらの知見は、個別化された画像監視や二次予防戦略の検討に役立つ可能性がある。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42734938",
+      "doi": "10.1001/jama.2026.15519",
+      "title": "Idiopathic Normal Pressure Hydrocephalus: A Review.",
+      "abstract": "Idiopathic normal pressure hydrocephalus (iNPH) is a progressive neurological disorder characterized by cerebral ventricular enlargement that is typically associated with gait impairment and often urinary dysfunction and cognitive decline in older adults. iNPH prevalence is approximately 1% to 4% among individuals 65 years and older and 6% to 8% among those 80 years and older. iNPH is a multifactorial disorder involving interactions among cerebrospinal fluid (CSF) circulation, vascular dysfunction, and white matter injury. Unlike secondary NPH, iNPH occurs without a known antecedent event such as subarachnoid hemorrhage. Gait disturbance, including a broad-based, slow, shuffling gait and impaired turning, occurs in 85% to 95% of patients with iNPH and is often the earliest symptom. Urinary dysfunction occurs in approximately 75% to 90% of patients with iNPH and commonly includes urgency, nocturia, urge incontinence, or leakage. Cognitive impairment is reported in 60% to 80% of patients with iNPH, predominantly involving impaired attention, processing speed, working memory, verbal fluency, and cognitive flexibility. iNPH is diagnosed primarily based on characteristic clinical findings and neuroimaging (typically brain magnetic resonance imaging) demonstrating cerebral ventricular and subarachnoid space enlargement. Although necessary for diagnosis, these neuroimaging findings are not reliably associated with response to treatment. Early diagnosis of NPH is important because shorter symptom duration and less advanced disease are associated with more favorable outcomes. Patients being evaluated for iNPH should undergo large-volume lumbar puncture with removal of 30 to 50 mL of CSF to confirm the diagnosis and predict shunt responsiveness, measured as improvement in objective gait measures starting within hours after drainage. Extended lumbar drainage with removal of 200 to 300 mL of CSF over several days in an inpatient setting provides higher prognostic accuracy, and may be performed in patients with high clinical suspicion and a negative or equivocal clinical response to lumbar puncture. Treatment for iNPH is CSF diversion with shunt placement, most commonly performed with ventriculoperitoneal shunts, although ventriculoatrial and lumboperitoneal shunts may have similar efficacy. After shunting, approximately 75% to 80% of patients have gait velocity improvement; cognitive and urinary improvements occur in approximately 50% to 70%. Complications of shunts include overdrainage and underdrainage (10%-30%), presenting as postural headaches and subdural collections, and recurrence or worsening of iNPH symptoms, shunt malfunction (10%-20%), and shunt infections (<1%-2%). iNPH affects approximately 1% to 4% of adults 65 years and older and is associated with gait impairment, cognitive decline, and urinary dysfunction. Symptoms improve in approximately 70% to 90% of patients with iNPH who undergo shunt surgery.",
+      "journal": "JAMA",
+      "year": "2026",
+      "published": "2026-Oct-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42734938/",
+      "summary_ja": "背景：特発性正常圧水頭症（iNPH）は、高齢者に多く見られる進行性の神経疾患で、脳室拡大を特徴とし、歩行障害、排尿障害、認知機能低下を伴う。65歳以上の約1～4％、80歳以上では6～8％の有病率がある。iNPHは脳脊髄液循環、血管機能障害、白質損傷が複合的に関与し、二次性NPHとは異なり明確な先行疾患がない。  \n方法：診断は臨床症状と脳MRIによる脳室・くも膜下腔拡大の確認で行い、診断補助として大容量腰椎穿刺（30～50mLの髄液除去）や数日間の持続的腰椎ドレナージ（200～300mL除去）を用いてシャント手術の効果予測を行う。  \n結果：シャント手術後、歩行速度は約75～80％の患者で改善し、認知機能や排尿機能も約50～70％で改善が見られる。合併症として過排液・排液不足、シャント機能不全、感染などが報告されている。  \n結論：iNPHは高齢者の歩行障害や認知・排尿障害の重要な原因であり、早期診断とシャント手術による治療が有効で、多くの患者で症状改善が期待できる。",
+      "summary_short_ja": "特発性正常圧水頭症（iNPH）は、高齢者に多くみられ、脳室拡大に伴う歩行障害、尿失禁、認知機能低下を特徴とする進行性神経疾患である。診断は臨床所見とMRIによる脳室拡大で行い、腰椎穿刺による髄液除去で治療効果を予測する。治療はシャント手術が主で、約70～90％の患者で症状改善が期待できるが、過排液や感染などの合併症もある。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42886872",
       "doi": "10.1212/WNL.0000000000218457",
       "title": "Incidence and Post-Stroke Survival in the Normandy Stroke Population-Based Study (2017-2022): Impact of Time-Based Versus Tissue-Based Definitions.",

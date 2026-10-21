@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42900857",
+      "doi": "10.1212/WNL.0000000000218699",
+      "title": "Association Between Systemic Fluoroquinolones and Risk of Peripheral Neuropathy.",
+      "abstract": "Fluoroquinolone use has been associated with peripheral neuropathy in case reports, but there have been few noninterventional studies validating this association, and causality is unclear. The aim of this study was to estimate the association between systemic fluoroquinolone prescription and incident peripheral neuropathy relative to a comparator class of antibiotics, cephalosporins, using multiple databases to increase precision and assess the robustness of the results. Cohort studies were conducted using data from 2 databases of UK electronic primary care records, Clinical Practice Research Datalink Aurum and GOLD, from April 1, 1997, to December 31, 2019. Among adults (age ≥18 years) without diabetes mellitus or previously recorded peripheral neuropathy prescribed systemic fluoroquinolones or cephalosporins, hazard ratios were estimated between fluoroquinolone prescription and incident peripheral neuropathy within 60 days of prescription using stabilized inverse probability of treatment weighted Cox regression. Hazard ratios were similarly estimated for a positive control outcome of incident tendon rupture within 60 days of prescription. Risk differences for peripheral neuropathy were estimated using a weighted Aalen-Johansen estimator. Estimates were pooled across databases using fixed-effects meta-analysis. In total, 2,933,982 individuals prescribed fluoroquinolones or cephalosporins in Aurum (63.7% [n = 1,868,793] female; median age 49.5 years [interquartile range (IQR) 34.1-67.5]) and 995,457 in GOLD (63.5% [n = 632,033] female, median age 51.5 years [IQR 35.6-68.0]) were included. Of these individuals, at first treatment episode, 1,002,004 (34.2%) in Aurum and 381,734 (38.3%) in GOLD were prescribed fluoroquinolones. The estimated association between fluoroquinolones and peripheral neuropathy was close to the null at first treatment episode (pooled adjusted hazard ratio [aHR] 0.96, 95% CI 0.77-1.20) and over all treatment episodes (pooled aHR 1.05, 95% CI 0.92-1.20). Hazard ratios were elevated for a positive control outcome of tendon rupture at first treatment episode (pooled aHR 1.98, 95% CI 1.55-2.53) and over all treatment episodes (1.76, 95% CI 1.52-2.04). Findings were not indicative of a substantive difference in risk of peripheral neuropathy between those prescribed fluoroquinolones and cephalosporins. Potential residual confounding is a study limitation. Study results provide some reassurance to clinicians regarding risk of peripheral neuropathy with fluoroquinolones relative to a comparator antibiotic.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900857/",
+      "summary_ja": "背景：フルオロキノロン系抗生物質の使用は症例報告で末梢神経障害と関連が指摘されているが、非介入研究は少なく因果関係は不明である。  \n方法：英国の2つの電子診療記録データベース（CPRD AurumおよびGOLD）を用い、糖尿病や既往の末梢神経障害のない成人に対し、フルオロキノロン系とセフェム系抗生物質処方後60日以内の新規末梢神経障害発症リスクをコックス回帰モデルで比較した。腱断裂を陽性対照アウトカムとして評価し、結果は固定効果メタ解析で統合した。  \n結果：計約390万人の患者のうち、約34～38％がフルオロキノロン系を処方された。初回および全治療期間での末梢神経障害リスクは両群で差がなく（調整ハザード比0.96～1.05）、一方で腱断裂リスクはフルオロキノロン群で有意に高かった（1.76～1.98）。  \n結論：フルオロキノロン系抗生物質はセフェム系と比較して末梢神経障害リスクの増加を示さず、臨床的には一定の安全性が示唆される。ただし残存交絡の可能性はある。",
+      "summary_short_ja": "本研究は、全身性フルオロキノロン系抗生物質の使用と末梢神経障害発症リスクの関連を、セフェム系抗生物質と比較して検証した。英国の2つの大規模電子カルテデータベースを用いたコホート研究で、約390万人の成人を対象に解析した結果、フルオロキノロン使用による末梢神経障害リスクの増加は認められなかった（調整ハザード比約1.0）。一方、腱断裂のリスクは有意に上昇しており、末梢神経障害リスクに関しては一定の安全性が示唆された。",
+      "disease": "neuropathy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42814908",
       "doi": "10.1212/WNL.0000000000218599",
       "title": "Multifactorial Contributors to Dose Limiting and Post-Treatment Neurologic Toxicity During Chemotherapy Treatment.",
