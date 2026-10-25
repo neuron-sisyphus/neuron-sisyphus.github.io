@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-25",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42913444",
+      "doi": "10.1212/WNL.0000000000218681",
+      "title": "Blood-Based Biomarkers as Predictors of All-Cause Dementia: A 13-Year Follow-Up in the Whitehall II Cohort Study.",
+      "abstract": "Blood-based biomarkers are strongly correlated with amyloid positivity in research settings, but their long-term performance in heterogeneous populations remains unclear. Our aim was to determine their long-term prediction accuracy for incident all-cause dementia on their own and when used alongside known risk factors in community-dwelling older adults. This was a retrospective study based on the UK Whitehall II longitudinal, population-based cohort study established in 1985 among civil servants that includes a clinical examination every 4-5 years. Blood samples stored at the 2013-2013 wave were assayed in 2024 for measures of amyloid-beta (Aβ) 42 and 40, glial fibrillary acidic protein (GFAP), neurofilament light (NfL), and phosphorylated tau protein 217 (p-tau217). Incident all-cause dementia, from 2012 to 2013 to 2025, was ascertained from linked medical records, and Cox regression was used to examine associations of biomarkers with dementia, followed by estimation of prediction statistics. Of the 5,225 (27.2% female) participants (mean age in 2012-2013, 69.4 ± 5.7 years), 516 (30.0% female) had a dementia diagnosis over a 12.2-year median follow-up. Participants with values in the worst quartile of amyloid-beta 42 (Aβ42)/40 ratio (hazard ratio [HR] 1.88; 95% CI 1.57-2.24), p-tau217 (HR 3.74; 95% CI 3.12-4.50), NfL (HR 1.88; 95% CI 1.56-2.28), and GFAP (HR 2.25; 95% CI 1.87-2.72) had higher risk of dementia. The C-index for predicting dementia was highest for p-tau217 (0.693; 95% CI 0.672-0.714), lowest for Aβ42/40 ratio (0.587; 95% CI 0.566-0.608), and was 0.760 (0.738, 0.781) for all biomarkers together. Sensitivity (between 41.7% and 59.5%) and positive predictive value (between 16.4% and 23.5%) of all biomarkers were modest, but specificity (between 76.8% and 78.8%) and negative predictive value (92.3%-94.7%) were good. A second approach to prediction modeling showed a model containing sociodemographic, behavioral, and health-related risk factors to have a C-index of 0.765 (95% CI 0.746-0.785); adding all biomarkers to this model led to a C-index of 0.813 (95% CI 0.795-0.830). The long-term predictive ability of blood-based biomarkers for incident dementia in community-dwelling older adults was modest due to poor sensitivity and similar to that of a model containing known risk factors.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42913444/",
+      "summary_ja": "背景：血液中のバイオマーカーは研究環境でアミロイド陽性と強く関連するが、一般集団における長期的な認知症予測能力は不明である。  \n方法：英国のWhitehall IIコホート研究（1985年開始）に参加した5,225名（平均年齢約69歳）を対象に、2012-2013年の血液サンプルを用いてアミロイドβ42/40比、p-tau217、神経フィラメントライト（NfL）、グリア線維酸性タンパク（GFAP）を測定し、2025年までの認知症発症を医療記録から追跡。Cox回帰でバイオマーカーと認知症リスクの関連を解析した。  \n結果：最悪四分位のバイオマーカー値は認知症リスク上昇と関連し、p-tau217が最も高い予測精度（C-index 0.693）を示した。全バイオマーカー併用でC-indexは0.760。感度と陽性的中率は低めだが、特異度と陰性的中率は良好であった。既知のリスク因子モデル（C-index 0.765）にバイオマーカーを加えると予測精度は向上（C-index 0.813）。  \n結論：血液バイオマーカーは地域在住高齢者の認知症発症を長期的に予測可能だが、感度が低く既存のリスク因子モデルと同程度の性能であった。",
+      "summary_short_ja": "英国のWhitehall IIコホート研究に基づき、血液バイオマーカー（Aβ42/40比、p-tau217、NfL、GFAP）が13年間の追跡で全原因認知症発症リスクと関連することを確認した。特にp-tau217の予測精度が高く、全バイオマーカー併用での予測性能は向上したが、感度は低く特異度と陰性的中率は良好であった。既知のリスク因子モデルと比較して予測能力は同程度であり、血液バイオマーカー単独の長期予測力は限定的であった。",
+      "disease": "dementia",
+      "section": "prognosis"
+    }
+  ]
+}
