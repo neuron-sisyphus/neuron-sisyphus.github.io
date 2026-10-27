@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42932404",
+      "doi": "10.1161/STROKEAHA.126.055936",
+      "title": "Cytoprotection for Acute Ischemic Stroke: Critical Appraisal of Recent Clinical Trials.",
+      "abstract": "Several phase III clinical trials testing cytoprotective approaches have recently been completed, and many of these studies report a clinical benefit. Reviewing the outcomes of these trials in light of their specific designs reveals intriguing results. Trials designed with shorter treatment time windows (≤24 hours) and featuring high rates of recanalization therapies predominantly show neutral outcomes, that is, no therapeutic benefit. Studies using later time points (>24 hours to 14 days) and often enrolling patients in whom recanalization is not or only infrequently established show clear treatment effects. These results challenge our current understanding of cytoprotective approaches, which are believed to primarily target the penumbra as the key to therapeutic success. The reasons for this are unclear. They may include other, potentially unknown mechanisms of action that improve clinical outcome even when applied within longer time windows rather than exerting acute cytoprotection. Here, we discuss such potential mechanisms, to what extent they could explain the results of recent cytoprotection trials, and review consequences for future translational and clinical research.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932404/",
+      "summary_ja": "背景：急性虚血性脳卒中に対する細胞保護療法は、治療効果が期待されているが、その臨床試験結果は一様でない。  \n方法：最近完了した複数の第III相臨床試験を、治療開始時間の窓（24時間以内かそれ以上か）や再開通療法の実施率に着目して検討した。  \n結果：治療開始が24時間以内で再開通率が高い試験では、治療効果は認められず中立的な結果が多かった。一方、24時間を超え14日以内の遅い時間帯で治療を開始し、再開通が少ない患者を対象とした試験では明確な治療効果が示された。  \n結論：これらの結果は、細胞保護療法が主にペナンブラ（虚血半暗帯）を標的とするという従来の理解に疑問を投げかける。治療効果は、急性の細胞保護作用以外の未知の作用機序による可能性があり、今後の基礎・臨床研究においてこれらのメカニズムの解明が重要である。",
+      "summary_short_ja": "急性虚血性脳卒中に対する細胞保護療法の第III相臨床試験では、治療開始時間が24時間以内で再開通率が高い試験は効果が見られない一方、24時間以降から14日以内に開始し再開通が少ない患者を対象とした試験では明確な治療効果が示された。これにより、従来のペナンブラ保護中心の理解が見直され、未知の作用機序が関与している可能性が示唆される。今後の研究に重要な示唆を与えている。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42900873",
       "doi": "10.1212/WNL.0000000000218566",
       "title": "Recanalization After Acute Cervical Artery Dissection: A Multicenter International Study.",

@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-27",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42932404",
+      "doi": "10.1161/STROKEAHA.126.055936",
+      "title": "Cytoprotection for Acute Ischemic Stroke: Critical Appraisal of Recent Clinical Trials.",
+      "abstract": "Several phase III clinical trials testing cytoprotective approaches have recently been completed, and many of these studies report a clinical benefit. Reviewing the outcomes of these trials in light of their specific designs reveals intriguing results. Trials designed with shorter treatment time windows (≤24 hours) and featuring high rates of recanalization therapies predominantly show neutral outcomes, that is, no therapeutic benefit. Studies using later time points (>24 hours to 14 days) and often enrolling patients in whom recanalization is not or only infrequently established show clear treatment effects. These results challenge our current understanding of cytoprotective approaches, which are believed to primarily target the penumbra as the key to therapeutic success. The reasons for this are unclear. They may include other, potentially unknown mechanisms of action that improve clinical outcome even when applied within longer time windows rather than exerting acute cytoprotection. Here, we discuss such potential mechanisms, to what extent they could explain the results of recent cytoprotection trials, and review consequences for future translational and clinical research.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932404/",
+      "summary_ja": "背景：急性虚血性脳卒中に対する細胞保護療法は、治療効果が期待されているが、その臨床試験結果は一様でない。  \n方法：最近完了した複数の第III相臨床試験を、治療開始時間の窓（24時間以内かそれ以上か）や再開通療法の実施率に着目して検討した。  \n結果：治療開始が24時間以内で再開通率が高い試験では、治療効果は認められず中立的な結果が多かった。一方、24時間を超え14日以内の遅い時間帯で治療を開始し、再開通が少ない患者を対象とした試験では明確な治療効果が示された。  \n結論：これらの結果は、細胞保護療法が主にペナンブラ（虚血半暗帯）を標的とするという従来の理解に疑問を投げかける。治療効果は、急性の細胞保護作用以外の未知の作用機序による可能性があり、今後の基礎・臨床研究においてこれらのメカニズムの解明が重要である。",
+      "summary_short_ja": "急性虚血性脳卒中に対する細胞保護療法の第III相臨床試験では、治療開始時間が24時間以内で再開通率が高い試験は効果が見られない一方、24時間以降から14日以内に開始し再開通が少ない患者を対象とした試験では明確な治療効果が示された。これにより、従来のペナンブラ保護中心の理解が見直され、未知の作用機序が関与している可能性が示唆される。今後の研究に重要な示唆を与えている。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42932852",
+      "doi": "10.1212/WNL.0000000000218688",
+      "title": "Differences in Epilepsy Etiology, Type, Syndrome, and Severity Between Māori and Non-Māori-Non-Pasifika Children With Epilepsy in New Zealand.",
+      "abstract": "The World Health Organization's Intersectoral Global Action Plan on Epilepsy and other Neurologic Disorders 2022-2031 aims to minimize epilepsy burden, with an emphasis on Indigenous peoples. Māori, the Indigenous peoples of New Zealand, have a similar prevalence of treated epilepsy to non-Māori yet suffer an increased epilepsy burden. This study aims to describe epilepsy etiology, syndrome, and severity in Māori children compared with non-Māori-non-Pasifika children. Retrospective population-based study using the New Zealand Pharmaceutical Collection. Medical records were reviewed to compare epilepsy etiology, type, syndrome, and severity between Māori and age-matched and sex-matched non-Māori-non-Pasifika children (younger than 18 years) with treated epilepsy. Period prevalence of etiology was compared: logistic regression (odds ratio, OR) for comparisons of within-cohort proportions and Poisson regression (rate ratio, RR) for comparison of population prevalence. Cohort of 337 Māori and 421 non-Māori-non-Pasifika children (female: 45.4% Māori and 46.6% non-Māori-non-Pasifika). The median age of first seizure was 3.0 years for Māori (interquartile range [IQR]: 0.9-8.0) and 4.0 years for non-Māori-non-Pasifika (IQR: 1.3-8.0). Māori children were more likely to live in high deprivation areas (quintile 5: 48.4% Māori vs 17.3% non-Māori-non-Pasifika). Māori children were more likely to have a preventable cause of their epilepsy than non-Māori-non-Pasifika children (RR: 2.32; 95% CI 1.41-3.80) and more likely to have a structural (RR: 1.43, 95% CI 1.04-1.97) or infectious (RR: 4.72, 95% CI 1.43-15.8) etiology. After adjustment for socioeconomic status and rurality, there was no longer evidence for a difference by ethnicity. Focal epilepsy was the most common epilepsy type (65.6% Māori and 59.4% non-Māori-non-Pasifika), followed by genetic epilepsies (20.2% Māori and 21.9% non-Māori-non-Pasifika). An epilepsy syndrome was identified in 26% of Māori and 36% of non-Māori-non-Pasifika children. Māori children were less likely to have a self-limited epilepsy syndrome (OR: 0.51, 95% CI 0.30-0.83) or developmental and epileptic encephalopathy (OR: 0.59, 95% CI 0.40-0.88) but more likely to have intellectual disability and epilepsy (OR: 1.65, 95% CI 1.18-2.32). Health inequities exist for Māori children who are twice as likely to have preventable epilepsy than non-Māori-non-Pasifika children. This inequity is largely driven by socioeconomic status and rurality.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932852/",
+      "summary_ja": "背景：ニュージーランドの先住民マオリは、非マオリ・非パシフィカの子どもと比べててんかんの有病率は同程度であるが、てんかんによる負担は大きい。本研究は、マオリと非マオリ・非パシフィカのてんかん治療中の18歳未満の子どもを対象に、てんかんの原因、タイプ、症候群、重症度の違いを検討した。\n\n方法：ニュージーランドの医薬品データベースを用いた後ろ向き人口ベース研究で、年齢・性別でマッチさせた337名のマオリと421名の非マオリ・非パシフィカの医療記録を比較。ロジスティック回帰やポアソン回帰で発症原因の有病率を解析した。\n\n結果：マオリの初回発作中央値は3歳、非マオリは4歳。マオリは高貧困地域に多く居住し、予防可能なてんかん原因（RR=2.32）、構造的（RR=1.43）、感染性（RR=4.72）の割合が高かったが、社会経済状況と地域性で調整すると民族差は消失。焦点てんかんが最も多く、てんかん症候群の診断率はマオリ26%、非マオリ36%。マオリは自己限定性症候群や発達性てんかん脳症が少なく、知的障害合併てんかんが多かった（OR=1.65）。\n\n結論：マオリの子どもは非マオリに比べて予防可能なてんかんを2倍多く抱え、健康格差が存在する。これは主に社会経済的要因と地域性によるものである。",
+      "summary_short_ja": "ニュージーランドのマオリ児童は、非マオリ非パシフィカ児童と比べててんかんの原因に予防可能なものが多く、構造的・感染性の要因も高いが、これらの差は社会経済状況や地域性で説明される。焦点てんかんが最も多く、マオリ児童は自己限定型てんかん症候群や発達性てんかん脳症が少なく、知的障害を伴うてんかんが多い。健康格差は社会的要因に起因している。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    }
+  ]
+}
