@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42837646",
+      "doi": "10.3390/ph17010028",
+      "title": "Dual Antiglutamate Therapy in Super-Refractory Status Epilepticus After Cardiac Arrest (SUPER-CAT Study).",
+      "abstract": "The SUPER-refractory status epilepticus (SE) after Cardiac Arrest Treatment (SUPER-CAT) study evaluated the efficacy and safety of dual antiglutamate therapy (combined AMPA and NMDA receptor blockade) in patients with super-refractory SE (SRSE) after cardiac arrest and without unfavorable prognostic indicators. Multicenter cohort study including patients with postanoxic SRSE meeting the following criteria: bilaterally preserved N20 cortical responses, intact pupillary reflexes, and absence of generalized periodic discharges. Patients treated with dual antiglutamate therapy (DUAL; ketamine 1.5-7.5 mg/kg/h for 3 days plus perampanel 6-12 mg/d for 5 days with tapering) were compared with patients receiving other combinations of antiseizure and anesthetic agents (OTHERS). The primary outcome was resolution of SE. Secondary outcomes included awakening to follow commands and good neurologic outcome at 6 months (modified Rankin Scale 0-3) in patients with fewer than 2 unfavorable multimodal prognostic indicators and 6-month mortality for the entire cohort. Safety analysis included in-hospital mortality and potentially treatment-related adverse events. Patients treated with single antiglutamate agents were described separately. Between May 2012 and May 2025, 95 of 1,352 consecutive post-cardiac arrest intensive care unit patients met inclusion criteria (mean age 66, interquartile range 55-73; 41% female; DUAL = 43; OTHERS = 41; single antiglutamate = 11). Compared with OTHERS, DUAL was associated with a higher rate of SE resolution (84% vs 49%; OR 5.4; 95% CI 1.9-14.9;  In patients with postanoxic SRSE without unfavorable prognostic indicators, dual antiglutamate therapy was highly effective in resolving SE and was associated with improved short-term clinical outcomes. ClinicalTrials.gov NCT05756621.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837646/",
+      "summary_ja": "背景：心停止後に発症するスーパー難治性てんかん重積状態（SRSE）は予後不良であり、新たな治療法の検討が求められている。  \n方法：多施設コホート研究で、心停止後のSRSE患者のうち、両側N20皮質反応保持、瞳孔反射正常、全般性周期性放電なしの患者95名を対象とした。ケタミン（1.5-7.5 mg/kg/h、3日間）とペランパネル（6-12 mg/日、5日間漸減）の二重抗グルタミン酸療法（DUAL群、43名）と、他の抗てんかん薬・麻酔薬併用群（OTHERS群、41名）を比較した。主要評価項目はてんかん重積の解消、二次評価項目は指示に従う覚醒や6か月後の良好な神経学的転帰（修正Rankinスケール0-3）および6か月死亡率。  \n結果：DUAL群はOTHERS群に比べててんかん重積の解消率が有意に高かった（84% vs 49%、オッズ比5.4、95%信頼区間1.9-14.9）。短期的な臨床転帰も改善傾向を示した。安全性に関しては治療関連の有害事象は報告されなかった。  \n結論：心停止後のSRSE患者で予後不良因子の少ない場合、二重抗グルタミン酸療法はてんかん重積の解消に高い効果を示し、短期的な臨床転帰の改善に寄与する可能性がある。",
+      "summary_short_ja": "SUPER-CAT研究は、心停止後の超難治性てんかん重積状態（SRSE）患者に対し、AMPAおよびNMDA受容体を同時に遮断する二重抗グルタミン酸療法の有効性と安全性を検証した。95例中、二重療法群は他治療群に比べててんかん重積の解消率が高く（84%対49%）、予後不良因子の少ない患者で短期的な神経学的改善も示した。二重抗グルタミン酸療法はSRSE治療に有望である。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42932852",
       "doi": "10.1212/WNL.0000000000218688",
       "title": "Differences in Epilepsy Etiology, Type, Syndrome, and Severity Between Māori and Non-Māori-Non-Pasifika Children With Epilepsy in New Zealand.",

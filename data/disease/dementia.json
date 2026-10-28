@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42837647",
+      "doi": "10.1186/s40478-021-01307-2",
+      "title": "Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.",
+      "abstract": "Phosphorylated tau217 (pTau217) plasma assays have shown high diagnostic accuracy for Alzheimer disease (AD). However, validation of plasma pTau217 as a direct marker of brain-based pTau pathology requires understanding of its quantitative relationship with cortical pTau217. The primary objective of this postmortem validation study was to determine the quantitative relationship of plasma pTau217 levels and the pTau217/β-amyloid (Aβ) In this retrospective study, patients with dementia were recruited from an academic memory clinic (University Hospitals Leuven) based on the joint availability of an antemortem plasma sample and postmortem brain tissue. An N-terminal pTau217 (pTau217 Thirty-two patients with dementia (mean age 66 [SD 10] years, 38% female) were included, of which 19 had an AD diagnosis and 13 had a diagnosis of frontotemporal lobar degeneration with either TDP-43 or tau inclusions, as determined at autopsy. Plasma pTau217 Plasma pTau217",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837647/",
+      "summary_ja": "背景：リン酸化タウ217（pTau217）はアルツハイマー病（AD）の血漿マーカーとして高い診断精度を示すが、血漿pTau217と脳皮質のpTau217病理との定量的関係は不明である。  \n方法：認知症患者32名（平均年齢66歳、女性38％）を対象に、死後脳組織と生前採取の血漿サンプルを用いて、血漿中pTau217濃度と側頭皮質のpTau217およびβアミロイド（Aβ）蓄積との関係を検討した。患者のうち19名はAD、13名は前頭側頭葉変性症と診断された。  \n結果：血漿pTau217濃度は側頭皮質のpTau217蓄積量と有意に相関し、AD患者で特に高値を示した。一方、前頭側頭葉変性症患者では低値であった。  \n結論：血漿pTau217は脳内pTau217病理の定量的指標として有用であり、ADのバイオマーカーとしての信頼性が支持された。",
+      "summary_short_ja": "本研究は、アルツハイマー病（AD）診断に有用な血漿中リン酸化タウ217（pTau217）と大脳皮質のpTau217量との定量的関係を検証した。レビュン大学病院の認知症患者32名（うち19名がAD）を対象に、死後脳組織と生前血漿サンプルを比較。結果、血漿pTau217は脳内pTau217病理の直接的指標として有望であり、AD診断の補助に有効であることが示された。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42821845",
+      "doi": "10.1093/sleep/zsaa133",
+      "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
+      "abstract": "Plasma phosphorylated tau (p-tau) 217 is increasingly used for Alzheimer disease (AD) diagnosis and treatment decisions but may be discordant with established AD biomarkers. False-positive (FP) plasma results may lead to overtreatment and false-negative (FN) results to missed or delayed disease-modifying therapies. We evaluated factors associated with discordant results. This retrospective study included participants enrolled in memory and aging studies at Mayo Clinic with \"positive\" (>0.324 pg/mL) or \"negative\" (<0.186 pg/mL) plasma p-tau217 results and confirmatory AD biomarkers. Plasma results were classified as true positive (TP), true negative (TN), FP, or FN, referencing amyloid-PET and CSF p-tau181/β-amyloid (Aβ) 42. Clinical and laboratory variables were compared using univariate analyses; multivariable logistic regression evaluated independent associations with discordance. Among 706 participants (median 70.0 [interquartile range 15.8] years; 54% male), 60 (8.5%) had discordant plasma p-tau217 results. FN results (5.6%) were more frequent than FP results (2.8%;  Plasma p-tau217 results and established AD biomarkers were discordant in 8.5% of participants. Clinical stage and factors related to brain amyloid clearance, renal clearance, and volume of distribution were associated with discordant results. These insights may inform mechanisms of discordance and identify patients requiring confirmatory biomarker measures.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Oct-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42821845/",
+      "summary_ja": "背景：血漿中のリン酸化タウ（p-tau217）はアルツハイマー病（AD）の診断や治療判断に用いられるが、既存のADバイオマーカーと結果が一致しない場合がある。偽陽性（FP）は過剰治療、偽陰性（FN）は治療機会の逸失を招く可能性があるため、その要因を検討した。  \n方法：Mayo Clinicの記憶・加齢研究参加者706名（中央値70歳）を対象に、血漿p-tau217の陽性（>0.324 pg/mL）・陰性（<0.186 pg/mL）結果と、アミロイドPETや脳脊髄液p-tau181/β-アミロイド42を基準としたADバイオマーカーとの一致を比較。単変量解析と多変量ロジスティック回帰で不一致の独立因子を解析した。  \n結果：参加者の8.5%（60名）が血漿p-tau217と既存バイオマーカーで不一致を示し、FN（5.6%）がFP（2.8%）より多かった。不一致は臨床ステージや脳アミロイドのクリアランス、腎機能、分布容積に関連していた。  \n結論：血漿p-tau217と既存ADバイオマーカーの不一致は一定割合で存在し、臨床的および生理的因子が影響する。これらの知見は不一致のメカニズム解明や、追加の確認バイオマーカー検査が必要な患者の特定に役立つ。",
+      "summary_short_ja": "本研究は、アルツハイマー病（AD）診断に用いられる血漿中p-tau217と既存のADバイオマーカーとの不一致要因を検討した。706名中8.5%で不一致が認められ、偽陰性が偽陽性より多かった。不一致は臨床病期や脳アミロイドのクリアランス、腎機能、分布容積に関連していた。これらの知見は不一致のメカニズム解明や追加検査が必要な患者の特定に役立つ。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42913444",
       "doi": "10.1212/WNL.0000000000218681",
       "title": "Blood-Based Biomarkers as Predictors of All-Cause Dementia: A 13-Year Follow-Up in the Whitehall II Cohort Study.",
@@ -88,21 +118,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42441390/",
       "summary_ja": "背景：アルツハイマー病診断において、アミロイドPETは認知機能低下の原因特定や治療適格判定に用いられているが、画像評価の標準化単位であるCentiloidの解釈は方法や閾値により異なる。  \n方法：PubMed検索やデータベース、学会連絡を通じて、Centiloid値を含む53研究（49,227名、平均年齢71歳、54％女性、62％認知障害あり）から個別参加者データを収集。統一解析パイプラインとランダム効果メタ解析を用い、ガウス混合モデル（GMM）で閾値を決定。視覚評価との一致度も検証。  \n結果：51研究で二峰性分布を確認し、単一の陽性カットオフは18 Centiloid（95％CI 16-19）と算出。二重カットオフ法では陰性確信域が11未満、陽性確信域が26超であった。視覚評価との一致度は高く（Cohen κ=0.86）、対応するカットオフは27 Centiloid（95％CI 24-30）であった。  \n結論：Centiloidの陽性閾値はデータ駆動で18、視覚評価基準で27に収束。11～26の中間域は解釈に注意が必要であり、使用文脈に応じた慎重な判断が求められる。",
       "summary_short_ja": "本研究は、アルツハイマー病診断に用いられるアミロイドPET画像の定量単位「Centiloid」の閾値を個人データメタ解析で検討した。49,227例のデータから、データ駆動型解析で18 Centiloidを陽性カットオフと特定。二重カットオフ法では11未満を陰性、26超を陽性とし、中間域は慎重な解釈が必要と示唆。視覚評価との一致も高く（カッパ0.86）、臨床判断の指標となる。",
-      "disease": "dementia",
-      "section": "diagnosis"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42821845",
-      "doi": "10.1093/sleep/zsaa133",
-      "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers.",
-      "abstract": "Plasma phosphorylated tau (p-tau) 217 is increasingly used for Alzheimer disease (AD) diagnosis and treatment decisions but may be discordant with established AD biomarkers. False-positive (FP) plasma results may lead to overtreatment and false-negative (FN) results to missed or delayed disease-modifying therapies. We evaluated factors associated with discordant results. This retrospective study included participants enrolled in memory and aging studies at Mayo Clinic with \"positive\" (>0.324 pg/mL) or \"negative\" (<0.186 pg/mL) plasma p-tau217 results and confirmatory AD biomarkers. Plasma results were classified as true positive (TP), true negative (TN), FP, or FN, referencing amyloid-PET and CSF p-tau181/β-amyloid (Aβ) 42. Clinical and laboratory variables were compared using univariate analyses; multivariable logistic regression evaluated independent associations with discordance. Among 706 participants (median 70.0 [interquartile range 15.8] years; 54% male), 60 (8.5%) had discordant plasma p-tau217 results. FN results (5.6%) were more frequent than FP results (2.8%;  Plasma p-tau217 results and established AD biomarkers were discordant in 8.5% of participants. Clinical stage and factors related to brain amyloid clearance, renal clearance, and volume of distribution were associated with discordant results. These insights may inform mechanisms of discordance and identify patients requiring confirmatory biomarker measures.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Oct-27",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42821845/",
-      "summary_ja": "背景：血漿中のリン酸化タウ（p-tau217）はアルツハイマー病（AD）の診断や治療判断に用いられるが、既存のADバイオマーカーと結果が一致しない場合がある。偽陽性（FP）は過剰治療、偽陰性（FN）は治療機会の逸失を招く可能性があるため、その要因を検討した。  \n方法：Mayo Clinicの記憶・加齢研究参加者706名（中央値70歳）を対象に、血漿p-tau217の陽性（>0.324 pg/mL）・陰性（<0.186 pg/mL）結果と、アミロイドPETや脳脊髄液p-tau181/β-アミロイド42を基準としたADバイオマーカーとの一致を比較。単変量解析と多変量ロジスティック回帰で不一致の独立因子を解析した。  \n結果：参加者の8.5%（60名）が血漿p-tau217と既存バイオマーカーで不一致を示し、FN（5.6%）がFP（2.8%）より多かった。不一致は臨床ステージや脳アミロイドのクリアランス、腎機能、分布容積に関連していた。  \n結論：血漿p-tau217と既存ADバイオマーカーの不一致は一定割合で存在し、臨床的および生理的因子が影響する。これらの知見は不一致のメカニズム解明や、追加の確認バイオマーカー検査が必要な患者の特定に役立つ。",
-      "summary_short_ja": "本研究は、アルツハイマー病（AD）診断に用いられる血漿中p-tau217と既存のADバイオマーカーとの不一致要因を検討した。706名中8.5%で不一致が認められ、偽陰性が偽陽性より多かった。不一致は臨床病期や脳アミロイドのクリアランス、腎機能、分布容積に関連していた。これらの知見は不一致のメカニズム解明や追加検査が必要な患者の特定に役立つ。",
       "disease": "dementia",
       "section": "diagnosis"
     },
