@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-29",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42950189",
+      "doi": "10.1212/WNL.0000000000218665",
+      "title": "Pearls & Oy-sters: Beyond the Bone Marrow-VEXAS Syndrome Presenting as Subacute Encephalomyelitis.",
+      "abstract": "Vacuoles, E1 enzyme, X-linked, Autoinflammatory, Somatic (VEXAS) syndrome is an adult-onset autoinflammatory disease caused by acquired somatic UBA1 mutations, typically presenting with systemic inflammation and myelodysplastic syndrome. Although infrequent, neurologic manifestations can include peripheral neuropathy, stroke, or encephalopathy. Notably, spinal cord involvement remains poorly documented. Here, we present the case of a 70-year-old man with myelodysplastic syndrome and confirmed VEXAS (UBA1 p.Met41Thr) presenting with subacute ascending paresthesia, Lhermitte sign, and urinary hesitancy suggestive of myelopathy. 3T MRI demonstrated multifocal T2-hyperintense spinal cord and brain lesions, some with contrast enhancement, consistent with inflammatory encephalomyelitis. CSF analysis showed mild lymphocytic pleocytosis (33 cells/µL), elevated protein (55 mg/dL), and numerous CSF-restricted oligoclonal bands. Negative infectious PCR testing and the absence of aquaporin 4 and myelin oligodendrocyte glycoprotein antibodies argued against infection or other inflammatory demyelinating condition. The patient received high-dose intravenous methylprednisolone (1 g/d for 3 days), resulting in rapid clinical improvement. Follow-up MRI performed 1 month after presentation showed resolution of contrast enhancement and partial disappearance of spinal T2 hyperintense lesions.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42950189/",
+      "summary_ja": "背景：VEXAS症候群は、獲得性のUBA1遺伝子変異により成人発症する自己炎症疾患で、全身性炎症や骨髄異形成症候群を主症状とする。神経症状は稀であり、特に脊髄病変の報告は少ない。  \n方法：70歳男性のVEXAS症例（UBA1 p.Met41Thr）において、亜急性の上行性感覚異常、Lhermitte徴候、排尿困難を呈し、3T MRIで多発性の脊髄および脳のT2高信号病変を認めた。髄液検査では軽度のリンパ球増多、蛋白上昇、髄液限定オリゴクローナルバンドを検出し、感染症や他の脱髄疾患は否定された。  \n結果：高用量メチルプレドニゾロン静注療法により症状は迅速に改善し、1か月後のMRIでは造影効果の消失と脊髄病変の部分的消退が確認された。  \n結論：VEXAS症候群は脊髄炎を伴う亜急性脳脊髄炎としても発症しうることが示され、早期診断と免疫療法が有効である可能性が示唆された。",
+      "summary_short_ja": "VEXAS症候群はUBA1遺伝子の獲得型変異による成人発症の自己炎症疾患で、通常は全身炎症や骨髄異形成症候群を伴う。本症例は70歳男性で、亜急性の上行性感覚障害や排尿困難を呈し、3T MRIで多発性の脊髄および脳の炎症性病変を認めた。髄液検査で軽度のリンパ球増多とオリゴクローナルバンド陽性を示し、感染症や他の脱髄疾患は否定。高用量ステロイド治療により症状と画像所見が改善した。",
+      "disease": "stroke",
+      "section": "treatment"
+    }
+  ]
+}
