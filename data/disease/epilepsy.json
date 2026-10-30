@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42956387",
+      "doi": "10.1212/WNL.0000000000218567",
+      "title": "Cenobamate in Focal-Onset Refractory and Super-Refractory Status Epilepticus: A Multicenter Cohort Study With Matched Analysis.",
+      "abstract": "Cenobamate (CNB) is an antiseizure medication (ASM) with demonstrated efficacy in drug-resistant focal epilepsy, but its role in status epilepticus (SE) remains unclear. Emerging evidence suggests that it may achieve early clinically meaningful seizure control at relatively low doses, with an acceptable safety profile, supporting its potential utility as an urgent adjunctive therapy in severe refractory epilepsy. We aimed to evaluate the effectiveness and safety of CNB for the treatment of focal-onset refractory SE (RSE) and super-refractory SE (SRSE) in real-world clinical practice. We conducted a multicenter retrospective cohort study using a prospectively maintained registry including adult patients with focal RSE and SRSE treated between January 2022 and October 2025. Clinical, EEG, and treatment data were collected. The primary outcome was sustained SE termination (>24 hours) with electroclinical resolution attributable to CNB. A secondary propensity score-matched analysis (1:2) compared CNB-exposed patients with matched nonexposed controls from the same registry (2011-2025), using target trial emulation principles. Thirty-one patients received CNB (mean age 61 ± 21 years; 54.8% male); 45.2% met criteria for SRSE. CNB was initiated a median of 4 days (interquartile range [IQR] 2-12) after SE onset after failure of 5 ASMs (IQR 4-5), at a median starting dose of 50 mg/d (IQR 25-50). Sustained SE resolution occurred in 26 patients (83.9%), including all patients with RSE (17/17) and 64.3% with SRSE. Response occurred after a median of 2 days (IQR 1-6). In the matched cohort analysis (28 CNB exposed vs 56 controls), SE resolution was higher in CNB-treated patients (82.1% vs 57.1%;  In this multicenter real-world cohort, CNB was associated with high rates of sustained SE termination in RSE and SRSE and improved outcomes compared with matched controls, without serious safety signals. These findings support CNB as a potential adjunctive therapeutic option in refractory focal SE. This study provides Class IV evidence that CNB is effective as an adjunctive therapy for the control of focal-onset RSE and SRSE in adult patients.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956387/",
+      "summary_ja": "背景：セノバメート（CNB）は薬剤抵抗性焦点性てんかんに有効な抗てんかん薬であるが、てんかん重積状態（SE）における効果は不明である。方法：2022年1月から2025年10月までの成人焦点性難治性SE（RSE）および超難治性SE（SRSE）患者31名を対象に、多施設後ろ向きコホート研究を実施。CNB投与後の臨床・脳波データを収集し、持続的なSE終了（24時間以上の電気臨床的解消）を主要評価項目とした。さらに、傾向スコアマッチングによりCNB非投与患者と比較した。結果：CNBはSE発症後中央値4日で開始され、5種類の抗てんかん薬失敗後に投与。持続的SE終了率は全体で83.9％（RSEは100％、SRSEは64.3％）で、中央値2日で効果が現れた。マッチング解析でもCNB群のSE終了率は57.1％の対照群を上回った。結論：CNBは焦点性RSEおよびSRSEに対し高い持続的SE終了率を示し、安全性にも問題なく、難治性焦点性SEの補助療法として有望である。",
+      "summary_short_ja": "セノバメート（CNB）は、難治性焦点発作性てんかんに有効な抗てんかん薬であり、本研究は焦点発作性難治性および超難治性てんかん重積状態（RSE、SRSE）に対するCNBの効果と安全性を多施設後ろ向きコホートで検証した。31例中83.9％で持続的なてんかん重積の終息が認められ、対照群と比較しても有意に改善が示された。重篤な副作用はなく、CNBは難治性焦点発作性てんかん重積の補助療法として有望である。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42837646",
       "doi": "10.3390/ph17010028",
       "title": "Dual Antiglutamate Therapy in Super-Refractory Status Epilepticus After Cardiac Arrest (SUPER-CAT Study).",

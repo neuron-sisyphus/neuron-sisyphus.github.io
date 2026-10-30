@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42956389",
+      "doi": "10.1212/WNL.0000000000218705",
+      "title": "Exclusion of Arteriovenous Shunts in Intracerebral Hemorrhage Using MRI Arterial Spin Labeling: A Prospective Multicenter Study.",
+      "abstract": "Identifying intracranial arteriovenous shunts (AVSs), chiefly arteriovenous malformations (AVMs) and dural arteriovenous fistulas (dAVFs), after nontraumatic intracerebral hemorrhage (ICH) is critical to guide management and prevent recurrence. AVSs are the leading secondary causes of ICH but typically require digital subtraction angiography (DSA) for diagnosis, an invasive, ionizing radiation-based procedure that carries a non-negligible risk of complications and is not readily available in many centers. We assessed the diagnostic accuracy of arterial spin labeling (ASL), a noninvasive MRI technique for detecting AVSs during the etiologic workup of acute ICH. We conducted a prospective multicenter diagnostic accuracy study, across 3 French tertiary hospitals within the ongoing OPTICH cohort (October 2022-October 2025). Consecutive adults with nontraumatic ICH who underwent standardized MRI including ASL within the first week were included. ASL perfusion maps were independently evaluated by 2 blinded neuroradiologists and rated positive when focal hyperperfusion was observed adjacent to the hematoma. Final ICH etiology was adjudicated using all available imaging and follow-up data, with DSA confirmation for all AVSs. Sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and overall accuracy were calculated, using the final etiologic diagnosis as the reference standard. Among 537 enrolled patients, 277 met inclusion criteria (median age 71 years [interquartile range 60-80]; 163 (58.8%) men). An AVS was confirmed in 24 patients (8.7%; 23 AVMs and 1 dAVFs). Interobserver agreement for ASL rating was excellent (κ = 0.88). ASL demonstrated a sensitivity of 95.8% (95% CI 79.8-99.3), specificity of 94.5% (90.9-96.7), PPV of 62.2% (46.1-75.9), and NPV of 99.6% (98.1-99.9), with an overall accuracy of 94.6% (91.3-96.7). All AVSs identified on initial DSA were detected by ASL; 3 ASL-positive AVSs were occult on initial DSA. In an unselected, low-prevalence adult ICH population, ASL demonstrated excellent diagnostic accuracy and a near-perfect NPV, indicating that a negative ASL reliably excludes AVS. Main limitations include selective DSA use, few non-AVM shunts, and modest scanner heterogeneity. Pending external validation, these findings support systematic incorporation of ASL as a gatekeeper to DSA into standard MRI protocols during ICH etiologic workup.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956389/",
+      "summary_ja": "背景：非外傷性脳内出血（ICH）後の頭蓋内動静脈シャント（AVS）、特に動静脈奇形（AVM）や硬膜動静脈瘻（dAVF）の同定は、再発予防や治療方針決定に重要である。従来は侵襲的かつ放射線被曝を伴うデジタルサブトラクション血管造影（DSA）が診断の標準であるが、利用制限や合併症リスクが課題である。  \n方法：フランスの3施設で実施された前向き多施設診断精度研究において、非外傷性ICH患者277名（中央値年齢71歳）を対象に、発症1週以内に非侵襲的MRIの一種である動脈スピンラベリング（ASL）を用いてAVS検出能を評価した。ASL画像は2名の神経放射線科医が盲検で判定し、最終診断は全画像情報とDSAを基準とした。  \n結果：AVSは24例（8.7%）で確認され、ASLの感度95.8%、特異度94.5%、陽性的中率62.2%、陰性的中率99.6%、総合精度94.6%を示した。ASL判定の読影者間一致度も高かった（κ=0.88）。初回DSAで検出されなかった3例のAVSもASLで同定された。  \n結論：ASLは非選択的なICH患者集団において高い診断精度とほぼ完全な陰性的中率を示し、陰性の場合はAVSを除外できる有用な非侵襲的検査である。外部検証を経て、ICHの病因検索におけるDSAの前段階としてASLを標準MRIプロトコルに組み込むことが推奨される。",
+      "summary_short_ja": "非外傷性脳内出血（ICH）患者における動静脈シャント（AVS）の診断に、非侵襲的MRI技術である動脈スピンラベリング（ASL）の有用性を多施設で検証した。277例中24例でAVSを確認し、ASLは感度95.8％、特異度94.5％、陰性的中率99.6％を示した。ASL陰性であればAVSを高精度に除外可能であり、侵襲的DSA検査の前段階として標準MRIに組み込むことが有望とされた。",
+      "disease": "stroke",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42950189",
       "doi": "10.1212/WNL.0000000000218665",
       "title": "Pearls & Oy-sters: Beyond the Bone Marrow-VEXAS Syndrome Presenting as Subacute Encephalomyelitis.",

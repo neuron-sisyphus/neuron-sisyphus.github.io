@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42956390",
+      "doi": "10.1212/WNL.0000000000218683",
+      "title": "Establishing Potosi Virus as a Human Pathogen: Fatal Neuroinvasive Disease in a B-Cell-Depleted Patient.",
+      "abstract": "To establish Potosi virus, a mosquito-borne member of the family  Case report. A 37-year-old woman with multiple sclerosis on long-term rituximab developed rapidly progressive dementia. Serial MRI demonstrated progressive generalized atrophy. CSF showed transient, minimal lymphocytic pleocytosis. Extensive infectious, autoimmune, and prion evaluations were unrevealing, but CSF metagenomic sequencing detected all 3 genome segments for Potosi virus. Postmortem examination revealed diffuse meningoencephalitis with T-cell-predominant leptomeningeal and perivascular inflammation. Molecular analyses confirmed multiple nucleotide sequences with >99+% concordance with a known Potosi strain, with widespread viral infection confirmed by immunohistochemistry demonstrating intracellular and extracellular viral antigen. Electron microscopy demonstrated particles of a size consistent with the  Potosi virus can cause fatal neuroinvasive disease in humans, as evidenced by convergent postmortem neuropathologic, molecular, and ultrastructural evidence. Chronic B-cell depletion may increase susceptibility to severe disease with arboviral infections, which may present without conventional CNS inflammatory markers. CSF metagenomic sequencing should be considered in immunocompromised patients with unexplained progressive neurologic decline.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42956390/",
+      "summary_ja": "背景：Potosiウイルスは蚊を媒介とするウイルスであり、その人への病原性は明確でなかった。方法：多発性硬化症で長期リツキシマブ治療中の37歳女性が急速に進行する認知症を発症。MRIで全般的な脳萎縮が進行し、髄液検査では軽度のリンパ球増加が一時的に認められたが、従来の感染症・自己免疫・プリオン検査は陰性だった。髄液のメタゲノム解析でPotosiウイルスの全3ゲノムセグメントを検出。結果：死後検査でびまん性の髄膜脳炎が確認され、T細胞優位の炎症が認められた。分子解析で既知のPotosi株と99%以上一致する配列が検出され、免疫組織化学と電子顕微鏡でウイルスの広範な感染が証明された。結論：Potosiウイルスはヒトに致命的な神経侵襲性疾患を引き起こすことが示された。慢性的なB細胞枯渇は重症化のリスクを高め、従来の中枢神経炎症マーカーが乏しい場合もあるため、免疫抑制患者の原因不明の神経症状には髄液メタゲノム解析が有用である。",
+      "summary_short_ja": "本症例は、多発性硬化症でリツキシマブ治療中の37歳女性が急速に進行する認知症を発症し、最終的に致死的な神経浸潤性ポトシウイルス感染と診断された。髄液検査では軽度のリンパ球増加のみで他の感染症は否定的だったが、メタゲノム解析でポトシウイルスの全ゲノムが検出された。病理解剖で広範な髄膜脳炎とウイルス抗原の存在が確認され、B細胞枯渇状態が重症化の一因と示唆された。免疫抑制患者の神経症状には髄液メタゲノム解析が有用である。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42837647",
       "doi": "10.1186/s40478-021-01307-2",
       "title": "Quantitative Relationship Between Lumipulse G Measures of pTau217 in Plasma and the Temporal Cortex.",
