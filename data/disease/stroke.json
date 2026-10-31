@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42962168",
+      "doi": "10.1212/WNL.0000000000218590",
+      "title": "Maternal and Fetal Safety Outcomes of Thrombolytics for Ischemic Stroke in Pregnancy: A Systematic Review and Aggregated Case Series.",
+      "abstract": "The safety of intravenous thrombolytics for ischemic stroke in pregnancy is largely unknown. We performed a systematic review to identify published use of thrombolytics for stroke during pregnancy, with the aim of assessing maternal and fetal safety outcomes. To provide additional safety data, we included cases of thrombolysis for deep vein thrombosis, mechanical valve thrombosis, and pulmonary embolism in pregnancy. We used the PRISMA and MOOSE guidelines to conduct the review. We searched 3 databases (OVID Medline, EMBASE, Scopus) for studies published up to October 2025. We analyzed outcomes in a Bayesian aggregated case series to compare rates of adverse outcomes in our cohort with those in the general population. Elective termination and spontaneous abortion were grouped together, given that it was often difficult to determine whether complications of thrombolysis may have played a role in the decision for termination. We included 123 studies of 216 patients (median age 31 years) treated with thrombolytics during pregnancy, of whom 85 had ischemic stroke. Six of the 32 total fetal deaths were deemed likely to be causally related to thrombolytics (3 in stroke). The risk of miscarriage in our thrombolysis population was 12.4% higher (95% credible interval [CrI]: 2.6%, 23.2%) than published general pregnant population rates, and the risk of stillbirth was 5.9% higher (95% CrI: 1.6%, 12.7%). The proportion of pregnant patients with symptomatic intracerebral hemorrhage was similar between our pregnant cohort and young, nonpregnant patients receiving thrombolytics (risk difference -0.4%; 95% CrI: -0.8%, 2.7%). Thrombolytics were likely causally associated with a small minority of published cases of fetal death after thrombolysis in pregnancy. There was no signal of increased harm from thrombolysis to the mother, including similar rates of symptomatic intracerebral hemorrhage. In many cases, it was difficult to discern effects of thrombolytics on fetal outcomes from the effects of the disease itself; hence, our results should be interpreted with caution. Nonetheless, our findings broadly support the use of thrombolytics in otherwise-eligible pregnant patients but underscore the importance of the risk-benefit assessment in such patients. The study protocol was pre-registered on PROSPERO (registration number: CRD42024605043).",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962168/",
+      "summary_ja": "背景：妊娠中の虚血性脳卒中に対する静脈内血栓溶解療法の安全性は十分に明らかでない。  \n方法：妊娠中の脳卒中に対する血栓溶解療法の使用例を系統的にレビューし、母体および胎児の安全性を評価した。深部静脈血栓症、機械弁血栓症、肺塞栓症の妊娠例も含め、OVID Medline、EMBASE、Scopusの3データベースを用いて2025年10月までの文献を検索。Bayesian集約症例シリーズ解析で一般妊婦との有害事象発生率を比較した。  \n結果：123報告、216例（中央値年齢31歳）を解析し、そのうち85例が虚血性脳卒中。胎児死亡32例中6例は血栓溶解療法が原因と推定された。流産リスクは一般妊婦より12.4%高く、死産リスクは5.9%高かった。母体の症候性脳内出血発生率は非妊娠若年患者とほぼ同等であった。  \n結論：血栓溶解療法は妊娠中の母体に対して大きな害は示さず、胎児死亡の一部に因果関係が示唆されるものの、疾患自体の影響との区別は困難である。適応がある妊婦には慎重なリスク・ベネフィット評価のもと使用を支持する結果であった。",
+      "summary_short_ja": "妊娠中の虚血性脳卒中に対する静脈内血栓溶解療法の安全性を評価するため、123件・216例の報告を系統的にレビューした。胎児死亡の一部は血栓溶解療法と関連が疑われたが、母体の症候性脳内出血リスクは非妊娠患者と同等であった。流産および死産リスクは一般妊婦よりやや高かったが、血栓溶解療法の使用は慎重なリスク評価のもとで妊婦にも適用可能と示唆された。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42956389",
       "doi": "10.1212/WNL.0000000000218705",
       "title": "Exclusion of Arteriovenous Shunts in Intracerebral Hemorrhage Using MRI Arterial Spin Labeling: A Prospective Multicenter Study.",
