@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42932404",
+      "doi": "10.1161/STROKEAHA.126.055936",
+      "title": "Cytoprotection for Acute Ischemic Stroke: Critical Appraisal of Recent Clinical Trials.",
+      "abstract": "Several phase III clinical trials testing cytoprotective approaches have recently been completed, and many of these studies report a clinical benefit. Reviewing the outcomes of these trials in light of their specific designs reveals intriguing results. Trials designed with shorter treatment time windows (≤24 hours) and featuring high rates of recanalization therapies predominantly show neutral outcomes, that is, no therapeutic benefit. Studies using later time points (>24 hours to 14 days) and often enrolling patients in whom recanalization is not or only infrequently established show clear treatment effects. These results challenge our current understanding of cytoprotective approaches, which are believed to primarily target the penumbra as the key to therapeutic success. The reasons for this are unclear. They may include other, potentially unknown mechanisms of action that improve clinical outcome even when applied within longer time windows rather than exerting acute cytoprotection. Here, we discuss such potential mechanisms, to what extent they could explain the results of recent cytoprotection trials, and review consequences for future translational and clinical research.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932404/",
+      "summary_ja": "背景：急性虚血性脳卒中に対する細胞保護療法は、治療効果が期待されているが、その臨床試験結果は一様でない。  \n方法：最近完了した複数の第III相臨床試験を、治療開始時間の窓（24時間以内かそれ以上か）や再開通療法の実施率に着目して検討した。  \n結果：治療開始が24時間以内で再開通率が高い試験では、治療効果は認められず中立的な結果が多かった。一方、24時間を超え14日以内の遅い時間帯で治療を開始し、再開通が少ない患者を対象とした試験では明確な治療効果が示された。  \n結論：これらの結果は、細胞保護療法が主にペナンブラ（虚血半暗帯）を標的とするという従来の理解に疑問を投げかける。治療効果は、急性の細胞保護作用以外の未知の作用機序による可能性があり、今後の基礎・臨床研究においてこれらのメカニズムの解明が重要である。",
+      "summary_short_ja": "急性虚血性脳卒中に対する細胞保護療法の第III相臨床試験では、治療開始時間が24時間以内で再開通率が高い試験は効果が見られない一方、24時間以降から14日以内に開始し再開通が少ない患者を対象とした試験では明確な治療効果が示された。これにより、従来のペナンブラ保護中心の理解が見直され、未知の作用機序が関与している可能性が示唆される。今後の研究に重要な示唆を与えている。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42877955",
+      "doi": "10.1161/STR.0000000000000537",
+      "title": "Health Literacy and Communication in Stroke Prevention, Management, and Recovery: A Scientific Statement From the American Heart Association.",
+      "abstract": "Health literacy is a critical component of high-quality stroke care. Across the continuum from prevention through recovery, health literacy is strongly associated with functional outcomes and stroke-related morbidity. Despite its importance, it is often overlooked, leaving patients and caregivers overwhelmed by communication demands that exceed their capacity. These mismatches are especially pronounced among individuals with stroke-related cognitive or language impairments, limited English proficiency, socioeconomic disadvantage, or limited digital literacy. This scientific statement synthesizes current evidence on the role of health literacy and communication within stroke systems of care and identifies nurse-led opportunities to advance equity and patient-centered outcomes while recognizing this as a shared interprofessional responsibility. Nurse-led interventions, including teach-back-based education, dyadic psychoeducational programs, and tailored digital support, have demonstrated improvements in stroke knowledge, self-efficacy, quality of life, and caregiver preparedness. However, the literature is marked by methodological heterogeneity. Many studies are underpowered and infrequently use validated health literacy or communication measures. Future directions include standardized assessment of health literacy; literacy-sensitive, nurse-led, and interprofessional care models; workforce training in plain-language and culturally responsive communication; and organizational health literacy principles. Emerging technologies, including telehealth and artificial intelligence, offer promise for improving communication and personalization but require rigorous evaluation to minimize bias and ensure equity and usability.",
+      "journal": "Stroke",
+      "year": "2026",
+      "published": "2026-Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877955/",
+      "summary_ja": "背景：健康リテラシーは脳卒中の予防から回復までの質の高いケアに不可欠であり、機能的転帰や脳卒中関連の罹患率と強く関連する。しかし、多くの場合見過ごされ、患者や介護者が情報過多により困難を抱えている。特に認知・言語障害、英語能力不足、社会経済的弱者、デジタルリテラシーの低い人々で顕著である。  \n方法：本声明は、脳卒中ケアにおける健康リテラシーとコミュニケーションの役割に関する現行の科学的証拠を総合し、看護師主導の介入機会を特定した。  \n結果：教え返し教育、二者心理教育プログラム、個別化デジタル支援などの看護師主導介入により、脳卒中知識、自信、生活の質、介護者の準備度が向上した。一方で、研究の方法論は多様で、検証済みの健康リテラシー評価は少ない。  \n結論：今後は健康リテラシーの標準化評価、看護師主導かつ多職種連携のケアモデル、平易で文化的に配慮したコミュニケーション訓練、組織的健康リテラシー原則の導入が必要である。遠隔医療やAIなど新技術は有望だが、公平性と使いやすさを確保するため厳密な評価が求められる。",
+      "summary_short_ja": "本論文は、脳卒中の予防から回復までの過程における健康リテラシーとコミュニケーションの重要性を強調する。特に認知障害や言語障害、社会経済的弱者において情報伝達の困難が顕著であり、看護師主導の教育や支援が患者・介護者の知識向上や生活の質改善に寄与することを示す。今後は標準化された評価や多職種連携、技術活用による公平で効果的な支援体制の構築が求められる。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42962168",
       "doi": "10.1212/WNL.0000000000218590",
       "title": "Maternal and Fetal Safety Outcomes of Thrombolytics for Ischemic Stroke in Pregnancy: A Systematic Review and Aggregated Case Series.",
@@ -73,21 +103,6 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42821842/",
       "summary_ja": "背景：心房細動（AF）は虚血性脳卒中の主要因であるが、脳卒中既往のあるAF患者に対するカテーテルアブレーションの効果は不明確である。  \n方法：中国の6施設で2019年から2024年までに虚血性脳卒中既往のAF患者431名（中央値年齢70歳、女性37％）を対象に、早期カテーテルアブレーション（1年以内）と薬物療法の効果を観察データからターゲットトライアル模倣法で比較した。主要評価項目は重大心血管イベント（MACE）、副次評価項目に再入院率、死亡率、神経機能・認知機能（mRS、AD8スコア）を含む。  \n結果：中央値3年の追跡で、早期アブレーション群は36か月時点でMACE非発生期間が1.54か月延長（95％CI 0.40-2.85）し、心血管再入院率の低下や神経・認知機能の改善も示唆された。  \n結論：脳卒中既往のAF患者において、早期カテーテルアブレーションはガイドラインに基づく薬物療法と比較し、長期的にMACEリスクを低減する可能性がある。ただし後ろ向き解析のため残存交絡の可能性があり、さらなる大規模ランダム化試験が必要である。",
       "summary_short_ja": "心房細動（AF）と脳梗塞既往の患者431名を対象に、早期カテーテルアブレーション（1年以内）と薬物療法の効果を後ろ向き観察データで比較した。中央値3年の追跡で、早期アブレーションは主要心血管イベント（MACE）発生を有意に遅延させ、心血管再入院や神経・認知機能の改善も示唆された。設計上の限界はあるが、AFと脳梗塞歴患者における早期アブレーションの有用性を示すClass IIIエビデンスを提供する。",
-      "disease": "stroke",
-      "section": "treatment"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42932404",
-      "doi": "10.1161/STROKEAHA.126.055936",
-      "title": "Cytoprotection for Acute Ischemic Stroke: Critical Appraisal of Recent Clinical Trials.",
-      "abstract": "Several phase III clinical trials testing cytoprotective approaches have recently been completed, and many of these studies report a clinical benefit. Reviewing the outcomes of these trials in light of their specific designs reveals intriguing results. Trials designed with shorter treatment time windows (≤24 hours) and featuring high rates of recanalization therapies predominantly show neutral outcomes, that is, no therapeutic benefit. Studies using later time points (>24 hours to 14 days) and often enrolling patients in whom recanalization is not or only infrequently established show clear treatment effects. These results challenge our current understanding of cytoprotective approaches, which are believed to primarily target the penumbra as the key to therapeutic success. The reasons for this are unclear. They may include other, potentially unknown mechanisms of action that improve clinical outcome even when applied within longer time windows rather than exerting acute cytoprotection. Here, we discuss such potential mechanisms, to what extent they could explain the results of recent cytoprotection trials, and review consequences for future translational and clinical research.",
-      "journal": "Stroke",
-      "year": "2026",
-      "published": "2026-Nov",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42932404/",
-      "summary_ja": "背景：急性虚血性脳卒中に対する細胞保護療法は、治療効果が期待されているが、その臨床試験結果は一様でない。  \n方法：最近完了した複数の第III相臨床試験を、治療開始時間の窓（24時間以内かそれ以上か）や再開通療法の実施率に着目して検討した。  \n結果：治療開始が24時間以内で再開通率が高い試験では、治療効果は認められず中立的な結果が多かった。一方、24時間を超え14日以内の遅い時間帯で治療を開始し、再開通が少ない患者を対象とした試験では明確な治療効果が示された。  \n結論：これらの結果は、細胞保護療法が主にペナンブラ（虚血半暗帯）を標的とするという従来の理解に疑問を投げかける。治療効果は、急性の細胞保護作用以外の未知の作用機序による可能性があり、今後の基礎・臨床研究においてこれらのメカニズムの解明が重要である。",
-      "summary_short_ja": "急性虚血性脳卒中に対する細胞保護療法の第III相臨床試験では、治療開始時間が24時間以内で再開通率が高い試験は効果が見られない一方、24時間以降から14日以内に開始し再開通が少ない患者を対象とした試験では明確な治療効果が示された。これにより、従来のペナンブラ保護中心の理解が見直され、未知の作用機序が関与している可能性が示唆される。今後の研究に重要な示唆を与えている。",
       "disease": "stroke",
       "section": "treatment"
     },

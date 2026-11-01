@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42947290",
+      "doi": "10.1111/j.1468-1331.2011.03616.x",
+      "title": "Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",
+      "abstract": "Clinical heterogeneity in amyotrophic lateral sclerosis (ALS) may reflect structured disease trajectories. This study investigated whether anatomically defined motor phenotypes capture reproducible patterns associated with progression, serum neurofilament light chain (NfL), and survival. In a multicenter cohort of 1307 ALS patients, motor phenotypes were classified by region of onset, timing of propagation to a vertically distant body region (early ≤ 12 months vs. later), and the degree of upper (UMN) and lower motor neuron (LMN) dysfunction. Intercenter consistency was assessed using the Friedman test and Kendall's W. Associations with ALS progression rate (ALSPR), NfL, and survival were analyzed using group comparisons and Cox regression models. Phenotype classification was consistent across centers (Kendall's W 0.75-0.89). Onset phenotypes were significantly associated with ALSPR, NfL, and survival (p < 0.001). Trunk onset showed the lowest log(NfL/ALSPR), indicating dissociation between rapid progression and relative NfL elevation. Early propagation was the strongest marker of disease aggressiveness, with higher ALSPR, elevated NfL, and reduced survival (HR 2.93, p < 0.001). In early propagation, NfL disproportionally increased with progression indicating a relative uncoupling of NfL from functional decline. Phenotypes with balanced UMN/LMN and predominant LMN involvement were associated with shorter survival (HR 2.51, p < 0.001). Anatomically defined motor phenotypes identify reproducible ALS trajectories with distinct clinical and neurofilament profiles. Early propagation provides an actionable risk marker of disease aggressiveness, while combined upper and lower motor neuron dysfunction or lower motor neuron predominance is prognostically unfavorable. These findings support integrating structured phenotyping into prognostic models and clinical trial stratification.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947290/",
+      "summary_ja": "背景：筋萎縮性側索硬化症（ALS）は臨床的に多様であり、その進行パターンが構造化されている可能性がある。本研究は、解剖学的に定義された運動表現型が、疾患進行、血清神経細胞軽鎖（NfL）レベル、生存率と関連するかを検討した。\n\n方法：多施設共同で1307名のALS患者を対象に、発症部位、垂直方向への伝播時期（早期≤12か月か後期）、上位運動ニューロン（UMN）および下位運動ニューロン（LMN）障害の程度に基づき運動表現型を分類。施設間の一貫性はFriedman検定とKendallのWで評価し、進行速度（ALSPR）、NfL、及び生存率との関連を群間比較とCox回帰で解析した。\n\n結果：表現型分類は施設間で高い一貫性を示した（Kendall’s W 0.75-0.89）。発症部位はALSPR、NfL、生存率と有意に関連（p<0.001）。体幹発症は進行速度に比してNfL上昇が相対的に低かった。早期伝播は疾患の攻撃性を示す最強の指標であり、ALSPRの増加、NfLの上昇、生存率の低下（ハザード比2.93, p<0.001）と関連。早期伝播群ではNfLの増加が進行速度と乖離していた。UMN/LMNのバランス型およびLMN優位型は短い生存期間と関連（HR 2.51, p<0.001）。\n\n結論：解剖学的運動表現型はALSの再現性ある進行パターンと異なる臨床・神経細胞マーカー特性を示す。早期伝播は疾患攻撃性の重要なリスク指標であり、UMNとLMNの複合障害やLMN優位は予後不良を示す。これらの知見は予後モデルや臨床試験の層別化に有用である。",
+      "summary_short_ja": "本研究は、筋萎縮性側索硬化症（ALS）の運動症状を解剖学的に分類し、進行速度、血清神経細線維軽鎖（NfL）濃度、生存率との関連を検証した。1307例の多施設コホートで、発症部位や病変の拡大時期、上位・下位運動ニューロン障害の程度に基づく表現型は施設間で一貫性が高く、進行速度やNfL、予後と明確に結びついた。特に早期拡大は疾患の攻撃性を示す有力な指標であり、上・下位運動ニューロン障害のバランスや下位優位は予後不良と判明した。これらは予後予測や治験の層別化に有用である。",
+      "disease": "als",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42685299",
       "doi": "10.1212/WNL.0000000000218471",
       "title": "Repairing the Amyotrophic Lateral Sclerosis Trial Credibility Gap.",

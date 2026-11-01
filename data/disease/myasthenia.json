@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42963134",
+      "doi": "10.1111/ene.70785",
+      "title": "Changes in Demographic and Clinical Characteristics of MuSK Myasthenia Gravis.",
+      "abstract": "Over the last two decades, an increasing number of late- and very-late onset myasthenia gravis cases (VLOMG) with acetylcholine receptor antibodies (AChR-MG) have been reported, whereas demographic studies on muscle-specific tyrosine kinase antibodies MG (MuSK-MG) are lacking. We investigated whether the proportion of patients with MuSK-MG with onset ≥ 50 years has increased and whether these patients show distinct clinical characteristics. We retrospectively enrolled consecutive patients with MuSK-MG onset ≥ 16 years followed between 1980 and 2025 at our tertiary center. Demographic characteristics and maximum disease severity, classified according to Myasthenia Gravis Foundation of America classification, were analyzed. Patients were stratified into three age-at-onset subgroups. Overall, 120 patients were included. A significant increase in the median age at MuSK-MG onset was observed, from 36 years (IQR, 23-45.75) in the 1980s to 47 years (IQR, 29-69) in the 2013-2025 period (p = 0.033). Patients with onset ≥ 50 years increased from 2/17 (11.8%) to 19/39 (48.7%) (p = 0.015), including 12 VLOMG cases. Males increased from 23.5% to 35.9%. Maximum MG severity decreased over time, with a remarkable reduction of respiratory crises (p = 0.004), with no significant differences across age-at-onset groups. Demographic changes observed in AChR-MG also occur, though less prominently, in MuSK-MG.",
+      "journal": "European journal of neurology",
+      "year": "2026",
+      "published": "2026-Nov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42963134/",
+      "summary_ja": "背景：近年、アセチルコリン受容体抗体陽性重症筋無力症（AChR-MG）において、50歳以上で発症する遅発型・超遅発型（VLOMG）患者の増加が報告されているが、筋特異的チロシンキナーゼ抗体陽性MG（MuSK-MG）に関する人口統計学的研究は不足している。  \n方法：1980年から2025年までに当院で発症年齢16歳以上のMuSK-MG患者120名を後ろ向きに登録し、発症年齢別に3群に分けて人口統計学的特徴と最大疾患重症度（MGFA分類）を解析した。  \n結果：MuSK-MGの発症中央値年齢は1980年代の36歳から2013-2025年の47歳に有意に上昇（p=0.033）。50歳以上発症患者の割合は11.8%から48.7%に増加（p=0.015）、うち12例がVLOMGであった。男性比率も23.5%から35.9%に増加。最大重症度は低下し、特に呼吸不全危機の頻度が有意に減少（p=0.004）したが、発症年齢群間での差はなかった。  \n結論：AChR-MGで見られるような高齢発症患者の増加傾向は、MuSK-MGでも同様に認められるが、その変化はやや緩やかである。",
+      "summary_short_ja": "MuSK抗体陽性重症筋無力症（MuSK-MG）の発症年齢は過去40年で中央値が36歳から47歳に上昇し、50歳以上の発症例が増加した。男性患者も増加傾向にあり、最大病状の重症度は低下、特に呼吸不全の発症が減少した。これらの変化は、アセチルコリン受容体抗体陽性MGで見られる人口動態の変化と類似しているが、MuSK-MGではやや緩やかである。",
+      "disease": "myasthenia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42868333",
       "doi": "10.1212/WNL.0000000000218557",
       "title": "Disease Control in Generalized Myasthenia Gravis: Consensus Definition, Evolution, and Patient Characterization.",
