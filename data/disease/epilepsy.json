@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42970749",
+      "doi": "10.1212/WNL.0000000000218687",
+      "title": "Germline Genetic Variants and Epilepsy Surgery Response: Individual Participant Pooled Analysis of 272 Patients.",
+      "abstract": "Genetic testing is increasingly used in presurgical evaluation, but the yield of resection and ablation across germline genetic epilepsies remains uncertain. We conducted a systematic review of MEDLINE (PubMed) and Scopus and added cases from 3 institutional cohorts and the Pediatric Epilepsy Research Consortium (PERC) databases, including individuals with pathogenic/likely pathogenic germline variants besides tuberous sclerosis who underwent resection or laser ablation. Etiologies were grouped into biologically informed categories (GATORopathies, vascular, overgrowth, copy number variants (CNVs), channelopathies, synaptopathies, and other). Primary outcome was seizure freedom (Engel I) at the last follow-up. Group comparisons used Fisher exact and Kruskal-Wallis tests (α = 0.05; Bonferroni when applicable). Prespecified sensitivity analyses stratified by lesional status, excluded GATORopathies, and restricted to literature-only cases. We included 224 literature cases (65 studies), 36 institutional cases, and 12 PERC cases (n = 272). The median follow-up was 24 months (interquartile range 12-48.0). Seizure freedom was achieved in vascular disorders 14/19 (73.6%), GATORopathies 79/120 (65.8%), CNVs 18/31 (58.0%), overgrowth 9/16 (56.6%), channelopathies 13/43 (30.0%), synaptopathies 4/18 (22.2%), and other 11/25 (44.0%) (overall  Resective surgeries can be effective in germline genetic epilepsies, but outcomes vary by pathway. Disorders with discrete, lesional substrates (GATORopathies, vascular) show the highest likelihood of seizure freedom, whereas channelopathies and synaptopathies, despite the presence of MRI lesions, have substantially lower yields even in lesional cases. Prospective, genotype-aware surgical registries with standardized reporting (EEG, imaging, and pathology) and time-to-event outcomes are needed to refine the selection of surgical candidates and quantify seizure and non-seizure-related outcomes.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970749/",
+      "summary_ja": "背景：遺伝性てんかん患者に対する手術治療の効果は遺伝子変異の種類によって異なるが、その詳細は不明である。方法：MEDLINEやScopusの文献検索に加え、3つの施設コホートおよび小児てんかん研究コンソーシアム（PERC）から、病的または病的疑いの生殖細胞系遺伝子変異を持ち、切除術またはレーザー焼灼術を受けた272例を対象に個別参加者データの統合解析を行った。病因はGATORopathies、血管性、過成長、コピー数変異（CNV）、チャネル病、シナプトパチーなど生物学的カテゴリーに分類し、主要評価項目は最終追跡時の発作自由（Engel I）とした。結果：中央値24か月の追跡で、血管性疾患群で73.6%、GATORopathies群で65.8%、CNV群で58.0%、過成長群で56.6%の患者が発作自由を達成した。一方、チャネル病は30.0%、シナプトパチーは22.2%と低率であった。結論：生殖細胞系遺伝子変異を持つてんかん患者の手術は有効であるが、病態により効果は大きく異なる。特に明確な病変を伴うGATORopathiesや血管性疾患で良好な成績が得られる一方、チャネル病やシナプトパチーはMRI病変があっても手術効果が限定的である。今後は遺伝子型に基づく前向き手術登録と標準化された評価が必要である。",
+      "summary_short_ja": "遺伝性てんかん患者272名の手術成績を個別データで解析した結果、血管障害やGATORopathiesなど病変が明確な疾患群で手術後の発作自由率が高い一方、チャネル病やシナプトパチーはMRI病変があっても成績が低かった。遺伝子情報を考慮した前向き手術登録と標準化された評価が、手術適応の最適化に必要と示された。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42956387",
       "doi": "10.1212/WNL.0000000000218567",
       "title": "Cenobamate in Focal-Onset Refractory and Super-Refractory Status Epilepticus: A Multicenter Cohort Study With Matched Analysis.",

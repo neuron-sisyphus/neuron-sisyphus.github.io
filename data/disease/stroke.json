@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42970742",
+      "doi": "10.1212/WNL.0000000000218710",
+      "title": "Pearls & Oy-sters: The Price of Patency: Intractable Headache Subsequent to Fourth Ventricular Recanalization.",
+      "abstract": "Fourth ventricular hemorrhage is a devastating subtype of hemorrhagic stroke that can be primary or secondary to subarachnoid hemorrhage. In both cases, inflammatory reactions triggered by blood in the subarachnoid space peak in the first week. This report describes a 61-year-old woman with a secondary fourth ventricular hemorrhage managed with IRRAflow active irrigation and drainage system, which expedited recanalization of the fourth ventricle and clearance of cisternal subarachnoid hemorrhage on days 3 and 5, respectively. However, the patient developed an intractable headache on day 7, despite normal imaging, intracranial pressure, and laboratory investigations. This case highlights caudal sac inflammation as a hidden culprit of unremitting headache after recanalization of the fourth ventricle despite normal investigations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970742/",
+      "summary_ja": "背景：第四脳室出血は、一次性またはくも膜下出血に続発する重篤な脳出血の一種であり、血液による炎症反応は発症後1週間でピークに達する。  \n方法：61歳女性の続発性第四脳室出血例に対し、IRRAflow能動灌流排液システムを用いて第四脳室の再開通とくも膜下出血の除去を3日目および5日目に迅速に行った。  \n結果：再開通後の7日目に、画像検査や頭蓋内圧、検査値は正常であったにもかかわらず、難治性の頭痛が発症した。  \n結論：本症例は、第四脳室再開通後に正常検査結果にもかかわらず持続する頭痛の原因として、尾側嚢の炎症が隠れた要因である可能性を示している。",
+      "summary_short_ja": "本報告は、二次性第四脳室出血の61歳女性例を紹介する。IRRAflowシステムによる積極的灌流排液で第三・第五日に第四脳室の再開通とくも膜下出血の除去が達成されたが、7日目に画像・圧力・検査正常下で難治性頭痛を発症した。これは第四脳室再開通後の尾側嚢炎症が隠れた原因となり得ることを示し、頭痛の新たな病態理解を促す。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42932404",
       "doi": "10.1161/STROKEAHA.126.055936",
       "title": "Cytoprotection for Acute Ischemic Stroke: Critical Appraisal of Recent Clinical Trials.",
