@@ -18,6 +18,21 @@
     },
     {
       "source": "pubmed",
+      "pmid": "42776543",
+      "doi": "10.1177/17562864251378833",
+      "title": "Tenecteplase Before Thrombectomy at 4.5 to 24 Hours for Basilar Artery Occlusion: The ATTENTION LATE Randomized Clinical Trial.",
+      "abstract": "Whether intravenous tenecteplase before endovascular thrombectomy (EVT) improves outcomes in patients with basilar artery occlusion presenting 4.5 to 24 hours after stroke onset remains uncertain. To evaluate the efficacy and safety of intravenous tenecteplase before EVT vs EVT alone in patients with moderate to severe basilar artery occlusion admitted within 4.5 to 24 hours from stroke onset. This multicenter, open-label, blinded end point, randomized clinical trial was conducted at 40 stroke centers in China. Between March 16, 2023, and February 4, 2025, a total of 330 patients with moderate to severe basilar artery occlusion (National Institutes of Health Stroke Scale score ≥10) presenting within 4.5 to 24 hours from stroke onset to EVT-capable centers were enrolled. Final follow-up was completed on May 4, 2025. Patients were randomized 1:1 via a centralized web server using a minimization method to receive either intravenous tenecteplase (bolus injection, 0.25 mg/kg; maximum, 25 mg) followed by EVT (n = 166) or EVT alone (n = 164). The primary outcome was functional independence (modified Rankin Scale score, 0-2) at 90 days. Safety outcomes included symptomatic intracranial hemorrhage and 90-day mortality. Among 332 patients randomized, 2 withdrew consent. Of the remaining 330 patients (mean [SD] age, 66 [11] years; 241 males [73%]; 89 females [27%]), 329 completed 90-day follow-up. Of whom, 50 of 165 (30%) in the tenecteplase plus EVT group and 50 of 164 (30%) in the EVT alone group achieved functional independence (adjusted rate ratio, 0.92 [95% CI, 0.67 to 1.25]; risk difference, -0.18% [95% CI, -10.13% to 9.76%]). Symptomatic intracranial hemorrhage occurred in 8 patients (5%) in the tenecteplase plus EVT group and 6 (4%) in the EVT alone group. Mortality at 90 days was similar between the groups (66 [40%] vs 70 [43%], respectively). Among patients with moderate to severe basilar artery occlusion admitted directly to EVT-capable centers who presented 4.5 to 24 hours after stroke onset, the addition of intravenous tenecteplase before EVT did not result in improved functional outcomes compared with EVT alone. ClinicalTrials.gov Identifier: NCT05701956.",
+      "journal": "JAMA",
+      "year": "2026",
+      "published": "2026-Nov-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42776543/",
+      "summary_ja": "背景：脳幹動脈閉塞患者において、発症後4.5～24時間の間に血管内血栓回収療法（EVT）前に静脈内テネクテプラーゼを投与することが有効かは不明であった。  \n方法：中国の40施設で、中等度から重度の脳幹動脈閉塞（NIHSSスコア≥10）の患者330名を対象に、テネクテプラーゼ投与＋EVT群（n=166）とEVT単独群（n=164）に1:1で無作為割付けし、90日後の機能的自立（mRS 0-2）を主要評価項目とした。  \n結果：90日後の機能的自立達成率はテネクテプラーゼ＋EVT群30%、EVT単独群30%で差はなかった（調整率比0.92、95%CI 0.67-1.25）。症候性頭蓋内出血はそれぞれ5%と4%、90日死亡率も40%対43%で有意差は認められなかった。  \n結論：発症後4.5～24時間の脳幹動脈閉塞患者において、EVT前の静脈内テネクテプラーゼ投与はEVT単独と比較して機能的転帰の改善を示さなかった。",
+      "summary_short_ja": "中大脳動脈閉塞の発症4.5～24時間以内にEVT可能施設へ搬送された中等度から重度の患者330例を対象に、静脈内テネクテプラーゼ併用EVTと単独EVTの効果を比較した。90日後の機能的自立率は両群で30％と差がなく、出血や死亡率も類似した。テネクテプラーゼ併用はEVT単独に比べて有意な改善を示さなかった。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42932404",
       "doi": "10.1161/STROKEAHA.126.055936",
       "title": "Cytoprotection for Acute Ischemic Stroke: Critical Appraisal of Recent Clinical Trials.",
