@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42987244",
+      "doi": "10.1212/WNL.0000000000218691",
+      "title": "Impact of 2024 Revisions of Multiple Sclerosis Diagnostic Criteria in People With Radiologically Isolated Syndrome.",
+      "abstract": "The biological onset of multiple sclerosis (MS) precedes its clinical onset by years, as shown by MRI and CSF biomarkers. The 2024 revisions of the McDonald criteria extend, for the first time, MS diagnosis to selected cases of radiologically isolated syndrome (RIS), that is, to people with incidentally discovered CNS lesions suggestive of autoimmune inflammatory demyelination, in the absence of typical symptoms. The aim of this multicenter study was to assess the proportion of patients with RIS reclassified as MS, after applying the 2024 criteria. Adult participants (≥18 years) fulfilling the 2023 Lebrun-Frénay RIS criteria were selected from 22 Italian MS tertiary centers. Real-world, registry-based data were retrospectively collected at both baseline and follow-up. Reclassification followed 2024 criteria, allowing a MS diagnosis in RIS cases with ≥1 T2-hyperintense lesion in ≥2 typical MS regions (i.e., dissemination in space [DIS]), plus either MRI evidence of dissemination in time (DIT), CSF positivity, or central vein sign (CVS) positivity. Descriptive statistics were used. Among 236 patients with RIS (mean age 38.9 ± 11.6 years; 70.3% female; median follow-up 3.0 years [interquartile range {IQR}: 1.1-6]), at baseline, 228 (96.6%) fulfilled DIS, 51 (21.6%) fulfilled radiologic DIT, and 152 of 201 individuals with available CSF data were CSF-positive (75.6%). CVS data were available for 5 of 236 individuals; none were CVS-positive. At baseline, the 2024 criteria resulted in a MS diagnosis in 159 of 236 patients with RIS (67.4%). Of 42 patients with RIS experiencing a clinical event during follow-up, 88.1% would have been reclassified as MS a median of 2 years earlier (IQR: 1.0-5.5). During follow-up, 18 of 236 additional participants (7.6%) met the diagnostic criteria through radiologic DIT. The introduction of the 2024 criteria results in an earlier diagnosis of MS, before clinical manifestations of focal CNS damage, in most people formerly classified as RIS. Study limitations include incomplete kappa free light chain index data and nonstandardized MRI acquisition protocols; particularly, retrospective CVS assessment was negligible in this real-life context. Future studies including the full spectrum of asymptomatic individuals with MRI abnormalities and available paraclinical diagnostic tools are needed to better define the impact of 2024 revised criteria in this population.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987244/",
+      "summary_ja": "背景：多発性硬化症（MS）は臨床発症前にMRIや脳脊髄液（CSF）バイオマーカーで生物学的変化が認められる。2024年のMcDonald基準改訂では、初めて無症候性の放射線学的孤立症候群（RIS）患者の一部にMS診断が拡大された。  \n方法：イタリアの22施設から2023年Lebrun-Frénay RIS基準を満たす成人236名を対象に、2024年基準を適用しRISからMSへ再分類される割合を後ろ向きに解析した。基準は典型的MS病変の空間的拡散（DIS）に加え、時間的拡散（DIT）、CSF陽性、または中心静脈徴候（CVS）陽性を要件とした。  \n結果：対象236例中、基準適合により159例（67.4%）がMSと診断された。追跡中に臨床症状を呈した42例のうち88.1%は、中央値2年前にMSと再分類可能であった。追跡期間中に18例（7.6%）が新たにDIT基準を満たした。CVSデータは極めて限られ、陽性例はなかった。  \n結論：2024年基準の導入により、多くのRIS患者が臨床症状出現前に早期にMSと診断される可能性が示された。今後は非症候性MRI異常者全体を対象に、標準化された検査を用いたさらなる検証が必要である。",
+      "summary_short_ja": "2024年改訂の多発性硬化症（MS）診断基準は、無症候性の放射線学的孤立症候群（RIS）患者の一部をMSと診断可能とした。本多施設研究では、イタリアのRIS患者236名のうち67.4%が新基準でMSと再分類され、臨床症状出現前に早期診断が可能となることを示した。追跡期間中も追加で7.6%が診断基準を満たした。MRIや脳脊髄液検査の標準化不足が課題であり、さらなる検証が必要である。",
+      "disease": "ms",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42963188",
       "doi": "10.1016/j.msard.2023.105309",
       "title": "Long-Term Disease Control Following Completion of Cladribine Treatment in Multiple Sclerosis: Extended Follow-Up of the CladStop Cohort.",

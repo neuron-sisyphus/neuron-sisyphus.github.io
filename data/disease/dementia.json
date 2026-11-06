@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "42987245",
+      "doi": "10.1212/WNL.0000000000218694",
+      "title": "Association of LATE-NC With Neuropathologic Lesions and Cognitive Abilities: A Population-Based Autopsy Study.",
+      "abstract": "Limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC) is a common finding in aging brains. However, most previous studies were limited to ethnoracially homogeneous cohorts from high-income countries. The objective of this study was to investigate the associations between LATE-NC, cognitive performance, and coexisting neuropathologic lesions in a large, ethnoracially and socioeconomically diverse sample from Brazil. This cross-sectional study analyzed data from the Biobank for Aging Studies, a Brazilian population-based autopsy study based at the University of São Paulo. The study included a consecutive series of autopsies performed between 2004 and 2024. Inclusion criteria required participants to be at least 18 years old with a knowledgeable informant. LATE-NC, Alzheimer disease neuropathologic change (ADNC), Lewy body pathology (LBP), lacunar infarcts, small vessel disease, cerebral amyloid angiopathy, and hippocampal sclerosis were assessed following international criteria. Cognitive abilities were evaluated with the Clinical Dementia Rating Scale Sum of Boxes (CDR-SOB). Logistic and linear regression models were applied to examine associations of LATE-NC with comorbid neuropathologies and cognitive outcomes, with adjustments for sociodemographic, clinical, and neuropathologic covariates. The sample comprised 1,860 participants (mean age = 72.6 ± 14.2 years; 49.1% female; 62.2% White; 35.4% Black). LATE-NC was present in 7.4% of participants (stage 1: 3.0%; stage 2: 4.0%; stage 3: 0.4%). After adjustment for sociodemographic, clinical, and other neuropathologic covariates, LATE-NC (stages 2-3) was associated with hippocampal sclerosis (OR = 14.95; 95% CI 7.42-30.27;  LATE-NC was prevalent and associated with cognitive impairment in this ethnoracially and socioeconomically diverse sample. The cross-sectional design limits causal inference, and some estimates had wide confidence intervals due to the small number of advanced-stage cases.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987245/",
+      "summary_ja": "背景：加齢に伴うTDP-43蛋白病変であるLATE-NCは高齢脳で一般的に認められるが、これまでの研究は主に高所得国の単一民族集団に限られていた。  \n方法：ブラジルの多民族・多様な社会経済背景を持つ住民を対象に、2004～2024年の連続剖検データ（n=1,860、平均年齢72.6歳）を用い、LATE-NC、アルツハイマー病病理、レビー小体病変など複数の神経病理所見と認知機能（CDR-SOB）との関連を多変量解析で検討した。  \n結果：LATE-NCは7.4％に認められ、特に進行期（ステージ2-3）では海馬硬化症と強く関連（オッズ比約15）し、認知機能低下とも有意に関連した。  \n結論：多様な民族・社会経済背景を持つ集団においてもLATE-NCは認知障害と関連し、加齢性認知症の重要な病理学的要因であることが示された。ただし横断的研究のため因果関係の解明には限界がある。",
+      "summary_short_ja": "LATE-NCは高齢脳で一般的に認められる病理変化であり、本研究はブラジルの多様な人種・社会経済背景を持つ1860例の剖検データを解析した。LATE-NCは7.4%に認められ、特に進行した段階（2-3期）では海馬硬化と強く関連し、認知機能低下とも関連した。これらの結果はLATE-NCが多様な集団で認知障害に寄与する可能性を示すが、横断的研究のため因果関係の解明には限界がある。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42970748",
       "doi": "10.1212/WNL.0000000000218685",
       "title": "Plasma P-Tau217 and NfL Longitudinal Changes Across Neurodegenerative Diseases: Impact of α-Synuclein in Alzheimer Disease.",
