@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-07",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42993913",
+      "doi": "10.1212/WNL.0000000000218735",
+      "title": "Prevalence and Profile of Undiagnosed Dementia in Brazil: A 5-Year Nationally Representative Analysis From the ELSI-Brazil.",
+      "abstract": "Dementia underdiagnosis is a major barrier to public health strategies, particularly in low- and middle-income countries. Although Brazil has a high prevalence of dementia, data on underdiagnosis remain scarce. We aimed to investigate the prevalence and sociodemographic profile of individuals with undiagnosed dementia in Brazil over 5 years. We analyzed 2 waves of the Brazilian Longitudinal Study of Aging, a nationally representative study of community-dwelling adults, comparing samples from wave 1 (W1; 2015-2016) and wave 2 (W2; 2019-2021) aged 60 years or older. Dementia was defined by an algorithm combining cognitive testing, functional status, and informant report; undiagnosed dementia was algorithm-positive dementia without a prior physician diagnosis of Alzheimer disease. We estimated survey-weighted population prevalences and design-based within-wave and wave-to-wave differences (in percentage points, pp), applying the Benjamini-Hochberg false discovery rate (FDR) correction. The samples included 5,432 participants (mean age 70.3 ± 7.97 years, 60.0% female) in W1 and 6,929 (mean age 71.0 ± 8.28, 59.5% female) in W2. The prevalence of undiagnosed dementia decreased from 5.53% (95% CI 4.46-6.59) in W1 to 3.86% (3.11-4.61) in W2 (-1.66 pp;  Although undiagnosed dementia in Brazil remains high, its prevalence decreased significantly over the 5 years, particularly among vulnerable groups, individuals with low education, women, non-White populations, and in the Northeast. These findings suggest that the expansion and continuity of primary care are beginning to reach historically underserved populations. However, substantial regional inequalities persist, highlighting the need for targeted public health policies and active case finding to bridge diagnostic gaps in isolated territories.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993913/",
+      "summary_ja": "背景：認知症の未診断は公衆衛生上の大きな課題であり、特に低・中所得国で顕著である。ブラジルは認知症の有病率が高いが、未診断の実態に関するデータは不足している。  \n方法：ブラジルの全国代表的な縦断研究「ELSI-Brazil」の2回の調査（2015-2016年、2019-2021年）で、60歳以上の地域在住者を対象に認知症の有病率と未診断者の社会人口学的特徴を分析した。認知症は認知機能検査、機能状態、情報提供者の報告を組み合わせたアルゴリズムで判定し、医師によるアルツハイマー病診断のない認知症を未診断と定義した。  \n結果：W1（2015-2016年）では未診断認知症の有病率は5.53％、W2（2019-2021年）では3.86％に減少した（差-1.66ポイント）。特に教育水準の低い層、女性、非白人、北東部地域の脆弱な集団で顕著な減少が見られた。  \n結論：ブラジルにおける未診断認知症は依然として高いものの、5年間で有意に減少し、プライマリケアの拡充が歴史的にサービスが届きにくかった集団に浸透しつつあることを示す。一方で地域間格差は依然大きく、診断ギャップを埋めるための地域特化型の公衆衛生政策と積極的なケース発見が必要である。",
+      "summary_short_ja": "ブラジルにおける認知症の未診断率は依然高いものの、2015-2016年から2019-2021年の5年間で5.53%から3.86%に有意に減少した。特に低学歴者、女性、非白人、北東部地域の脆弱層で改善が見られ、プライマリケアの拡充が歴史的に医療が届きにくかった層に浸透しつつある。一方で地域間格差は依然大きく、診断ギャップ解消のための公衆衛生政策と積極的なケース発見が必要である。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42987245",
+      "doi": "10.1212/WNL.0000000000218694",
+      "title": "Association of LATE-NC With Neuropathologic Lesions and Cognitive Abilities: A Population-Based Autopsy Study.",
+      "abstract": "Limbic-predominant age-related TDP-43 encephalopathy neuropathologic change (LATE-NC) is a common finding in aging brains. However, most previous studies were limited to ethnoracially homogeneous cohorts from high-income countries. The objective of this study was to investigate the associations between LATE-NC, cognitive performance, and coexisting neuropathologic lesions in a large, ethnoracially and socioeconomically diverse sample from Brazil. This cross-sectional study analyzed data from the Biobank for Aging Studies, a Brazilian population-based autopsy study based at the University of São Paulo. The study included a consecutive series of autopsies performed between 2004 and 2024. Inclusion criteria required participants to be at least 18 years old with a knowledgeable informant. LATE-NC, Alzheimer disease neuropathologic change (ADNC), Lewy body pathology (LBP), lacunar infarcts, small vessel disease, cerebral amyloid angiopathy, and hippocampal sclerosis were assessed following international criteria. Cognitive abilities were evaluated with the Clinical Dementia Rating Scale Sum of Boxes (CDR-SOB). Logistic and linear regression models were applied to examine associations of LATE-NC with comorbid neuropathologies and cognitive outcomes, with adjustments for sociodemographic, clinical, and neuropathologic covariates. The sample comprised 1,860 participants (mean age = 72.6 ± 14.2 years; 49.1% female; 62.2% White; 35.4% Black). LATE-NC was present in 7.4% of participants (stage 1: 3.0%; stage 2: 4.0%; stage 3: 0.4%). After adjustment for sociodemographic, clinical, and other neuropathologic covariates, LATE-NC (stages 2-3) was associated with hippocampal sclerosis (OR = 14.95; 95% CI 7.42-30.27;  LATE-NC was prevalent and associated with cognitive impairment in this ethnoracially and socioeconomically diverse sample. The cross-sectional design limits causal inference, and some estimates had wide confidence intervals due to the small number of advanced-stage cases.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987245/",
+      "summary_ja": "背景：加齢に伴うTDP-43蛋白病変であるLATE-NCは高齢脳で一般的に認められるが、これまでの研究は主に高所得国の単一民族集団に限られていた。  \n方法：ブラジルの多民族・多様な社会経済背景を持つ住民を対象に、2004～2024年の連続剖検データ（n=1,860、平均年齢72.6歳）を用い、LATE-NC、アルツハイマー病病理、レビー小体病変など複数の神経病理所見と認知機能（CDR-SOB）との関連を多変量解析で検討した。  \n結果：LATE-NCは7.4％に認められ、特に進行期（ステージ2-3）では海馬硬化症と強く関連（オッズ比約15）し、認知機能低下とも有意に関連した。  \n結論：多様な民族・社会経済背景を持つ集団においてもLATE-NCは認知障害と関連し、加齢性認知症の重要な病理学的要因であることが示された。ただし横断的研究のため因果関係の解明には限界がある。",
+      "summary_short_ja": "LATE-NCは高齢脳で一般的に認められる病理変化であり、本研究はブラジルの多様な人種・社会経済背景を持つ1860例の剖検データを解析した。LATE-NCは7.4%に認められ、特に進行した段階（2-3期）では海馬硬化と強く関連し、認知機能低下とも関連した。これらの結果はLATE-NCが多様な集団で認知障害に寄与する可能性を示すが、横断的研究のため因果関係の解明には限界がある。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42987244",
+      "doi": "10.1212/WNL.0000000000218691",
+      "title": "Impact of 2024 Revisions of Multiple Sclerosis Diagnostic Criteria in People With Radiologically Isolated Syndrome.",
+      "abstract": "The biological onset of multiple sclerosis (MS) precedes its clinical onset by years, as shown by MRI and CSF biomarkers. The 2024 revisions of the McDonald criteria extend, for the first time, MS diagnosis to selected cases of radiologically isolated syndrome (RIS), that is, to people with incidentally discovered CNS lesions suggestive of autoimmune inflammatory demyelination, in the absence of typical symptoms. The aim of this multicenter study was to assess the proportion of patients with RIS reclassified as MS, after applying the 2024 criteria. Adult participants (≥18 years) fulfilling the 2023 Lebrun-Frénay RIS criteria were selected from 22 Italian MS tertiary centers. Real-world, registry-based data were retrospectively collected at both baseline and follow-up. Reclassification followed 2024 criteria, allowing a MS diagnosis in RIS cases with ≥1 T2-hyperintense lesion in ≥2 typical MS regions (i.e., dissemination in space [DIS]), plus either MRI evidence of dissemination in time (DIT), CSF positivity, or central vein sign (CVS) positivity. Descriptive statistics were used. Among 236 patients with RIS (mean age 38.9 ± 11.6 years; 70.3% female; median follow-up 3.0 years [interquartile range {IQR}: 1.1-6]), at baseline, 228 (96.6%) fulfilled DIS, 51 (21.6%) fulfilled radiologic DIT, and 152 of 201 individuals with available CSF data were CSF-positive (75.6%). CVS data were available for 5 of 236 individuals; none were CVS-positive. At baseline, the 2024 criteria resulted in a MS diagnosis in 159 of 236 patients with RIS (67.4%). Of 42 patients with RIS experiencing a clinical event during follow-up, 88.1% would have been reclassified as MS a median of 2 years earlier (IQR: 1.0-5.5). During follow-up, 18 of 236 additional participants (7.6%) met the diagnostic criteria through radiologic DIT. The introduction of the 2024 criteria results in an earlier diagnosis of MS, before clinical manifestations of focal CNS damage, in most people formerly classified as RIS. Study limitations include incomplete kappa free light chain index data and nonstandardized MRI acquisition protocols; particularly, retrospective CVS assessment was negligible in this real-life context. Future studies including the full spectrum of asymptomatic individuals with MRI abnormalities and available paraclinical diagnostic tools are needed to better define the impact of 2024 revised criteria in this population.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987244/",
+      "summary_ja": "背景：多発性硬化症（MS）は臨床発症前にMRIや脳脊髄液（CSF）バイオマーカーで生物学的変化が認められる。2024年のMcDonald基準改訂では、初めて無症候性の放射線学的孤立症候群（RIS）患者の一部にMS診断が拡大された。  \n方法：イタリアの22施設から2023年Lebrun-Frénay RIS基準を満たす成人236名を対象に、2024年基準を適用しRISからMSへ再分類される割合を後ろ向きに解析した。基準は典型的MS病変の空間的拡散（DIS）に加え、時間的拡散（DIT）、CSF陽性、または中心静脈徴候（CVS）陽性を要件とした。  \n結果：対象236例中、基準適合により159例（67.4%）がMSと診断された。追跡中に臨床症状を呈した42例のうち88.1%は、中央値2年前にMSと再分類可能であった。追跡期間中に18例（7.6%）が新たにDIT基準を満たした。CVSデータは極めて限られ、陽性例はなかった。  \n結論：2024年基準の導入により、多くのRIS患者が臨床症状出現前に早期にMSと診断される可能性が示された。今後は非症候性MRI異常者全体を対象に、標準化された検査を用いたさらなる検証が必要である。",
+      "summary_short_ja": "2024年改訂の多発性硬化症（MS）診断基準は、無症候性の放射線学的孤立症候群（RIS）患者の一部をMSと診断可能とした。本多施設研究では、イタリアのRIS患者236名のうち67.4%が新基準でMSと再分類され、臨床症状出現前に早期診断が可能となることを示した。追跡期間中も追加で7.6%が診断基準を満たした。MRIや脳脊髄液検査の標準化不足が課題であり、さらなる検証が必要である。",
+      "disease": "ms",
+      "section": "diagnosis"
+    }
+  ]
+}
