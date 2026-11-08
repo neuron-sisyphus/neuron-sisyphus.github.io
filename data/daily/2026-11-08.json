@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-08",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "42993913",
+      "doi": "10.1212/WNL.0000000000218735",
+      "title": "Prevalence and Profile of Undiagnosed Dementia in Brazil: A 5-Year Nationally Representative Analysis From the ELSI-Brazil.",
+      "abstract": "Dementia underdiagnosis is a major barrier to public health strategies, particularly in low- and middle-income countries. Although Brazil has a high prevalence of dementia, data on underdiagnosis remain scarce. We aimed to investigate the prevalence and sociodemographic profile of individuals with undiagnosed dementia in Brazil over 5 years. We analyzed 2 waves of the Brazilian Longitudinal Study of Aging, a nationally representative study of community-dwelling adults, comparing samples from wave 1 (W1; 2015-2016) and wave 2 (W2; 2019-2021) aged 60 years or older. Dementia was defined by an algorithm combining cognitive testing, functional status, and informant report; undiagnosed dementia was algorithm-positive dementia without a prior physician diagnosis of Alzheimer disease. We estimated survey-weighted population prevalences and design-based within-wave and wave-to-wave differences (in percentage points, pp), applying the Benjamini-Hochberg false discovery rate (FDR) correction. The samples included 5,432 participants (mean age 70.3 ± 7.97 years, 60.0% female) in W1 and 6,929 (mean age 71.0 ± 8.28, 59.5% female) in W2. The prevalence of undiagnosed dementia decreased from 5.53% (95% CI 4.46-6.59) in W1 to 3.86% (3.11-4.61) in W2 (-1.66 pp;  Although undiagnosed dementia in Brazil remains high, its prevalence decreased significantly over the 5 years, particularly among vulnerable groups, individuals with low education, women, non-White populations, and in the Northeast. These findings suggest that the expansion and continuity of primary care are beginning to reach historically underserved populations. However, substantial regional inequalities persist, highlighting the need for targeted public health policies and active case finding to bridge diagnostic gaps in isolated territories.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993913/",
+      "summary_ja": "背景：認知症の未診断は公衆衛生上の大きな課題であり、特に低・中所得国で顕著である。ブラジルは認知症の有病率が高いが、未診断の実態に関するデータは不足している。  \n方法：ブラジルの全国代表的な縦断研究「ELSI-Brazil」の2回の調査（2015-2016年、2019-2021年）で、60歳以上の地域在住者を対象に認知症の有病率と未診断者の社会人口学的特徴を分析した。認知症は認知機能検査、機能状態、情報提供者の報告を組み合わせたアルゴリズムで判定し、医師によるアルツハイマー病診断のない認知症を未診断と定義した。  \n結果：W1（2015-2016年）では未診断認知症の有病率は5.53％、W2（2019-2021年）では3.86％に減少した（差-1.66ポイント）。特に教育水準の低い層、女性、非白人、北東部地域の脆弱な集団で顕著な減少が見られた。  \n結論：ブラジルにおける未診断認知症は依然として高いものの、5年間で有意に減少し、プライマリケアの拡充が歴史的にサービスが届きにくかった集団に浸透しつつあることを示す。一方で地域間格差は依然大きく、診断ギャップを埋めるための地域特化型の公衆衛生政策と積極的なケース発見が必要である。",
+      "summary_short_ja": "ブラジルにおける認知症の未診断率は依然高いものの、2015-2016年から2019-2021年の5年間で5.53%から3.86%に有意に減少した。特に低学歴者、女性、非白人、北東部地域の脆弱層で改善が見られ、プライマリケアの拡充が歴史的に医療が届きにくかった層に浸透しつつある。一方で地域間格差は依然大きく、診断ギャップ解消のための公衆衛生政策と積極的なケース発見が必要である。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    }
+  ]
+}
