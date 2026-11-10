@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43002720",
+      "doi": "10.1212/WNL.0000000000218703",
+      "title": "Sex Differences in Blood Pressure Dynamics and Outcomes After Endovascular Thrombectomy.",
+      "abstract": "Optimal blood pressure (BP) management after endovascular thrombectomy (EVT) for acute ischemic stroke (AIS) remains controversial, and whether early BP dynamics differentially affect outcomes among female and male participants is unclear. This was an exploratory secondary analysis of ENCHANTED2/MT, a multicenter, open-label, blinded-end point randomized trial conducted in 44 tertiary hospitals in China. Eligible adults had AIS due to large-vessel occlusion, successful reperfusion after EVT, and persistent elevated systolic BP (SBP) within 3 hours after reperfusion. Serial BP measurements obtained during the first 72 hours after randomization were used to estimate patient-specific mean BP trajectories and short-term BP variability with a location-scale mixed-effects modeling approach. Associations of mean BP, BP variability, and randomized intensive vs standard BP lowering strategy with clinical outcomes were examined, with sex being evaluated as an effect modifier. The primary outcome was the 90-day modified Rankin Scale (mRS). Among 816 patients (mean age 67.6 ± 12.0 years; 38% female), intensive BP management was associated with worse 90-day ordinal mRS outcome among male participants (adjusted common odds ratio [acOR] 1.91; 95% CI 1.29-2.83), whereas the corresponding estimate among female participants was closer to null (acOR 0.94; 95% CI 0.56-1.57; ratio of acORs 0.49; 95% CI 0.26-0.94). In separate postrandomization BP exposure models, each 5 mm Hg higher mean SBP was associated with worse 90-day mRS outcome among male participants (acOR 1.11; 95% CI 1.03-1.20), whereas no clear adverse association was observed among female participants (acOR 0.95; 95% CI 0.85-1.05; ratio of acORs 0.85; 95% CI 0.75-0.97). SBP variability showed weaker and less consistent sex differential associations. Findings across secondary outcomes were directionally similar but exploratory. In this exploratory secondary analysis of ENCHANTED2/MT, randomized BP management strategy and early post-thrombectomy BP dynamics showed sex-stratified associations with outcomes. These associations may reflect biological sex and sex-related differences in baseline clinical and vascular characteristics. These findings are hypothesis generating and should be confirmed in prospectively designed studies before informing sex-specific BP management after EVT. ClinicalTrials.gov number, NCT04140110; the Registration Date, October 22, 2019.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002720/",
+      "summary_ja": "背景：急性虚血性脳卒中に対する血管内血栓除去術（EVT）後の最適な血圧管理は未だ議論があり、性別による血圧変動の影響差は不明である。  \n方法：中国の44施設で実施された多施設ランダム化試験ENCHANTED2/MTの二次解析を行い、EVT後3時間以内に収縮期血圧（SBP）が持続的に高い816例（平均年齢67.6歳、女性38％）を対象に、72時間の血圧動態を混合効果モデルで解析。血圧の平均値、変動性、強化型と標準型の血圧管理戦略と90日後の機能的予後（修正Rankin尺度：mRS）との関連を性別で検討した。  \n結果：男性では強化型血圧管理が90日mRS悪化と関連（調整共通オッズ比1.91）、女性では関連がほぼ認められなかった（acOR 0.94）。また、男性では平均SBPが5mmHg上昇するごとに予後悪化が示されたが、女性では明確な関連はなかった。SBP変動性の性差は弱く一貫性に欠けた。  \n結論：EVT後の血圧管理と早期血圧動態は性別で異なる予後影響を示し、これは生物学的性差や基礎疾患の違いを反映している可能性がある。これらの知見は仮説生成的であり、性別特異的血圧管理の指針とするには前向き研究での検証が必要である。",
+      "summary_short_ja": "急性虚血性脳卒中に対する血管内血栓除去術（EVT）後の血圧管理の最適化は不明であり、本研究は性差による血圧動態と予後の関連を検討した。816例を対象に解析した結果、集中的血圧管理は男性で90日後の機能予後悪化と関連したが、女性では有意な影響が認められなかった。平均収縮期血圧の上昇も男性の予後悪化と関連したが、女性では明確な関連はなかった。性別に応じた血圧管理の必要性を示唆するが、今後の前向き研究での検証が求められる。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42900873",
+      "doi": "10.1212/WNL.0000000000218566",
+      "title": "Recanalization After Acute Cervical Artery Dissection: A Multicenter International Study.",
+      "abstract": "The rates and factors associated with complete recanalization after cervical artery dissection (CeAD) have not been comprehensively quantified in large cohorts. We sought to determine the 6-month rate of complete recanalization in CeAD, clinical and imaging factors associated with recanalization, and risk of recurrent ischemic stroke based on recanalization status. This was a planned subanalysis of the Antithrombotic Treatment for Stroke Prevention in Cervical Artery Dissection study, a multicenter retrospective cohort including patients with imaging-confirmed CeAD diagnosed between January 2015 and June 2022 at 63 sites worldwide. For this analysis, we included 1,095 patients with single-vessel CeAD causing stenosis at presentation who had available follow-up vascular imaging at 6 months after CeAD. The primary outcome was complete recanalization within 6 months after CeAD. Clinical and imaging variables, as well as recurrent stroke, were compared between patients with and those without complete recanalization. Factors independently associated with complete recanalization were identified using multivariable logistic regression. Time to complete recanalization was analyzed using an accelerated failure time Weibull model. Among 1,095 included patients (median age 45 years; 46.7% female), 634 (57.9%) achieved complete recanalization by 6 months. In multivariable analysis, each additional year of age was associated with lower odds of complete recanalization (odds ratio [OR] 0.97 per year; 95% CI 0.96-0.98;  Almost 60% of patients with CeAD achieved complete vessel recanalization by 6 months. Older age, diabetes, smoking, and complete occlusion at presentation were independently associated with incomplete recanalization. Further study is required to determine whether these findings may help guide tailored imaging surveillance and secondary prevention strategies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900873/",
+      "summary_ja": "背景：頸部動脈解離（CeAD）後の完全再開通率や関連因子は大規模コホートで十分に検証されていない。方法：2015年1月から2022年6月までに63施設で画像診断されたCeAD患者1,095例（単一血管の狭窄例）を対象に、6か月後の血管画像フォローアップを行い、完全再開通率と臨床・画像因子、再発虚血性脳卒中リスクを比較検討した。多変量ロジスティック回帰で再開通に独立して関連する因子を解析し、再開通までの時間は加速失敗時間モデルで評価した。結果：中央値45歳、女性46.7%の患者のうち、57.9%が6か月以内に完全再開通を達成。年齢増加（OR 0.97/年）、糖尿病、喫煙、初診時の完全閉塞が不完全再開通と独立して関連した。結論：CeAD患者の約60%が6か月で完全再開通するが、高齢、糖尿病、喫煙、完全閉塞は再開通不良のリスク因子である。これらの知見は個別化した画像監視や二次予防戦略の指針となる可能性があり、さらなる研究が必要である。",
+      "summary_short_ja": "急性頸部動脈解離（CeAD）患者1,095例を対象に6カ月後の完全再開通率を調査した結果、約58％が完全再開通を達成した。年齢上昇、糖尿病、喫煙、完全閉塞の初期所見が再開通不全の独立した因子であった。これらの知見は、個別化された画像監視や二次予防戦略の検討に役立つ可能性がある。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42970742",
       "doi": "10.1212/WNL.0000000000218710",
       "title": "Pearls & Oy-sters: The Price of Patency: Intractable Headache Subsequent to Fourth Ventricular Recanalization.",
@@ -135,21 +165,6 @@
       "summary_short_ja": "心房細動（AF）と脳梗塞既往の患者431名を対象に、早期カテーテルアブレーション（1年以内）と薬物療法の効果を後ろ向き観察データで比較した。中央値3年の追跡で、早期アブレーションは主要心血管イベント（MACE）発生を有意に遅延させ、心血管再入院や神経・認知機能の改善も示唆された。設計上の限界はあるが、AFと脳梗塞歴患者における早期アブレーションの有用性を示すClass IIIエビデンスを提供する。",
       "disease": "stroke",
       "section": "treatment"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42900873",
-      "doi": "10.1212/WNL.0000000000218566",
-      "title": "Recanalization After Acute Cervical Artery Dissection: A Multicenter International Study.",
-      "abstract": "The rates and factors associated with complete recanalization after cervical artery dissection (CeAD) have not been comprehensively quantified in large cohorts. We sought to determine the 6-month rate of complete recanalization in CeAD, clinical and imaging factors associated with recanalization, and risk of recurrent ischemic stroke based on recanalization status. This was a planned subanalysis of the Antithrombotic Treatment for Stroke Prevention in Cervical Artery Dissection study, a multicenter retrospective cohort including patients with imaging-confirmed CeAD diagnosed between January 2015 and June 2022 at 63 sites worldwide. For this analysis, we included 1,095 patients with single-vessel CeAD causing stenosis at presentation who had available follow-up vascular imaging at 6 months after CeAD. The primary outcome was complete recanalization within 6 months after CeAD. Clinical and imaging variables, as well as recurrent stroke, were compared between patients with and those without complete recanalization. Factors independently associated with complete recanalization were identified using multivariable logistic regression. Time to complete recanalization was analyzed using an accelerated failure time Weibull model. Among 1,095 included patients (median age 45 years; 46.7% female), 634 (57.9%) achieved complete recanalization by 6 months. In multivariable analysis, each additional year of age was associated with lower odds of complete recanalization (odds ratio [OR] 0.97 per year; 95% CI 0.96-0.98;  Almost 60% of patients with CeAD achieved complete vessel recanalization by 6 months. Older age, diabetes, smoking, and complete occlusion at presentation were independently associated with incomplete recanalization. Further study is required to determine whether these findings may help guide tailored imaging surveillance and secondary prevention strategies.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Nov-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900873/",
-      "summary_ja": "背景：頸部動脈解離（CeAD）後の完全再開通率や関連因子は大規模コホートで十分に検証されていない。方法：2015年1月から2022年6月までに63施設で画像診断されたCeAD患者1,095例（単一血管の狭窄例）を対象に、6か月後の血管画像フォローアップを行い、完全再開通率と臨床・画像因子、再発虚血性脳卒中リスクを比較検討した。多変量ロジスティック回帰で再開通に独立して関連する因子を解析し、再開通までの時間は加速失敗時間モデルで評価した。結果：中央値45歳、女性46.7%の患者のうち、57.9%が6か月以内に完全再開通を達成。年齢増加（OR 0.97/年）、糖尿病、喫煙、初診時の完全閉塞が不完全再開通と独立して関連した。結論：CeAD患者の約60%が6か月で完全再開通するが、高齢、糖尿病、喫煙、完全閉塞は再開通不良のリスク因子である。これらの知見は個別化した画像監視や二次予防戦略の指針となる可能性があり、さらなる研究が必要である。",
-      "summary_short_ja": "急性頸部動脈解離（CeAD）患者1,095例を対象に6カ月後の完全再開通率を調査した結果、約58％が完全再開通を達成した。年齢上昇、糖尿病、喫煙、完全閉塞の初期所見が再開通不全の独立した因子であった。これらの知見は、個別化された画像監視や二次予防戦略の検討に役立つ可能性がある。",
-      "disease": "stroke",
-      "section": "prognosis"
     },
     {
       "source": "pubmed",

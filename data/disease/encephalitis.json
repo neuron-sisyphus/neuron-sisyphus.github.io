@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43002711",
+      "doi": "10.1212/WNL.0000000000218740",
+      "title": "Clinical Reasoning: A 33-Year-Old Man With Rapidly Progressive Ataxia.",
+      "abstract": "Immunocompromised patients presenting with subacute neurologic deficits pose a diagnostic challenge given the broad differential diagnosis including infections and autoimmune disorders. We describe a 33-year-old man with AIDS who presented with subacute onset of progressive confusion, blurry vision, diplopia, and generalized cerebellar ataxia following hospitalizations for opportunistic infections. This case emphasizes the clinical and diagnostic approach used to refine the differential diagnosis of rhombencephalitis in an immunocompromised patient. Readers will gain an understanding of the various infectious, immunologic, and neoplastic etiologies to consider as well as the interplay between these pathologies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002711/",
+      "summary_ja": "背景：免疫不全患者における亜急性の神経症状は、感染症や自己免疫疾患など多岐にわたる鑑別診断が必要であり、診断が困難である。  \n方法：AIDS患者の33歳男性が、日和見感染の入院歴後に、進行性の混乱、視力障害、複視、全身性小脳性運動失調を呈した症例を報告し、臨床的および診断的アプローチを用いて鑑別診断を絞り込んだ。  \n結果：症例を通じて、免疫不全患者における菱形脳炎の鑑別診断において、感染性、免疫学的、腫瘍性の各病因を考慮し、それらの病態が相互に影響し合う可能性が示された。  \n結論：免疫不全患者の亜急性神経症状では、多様な病因を包括的に検討し、臨床的・診断的手法を駆使することが重要であり、本症例はその理解を深める一助となる。",
+      "summary_short_ja": "免疫抑制状態の33歳男性AIDS患者が、機会感染後に進行性の混乱、視力障害、複視、全身性小脳失調を呈した。症例は、免疫抑制患者における脳幹炎の鑑別診断を絞り込む臨床的・診断的アプローチを示し、感染症、自己免疫疾患、腫瘍性病変の多様な原因とそれらの相互関係を理解する手がかりを提供する。",
+      "disease": "encephalitis",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42679339",
       "doi": "10.1212/WNL.0000000000218522",
       "title": "Pearls & Oy-sters: DPPX Antibody-Associated Encephalitis in a Patient With Diarrhea, Tremor, Ocular Flutter, and Cognitive-Psychiatric Changes.",

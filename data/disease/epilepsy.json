@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43002719",
+      "doi": "10.1212/WNL.0000000000218778",
+      "title": "Pearls & Oy-sters: Anti-GABA",
+      "abstract": "A previously healthy 5-year-old girl presented with several days of fever/malaise followed by acute neurologic decline. Head CT demonstrated fulminant right cerebellitis with edema and fourth-ventricle effacement concerning for impending herniation. She underwent emergent posterior fossa decompression. CSF showed mild pleocytosis, and MRI revealed right cerebellar nonenhancing T2/fluid-attenuated inversion recovery hyperintense lesions with evolving supratentorial cortical involvement. Despite empiric antimicrobials and initial immunotherapy (high-dose IV methylprednisolone and tocilizumab followed by IV immunoglobulin/plasma exchange), she developed progressive neuroinflammation with new seizures and markedly elevated CSF IL-6, prompting escalation to additional IL-6-directed therapy with tocilizumab and rescue intrathecal dexamethasone. She subsequently stabilized with radiographic improvement and meaningful neurologic recovery. Expanded antibody testing later confirmed anti-GABA",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002719/",
+      "summary_ja": "背景：5歳の健康な女児が数日間の発熱・倦怠感の後、急激な神経症状の悪化を呈した。  \n方法：頭部CTで右小脳の急性炎症と脳浮腫が認められ、緊急に後頭蓋窩減圧術を施行。髄液検査では軽度の細胞増加、MRIでは右小脳の非造影性T2/FLAIR高信号病変と大脳皮質の進行性病変を確認。経験的抗菌薬と免疫療法（高用量メチルプレドニゾロン、トシリズマブ、免疫グロブリン、血漿交換）を実施。  \n結果：治療にもかかわらず神経炎症が進行し、新たな発作と髄液中IL-6の著明な上昇を認めたため、IL-6標的療法の強化と髄腔内デキサメタゾンを追加。これにより症状は安定し、画像所見も改善、神経学的回復が得られた。  \n結論：最終的に抗GABA抗体が確認され、抗GABA抗体関連自己免疫性小脳炎の診断が確定した。早期の免疫療法とIL-6標的治療の併用が有効であった。",
+      "summary_short_ja": "5歳女児が発熱後に急性神経症状を呈し、右小脳炎と脳浮腫で緊急後頭蓋減圧術を受けた。髄液検査で軽度の細胞増加、MRIで右小脳および大脳皮質に炎症性病変を認めた。抗菌・免疫療法後も症状悪化し、IL-6高値に対しトシリズマブと髄腔内デキサメタゾンを追加。治療により症状改善し、抗GABA抗体陽性と判明した。",
+      "disease": "epilepsy",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42970749",
       "doi": "10.1212/WNL.0000000000218687",
       "title": "Germline Genetic Variants and Epilepsy Surgery Response: Individual Participant Pooled Analysis of 272 Patients.",

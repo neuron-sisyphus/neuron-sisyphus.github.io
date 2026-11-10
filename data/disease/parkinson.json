@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43002714",
+      "doi": "10.1212/WNL.0000000000218741",
+      "title": "Clinical Reasoning: A 69-Year-Old Female Patient With Rapid-Onset Levodopa-Responsive Rest Tremor, Parkinsonism, and Gait Freezing.",
+      "abstract": "The evaluation of rapid-onset parkinsonism can be challenging, and the differential diagnosis encompasses a broad spectrum of etiology, management, and prognosis. We present a 69-year-old patient who developed rapid-onset resting tremor and parkinsonism with gait freezing. Her upper limb resting tremor began unilaterally but rapidly progressed to involve the contralateral limb and subsequently the lower limbs. This evolved within 3 months to also include generalized parkinsonism and a shuffling gait with prominent freezing and frequent falls. Her tremor was levodopa responsive; however, other symptoms were resistant to treatment. Through this case, we will demonstrate the diagnostic approach to rapid-onset parkinsonism, summarizing a comprehensive evaluation of history, examination, and investigations. Readers will consider atypical features revealed by examination and investigations, ultimately arriving at a conclusive and critical diagnosis not to be missed in the presentation of parkinsonism.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002714/",
+      "summary_ja": "背景：急速発症するパーキンソニズムの診断は困難であり、多様な原因や治療法、予後が考えられる。  \n方法：69歳女性が片側の上肢安静時振戦から始まり、3か月以内に対側および下肢に進展し、全身性パーキンソニズムと歩行時のすくみ足、頻繁な転倒を呈した症例を報告。振戦はレボドパに反応したが、他の症状は治療抵抗性であった。詳細な病歴聴取、身体検査、検査を通じて診断アプローチを検討した。  \n結果：急速進行するパーキンソニズムにおける非典型的所見を明らかにし、鑑別診断を絞り込む過程を示した。  \n結論：本症例は急速発症パーキンソニズムの診断において見逃してはならない重要なポイントを示し、包括的評価の必要性を強調している。",
+      "summary_short_ja": "69歳女性が急速に発症したレボドパ反応性の安静時振戦、パーキンソニズム、歩行凍結を呈した症例を報告する。振戦は片側から始まり3か月で全身に広がり、歩行障害と頻回の転倒を伴った。振戦はレボドパに反応したが他症状は難治であり、詳細な病歴聴取、身体検査、検査を通じて迅速発症パーキンソニズムの鑑別診断と診断手順を示した。",
+      "disease": "parkinson",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42900876",
+      "doi": "10.1212/WNL.0000000000218572",
+      "title": "Child Neurology: Neonatal Management of Tyrosine Hydroxylase Deficiency: How Early Is Early Enough?",
+      "abstract": "Tyrosine hydroxylase deficiency is a rare, treatable, autosomal recessive disorder of monoamine neurotransmitter biosynthesis that typically presents in infancy or early childhood. Despite potential benefits of presymptomatic treatment with levodopa/carbidopa, prenatal or neonatal diagnosis remains extremely rare. We report 2 preterm neonates from unrelated families, both with known family history of tyrosine hydroxylase deficiency. After early diagnosis, levodopa/carbidopa therapy was initiated during the neonatal period. This proactive approach proved feasible and well tolerated, leading to early normalization of subtle motor abnormalities. These cases highlight the importance of early genetic diagnosis of this rare condition and the feasibility of levodopa/carbidopa treatment in neonates.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900876/",
+      "summary_ja": "背景：チロシンヒドロキシラーゼ欠損症は、モノアミン神経伝達物質の合成異常によるまれな常染色体劣性遺伝疾患であり、通常は乳児期や幼児期に発症する。レボドパ/カルビドパによる無症状期の治療が有益とされるが、出生前や新生児期の診断例は非常に少ない。  \n方法：チロシンヒドロキシラーゼ欠損症の家族歴がある2組の未熟児新生児を対象に、早期遺伝子診断を行い、新生児期にレボドパ/カルビドパ療法を開始した。  \n結果：早期治療は実施可能で副作用も少なく、微細な運動異常の早期正常化が認められた。  \n結論：本報告は、この希少疾患の早期遺伝子診断の重要性と、新生児期におけるレボドパ/カルビドパ治療の有用性および安全性を示している。",
+      "summary_short_ja": "チロシンヒドロキシラーゼ欠損症は、乳児期に発症するまれな遺伝性神経伝達物質合成障害である。家族歴のある早産新生児2例に対し、新生児期に早期診断を行いレボドパ/カルビドパ療法を開始したところ、運動異常の早期正常化が認められた。本報告は、早期遺伝子診断の重要性と新生児期からの治療の有効性を示している。",
+      "disease": "parkinson",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42821850",
       "doi": "10.1212/WNL.0000000000218583",
       "title": "Association of Skin Denervation With Brain Atrophy and Cognitive Impairment in Patients With Parkinson Disease.",
@@ -30,21 +60,6 @@
       "summary_short_ja": "13歳男児が1か月で全身の動作緩慢を発症し、その後10日間で言語障害、嚥下困難、筋強剛、ジストニアが急速に悪化した。感染症や自己免疫性脳炎の検査は陰性で、ステロイドや抗ウイルス薬も効果なし。神経学的検査で頭尾方向に重症度が強い全身ジストニアと重度の球麻痺を認めた。対症療法や深部脳刺激も限定的効果であり、症状分布から後天性疾患ではなく早期の遺伝子検査が重要と示唆された。",
       "disease": "parkinson",
       "section": "diagnosis"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42900876",
-      "doi": "10.1212/WNL.0000000000218572",
-      "title": "Child Neurology: Neonatal Management of Tyrosine Hydroxylase Deficiency: How Early Is Early Enough?",
-      "abstract": "Tyrosine hydroxylase deficiency is a rare, treatable, autosomal recessive disorder of monoamine neurotransmitter biosynthesis that typically presents in infancy or early childhood. Despite potential benefits of presymptomatic treatment with levodopa/carbidopa, prenatal or neonatal diagnosis remains extremely rare. We report 2 preterm neonates from unrelated families, both with known family history of tyrosine hydroxylase deficiency. After early diagnosis, levodopa/carbidopa therapy was initiated during the neonatal period. This proactive approach proved feasible and well tolerated, leading to early normalization of subtle motor abnormalities. These cases highlight the importance of early genetic diagnosis of this rare condition and the feasibility of levodopa/carbidopa treatment in neonates.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Nov-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900876/",
-      "summary_ja": "背景：チロシンヒドロキシラーゼ欠損症は、モノアミン神経伝達物質の合成異常によるまれな常染色体劣性遺伝疾患であり、通常は乳児期や幼児期に発症する。レボドパ/カルビドパによる無症状期の治療が有益とされるが、出生前や新生児期の診断例は非常に少ない。  \n方法：チロシンヒドロキシラーゼ欠損症の家族歴がある2組の未熟児新生児を対象に、早期遺伝子診断を行い、新生児期にレボドパ/カルビドパ療法を開始した。  \n結果：早期治療は実施可能で副作用も少なく、微細な運動異常の早期正常化が認められた。  \n結論：本報告は、この希少疾患の早期遺伝子診断の重要性と、新生児期におけるレボドパ/カルビドパ治療の有用性および安全性を示している。",
-      "summary_short_ja": "チロシンヒドロキシラーゼ欠損症は、乳児期に発症するまれな遺伝性神経伝達物質合成障害である。家族歴のある早産新生児2例に対し、新生児期に早期診断を行いレボドパ/カルビドパ療法を開始したところ、運動異常の早期正常化が認められた。本報告は、早期遺伝子診断の重要性と新生児期からの治療の有効性を示している。",
-      "disease": "parkinson",
-      "section": "treatment"
     },
     {
       "source": "pubmed",

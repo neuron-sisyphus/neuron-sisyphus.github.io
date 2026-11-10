@@ -3,6 +3,51 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43002715",
+      "doi": "10.1212/WNL.0000000000218711",
+      "title": "Age-Dependent Nonlinear Association Between Gait Impairment and Incident Dementia.",
+      "abstract": "Gait impairment is associated with incident dementia, yet whether this association varies with age or follows a linear dose-response relationship remains unclear. The aim of this study was to examine the nonlinear dose-response relationship between Performance-Oriented Mobility Assessment (POMA) gait performance and incident dementia and to test whether this association is modified by age. This prospective cohort study used data from the Korean Longitudinal Study on Cognitive Aging and Dementia (baseline enrollment, 2010-2012; follow-up through 2020; median follow-up, 6.2 years). The primary outcome was incident dementia diagnosed by Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV) criteria. Gait and balance were assessed using the POMA. Cause-specific Cox proportional hazards regression with death treated as a competing event was used. Restricted cubic splines (RCS) modeled the nonlinear dose-response relationship between gait performance and incident dementia, and RCS-by-age interaction terms were used to test age modification and estimate age-specific hazard ratios and 95% CIs. Of 6,818 eligible participants, 4,822 met inclusion criteria (mean (SD) age, 69.6 (6.3) years; 2,719 (56.4%) female; median follow-up 6.2 years [IQR, 3.8-8.1]). During follow-up, 251 developed dementia and 458 died. The gait-dementia association was significantly nonlinear ( Gait impairment predicted incident dementia in a nonlinear, age-dependent manner, with the association strongest in adults aged 65-75 years and not evident beyond approximately age 80 years. These findings suggest gait assessment may be most informative for dementia screening in younger-old adults. Limitations include an ethnically homogeneous cohort.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002715/",
+      "summary_ja": "【背景】歩行障害は認知症発症と関連するが、その関連性が年齢によって変化するかや線形的な用量反応関係かは不明である。  \n【方法】韓国の認知加齢・認知症縦断研究のデータ（2010-2012年登録、中央値6.2年追跡）を用い、Performance-Oriented Mobility Assessment（POMA）による歩行評価とDSM-IV基準による認知症発症の関連を、競合リスクを考慮したコックス回帰と制限立方スプラインで非線形に解析。年齢による修飾効果も検討した。  \n【結果】4,822名（平均年齢69.6歳、女性56.4%）中、追跡期間中に251名が認知症を発症。歩行障害と認知症発症の関連は非線形で、65～75歳で最も強く、80歳以上では関連が認められなかった。  \n【結論】歩行評価は若年高齢者（65～75歳）の認知症スクリーニングに有用である可能性が示された。ただし、対象は単一民族集団である点が限界である。",
+      "summary_short_ja": "歩行障害と認知症発症の関連性は年齢により非線形で変化し、特に65～75歳で強く認められたが、80歳以上ではほぼ見られなかった。韓国の縦断研究で、歩行能力評価（POMA）と認知症発症を追跡し、年齢による修飾効果を解析した結果、若年高齢者における歩行評価が認知症スクリーニングに有用であることを示唆する。ただし、対象は単一民族集団に限られる。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42886878",
+      "doi": "10.1038/s41586-025-08800-x",
+      "title": "Associations of Antibodies Against Several Infections With Alzheimer Disease Neuropathology: A Prospective Cohort Study Analysis.",
+      "abstract": "Associations of common infections with Alzheimer disease (AD) risk have been reported. A hypothesized mechanism for these is cerebral β-amyloid (Aβ) aggregation as a defense to infection. We studied whether serologic measures of several infections in the UK population are associated with measures of AD neuropathology. This prospective association study used data from the 1946 British birth cohort. Circulating antibodies against 14 pathogens, measured at age 60-64 years, were modelled as pathogen serostatus (indicating lifetime exposure to an agent), pathogen burden indices (measuring cumulative exposure to 2+ pathogens), and seroreactivity tertiles (indicating recent immunologic activity against pathogens). Associations of these were tested with plasma phosphorylated tau at threonine 217 (p-tau217) (primary outcome) and Aβ status (secondary outcome), measured with PET scans, at ages 69-71 years. Modelling used multivariable quantile and logistic regression. Model 1 adjusted for sex and ages at serology and outcome assessment, and models 2 and 3 additionally adjusted for  A total of 1,356 and 424 individuals had complete data for p-tau217 and Aβ-PET analyses, respectively. Mean age at p-tau217 was 69.9 years (SD 0.7), and 51.3% of participants were female. Median p-tau217 was 0.30 pg/mL (interquartile range 0.21-0.44). 28.3% had Aβ-positive scans. No notable associations were observed for serology measures with either outcome in main models, except for an unexpected association of herpes simplex virus 2 seropositivity with lower p-tau217 at the 75th quantile (-0.07 pg/mL in seropositive individuals; 95% CI -0.10 to -0.03). Odds of Aβ-PET positivity may have been higher for individuals seropositive for Epstein-Barr virus (odds ratio [OR] 2.84; 95% CI 0.95-8.52) and  These findings do not imply associations between exposures to many common infections and AD neuropathologies. The possibility of pathogen interactions with",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886878/",
+      "summary_ja": "背景：アルツハイマー病（AD）リスクと一般的な感染症の関連が報告されており、脳内のβ-アミロイド（Aβ）凝集が感染防御機構として関与すると仮説されている。  \n方法：1946年英国出生コホートのデータを用い、60～64歳時に測定した14種の病原体に対する抗体の有無（生涯曝露）、複数病原体への累積曝露指標、最近の免疫反応性の3指標と、69～71歳時のPET検査によるAβ状態および血漿中のリン酸化タウ217（p-tau217）濃度との関連を多変量回帰で解析した。  \n結果：1,356例でp-tau217、424例でAβ-PETの解析を行い、全体として抗体指標とAD神経病理マーカーとの有意な関連は認められなかった。ただし、単純ヘルペスウイルス2型の抗体陽性はp-tau217の75パーセンタイルで低値と関連し（-0.07 pg/mL）、エプスタイン・バールウイルス抗体陽性者はAβ陽性のオッズが高い傾向があった（OR 2.84）。  \n結論：多くの一般的感染症への曝露とAD神経病理学的変化との明確な関連は示されず、病原体間の相互作用の可能性を含めさらなる検討が必要である。",
+      "summary_short_ja": "本研究は、英国1946年出生コホートを用いて、60～64歳時の14種の感染症に対する抗体保有状況と、69～71歳時のアルツハイマー病（AD）神経病理指標（血漿p-tau217およびAβ-PET陽性率）との関連を検討した。主な結果として、ほとんどの感染抗体とAD指標に有意な関連は認められなかったが、単独で単純ヘルペスウイルス2抗体陽性者はp-tau217が低値であった。また、エプスタイン・バールウイルス抗体陽性者はAβ陽性の傾向が示唆されたが確証には至らなかった。これらの結果は、多くの一般的感染症曝露とAD神経病理との明確な関連を支持しない。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "42886876",
+      "doi": "10.1212/WNL.0000000000218692",
+      "title": "Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.",
+      "abstract": "Plasma biomarkers of Alzheimer disease (AD) neuropathology (amyloid-β42 to amyloid β40 [Aβ42/40] ratio, phosphorylated tau at threonine [p-tau181]), neurodegeneration (neurofilament light [NfL]), and neuroinflammation (glial fibrillary acidic protein [GFAP]) in late-life are associated with cognitive decline. Whether these biomarkers in midlife are predictive of subsequent cognitive decline, and whether they are associated with different cognitive domains, is uncertain. In this study, we investigated associations of midlife and late-life plasma Aβ42/40, p-tau181, NfL, and GFAP with late-life change in domain-specific (memory, language, and executive function) and global cognitive function. We performed a prospective cohort analysis of the Atherosclerosis Risk in Communities Neurocognitive Study (ARIC-NCS). Outcome follow-up was from ARIC visit 5 (2011-2013) to visit 9 (2021-2022). We included all individuals from ARIC field centers (Jackson, Mississippi; Forsyth County, North Carolina; Washington County, Maryland; and Minneapolis suburbs, Minnesota) with biomarkers measured from stored specimens in midlife (visit 3, 1993-1995, mean age 59.0 years) and late-life (visit 5, 2011-2013, mean age 76.8 years). Aβ42/40, p-tau181, NfL, and GFAP were measured with the Quanterix Simoa platform and standardized to visit 3 to facilitate cross-biomarker comparisons of their rate of change from midlife to late-life. We estimated change in memory, language, executive function, and global cognition factor scores from visit 5 to visit 9 with linear mixed-effect models. In 1,515 included participants, 60.7% (n = 920) were female and 25.5% (n = 387) were Black. Each SD increase in p-tau181 in midlife was significantly associated with faster late-life memory decline (β = -0.030 [95% CI -0.059 to -0.001] SD. Midlife Aβ42/40, NfL, and GFAP were not associated with subsequent decline in any cognitive domain. In late-life, p-tau181, NfL, and GFAP were significantly associated with faster decline in different cognitive domains, with the strongest associations seen with memory (β = -0.091 [95% CI -0.123 to -0.058] SD; β = -0.064 [95% CI -0.106 to -0.023] SD; and β = -0.048 [95% CI -0.082 to -0.013] SD, respectively). Midlife p-tau181 was associated with faster 11-year memory decline beginning 20 years later in the ARIC cohort, which underscores a potentially long prodromal phase of cognitive decline that could precede dementia onset. In late-life, biomarkers for AD, neurodegeneration, and neuroinflammation were associated with faster decline across different cognitive domains, but associations remained strongest for p-tau181 and memory.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Nov-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
+      "summary_ja": "背景：アルツハイマー病（AD）の血中バイオマーカーは高齢期の認知機能低下と関連するが、中年期のバイオマーカーが将来の認知低下を予測するかは不明である。  \n方法：ARIC神経認知研究の前向きコホート解析を行い、中年期（平均59歳）と高齢期（平均76.8歳）に採取した血漿中のAβ42/40比、p-tau181、NfL、GFAPを測定。これらのバイオマーカーと11年間の記憶、言語、実行機能および全般的認知機能の変化を線形混合モデルで解析した。  \n結果：1515名の参加者のうち、p-tau181の中年期の標準偏差増加は高齢期の記憶低下の加速と有意に関連した（β=-0.030）。中年期の他のバイオマーカーは認知低下と関連しなかった。高齢期ではp-tau181、NfL、GFAPが異なる認知領域の低下と関連し、特にp-tau181と記憶低下の関連が最も強かった。  \n結論：中年期のp-tau181は20年後の記憶低下を予測し、認知症発症前の長期の前駆期を示唆する。高齢期ではAD、神経変性、神経炎症のバイオマーカーが認知低下に関連し、特にp-tau181が記憶機能低下と強く結びついている。",
+      "summary_short_ja": "本研究は、中年期および高齢期の血中アルツハイマー病（AD）バイオマーカー（p-tau181、Aβ42/40比、NfL、GFAP）と11年間の認知機能低下の関連を調査した。中年期のp-tau181の増加は後の記憶機能低下と有意に関連し、他のバイオマーカーは関連しなかった。高齢期ではp-tau181、NfL、GFAPが複数の認知領域の低下と関連し、特にp-tau181と記憶低下の関連が強かった。これにより、認知症発症前の長期的な前駆期の存在が示唆された。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42993913",
       "doi": "10.1212/WNL.0000000000218735",
       "title": "Prevalence and Profile of Undiagnosed Dementia in Brazil: A 5-Year Nationally Representative Analysis From the ELSI-Brazil.",
@@ -120,21 +165,6 @@
       "summary_short_ja": "本研究は、英国1946年出生コホートを用い、60-64歳時の14種の感染症に対する抗体と69-71歳時のアルツハイマー病（AD）神経病理指標（血漿p-tau217およびAβ-PET陽性率）との関連を検討した。主な結果として、ほとんどの感染抗体はAD指標と関連せず、ヘルペスウイルス2型抗体陽性者でp-tau217が低値を示した。エプスタイン・バールウイルス抗体陽性者はAβ陽性の傾向があったが、全体として多くの一般的感染症曝露とAD神経病理の関連は認められなかった。",
       "disease": "dementia",
       "section": "epidemiology"
-    },
-    {
-      "source": "pubmed",
-      "pmid": "42886876",
-      "doi": "10.1212/WNL.0000000000218692",
-      "title": "Midlife and Late-Life Alzheimer Disease Blood Biomarkers and 11-Year Cognitive Decline.",
-      "abstract": "Plasma biomarkers of Alzheimer disease (AD) neuropathology (amyloid-β42 to amyloid β40 [Aβ42/40] ratio, phosphorylated tau at threonine [p-tau181]), neurodegeneration (neurofilament light [NfL]), and neuroinflammation (glial fibrillary acidic protein [GFAP]) in late-life are associated with cognitive decline. Whether these biomarkers in midlife are predictive of subsequent cognitive decline, and whether they are associated with different cognitive domains, is uncertain. In this study, we investigated associations of midlife and late-life plasma Aβ42/40, p-tau181, NfL, and GFAP with late-life change in domain-specific (memory, language, and executive function) and global cognitive function. We performed a prospective cohort analysis of the Atherosclerosis Risk in Communities Neurocognitive Study (ARIC-NCS). Outcome follow-up was from ARIC visit 5 (2011-2013) to visit 9 (2021-2022). We included all individuals from ARIC field centers (Jackson, Mississippi; Forsyth County, North Carolina; Washington County, Maryland; and Minneapolis suburbs, Minnesota) with biomarkers measured from stored specimens in midlife (visit 3, 1993-1995, mean age 59.0 years) and late-life (visit 5, 2011-2013, mean age 76.8 years). Aβ42/40, p-tau181, NfL, and GFAP were measured with the Quanterix Simoa platform and standardized to visit 3 to facilitate cross-biomarker comparisons of their rate of change from midlife to late-life. We estimated change in memory, language, executive function, and global cognition factor scores from visit 5 to visit 9 with linear mixed-effect models. In 1,515 included participants, 60.7% (n = 920) were female and 25.5% (n = 387) were Black. Each SD increase in p-tau181 in midlife was significantly associated with faster late-life memory decline (β = -0.030 [95% CI -0.059 to -0.001] SD. Midlife Aβ42/40, NfL, and GFAP were not associated with subsequent decline in any cognitive domain. In late-life, p-tau181, NfL, and GFAP were significantly associated with faster decline in different cognitive domains, with the strongest associations seen with memory (β = -0.091 [95% CI -0.123 to -0.058] SD; β = -0.064 [95% CI -0.106 to -0.023] SD; and β = -0.048 [95% CI -0.082 to -0.013] SD, respectively). Midlife p-tau181 was associated with faster 11-year memory decline beginning 20 years later in the ARIC cohort, which underscores a potentially long prodromal phase of cognitive decline that could precede dementia onset. In late-life, biomarkers for AD, neurodegeneration, and neuroinflammation were associated with faster decline across different cognitive domains, but associations remained strongest for p-tau181 and memory.",
-      "journal": "Neurology",
-      "year": "2026",
-      "published": "2026-Nov-10",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42886876/",
-      "summary_ja": "背景：アルツハイマー病（AD）の血中バイオマーカーは高齢期の認知機能低下と関連するが、中年期のバイオマーカーが将来の認知低下を予測するかは不明である。  \n方法：ARIC神経認知研究の前向きコホート解析を行い、中年期（平均59歳）と高齢期（平均76.8歳）に採取した血漿中のAβ42/40比、p-tau181、NfL、GFAPを測定。これらのバイオマーカーと11年間の記憶、言語、実行機能および全般的認知機能の変化を線形混合モデルで解析した。  \n結果：1515名の参加者のうち、p-tau181の中年期の標準偏差増加は高齢期の記憶低下の加速と有意に関連した（β=-0.030）。中年期の他のバイオマーカーは認知低下と関連しなかった。高齢期ではp-tau181、NfL、GFAPが異なる認知領域の低下と関連し、特にp-tau181と記憶低下の関連が最も強かった。  \n結論：中年期のp-tau181は20年後の記憶低下を予測し、認知症発症前の長期の前駆期を示唆する。高齢期ではAD、神経変性、神経炎症のバイオマーカーが認知低下に関連し、特にp-tau181が記憶機能低下と強く結びついている。",
-      "summary_short_ja": "本研究は、中年期および高齢期の血中アルツハイマー病（AD）バイオマーカー（p-tau181、Aβ42/40比、NfL、GFAP）と11年間の認知機能低下の関連を調査した。中年期のp-tau181の増加は後の記憶機能低下と有意に関連し、他のバイオマーカーは関連しなかった。高齢期ではp-tau181、NfL、GFAPが複数の認知領域の低下と関連し、特にp-tau181と記憶低下の関連が強かった。これにより、認知症発症前の長期的な前駆期の存在が示唆された。",
-      "disease": "dementia",
-      "section": "prognosis"
     },
     {
       "source": "pubmed",
