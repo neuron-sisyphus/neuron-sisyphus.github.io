@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43008259",
+      "doi": "10.1212/WNL.0000000000218756",
+      "title": "Factors Associated With Rate of Multiple Sclerosis Onset in a Cohort With Prior Infectious Mononucleosis Identified in Administrative Data.",
+      "abstract": "Evidence suggests that Epstein-Barr virus (EBV) infection is a necessary, but not sufficient, exposure for developing multiple sclerosis (MS). Although many cases of EBV infection are asymptomatic, people with infectious mononucleosis (IM) often seek medical attention and thus can be studied on the population level. We aimed to characterize factors influencing the rate of MS development in a large population-based cohort with IM. In this retrospective cohort study, outpatient and inpatient cases of IM (ICD-9 code 075 and ICD-10-CA code B27) were identified from health claims data in Ontario, Canada, from April 1, 1992, to March 31, 2017. MS cases after IM were identified using a validated algorithm from May 1, 1992, to March 31, 2022. We evaluated the rate of MS in an IM-exposed cohort using a cause-specific hazards model incorporating age at IM (younger than 10 years, 10-25 years, and older than 25 years), sex, rural vs urban residence, neighborhood income, immigrant status, and mental health care use. We identified 671,410 cases of IM, with mean (SD) age of 19.9 (18.8) years; 53.5% were female. Of the 671,410, 2,470 (0.4%) developed MS over a median (interquarile range [IQR]) follow-up of 16.7 (10.1-23.3) years. The median time from IM to MS was 11.4 (IQR 6.5-16.8) years. Female sex (hazard ratio [HR] 1.9, 95% CI 1.8-2.1), age at IM (age 10-25 years vs < 10 years: HR 6.0; 95% CI 5.2-6.9), and mental health care use (HR 1.2; 95% CI 1.1-1.3) were associated with a greater rate of developing MS after IM, while being an immigrant was associated with a lower rate (HR 0.5; 95% CI 0.4-0.7). In a population-based cohort, the median time from IM exposure to MS was just over 1 decade. Mental health conditions may be associated with a higher rate of developing MS, in addition to being a feature of the MS prodrome. Our results may inform risk stratification for developing MS after IM and thus facilitate secondary prevention in high-risk individuals. Limitations include the ability to capture only recognized infectious mononucleosis, which may limit generalizability to asymptomatic or mild cases of EBV infection.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008259/",
+      "summary_ja": "背景：多発性硬化症（MS）の発症にはエプスタイン・バーウイルス（EBV）感染が必要とされるが、すべての感染者が発症するわけではない。症状の出る伝染性単核球症（IM）患者を対象に、MS発症率に影響を与える要因を検討した。  \n方法：カナダ・オンタリオ州の医療請求データから1992～2017年にIMと診断された67万1410例を抽出し、追跡期間中のMS発症を検証。年齢、性別、居住地、所得、移民状況、精神医療利用の影響を多変量ハザードモデルで解析した。  \n結果：IM患者の0.4％（2470例）が中央値16.7年の追跡期間中にMSを発症。IMからMSまでの中央値は11.4年。女性（HR 1.9）、IM発症年齢10～25歳（HR 6.0）、精神医療利用（HR 1.2）がMS発症率の上昇と関連し、移民は発症率低下（HR 0.5）と関連した。  \n結論：IM後のMS発症までに約10年を要し、精神疾患の存在がMS発症リスクを高める可能性が示唆された。これらの知見はIM患者のMS発症リスク評価や二次予防に役立つが、無症候性EBV感染者への一般化には限界がある。",
+      "summary_short_ja": "本研究は、カナダ・オンタリオ州の医療データを用いて、伝染性単核球症（IM）既往者における多発性硬化症（MS）発症率に影響する要因を検討した。67万人超のIM患者のうち0.4%がMSを発症し、発症までの中央値は約11年。女性、10～25歳でのIM発症、精神医療利用がMS発症リスクを高め、移民はリスクを低減した。精神疾患はMSの前駆症状である可能性も示唆され、IM後のMSリスク層別化や二次予防に資する結果である。",
+      "disease": "ms",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42987244",
       "doi": "10.1212/WNL.0000000000218691",
       "title": "Impact of 2024 Revisions of Multiple Sclerosis Diagnostic Criteria in People With Radiologically Isolated Syndrome.",
