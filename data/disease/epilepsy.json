@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43013790",
+      "doi": "10.1212/WNL.0000000000218768",
+      "title": "Clinical Risk Factors for Suicide in Persons With Epilepsy: A Nationwide Population-Based Case-Control Study.",
+      "abstract": "Individuals with epilepsy face an elevated risk of suicide, but risk factors for suicide remain incompletely understood. We conducted a nationwide case-control study in Sweden to investigate clinical characteristics associated with suicide risk in persons with epilepsy. Persons with epilepsy were identified through Swedish nationwide registers, with epilepsy diagnoses validated through medical record review. Cases were individuals who died by suicide between 2006 and 2011, validated through autopsy reports, and controls were derived from the source population using similar validation procedures. Characteristics included epilepsy type, etiology, tonic-clonic seizure (TCS) frequency, antiseizure medication (ASM) treatment, living conditions, and psychiatric comorbidity. Odds ratios (ORs) with 95% CIs were estimated using conditional logistic regression. The study included 111 suicide cases and 1,147 controls. Suicide cases had a mean age at epilepsy onset of 20 years, and 35% were female. Alcohol abuse (OR 11.81, 95% CI 6.25-22.30) and other substance abuse (OR 10.71, 95% CI 4.52-25.38) showed stronger associations than depression (OR 2.94, 95% CI 1.56-5.53) and anxiety disorders (OR 2.93, 95% CI 1.57-5.44). Living alone was associated with increased risk (OR 2.59, 95% CI 1.58-4.26). Recent TCS showed a dose-response relationship, with the highest risk among individuals experiencing 4-10 TCS in the preceding year (OR 5.01, 95% CI 2.2-11.3). Structural and unknown epilepsy etiologies were associated with elevated risk (OR 3.07, 95% CI 1.0-9.5 and OR 8.80, 95% CI 2.9-27.1, respectively). ASM treatment was associated with lower suicide risk (monotherapy OR 0.51, 95% CI 0.27-0.95; polytherapy OR 0.21, 95% CI 0.1-0.5), and nonadherence was associated with higher risk (OR 3.02, 95% CI 1.8-5.1). This study identified a distinct risk profile for suicide in persons with epilepsy, highlighting alcohol and substance abuse, living alone, seizure burden, nonadherence, and structural or unknown etiologies as key risk factors. The stronger associations for substance abuse may reflect characteristics specific to epilepsy populations and the focus on completed suicide. Screening for substance abuse and improved seizure control may contribute to suicide prevention. Major limitations include the modest number of cases and incomplete information on prior suicidal behavior.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013790/",
+      "summary_ja": "背景：てんかん患者は自殺リスクが高いが、その臨床的リスク因子は十分に解明されていない。  \n方法：スウェーデンの全国登録データを用いた症例対照研究を実施。てんかん診断は医療記録で検証し、自殺例111例と対照1,147例を比較。てんかんの種類、原因、強直間代発作（TCS）頻度、抗てんかん薬（ASM）治療状況、生活環境、精神疾患の併存を評価し、条件付きロジスティック回帰でオッズ比（OR）を算出。  \n結果：アルコール乱用（OR 11.81）や他の物質乱用（OR 10.71）がうつ病（OR 2.94）や不安障害（OR 2.93）より強い関連を示した。単身生活（OR 2.59）、直近1年のTCS頻度増加（最大OR 5.01）、構造的および原因不明のてんかん（OR 3.07、8.80）もリスク増加に寄与。ASM治療は単剤（OR 0.51）、多剤（OR 0.21）でリスク低減に関連し、服薬非遵守はリスク増加（OR 3.02）と判明。  \n結論：てんかん患者の自殺リスクは物質乱用、単身生活、発作頻度、服薬非遵守、てんかんの原因により特徴づけられる。物質乱用の強い関連はてんかん特有の要因を反映し、スクリーニングと発作管理の強化が自殺予防に重要と示唆される。症例数の限界や自殺既往情報の不完全さが主な制約である。",
+      "summary_short_ja": "本研究はスウェーデンの全国データを用い、てんかん患者の自殺リスク要因を検討した。アルコール・薬物乱用、単身生活、頻回の強直間代発作、構造的・原因不明のてんかん、薬物治療の非遵守が自殺リスクを有意に高めた。一方、抗てんかん薬治療はリスク低減に寄与した。これらの結果は、てんかん患者の自殺予防に向けた薬物管理と精神・生活環境の支援の重要性を示す。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43002719",
       "doi": "10.1212/WNL.0000000000218778",
       "title": "Pearls & Oy-sters: Anti-GABA",

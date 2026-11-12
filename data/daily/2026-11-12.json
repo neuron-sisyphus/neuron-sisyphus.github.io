@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-12",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "43013794",
+      "doi": "10.1212/WNL.0000000000218680",
+      "title": "Semantic Processing in Unresponsive Patients With Acute Brain Injury.",
+      "abstract": "Early prognostication after acute brain injury (ABI) is challenging because behavioral responsiveness may not accurately reflect preserved cognitive function. Neural responses to semantic incongruity can identify language processing despite the absence of overt behavior. We investigated whether bedside EEG could detect semantic processing in unresponsive patients with ABI and whether its presence was associated with long-term outcomes. In this prospective 2-center cohort study, unresponsive adults with ABI admitted to neurologic intensive care units between 2022 and 2025 underwent bedside EEG during a language paradigm comparing congruent and incongruent sentence endings (e.g., \"my favorite color is green/soon\"). Semantic processing was defined by differential event-related responses within centroparietal channels (300-500 milliseconds) using cluster-based permutation testing with false discovery rate correction. Outcomes were assessed for recovery of consciousness and functional recovery (Glasgow Outcome Scale-Extended score ≥4) at 12 months by blinded interviewers. Diagnostic performance was evaluated using sensitivity, specificity, predictive values, accuracy, and likelihood ratios. Among 105 patients (mean age 58 ± 19 years; 21% women; 53% Hispanic/Latino), the most common etiologies were intracerebral hemorrhage (45%), traumatic brain injury (43%), and subarachnoid hemorrhage (10%). Withdrawal of life-sustaining therapy occurred in 31%. Semantic processing was detected in 13 patients (12%). Recovery of consciousness occurred in 77% of patients with semantic processing compared with 49% without semantic processing (odds ratio [OR] 3.5; 95% CI 0.9-13.5,  EEG evidence of semantic processing can be detected in a subset of unresponsive patients with ABI during the acute phase of injury and is associated with favorable long-term outcomes. Semantic processing was a specific but insensitive biomarker of recovery, suggesting potential utility as a rule-in marker of preserved cognitive function. These findings are hypothesis-generating and require validation in larger multicenter cohorts before clinical implementation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013794/",
+      "summary_ja": "背景：急性脳損傷（ABI）後の早期予後予測は、行動的反応性が認知機能の維持を正確に反映しないため困難である。意味的不整合に対する神経反応は、外見上の行動がなくても言語処理を示す可能性がある。  \n方法：2022～2025年に神経集中治療室に入院した反応のないABI成人患者105名を対象に、ベッドサイドで意味的整合・不整合文末を用いた言語課題中の脳波（EEG）を測定。300～500ミリ秒の中心頭頂部チャネルの事象関連電位差異をクラスターベースの置換検定で解析し、意味処理の有無を判定。12か月後に意識回復と機能的回復（GOS-Eスコア≥4）を盲検面接で評価。  \n結果：意味処理は13名（12%）で検出され、意味処理群の77%が意識回復したのに対し、非検出群は49%であった（オッズ比3.5）。意味処理は特異度は高いが感度は低いバイオマーカーであった。  \n結論：急性期の反応のないABI患者の一部で意味処理がEEGで検出可能であり、長期予後良好と関連する。意味処理は認知機能維持のルールインマーカーとして有用である可能性があるが、臨床応用にはさらなる多施設研究での検証が必要である。",
+      "summary_short_ja": "急性脳損傷（ABI）患者の無反応状態において、ベッドサイドEEGで意味的処理の神経反応を検出し、その有無が長期予後と関連するかを検討した。105例中12%で意味的処理が認められ、これら患者の77%が意識回復したのに対し、処理なしは49%であった。意味的処理は回復の特異的指標であるが感度は低く、認知機能温存のルールインマーカーとしての有用性が示唆される。臨床応用にはさらなる大規模検証が必要である。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43013791",
+      "doi": "10.1212/WNL.0000000000218704",
+      "title": "Evaluation of Submandibular Gland Biopsies With Real-Time Quaking-Induced Conversion in Clinical Parkinson Disease.",
+      "abstract": "The definite diagnosis of Parkinson disease (PD) is usually made by the detection of α-synuclein aggregates in the brain postmortem with the rare exception of some genetic forms. Traces of α-synuclein aggregates in extracerebral tissue biopsies may serve as an appropriate biomarker to confirm a clinical diagnosis in vivo. We set out to determine whether the detection of α-synuclein aggregates in submandibular gland biopsies is an effective means for diagnosing patients with PD. In this prospective study, we consecutively acquired and examined submandibular gland biopsies from patients with clinical PD in neurologic care and controls who underwent surgical procedures on the submandibular gland for different reasons. Our index method was the detection of α-synuclein aggregates using the real-time quaking-induced conversion (RT-QuIC) in fresh-frozen tissue. We compared the results with immunohistochemical α-synuclein aggregate detection and paraffin-embedded tissue blot (PET-blot) as reference methods in formalin-fixed tissue from the same biopsy. The study population included 25 patients with clinical PD (mean age 67.3 ± 9.3 years, 64% male, 36% female) and 25 age-matched controls (mean age 64.6 ± 8.6 years, 48% male, 52% female). The RT-QuIC assay detected α-synuclein aggregates in submandibular gland biopsies (n = 41) with a sensitivity of 81.8%, which increased to 90% after a clinical follow-up, and a specificity of 100%, thus providing an accuracy of 90.2% (95% CI 76.6%-96.4%) and 95.1% (95% CI 82.9%-98.7%), respectively. The PET-blot with mAb5C12 (n = 49) confirmed 50% of the RT-QuIC positives and offered a sensitivity of 45.8% (50% after clinical follow-up) and a specificity of 100%. Immunohistochemical detection (n = 48) using the same antibody confirmed 28% of the RT-QuIC positives but found 2 of the controls to be positive and therefore provided a sensitivity of 26.1% (28.6% after clinical follow-up) and a specificity of 92%. With a sensitivity of more than 80%, which is comparable with the clinical diagnosis when neuropathologic examination serves as gold standard, the RT-QuIC assay on salivary gland biopsies may serve as a valuable instrument to improve the diagnosis of PD. Further validation is necessary to substantiate these findings in larger-scale investigations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013791/",
+      "summary_ja": "背景：パーキンソン病（PD）の確定診断は通常、死後の脳内でのα-シヌクレイン凝集体の検出に基づくが、生体内での診断には適切なバイオマーカーが求められている。方法：本研究では、臨床的PD患者および対照群から採取した顎下腺生検組織を用い、リアルタイムクエイキング誘導変換法（RT-QuIC）でα-シヌクレイン凝集体の検出を試みた。免疫組織化学染色およびパラフィン包埋組織ブロット（PET-blot）と比較検討した。結果：RT-QuIC法は感度81.8%（臨床経過観察後90%）、特異度100%、総合精度90.2%を示し、PET-blotや免疫組織化学染色よりも高い検出率を示した。結論：顎下腺生検におけるRT-QuIC法は、神経病理学的検査に匹敵する感度を持ち、PDの生体診断を補完する有用な手段となり得る。今後、大規模検証が必要である。",
+      "summary_short_ja": "本研究は、パーキンソン病（PD）の臨床診断において、顎下腺生検でのα-シヌクレイン凝集体検出が有効かを検証した。RT-QuIC法により感度81.8％（追跡調査後90％）、特異度100％を示し、従来法より高精度であった。RT-QuICは臨床診断の補助として有望であり、さらなる大規模検証が必要とされる。",
+      "disease": "parkinson",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43013790",
+      "doi": "10.1212/WNL.0000000000218768",
+      "title": "Clinical Risk Factors for Suicide in Persons With Epilepsy: A Nationwide Population-Based Case-Control Study.",
+      "abstract": "Individuals with epilepsy face an elevated risk of suicide, but risk factors for suicide remain incompletely understood. We conducted a nationwide case-control study in Sweden to investigate clinical characteristics associated with suicide risk in persons with epilepsy. Persons with epilepsy were identified through Swedish nationwide registers, with epilepsy diagnoses validated through medical record review. Cases were individuals who died by suicide between 2006 and 2011, validated through autopsy reports, and controls were derived from the source population using similar validation procedures. Characteristics included epilepsy type, etiology, tonic-clonic seizure (TCS) frequency, antiseizure medication (ASM) treatment, living conditions, and psychiatric comorbidity. Odds ratios (ORs) with 95% CIs were estimated using conditional logistic regression. The study included 111 suicide cases and 1,147 controls. Suicide cases had a mean age at epilepsy onset of 20 years, and 35% were female. Alcohol abuse (OR 11.81, 95% CI 6.25-22.30) and other substance abuse (OR 10.71, 95% CI 4.52-25.38) showed stronger associations than depression (OR 2.94, 95% CI 1.56-5.53) and anxiety disorders (OR 2.93, 95% CI 1.57-5.44). Living alone was associated with increased risk (OR 2.59, 95% CI 1.58-4.26). Recent TCS showed a dose-response relationship, with the highest risk among individuals experiencing 4-10 TCS in the preceding year (OR 5.01, 95% CI 2.2-11.3). Structural and unknown epilepsy etiologies were associated with elevated risk (OR 3.07, 95% CI 1.0-9.5 and OR 8.80, 95% CI 2.9-27.1, respectively). ASM treatment was associated with lower suicide risk (monotherapy OR 0.51, 95% CI 0.27-0.95; polytherapy OR 0.21, 95% CI 0.1-0.5), and nonadherence was associated with higher risk (OR 3.02, 95% CI 1.8-5.1). This study identified a distinct risk profile for suicide in persons with epilepsy, highlighting alcohol and substance abuse, living alone, seizure burden, nonadherence, and structural or unknown etiologies as key risk factors. The stronger associations for substance abuse may reflect characteristics specific to epilepsy populations and the focus on completed suicide. Screening for substance abuse and improved seizure control may contribute to suicide prevention. Major limitations include the modest number of cases and incomplete information on prior suicidal behavior.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013790/",
+      "summary_ja": "背景：てんかん患者は自殺リスクが高いが、その臨床的リスク因子は十分に解明されていない。  \n方法：スウェーデンの全国登録データを用いた症例対照研究を実施。てんかん診断は医療記録で検証し、自殺例111例と対照1,147例を比較。てんかんの種類、原因、強直間代発作（TCS）頻度、抗てんかん薬（ASM）治療状況、生活環境、精神疾患の併存を評価し、条件付きロジスティック回帰でオッズ比（OR）を算出。  \n結果：アルコール乱用（OR 11.81）や他の物質乱用（OR 10.71）がうつ病（OR 2.94）や不安障害（OR 2.93）より強い関連を示した。単身生活（OR 2.59）、直近1年のTCS頻度増加（最大OR 5.01）、構造的および原因不明のてんかん（OR 3.07、8.80）もリスク増加に寄与。ASM治療は単剤（OR 0.51）、多剤（OR 0.21）でリスク低減に関連し、服薬非遵守はリスク増加（OR 3.02）と判明。  \n結論：てんかん患者の自殺リスクは物質乱用、単身生活、発作頻度、服薬非遵守、てんかんの原因により特徴づけられる。物質乱用の強い関連はてんかん特有の要因を反映し、スクリーニングと発作管理の強化が自殺予防に重要と示唆される。症例数の限界や自殺既往情報の不完全さが主な制約である。",
+      "summary_short_ja": "本研究はスウェーデンの全国データを用い、てんかん患者の自殺リスク要因を検討した。アルコール・薬物乱用、単身生活、頻回の強直間代発作、構造的・原因不明のてんかん、薬物治療の非遵守が自殺リスクを有意に高めた。一方、抗てんかん薬治療はリスク低減に寄与した。これらの結果は、てんかん患者の自殺予防に向けた薬物管理と精神・生活環境の支援の重要性を示す。",
+      "disease": "epilepsy",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43013789",
+      "doi": "10.1212/WNL.0000000000218664",
+      "title": "Clinical Reasoning: A 55-Year-Old Woman With a Hyperkinetic Movement Disorder, External Ophthalmoplegia, and Myopathy.",
+      "abstract": "Evaluating patients with multiple movement disorders can be challenging, especially in the setting of systemic involvement. We present a 55-year-old woman with an 8-year history of hyperkinetic movements, mild ataxia, lower limb spasticity, external ophthalmoplegia, and myopathy. This publication highlights the diagnostic approach to patients with complex neurologic presentations and walks readers through the creation of a comprehensive differential diagnosis.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013789/",
+      "summary_ja": "背景：多発性運動障害を伴う全身症状の患者の診断は困難である。  \n方法：8年間にわたり、過剰運動、軽度の運動失調、下肢の痙性、外眼筋麻痺、筋症状を呈する55歳女性の臨床経過を詳細に検討し、包括的な鑑別診断を構築した。  \n結果：患者の複雑な神経症状を整理し、多角的な診断アプローチを通じて、関連疾患の可能性を絞り込む過程を示した。  \n結論：多様な神経症状を呈する患者に対しては、系統的かつ包括的な診断思考が重要であり、本症例はその実践的手法を示す好例である。",
+      "summary_short_ja": "55歳女性が8年間の多動性運動障害、軽度の運動失調、下肢の痙性、外眼筋麻痺、筋症を呈した症例を報告する。本論文は、全身症状を伴う複雑な神経症状患者の診断過程を示し、包括的な鑑別診断の立て方を解説している。",
+      "disease": "other",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43013788",
+      "doi": "10.1212/WNL.0000000000218686",
+      "title": "Plasma P-Tau217 as a Prognostic, Monitoring, and Risk-Stratification Biomarker of Clinical Progression in Lewy Body Disease.",
+      "abstract": "Although plasma phosphorylated tau-217 (pTau217) detects co-occurring Alzheimer disease (AD) neuropathologic change in Lewy body disease (LBD), relationships with long-term clinical outcomes remain unclear. Our aim was to evaluate plasma pTau217 as a prognostic, risk-stratification, and monitoring biomarker of cognitive and functional decline in LBD. This prospective longitudinal study included Stanford AD Research Center participants enrolled from 2015 to 2023 with plasma pTau217 data and clinical diagnoses of LBD spectrum, AD spectrum, or healthy control (HC). To evaluate prognostic and monitoring utility, respectively, linear mixed-effect models tested whether baseline level and longitudinal change (2-5 years) in plasma pTau217 were associated with longitudinal changes (2-8 years) in daily functioning (Clinical Dementia Rating-Sum of Boxes [CDR-SB]), global cognition (Montreal Cognitive Assessment [MoCA]), and 5 domain-specific cognitive indices. For risk stratification, baseline plasma pTau217 status was defined using an amyloid PET-derived, LBD-specific cut-point to examine whether participants with abnormal levels demonstrated faster clinical progression in separate linear-mixed effects and survival models. A total of 501 participants (mean[SD] age = 71.1[8.5]; 51.5% female) were included across LBD ( Plasma pTau217 is a promising prognostic, risk-stratification, and monitoring biomarker of clinical progression in LBD, underscoring its utility for clinical practice and trials in mixed pathology groups.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013788/",
+      "summary_ja": "背景：レビー小体病（LBD）における血漿中リン酸化タウ217（pTau217）は、アルツハイマー病（AD）病理変化の検出に有用とされるが、長期的な臨床経過との関連は不明であった。  \n方法：2015年から2023年にかけてスタンフォードAD研究センターで登録されたLBD、AD、健常者の計501名（平均年齢71.1歳、女性51.5%）を対象に、血漿pTau217のベースライン値および2～5年の縦断的変化と、2～8年の認知機能・日常生活機能の変化（CDR-SB、MoCA、5つの認知ドメイン）との関連を線形混合効果モデルで解析した。さらに、LBD特異的カットオフ値を用いてリスク層別化を行い、異常値群の臨床進行速度を評価した。  \n結果：血漿pTau217のベースライン値および縦断的変化は、認知機能低下および日常生活機能障害の進行と有意に関連した。異常値群は正常群に比べて臨床進行が速かった。  \n結論：血漿pTau217はLBDにおける臨床進行の予後予測、リスク層別化、経過観察に有用なバイオマーカーであり、混合病理群の臨床診療や治験における活用が期待される。",
+      "summary_short_ja": "本研究は、レビー小体病（LBD）における血漿中リン酸化タウ217（pTau217）が認知・機能低下の予後予測、リスク層別化、経時的モニタリングに有用かを検証した。501名の参加者を対象に、pTau217の初期値および変化が日常機能や認知指標の進行と関連することを示し、異常値群は臨床進行が速いことを確認。pTau217はLBDの臨床経過評価に有望なバイオマーカーである。",
+      "disease": "dementia",
+      "section": "prognosis"
+    }
+  ]
+}

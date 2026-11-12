@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43013794",
+      "doi": "10.1212/WNL.0000000000218680",
+      "title": "Semantic Processing in Unresponsive Patients With Acute Brain Injury.",
+      "abstract": "Early prognostication after acute brain injury (ABI) is challenging because behavioral responsiveness may not accurately reflect preserved cognitive function. Neural responses to semantic incongruity can identify language processing despite the absence of overt behavior. We investigated whether bedside EEG could detect semantic processing in unresponsive patients with ABI and whether its presence was associated with long-term outcomes. In this prospective 2-center cohort study, unresponsive adults with ABI admitted to neurologic intensive care units between 2022 and 2025 underwent bedside EEG during a language paradigm comparing congruent and incongruent sentence endings (e.g., \"my favorite color is green/soon\"). Semantic processing was defined by differential event-related responses within centroparietal channels (300-500 milliseconds) using cluster-based permutation testing with false discovery rate correction. Outcomes were assessed for recovery of consciousness and functional recovery (Glasgow Outcome Scale-Extended score ≥4) at 12 months by blinded interviewers. Diagnostic performance was evaluated using sensitivity, specificity, predictive values, accuracy, and likelihood ratios. Among 105 patients (mean age 58 ± 19 years; 21% women; 53% Hispanic/Latino), the most common etiologies were intracerebral hemorrhage (45%), traumatic brain injury (43%), and subarachnoid hemorrhage (10%). Withdrawal of life-sustaining therapy occurred in 31%. Semantic processing was detected in 13 patients (12%). Recovery of consciousness occurred in 77% of patients with semantic processing compared with 49% without semantic processing (odds ratio [OR] 3.5; 95% CI 0.9-13.5,  EEG evidence of semantic processing can be detected in a subset of unresponsive patients with ABI during the acute phase of injury and is associated with favorable long-term outcomes. Semantic processing was a specific but insensitive biomarker of recovery, suggesting potential utility as a rule-in marker of preserved cognitive function. These findings are hypothesis-generating and require validation in larger multicenter cohorts before clinical implementation.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013794/",
+      "summary_ja": "背景：急性脳損傷（ABI）後の早期予後予測は、行動的反応性が認知機能の維持を正確に反映しないため困難である。意味的不整合に対する神経反応は、外見上の行動がなくても言語処理を示す可能性がある。  \n方法：2022～2025年に神経集中治療室に入院した反応のないABI成人患者105名を対象に、ベッドサイドで意味的整合・不整合文末を用いた言語課題中の脳波（EEG）を測定。300～500ミリ秒の中心頭頂部チャネルの事象関連電位差異をクラスターベースの置換検定で解析し、意味処理の有無を判定。12か月後に意識回復と機能的回復（GOS-Eスコア≥4）を盲検面接で評価。  \n結果：意味処理は13名（12%）で検出され、意味処理群の77%が意識回復したのに対し、非検出群は49%であった（オッズ比3.5）。意味処理は特異度は高いが感度は低いバイオマーカーであった。  \n結論：急性期の反応のないABI患者の一部で意味処理がEEGで検出可能であり、長期予後良好と関連する。意味処理は認知機能維持のルールインマーカーとして有用である可能性があるが、臨床応用にはさらなる多施設研究での検証が必要である。",
+      "summary_short_ja": "急性脳損傷（ABI）患者の無反応状態において、ベッドサイドEEGで意味的処理の神経反応を検出し、その有無が長期予後と関連するかを検討した。105例中12%で意味的処理が認められ、これら患者の77%が意識回復したのに対し、処理なしは49%であった。意味的処理は回復の特異的指標であるが感度は低く、認知機能温存のルールインマーカーとしての有用性が示唆される。臨床応用にはさらなる大規模検証が必要である。",
+      "disease": "stroke",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43008260",
       "doi": "10.1212/WNL.0000000000218473",
       "title": "Severity-Based Triage for Direct Transportation to Nearest Comprehensive Stroke Center: A Systematic Review and Meta-Analysis.",

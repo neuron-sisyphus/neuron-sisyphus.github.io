@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43013788",
+      "doi": "10.1212/WNL.0000000000218686",
+      "title": "Plasma P-Tau217 as a Prognostic, Monitoring, and Risk-Stratification Biomarker of Clinical Progression in Lewy Body Disease.",
+      "abstract": "Although plasma phosphorylated tau-217 (pTau217) detects co-occurring Alzheimer disease (AD) neuropathologic change in Lewy body disease (LBD), relationships with long-term clinical outcomes remain unclear. Our aim was to evaluate plasma pTau217 as a prognostic, risk-stratification, and monitoring biomarker of cognitive and functional decline in LBD. This prospective longitudinal study included Stanford AD Research Center participants enrolled from 2015 to 2023 with plasma pTau217 data and clinical diagnoses of LBD spectrum, AD spectrum, or healthy control (HC). To evaluate prognostic and monitoring utility, respectively, linear mixed-effect models tested whether baseline level and longitudinal change (2-5 years) in plasma pTau217 were associated with longitudinal changes (2-8 years) in daily functioning (Clinical Dementia Rating-Sum of Boxes [CDR-SB]), global cognition (Montreal Cognitive Assessment [MoCA]), and 5 domain-specific cognitive indices. For risk stratification, baseline plasma pTau217 status was defined using an amyloid PET-derived, LBD-specific cut-point to examine whether participants with abnormal levels demonstrated faster clinical progression in separate linear-mixed effects and survival models. A total of 501 participants (mean[SD] age = 71.1[8.5]; 51.5% female) were included across LBD ( Plasma pTau217 is a promising prognostic, risk-stratification, and monitoring biomarker of clinical progression in LBD, underscoring its utility for clinical practice and trials in mixed pathology groups.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013788/",
+      "summary_ja": "背景：レビー小体病（LBD）における血漿中リン酸化タウ217（pTau217）は、アルツハイマー病（AD）病理変化の検出に有用とされるが、長期的な臨床経過との関連は不明であった。  \n方法：2015年から2023年にかけてスタンフォードAD研究センターで登録されたLBD、AD、健常者の計501名（平均年齢71.1歳、女性51.5%）を対象に、血漿pTau217のベースライン値および2～5年の縦断的変化と、2～8年の認知機能・日常生活機能の変化（CDR-SB、MoCA、5つの認知ドメイン）との関連を線形混合効果モデルで解析した。さらに、LBD特異的カットオフ値を用いてリスク層別化を行い、異常値群の臨床進行速度を評価した。  \n結果：血漿pTau217のベースライン値および縦断的変化は、認知機能低下および日常生活機能障害の進行と有意に関連した。異常値群は正常群に比べて臨床進行が速かった。  \n結論：血漿pTau217はLBDにおける臨床進行の予後予測、リスク層別化、経過観察に有用なバイオマーカーであり、混合病理群の臨床診療や治験における活用が期待される。",
+      "summary_short_ja": "本研究は、レビー小体病（LBD）における血漿中リン酸化タウ217（pTau217）が認知・機能低下の予後予測、リスク層別化、経時的モニタリングに有用かを検証した。501名の参加者を対象に、pTau217の初期値および変化が日常機能や認知指標の進行と関連することを示し、異常値群は臨床進行が速いことを確認。pTau217はLBDの臨床経過評価に有望なバイオマーカーである。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43008247",
       "doi": "10.1212/WNL.0000000000218820",
       "title": "Personality Correlates of Functional Status in Patients With Early-Stage Behavioral Variant Frontotemporal Dementia.",

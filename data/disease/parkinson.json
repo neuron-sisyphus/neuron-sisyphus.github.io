@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43013791",
+      "doi": "10.1212/WNL.0000000000218704",
+      "title": "Evaluation of Submandibular Gland Biopsies With Real-Time Quaking-Induced Conversion in Clinical Parkinson Disease.",
+      "abstract": "The definite diagnosis of Parkinson disease (PD) is usually made by the detection of α-synuclein aggregates in the brain postmortem with the rare exception of some genetic forms. Traces of α-synuclein aggregates in extracerebral tissue biopsies may serve as an appropriate biomarker to confirm a clinical diagnosis in vivo. We set out to determine whether the detection of α-synuclein aggregates in submandibular gland biopsies is an effective means for diagnosing patients with PD. In this prospective study, we consecutively acquired and examined submandibular gland biopsies from patients with clinical PD in neurologic care and controls who underwent surgical procedures on the submandibular gland for different reasons. Our index method was the detection of α-synuclein aggregates using the real-time quaking-induced conversion (RT-QuIC) in fresh-frozen tissue. We compared the results with immunohistochemical α-synuclein aggregate detection and paraffin-embedded tissue blot (PET-blot) as reference methods in formalin-fixed tissue from the same biopsy. The study population included 25 patients with clinical PD (mean age 67.3 ± 9.3 years, 64% male, 36% female) and 25 age-matched controls (mean age 64.6 ± 8.6 years, 48% male, 52% female). The RT-QuIC assay detected α-synuclein aggregates in submandibular gland biopsies (n = 41) with a sensitivity of 81.8%, which increased to 90% after a clinical follow-up, and a specificity of 100%, thus providing an accuracy of 90.2% (95% CI 76.6%-96.4%) and 95.1% (95% CI 82.9%-98.7%), respectively. The PET-blot with mAb5C12 (n = 49) confirmed 50% of the RT-QuIC positives and offered a sensitivity of 45.8% (50% after clinical follow-up) and a specificity of 100%. Immunohistochemical detection (n = 48) using the same antibody confirmed 28% of the RT-QuIC positives but found 2 of the controls to be positive and therefore provided a sensitivity of 26.1% (28.6% after clinical follow-up) and a specificity of 92%. With a sensitivity of more than 80%, which is comparable with the clinical diagnosis when neuropathologic examination serves as gold standard, the RT-QuIC assay on salivary gland biopsies may serve as a valuable instrument to improve the diagnosis of PD. Further validation is necessary to substantiate these findings in larger-scale investigations.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013791/",
+      "summary_ja": "背景：パーキンソン病（PD）の確定診断は通常、死後の脳内でのα-シヌクレイン凝集体の検出に基づくが、生体内での診断には適切なバイオマーカーが求められている。方法：本研究では、臨床的PD患者および対照群から採取した顎下腺生検組織を用い、リアルタイムクエイキング誘導変換法（RT-QuIC）でα-シヌクレイン凝集体の検出を試みた。免疫組織化学染色およびパラフィン包埋組織ブロット（PET-blot）と比較検討した。結果：RT-QuIC法は感度81.8%（臨床経過観察後90%）、特異度100%、総合精度90.2%を示し、PET-blotや免疫組織化学染色よりも高い検出率を示した。結論：顎下腺生検におけるRT-QuIC法は、神経病理学的検査に匹敵する感度を持ち、PDの生体診断を補完する有用な手段となり得る。今後、大規模検証が必要である。",
+      "summary_short_ja": "本研究は、パーキンソン病（PD）の臨床診断において、顎下腺生検でのα-シヌクレイン凝集体検出が有効かを検証した。RT-QuIC法により感度81.8％（追跡調査後90％）、特異度100％を示し、従来法より高精度であった。RT-QuICは臨床診断の補助として有望であり、さらなる大規模検証が必要とされる。",
+      "disease": "parkinson",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43002714",
       "doi": "10.1212/WNL.0000000000218741",
       "title": "Clinical Reasoning: A 69-Year-Old Female Patient With Rapid-Onset Levodopa-Responsive Rest Tremor, Parkinsonism, and Gait Freezing.",
