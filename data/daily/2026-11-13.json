@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-13",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "43019502",
+      "doi": "10.1212/WNL.0000000000218833",
+      "title": "Opinion & Special Articles: Mobile Stroke Treatment Unit: A Distinctive Learning Experience in Neurology Residency.",
+      "abstract": "The mobile stroke treatment unit (MSTU) elective offers a novel immersive experience that exposes neurology trainees to acute stroke care in the prehospital setting. Unlike traditional inpatient or emergency department rotations, residents on the MSTU are dispatched to suspected stroke patients and are able to participate in the initial evaluation and treatment of stroke in the field, gaining critical skills that can translate into providing more effective stroke care in the hospital. By working alongside emergency medical services (EMS) personnel, trainees can develop a better understanding and appreciation for prehospital systems of care and socioeconomic factors that influence patient outcomes. Currently, only a few neurology residency programs operate a MSTU at their institution, and even fewer offer a dedicated MSTU rotation. Given the critical role that EMS prehospital response plays in stroke systems of care, providing residents with exposure to an MSTU in residency through a dedicated elective rotation can aid in bridging the gap between theory and practice while enriching their educational experience and improving overall patient care.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019502/",
+      "summary_ja": "背景：脳卒中治療における救急医療の重要性が増す中、神経内科レジデントの教育においても前病院段階での実践的経験が求められている。  \n方法：モバイル脳卒中治療ユニット（MSTU）の選択科目を導入し、レジデントが救急医療サービス（EMS）と連携して現場での急性脳卒中患者の初期評価・治療に参加する機会を提供した。  \n結果：従来の入院患者や救急外来での研修とは異なり、MSTUでの経験により、レジデントは前病院段階のケアや社会経済的要因を理解し、より効果的な脳卒中治療スキルを習得できた。  \n結論：MSTUを活用した専用ローテーションは、理論と実践のギャップを埋め、神経内科レジデントの教育を充実させるとともに、脳卒中患者の治療成績向上に寄与する可能性がある。しかし、現状では導入しているプログラムは限られているため、普及が望まれる。",
+      "summary_short_ja": "モバイル脳卒中治療ユニット（MSTU）の選択研修は、神経内科研修医に救急現場での急性脳卒中治療を体験させる新たな学習機会を提供する。研修医は現場での初期評価や治療に参加し、救急医療スタッフと連携することで、院内治療に活かせる実践的スキルと患者背景の理解を深める。MSTUの導入は限られているが、専用ローテーションは理論と実践の架け橋となり、教育と患者ケアの質向上に寄与する。",
+      "disease": "stroke",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43019495",
+      "doi": "10.1212/WNL.0000000000218738",
+      "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",
+      "abstract": "Cerebral amyloid angiopathy (CAA) frequently co-occurs with Alzheimer disease (AD), yet the prevalence and clinical significance of comorbid CAA among cognitively impaired individuals on the AD continuum remain unclear. We aimed to determine the frequency of probable CAA (Boston criteria v2.0) in a memory-clinic cohort of symptomatic amyloid-positive individuals and to compare demographic, clinical, cognitive, and biomarker profiles between those with and without comorbid probable CAA. We conducted a retrospective cohort study at the Geneva Memory Center including amyloid-positive patients confirmed by CSF or amyloid PET. Participants meeting the Boston criteria v2.0 for probable CAA were classified as AD-probable CAA, whereas those with possible or no CAA were classified as AD-nonprobable CAA. Group differences were assessed using standard parametric and nonparametric tests, linear mixed-effects models for cognitive trajectories, logistic regression for cerebral microbleed (CMB)-CSF biomarker associations, and voxel-wise Statistical Parametric Mapping for regional amyloid PET differences. Among 533 participants (mean age 73.8 ± 6.7 years, 59% female), 148 (28%) met criteria for probable CAA. Demographic characteristics, baseline cognition (mini-mental state examination: rank-biserial  More than one-quarter of amyloid-positive patients fulfilled the Boston criteria v2.0 for probable CAA. Probable CAA was not associated with a distinct clinical presentation or trajectory of cognitive decline. Higher cortical amyloid PET uptake in probable CAA and the association of lower CSF Aβ42 with lobar CMB burden suggest more prominent cerebral amyloidosis in this population. The binary probable CAA label may therefore reflect greater amyloid burden without necessarily delineating a clinically distinct subgroup within the AD continuum. Marker-specific approaches targeting cortical superficial siderosis and high lobar CMB burden may prove more informative.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019495/",
+      "summary_ja": "背景：アルツハイマー病（AD）と脳アミロイド血管症（CAA）はしばしば併存するが、AD連続体にある認知障害者におけるCAAの有病率や臨床的意義は不明である。  \n方法：ジェネーブ記憶センターのアミロイド陽性患者533名（平均年齢73.8歳）を対象に、CSFまたはアミロイドPETで確認された症例を後ろ向きに解析。Boston基準v2.0により「確実なCAA（probable CAA）」群とそれ以外に分類し、人口統計学的特徴、認知機能、バイオマーカーを比較した。認知経過は線形混合効果モデル、脳微小出血（CMB）とCSFバイオマーカーの関連はロジスティック回帰、アミロイドPETの局所差異はボクセル単位の統計マッピングで評価。  \n結果：28％にあたる148名が確実なCAA基準を満たしたが、認知機能の初期状態や経過に有意差はなかった。一方で、確実なCAA群は皮質アミロイドPETの取り込みが高く、CSF Aβ42低値と葉状CMB負荷の関連が示された。  \n結論：確実なCAAの診断はAD連続体内でより高度なアミロイド蓄積を反映するが、臨床的に明確に異なるサブグループを示すわけではない。皮質表層鉄沈着や高い葉状CMB負荷に着目したマーカー特異的評価が今後有用と考えられる。",
+      "summary_short_ja": "アルツハイマー病（AD）連続体の記憶クリニック患者533名中、28％がボストン基準v2.0による確定的脳アミロイド血管症（CAA）と診断された。確定的CAAの有無で臨床症状や認知機能低下の経過に差はなく、確定的CAA群は皮質アミロイドPETの取り込みが高く、脳出血マイクロブリードとCSF Aβ42低値の関連が示された。確定的CAAは臨床的に異なるサブグループを示すより、アミロイド負荷の増加を反映すると考えられる。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43019493",
+      "doi": "10.1212/WNL.0000000000218684",
+      "title": "When Systems Talk-Measuring Neurology Care in the Digital Era: Emerging Issues in Neurology.",
+      "abstract": "Neurology is entering a decade in which rapid growth in diagnostic technologies, data streams, and care delivery models collides with persistent fragmentation of neurologic information across electronic health records, imaging systems, and remote monitoring platforms. As these data sources proliferate, interoperability has emerged as a foundational requirement for high-quality neurologic care. The current landscape limits longitudinal understanding of disease trajectories, impedes care transitions, burdens quality measurement, and constrains research. This article articulates the current and future challenges of interoperability for neurology by characterizing the current state of interoperability; surveying relevant national standards and platforms; identifying key technical, semantic, and organizational barriers; and proposing future goals for improving interoperable neurologic care. Part and parcel of these challenges and goals are the evolving regulatory and policy frameworks, including the Trusted Exchange Framework and Common Agreement, provisions of the 21st Century Cures Act, and federal interoperability rules that mandate standardized, Fast Healthcare Interoperability Resources (FHIR)-based application programming interfaces (APIs), and a common data foundation such as the United States Core Data for Interoperability Version-3 (USCDI v3). In parallel, Centers for Medicare & Medicaid Services (CMS) initiatives have accelerated the transition to digital quality measures (dQMs), increasing the need for automated, multisource, standards-based data exchange aligned with real-time quality improvement. Using hypothetical use cases in vascular and behavioral neurology, we demonstrate how FHIR-based implementation guides could replace manual stroke quality reporting and enable the migration of cognitive assessment measures from legacy electronic clinical quality measures (eCQMs) to interoperable FHIR eCQMs, laying the groundwork for future dQMs. These examples highlight the potential of shared terminologies, structured neurologic observations, and API-enabled exchange, while underscoring persistent challenges, including limited availability of discrete neurologic data elements and the substantial effort required for mapping and governance. As the neurology ecosystem prepares for USCDI-aligned interoperability mandates taking effect in 2026, the neurology community plays a critical leadership role. Priorities include expanding neurologic data models and terminologies, ensuring that dQMs reflect clinical realities, strengthening governance across registries and networks, and enabling interoperable workflows that support remote monitoring and AI-enabled analytics. Together, these strategies position interoperability as a strategic imperative for the future of neurologic care, quality measurement, and research.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019493/",
+      "summary_ja": "背景：神経学分野では、診断技術やデータ収集手段の急速な発展に対し、電子カルテや画像システム、遠隔モニタリングなどにおける情報の断片化が続いている。これにより、疾患経過の長期的把握やケアの連携、質の評価、研究が妨げられている。  \n方法：現状の相互運用性（interoperability）を評価し、国内の標準規格やプラットフォームを調査。技術的・意味論的・組織的障壁を特定し、将来的な改善目標を提案した。さらに、米国の規制枠組み（Trusted Exchange Frameworkや21st Century Cures Actなど）やCMSのデジタル品質指標（dQMs）推進施策を踏まえ、FHIRベースのAPI活用例を仮想ケースで示した。  \n結果：FHIR実装ガイドにより、手動の脳卒中質評価報告の自動化や認知機能評価の電子臨床品質指標（eCQMs）への移行が可能となり、将来のdQMs基盤を構築できることを示した。一方で、神経学的データ要素の不足やマッピング・ガバナンスの負担が依然課題である。  \n結論：2026年施行予定のUSCDI準拠相互運用性義務に向け、神経学コミュニティはデータモデル・用語の拡充、臨床現場に即したdQMsの整備、レジストリ間のガバナンス強化、遠隔モニタリングやAI解析を支えるワークフローの実現を優先すべきである。これらにより、神経学ケアの質向上と研究推進のための戦略的基盤が確立される。",
+      "summary_short_ja": "神経学分野では、診断技術やデータ流通の急速な拡大に対し、電子カルテや画像システム間の情報断片化が課題となっている。高品質な神経ケアには相互運用性が不可欠であり、FHIRベースの標準化APIやUSCDI v3などの規制枠組みが推進されている。具体例として、脳卒中や認知評価のデジタル化が示され、データモデル拡充やガバナンス強化が今後の重要課題とされる。",
+      "disease": "stroke",
+      "section": "diagnosis"
+    }
+  ]
+}

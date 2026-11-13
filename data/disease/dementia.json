@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43019495",
+      "doi": "10.1212/WNL.0000000000218738",
+      "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",
+      "abstract": "Cerebral amyloid angiopathy (CAA) frequently co-occurs with Alzheimer disease (AD), yet the prevalence and clinical significance of comorbid CAA among cognitively impaired individuals on the AD continuum remain unclear. We aimed to determine the frequency of probable CAA (Boston criteria v2.0) in a memory-clinic cohort of symptomatic amyloid-positive individuals and to compare demographic, clinical, cognitive, and biomarker profiles between those with and without comorbid probable CAA. We conducted a retrospective cohort study at the Geneva Memory Center including amyloid-positive patients confirmed by CSF or amyloid PET. Participants meeting the Boston criteria v2.0 for probable CAA were classified as AD-probable CAA, whereas those with possible or no CAA were classified as AD-nonprobable CAA. Group differences were assessed using standard parametric and nonparametric tests, linear mixed-effects models for cognitive trajectories, logistic regression for cerebral microbleed (CMB)-CSF biomarker associations, and voxel-wise Statistical Parametric Mapping for regional amyloid PET differences. Among 533 participants (mean age 73.8 ± 6.7 years, 59% female), 148 (28%) met criteria for probable CAA. Demographic characteristics, baseline cognition (mini-mental state examination: rank-biserial  More than one-quarter of amyloid-positive patients fulfilled the Boston criteria v2.0 for probable CAA. Probable CAA was not associated with a distinct clinical presentation or trajectory of cognitive decline. Higher cortical amyloid PET uptake in probable CAA and the association of lower CSF Aβ42 with lobar CMB burden suggest more prominent cerebral amyloidosis in this population. The binary probable CAA label may therefore reflect greater amyloid burden without necessarily delineating a clinically distinct subgroup within the AD continuum. Marker-specific approaches targeting cortical superficial siderosis and high lobar CMB burden may prove more informative.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019495/",
+      "summary_ja": "背景：アルツハイマー病（AD）と脳アミロイド血管症（CAA）はしばしば併存するが、AD連続体にある認知障害者におけるCAAの有病率や臨床的意義は不明である。  \n方法：ジェネーブ記憶センターのアミロイド陽性患者533名（平均年齢73.8歳）を対象に、CSFまたはアミロイドPETで確認された症例を後ろ向きに解析。Boston基準v2.0により「確実なCAA（probable CAA）」群とそれ以外に分類し、人口統計学的特徴、認知機能、バイオマーカーを比較した。認知経過は線形混合効果モデル、脳微小出血（CMB）とCSFバイオマーカーの関連はロジスティック回帰、アミロイドPETの局所差異はボクセル単位の統計マッピングで評価。  \n結果：28％にあたる148名が確実なCAA基準を満たしたが、認知機能の初期状態や経過に有意差はなかった。一方で、確実なCAA群は皮質アミロイドPETの取り込みが高く、CSF Aβ42低値と葉状CMB負荷の関連が示された。  \n結論：確実なCAAの診断はAD連続体内でより高度なアミロイド蓄積を反映するが、臨床的に明確に異なるサブグループを示すわけではない。皮質表層鉄沈着や高い葉状CMB負荷に着目したマーカー特異的評価が今後有用と考えられる。",
+      "summary_short_ja": "アルツハイマー病（AD）連続体の記憶クリニック患者533名中、28％がボストン基準v2.0による確定的脳アミロイド血管症（CAA）と診断された。確定的CAAの有無で臨床症状や認知機能低下の経過に差はなく、確定的CAA群は皮質アミロイドPETの取り込みが高く、脳出血マイクロブリードとCSF Aβ42低値の関連が示された。確定的CAAは臨床的に異なるサブグループを示すより、アミロイド負荷の増加を反映すると考えられる。",
+      "disease": "dementia",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43013788",
       "doi": "10.1212/WNL.0000000000218686",
       "title": "Plasma P-Tau217 as a Prognostic, Monitoring, and Risk-Stratification Biomarker of Clinical Progression in Lewy Body Disease.",
