@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43038492",
+      "doi": "10.1212/WNL.0000000000218712",
+      "title": "Expanding Amyotrophic Lateral Sclerosis Genetic Spectrum via Systematic Screening of Adult-Onset Neurologic Disease Genes.",
+      "abstract": "Emerging evidence indicates that amyotrophic lateral sclerosis (ALS) shares genetic architecture with other neurologic disorders, whose causal variants may be overlooked by targeted sequencing. Here, we evaluated the occurrence of pathogenic variants in genes linked to adult-onset neurologic disorders among individuals with ALS. Short-read WGS was performed in retrospectively collected ALS (Gold Coast criteria) and primary lateral sclerosis (PLS) (consensus diagnostic criteria) patients consecutively recruited at an Italian tertiary referral center (2013-2023), extensively phenotyped to exclude mimics. Pathogenic or likely pathogenic single-nucleotide variants/indels (American College of Medical Genetics and Genomics guidelines) and short tandem repeat expansions across 453 genes, including established ALS genes and other neurodegenerative disease genes, were systematically screened and validated.  A total of 856 patients with ALS and PLS (median age at onset 61.8 years, 38.5% women) were enrolled. Among them, 168 (19.6%) carried pathogenic or likely pathogenic variants or short tandem repeat expansions in genes associated with adult-onset neurologic disorders, mostly autosomal dominant. Of these, 41 (4.8% of the cohort) harbored variants in non-ALS/frontotemporal dementia (FTD) genes (ataxias, neuropathies, myopathies, movement disorders, mitochondrial diseases, and hereditary spastic paraplegia [HSP]). Repeat expansions accounted for 11.9% of cases, while 0.6% carried both sequence variants and repeat expansions. Family history of ALS/FTD ( Although the absence of a control cohort limits assessment of variant enrichment, the identification of pathogenic or likely pathogenic variants in genes associated with adult-onset neurologic disorders other than ALS/FTD in patients with ALS supports the inclusion of broader gene panels to advance precision medicine in ALS.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038492/",
+      "summary_ja": "背景：筋萎縮性側索硬化症（ALS）は他の神経疾患と遺伝的関連性が示唆されているが、従来のターゲットシーケンスでは見逃される病原性変異が存在する可能性がある。  \n方法：イタリアの三次医療機関で2013～2023年に収集したALSおよび原発性側索硬化症（PLS）患者856名（中央値発症年齢61.8歳、女性38.5%）を対象に、成人発症神経疾患関連453遺伝子の全ゲノム短リードシーケンスを実施。病原性または可能性の高い単一ヌクレオチド変異、インデル、短鎖反復配列拡大を系統的に検出・検証した。  \n結果：対象の19.6%（168名）が成人発症神経疾患関連遺伝子に病原性変異を保有し、そのうち4.8%（41名）はALS/前頭側頭葉認知症以外の遺伝子（運動失調、神経障害、筋疾患、運動障害、ミトコンドリア病、遺伝性痙性対麻痺など）に変異を認めた。繰り返し配列拡大は11.9%を占め、0.6%は配列変異と繰り返し拡大の両方を有していた。  \n結論：ALS患者においてALS/FTD以外の成人発症神経疾患関連遺伝子の病原性変異を検出したことは、ALSの遺伝子解析においてより広範な遺伝子パネルの導入が精密医療推進に有用であることを示唆する。",
+      "summary_short_ja": "本研究は、筋萎縮性側索硬化症（ALS）患者856名を対象に、成人発症神経疾患関連453遺伝子の病原性変異を全ゲノム解析で網羅的に調査した。約19.6%が病原性または疑いのある変異を保有し、そのうち4.8%はALS/前頭側頭型認知症以外の神経疾患遺伝子に関連していた。これにより、ALSの遺伝的多様性が拡大し、より広範な遺伝子パネルの活用が精密医療推進に有用であることが示唆された。",
+      "disease": "als",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42947290",
       "doi": "10.1111/j.1468-1331.2011.03616.x",
       "title": "Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",

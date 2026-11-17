@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43038491",
+      "doi": "10.1212/WNL.0000000000218702",
+      "title": "The Burden of Neurologic Disorders in Canada, 1990-2023: A Systematic Analysis in the Global Burden of Disease Study 2023.",
+      "abstract": "Neurologic disorders are leading contributors to global disability and mortality, yet Canada-specific burden estimates have not been updated with the most recent Global Burden of Disease (GBD) data. We aimed to quantify the burden of 18 neurologic conditions in Canada in 2023, characterize trends from 1990 to 2023, describe age-specific and sex-specific patterns, and compare Canada with the high-income country average. This retrospective epidemiologic modeling study analyzed GBD 2023 data for Canada. Eighteen conditions whose primary health loss manifestation directly affects the central or peripheral nervous system were included. Outcome measures included prevalence, mortality, and disability-adjusted life years (DALYs) comprising years lived with disability (YLDs) and years of life lost (YLL). Age-standardized rates are all per 100,000 population. 95% uncertainty intervals (UI) are reported for all estimates. Modeling evaluated the entire Canadian population across 34 years. In 2023, neurologic disorders accounted for 11.48% (UI: 9.47-14.26) of total DALYs and 16.31% (UI: 10.56-26.24) of deaths. Burden was heavily driven by nonfatal disability metrics (YLDs); Alzheimer disease and other dementias led absolute DALYs at 366,548.5 (UI: 180,491.8-710,281.4), followed by migraine at 232,619.5 (UI: 151,390.4-320,391.1) and ischemic stroke at 223,748.0 (UI: 194,981.3-249,309.6). Migraine led age-standardized DALY rates at 565.8 (UI: 374.0-783.1) per 100,000, driven entirely by nonfatal disability metrics. Dementias drove mortality with 20,108.6 (UI: 4,999.6-50,266.6) deaths. From 1990 to 2023, the steepest age-standardized DALY rate increases occurred in other neurologic disorders (153.6% [UI: 129.0-185.1]), encephalitis (59.2% [UI: 25.1-95.6]), and Parkinson disease (25.4% [UI: 18.9-33.0]), while meningitis declined by 62.6% (UI: 57.4-66.9). Neurologic disorders present a substantial public health challenge in Canada, marked by widespread midlife nonfatal disability from migraine and escalating late-life neurodegeneration. Over 3 decades, the national burden shifted toward chronic neurodegenerative diseases. These findings highlight the need for national strategies to expand care capacity and address chronic disability. A key limitation of this analysis is that GBD estimates for Canada are currently restricted to the national level; because Canada is a vast, geographically and demographically diverse nation, country-wide aggregates do not elucidate critical subnational disparities.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038491/",
+      "summary_ja": "【背景】神経疾患は世界的に障害と死亡の主要因であるが、カナダにおける最新の負担推計は更新されていなかった。  \n【方法】1990年から2023年までのカナダの18種類の神経疾患について、GBD 2023データを用いた後ろ向き疫学モデル解析を実施。罹患率、死亡率、障害調整生命年（DALYs）を評価し、年齢・性別別の傾向や高所得国平均との比較を行った。  \n【結果】2023年の神経疾患によるDALYsは全体の11.48%、死亡の16.31%を占め、特にアルツハイマー病・認知症（366,548.5 DALYs）、片頭痛（232,619.5 DALYs）、虚血性脳卒中（223,748.0 DALYs）が大きな負担であった。片頭痛は非致死的障害を主因とし、認知症は死亡率を牽引。1990年以降、神経疾患全体のDALYsは増加傾向で、特に神経変性疾患が顕著に増加した。  \n【結論】カナダの神経疾患は中年期の非致死的障害と高齢期の神経変性疾患の増加により公衆衛生上の大きな課題であり、慢性障害に対応する医療体制の強化が必要である。地域差の解析が今後の課題。",
+      "summary_short_ja": "本研究は、1990年から2023年までのカナダにおける18の神経疾患の負担を最新のGBDデータで分析した。2023年には神経疾患が総DALYsの11.48%、死亡の16.31%を占め、特にアルツハイマー病や認知症、片頭痛、虚血性脳卒中が主要因であった。過去30年で神経変性疾患の負担が増加し、慢性障害対策の強化が必要とされる。一方、髄膜炎は減少傾向にある。地域差の詳細分析は今後の課題である。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43019502",
       "doi": "10.1212/WNL.0000000000218833",
       "title": "Opinion & Special Articles: Mobile Stroke Treatment Unit: A Distinctive Learning Experience in Neurology Residency.",

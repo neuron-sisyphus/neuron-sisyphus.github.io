@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43038489",
+      "doi": "10.1212/WNL.0000000000218763",
+      "title": "Identification of Type 1 and Type 2 α-Synuclein-Seeds by CSF Seed Amplification Assay in Patients With Movement Disorders.",
+      "abstract": "A novel α-synuclein (syn) seed amplification assay (synSAA) differentiates 2 types of syn-seeds in CSF: type1, associated with Lewy bodies (LBs), and type2, associated with glial-cytoplasmic inclusions, the hallmark of multiple system atrophy (MSA). However, syn-copathology extends beyond synucleinopathies, and copathologies are increasingly relevant. Different syn-seeds have been assessed in highly characterized research cohorts, but data assessing type and frequency in patients from routine clinical encounters are lacking. Hence, our objective was to determine frequency, type, and clinical association of different syn-seeds in CSF in a large cohort from a movement disorders (MDs) clinic. This cross-sectional study included consecutive patients from a MD clinic between 2009 and 2025. CSF was tested with synSAA and clinical data derived from medical records. We recruited 1,059 patients (mean age 70.5 ± 10.5 years; 38.4% female; mean disease duration 4.0 ± 4.6 years). Syn-seeds were detected in 54.2% of patients, with type1-seeds predominating (88.5%). High synSAA positivity was observed in Parkinson disease (PD) (84.7%), dementia with LB (93.4%), MSA (84.5%), isolated REM-sleep behavior disorder (iRBD) (80.0%), and normal pressure hydrocephalus (NPH) with PD (87.0%). Undetermined hypokinetic MD showed 53.7% positivity. Moderate proportions (∼25-33%) were detected in Alzheimer disease, progressive supranuclear palsy (PSP), corticobasal syndrome, and idiopathic NPH without PD, while other neurologic disorders showed 20.9% positivity. Type2-seeds were the major seed type in MSA (79.6% of syn-seeds) and minor type in PD (6.2%), PSP (9.1%), and undetermined hypokinetic MD (13.8%). Overall, type2-seeds were present in only 2.6% of non-MSA patients. Patients with type1-seeds had worse olfaction and more hallucinations. Multivariable regression identified impaired olfaction (OR = 0.67 per point increase of identified smells out of 12, higher scores indicating better olfaction) significantly associated with type1-seeds. Our results provide reference data on syn-seed frequency in routine clinical patients, demonstrating that type1-seeds indicate common underlying syn-pathology or copathology associated with hyposmia and hallucinations. Type2-seeds are specific to MSA and detection of type2-seeds outside the clinical MSA spectrum can improve diagnosis of patients with atypical presentations because our results match neuropathologic MSA studies. In vivo identification of different seed types will improve diagnosis, clinical trial stratification, and development of targeted therapies.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038489/",
+      "summary_ja": "背景：α-シヌクレイン（syn）の種（シード）には、レビー小体（LB）に関連するタイプ1と、多系統萎縮症（MSA）の特徴であるグリア細胞内封入体に関連するタイプ2がある。これらのシードは研究集団で評価されてきたが、日常臨床患者での頻度や臨床的関連性は不明であった。  \n方法：2009年から2025年までの運動障害クリニックの連続患者1,059名（平均年齢70.5歳）を対象に、脳脊髄液（CSF）を用いたα-シヌクレイン種増幅アッセイ（synSAA）を実施し、臨床データと照合した。  \n結果：患者の54.2%でシードを検出し、そのうち88.5%がタイプ1であった。パーキンソン病（PD）、レビー小体型認知症、MSA、孤立性REM睡眠行動障害などで高い陽性率を示した。MSAではタイプ2シードが79.6%を占め、他疾患では稀であった。タイプ1シード陽性患者は嗅覚障害や幻覚が多く、嗅覚低下がタイプ1シードと有意に関連した。  \n結論：タイプ1シードは共通のシヌクレイノパチーや共病理を示し、嗅覚障害や幻覚と関連する。一方、タイプ2シードはMSA特異的であり、臨床的に非典型例の診断精度向上に寄与する。異なるシードの生体内識別は診断や治療開発に有用である。",
+      "summary_short_ja": "本研究は、運動障害患者の脳脊髄液（CSF）中のα-シヌクレイン種（type1とtype2）を新規のシード増幅アッセイで検出し、その頻度と臨床関連を解析した。type1はパーキンソン病やレビー小体型認知症で多く、嗅覚障害や幻覚と関連。type2は多系統萎縮症（MSA）に特異的で、MSA以外では稀であった。これにより、異なる種の同定が診断精度向上や治療開発に寄与することが示された。",
+      "disease": "parkinson",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43013791",
       "doi": "10.1212/WNL.0000000000218704",
       "title": "Evaluation of Submandibular Gland Biopsies With Real-Time Quaking-Induced Conversion in Clinical Parkinson Disease.",

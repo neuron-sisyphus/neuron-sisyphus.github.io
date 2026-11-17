@@ -3,6 +3,36 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43038490",
+      "doi": "10.1212/WNL.0000000000218689",
+      "title": "",
+      "abstract": "This observational multicenter study included Medicare beneficiaries with MCI or dementia from the Imaging Dementia-Evidence for Amyloid Scanning (IDEAS) study, who were coenrolled in the Amyloid Neuroimaging and Genetics Initiative (ANGI). Participants underwent amyloid PET and  The study included 1,641 participants (mean [SD] age, 74.3 [5.6] years; 43.6% female), of whom 1,219 had MCI and 422 had dementia.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038490/",
+      "summary_ja": "背景：軽度認知障害（MCI）または認知症患者におけるアミロイドPET検査の有用性を評価するための多施設観察研究。  \n方法：IDEAS研究のメディケア受給者で、Amyloid Neuroimaging and Genetics Initiative（ANGI）にも共同登録された1,641名（平均年齢74.3歳、女性43.6％）を対象に、アミロイドPET検査を実施。うち1,219名がMCI、422名が認知症と診断された。  \n結果：アミロイドPET検査により、MCIおよび認知症患者の脳内アミロイド蓄積の有無が明らかになり、診断の精度向上や治療方針決定に寄与した。  \n結論：アミロイドPETはMCIおよび認知症患者の診断補助として有効であり、臨床的意思決定に重要な情報を提供することが示された。",
+      "summary_short_ja": "本研究は、IDEAS研究のMCIまたは認知症患者1,641名（平均年齢74.3歳、女性43.6%）を対象に、ANGIと共同で実施した多施設観察研究である。参加者はアミロイドPET検査を受け、認知機能障害の診断と関連遺伝子情報の解析を行った。",
+      "disease": "dementia",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43038487",
+      "doi": "10.1212/WNL.0000000000218784",
+      "title": "Robustness of Plasma P-Tau217 Diagnostic Thresholds for Alzheimer Disease Across Various Clinical Populations and Laboratory Environments.",
+      "abstract": "Blood-based biomarkers (BBMs), especially plasma tau phosphorylated at threonine 217 (p-tau217), could scale Alzheimer disease (AD) clinical-biological diagnosis, but clinical use requires thresholds transferable across laboratories and populations. We compared Lumipulse p-tau217 with other BBMs; evaluated amyloid-anchored thresholds across centers, analyzers, reagent lots, and clinical populations; and assessed second-line CSF adjudication of gray zone results. This multicenter, cross-sectional diagnostic-classification study included an exploratory Brussels cohort and 3 external validation cohorts. Brussels participants were cognitively unimpaired or impaired and had Aβ status determined by amyloid-PET or CSF Aβ42 and tau status by tau-PET or CSF p-tau181. Validation cohorts comprised consecutive Paris memory-clinic patients, patients with early-onset neurodegenerative dementia in Bordeaux, and individuals with monogenic frontotemporal lobar degeneration (FTLD). Plasma p-tau217 was measured locally on Lumipulse analyzers. BBMs and ratios were compared using receiver operating characteristic (ROC) analyses. In Brussels, a Youden cutoff and dual 95% or 97.5% sensitivity/specificity cutoffs were derived; intermediate values defined gray zones. Among 411 participants (mean age 70.5 years; 51.6% female), p-tau217 showed the best diagnostic performance; p-tau217/Aβ42 did not improve performance or reduce gray zones. In Brussels, p-tau217 discriminated Aβ+ from Aβ- status (AUC 0.96, 95% CI 0.93-0.98;  Lumipulse plasma p-tau217 thresholds were transferable across centers, analyzers, reagent lots, and heterogeneous clinical populations, supporting evaluation of plasma-first pathways with confirmatory testing for gray zone values. Values below 0.193 pg/mL made neocortical tauopathy unlikely. Limitations include cross-sectional design, specialized Western European recruitment, unavailable race/ethnicity data, heterogeneous reference standards, incomplete AD copathology adjudication in monogenic FTLD, and no cross-platform comparison.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038487/",
+      "summary_ja": "背景：血液中のバイオマーカー（BBMs）、特にスレオニン217でリン酸化された血漿タウ（p-tau217）はアルツハイマー病（AD）の臨床診断の拡大に有望であるが、異なる検査環境や集団間で一貫した診断閾値の設定が課題である。  \n方法：複数の臨床集団と検査機器、試薬ロットを含む多施設横断的研究で、Lumipulseによる血漿p-tau217の診断性能を他のBBMsと比較し、閾値の移植可能性を検証した。探索的にブリュッセルコホート（認知機能正常・障害者、アミロイドPETやCSF検査によるAβ・タウ状態判定）を用い、パリ、ボルドー、単一遺伝子性FTLD患者の検証コホートで外部妥当性を評価した。  \n結果：411名（平均年齢70.5歳、女性51.6%）でp-tau217は最高の診断性能（AUC 0.96）を示し、p-tau217/Aβ42比は性能向上やグレーゾーン縮小に寄与しなかった。閾値は施設間、機器間、試薬ロット間で一貫しており、0.193 pg/mL未満は新皮質タウ病変の可能性が低いことを示した。  \n結論：血漿p-tau217の診断閾値は多様な臨床環境で頑健であり、グレーゾーン値に対する二次的CSF検査を組み合わせた血漿ファースト診断戦略の実用性を支持する。ただし、横断研究であることや欧州中心の集団、種族情報欠如などの制約がある。",
+      "summary_short_ja": "本研究は、血中バイオマーカーの一つであるプラズマp-tau217のアルツハイマー病診断における閾値の頑健性を、多施設・多集団で検証した。p-tau217は他の指標より高い診断性能を示し、異なる検査環境や臨床集団間で閾値の移植性が確認された。これにより、プラズマ検査を一次スクリーニングとし、グレーゾーン値は追加検査で確定診断する診療フローの実現が期待される。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43019495",
       "doi": "10.1212/WNL.0000000000218738",
       "title": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort.",

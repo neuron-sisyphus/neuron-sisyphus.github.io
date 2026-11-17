@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43038493",
+      "doi": "10.1212/WNL.0000000000218737",
+      "title": "Frequency-Specific Thalamocortical Network Dynamics During Focal Seizures in Humans.",
+      "abstract": "The thalamus is an emerging neuromodulation target in drug-resistant focal epilepsy because of its frequent ictal involvement. However, frequency-specific and directional thalamocortical dynamics remain poorly understood. We sought to characterize thalamocortical network dynamics across seizure evolution using stereoelectroencephalography (SEEG). We retrospectively analyzed SEEG recordings from patients with pediatric-onset drug-resistant focal epilepsy with simultaneous cortical and thalamic sampling focusing on the anterior nucleus (AN) and centromedian nucleus (CM). We applied visual analysis with quantitative measures of spectral power, imaginary coherence, and spectral Granger causality across slow (1-12 Hz), β (13-30 Hz), and γ (30-70 Hz) bands to quantify thalamocortical and cortico-cortical interactions from seizure onset to termination. Random forest models were trained to classify seizure state using thalamic EEG features as an exploratory analysis. The final cohort comprised 19 patients (median age, 16.9 years; 31.6% female), with 66 focal seizures analyzed. Thalamic ictal activity was present at seizure onset in 81% of sampled thalamic contacts and became nearly universal by seizure termination. Both the thalamus and seizure onset zone showed increased spectral power during seizures, with prominent slow-band augmentation at seizure termination in the thalamus. Similarly, thalamocortical imaginary coherence increased during seizures, with the largest changes near seizure termination in the slow band (AN-SOZ: 11% [IQR, 2 to 20], rank-biserial correlations (rrb) = 0.84; CM-SOZ: 12% [IQR, 3 to 23], rrb = 0.84) and β band (AN-SOZ: 5% [IQR, 0 to 12], rrb = 0.74; CM-SOZ: 8% [IQR, 2 to 15], rrb = 0.86). Directed connectivity analyses demonstrated bidirectional thalamocortical interactions, with large slow-frequency thalamus-to-SOZ outflow near seizure termination from both AN and CM, exceeding propagation-zone-to-SOZ cortico-cortical flow (both  Human focal seizures engage frequency-specific and bidirectional thalamocortical interactions that evolve from onset to termination. These findings support the thalamus as a source of clinically relevant seizure-state information and may inform thalamic biomarker development for neuromodulation in drug-resistant epilepsy.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038493/",
+      "summary_ja": "背景：薬物抵抗性の局所てんかんにおいて、視床は発作時に頻繁に関与するため神経調節の新たな標的として注目されているが、周波数特異的かつ方向性を持つ視床皮質間の動態は十分に解明されていない。  \n方法：小児発症の薬物抵抗性局所てんかん患者19名（中央値年齢16.9歳）から、視床（前核・中心中間核）と皮質の同時ステレオ脳波（SEEG）記録66発作を後ろ向きに解析。1-12Hz（低周波）、β帯（13-30Hz）、γ帯（30-70Hz）におけるスペクトルパワー、虚数コヒーレンス、スペクトルグレンジャー因果性を用いて発作開始から終了までの視床皮質間および皮質間相互作用を定量化。視床EEG特徴を用いたランダムフォレストモデルで発作状態分類も試行。  \n結果：発作開始時に81%の視床電極で発作活動を検出し、発作終了時にはほぼ全例で視床活動が認められた。視床と発作開始領域は発作中にスペクトルパワーが増加し、特に視床では発作終了時に低周波帯の増強が顕著。視床皮質間の虚数コヒーレンスも発作中に増加し、特に低周波とβ帯で発作終了近くに最大となった。因果性解析では、発作終了時に視床から発作開始領域への双方向の遅い周波数帯の情報流出が強く、皮質間の伝播を上回った。  \n結論：ヒトの局所てんかん発作は周波数特異的かつ双方向の視床皮質ネットワーク動態を示し、発作の進展に伴い変化する。これらの知見は視床が臨床的に重要な発作状態情報源であることを示し、薬物抵抗性てんかんに対する視床を標的とした神経調節のバイオマーカー開発に資すると期待される。",
+      "summary_short_ja": "薬物抵抗性局所てんかん患者の脳内記録を解析し、発作時の視床と皮質間の周波数特異的かつ双方向のネットワーク動態を明らかにした。発作開始時から視床活動が高まり、特に低周波帯で発作終結時に顕著な増強が認められた。視床から発作開始領域への情報流が強く、視床が発作状態の重要な情報源であることを示す。これらは視床を標的とした神経調節のバイオマーカー開発に寄与する。",
+      "disease": "epilepsy",
+      "section": "imaging"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43013790",
       "doi": "10.1212/WNL.0000000000218768",
       "title": "Clinical Risk Factors for Suicide in Persons With Epilepsy: A Nationwide Population-Based Case-Control Study.",
