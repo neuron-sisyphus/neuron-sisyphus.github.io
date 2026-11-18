@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43044079",
+      "doi": "10.1212/WNL.0000000000218751",
+      "title": "Validation of the BASED Score as a Prognostic Biomarker for Refractory Epilepsy Following Treatment of Infantile Epileptic Spasms Syndrome.",
+      "abstract": "Refractory epilepsy is common among children with a history of infantile epileptic spasms syndrome (IESS), yet no validated prognostic biomarkers exist to guide early risk stratification. The Burden of Amplitudes and Epileptiform Discharges (BASED) score is an interictal EEG rating scale for children with IESS, with scores of 4 or 5 suggesting epileptic encephalopathy. The objective of this study was to determine whether a post-treatment BASED score of 4/5 is a prognostic biomarker for refractory epilepsy after IESS treatment. This retrospective validation study of children with IESS was conducted at a Level 4 pediatric epilepsy center. Children with tuberous sclerosis complex (TSC) were excluded. Three blinded reviewers assigned 2021 BASED scores to full-length post-treatment EEGs. Refractory epilepsy was defined as persistent seizures despite treatment with at least 2 antiseizure medications or completion of epilepsy surgery. Prespecified performance benchmarks for BASED 4/5 as a rule-in test required ≥80% specificity and a positive likelihood ratio of ≥4. The cohort included 123 children (42.3% female), with a median first treatment age of 8.0 months (IQR 5.9-10.3) and follow-up duration after first treatment of 58.8 months (IQR 42.2-80.7). Only 11.4% had a favorable etiology. EEGs (median 19 hours) were completed at a median of 47 days (32-72) after starting treatment. The inter-rater agreement for epileptic encephalopathy was excellent (κ Study limitations include the single-center design, exclusion of children with TSC, variable EEG timing, and shorter follow-up in some children. Nevertheless, in this independent validation cohort, a post-treatment BASED 4/5 demonstrated favorable prognostic performance consistent with its proposed use as a rule-in test for refractory epilepsy. These findings support a post-treatment BASED score of 4/5 as a prognostic biomarker for refractory epilepsy after IESS treatment.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044079/",
+      "summary_ja": "背景：乳児てんかんけいれん症候群（IESS）治療後の難治性てんかんは小児で多いが、早期リスク層別化に有用な予後バイオマーカーは未確立である。BASEDスコアはIESS児の発作間期脳波評価尺度で、4または5はてんかん性脳症を示唆する。  \n方法：単施設の後ろ向き検証研究で、結節性硬化症を除くIESS患児123名（中央値初回治療8か月）を対象に、治療後脳波（中央値47日後）に3名の盲検評価者が2021年のBASEDスコアを付与。難治性てんかんは2剤以上の抗てんかん薬治療や手術後も発作持続と定義。BASED4/5の特異度80%以上、陽性的中比4以上をルールイン検査の基準とした。  \n結果：評価者間一致度は極めて良好で、BASEDスコア4/5は難治性てんかんの予後バイオマーカーとして良好な特異度と陽性的中比を示した。  \n結論：治療後のBASEDスコア4/5はIESS治療後の難治性てんかんを予測する有用なバイオマーカーであり、早期リスク評価に活用可能である。単施設・TSC除外などの限界はあるが、独立した検証コホートでの結果は信頼性を支持する。",
+      "summary_short_ja": "乳児てんかんけいれん症候群（IESS）治療後の難治性てんかん予測に、BASEDスコア（4または5）が有用か検証した。123例の治療後EEGを評価し、BASED 4/5は高い特異度（≥80％）と陽性的中比（≥4）を示し、難治性てんかんのルールインバイオマーカーとして有望であった。単施設かつTSC除外などの制約はあるが、IESS後の難治性てんかん予測にBASEDスコアの活用を支持する結果である。",
+      "disease": "epilepsy",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43038493",
       "doi": "10.1212/WNL.0000000000218737",
       "title": "Frequency-Specific Thalamocortical Network Dynamics During Focal Seizures in Humans.",
