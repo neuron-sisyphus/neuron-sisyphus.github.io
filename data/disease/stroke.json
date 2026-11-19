@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43050638",
+      "doi": "10.1212/WNL.0000000000218752",
+      "title": "The Combined Effect of Migraine and Smoking on Premature Stroke and All-Cause Mortality in Parous Women: A Population-Based Cohort Study.",
+      "abstract": "Migraine and smoking are established stroke risk factors. We examined the individual and combined effects of migraine and smoking on risk of premature stroke (age 60 years or younger) and all-cause mortality in women and evaluated additive interaction. We conducted a population-based cohort study using nationwide Danish health registries (1996-2022). Women aged 15-60 years giving birth during 1996-2022 were identified through the Danish Medical Birth Registry and categorized as having migraine, smoking, both exposures, or neither (reference). Participants were followed until stroke, death, emigration, 61st birthday, or December 31, 2022. Outcomes were ischemic stroke, hemorrhagic stroke, and all-cause mortality. Absolute risks (ARs), adjusted hazard ratios (HRs), and relative excess risk due to interaction (RERI) were estimated. Among 1,677,707 women (median age 29-32 years across exposure groups), the 20-year AR of premature ischemic stroke was 0.8% in the reference cohort (n = 1,389,361), 1.3% with migraine (n = 65,422), 1.5% with smoking (n = 214,277), and 2.8% with both exposures (n = 8,647). ARs of premature hemorrhagic stroke were 0.3%, 0.5%, 0.6%, and 0.9%. All-cause mortality ARs were 1.0%, 1.2%, 2.3%, and 3.4%. Compared with the reference cohort, adjusted HRs for premature ischemic stroke were 1.85 (95% CI 1.66-2.05) for migraine, 2.10 (95% CI 1.99-2.20) for smoking, and 3.61 (95% CI 3.03-4.31) for both exposures. HRs for premature hemorrhagic stroke were 1.46 (95% CI 1.23-1.74), 2.02 (95% CI 1.87-2.18), and 2.60 (95% CI 1.91-3.54). For all-cause mortality, HRs were 1.08 (95% CI 0.96-1.22), 2.44 (95% CI 2.34-2.54), and 3.30 (95% CI 2.80-3.88). The 20-year RERI was 0.67 (95% CI 0.22-1.13) for ischemic stroke, 0.11 (95% CI -0.59-0.82) for hemorrhagic stroke, and 0.78 (95% CI 0.34-1.22) for mortality. Migraine and smoking were associated with elevated risk of premature stroke, and mortality risk was increased among women who smoked regardless of migraine status. Additive interaction indicated excess risk of ischemic stroke and all-cause mortality among women with migraine who smoked. These findings support targeted cessation strategies to reduce premature vascular events and mortality.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050638/",
+      "summary_ja": "背景：片頭痛と喫煙は脳卒中のリスク因子として知られているが、これらの個別および併存による若年女性の早期脳卒中および全死亡リスクへの影響は不明であった。  \n方法：デンマークの全国健康登録を用い、1996～2022年に出産した15～60歳の女性約167万人を対象に、片頭痛、喫煙、両者、非曝露群に分類し、早期（60歳以下）虚血性・出血性脳卒中および全死亡の発生を追跡。絶対リスク（AR）、調整ハザード比（HR）、相加的相互作用（RERI）を算出した。  \n結果：20年間の早期虚血性脳卒中ARは非曝露群0.8%、片頭痛群1.3%、喫煙群1.5%、両曝露群2.8%。調整HRは片頭痛1.85、喫煙2.10、両曝露3.61であった。出血性脳卒中および全死亡でも同様にリスク増加が認められ、特に喫煙者の死亡リスクは高かった。虚血性脳卒中と全死亡において、片頭痛と喫煙の相加的相互作用が示された。  \n結論：片頭痛と喫煙は若年女性の早期脳卒中リスクを増加させ、喫煙は死亡リスクを著しく高める。片頭痛を有する女性の禁煙促進が早期血管イベントおよび死亡予防に重要である。",
+      "summary_short_ja": "本研究は、出産経験のある女性を対象に偏頭痛と喫煙の単独および併存が60歳以下の早期脳卒中および全死亡率に与える影響を検討した。デンマークの全国健康登録を用いた結果、偏頭痛と喫煙の併存群は単独群よりも早期虚血性脳卒中や死亡リスクが有意に高く、特に虚血性脳卒中と全死亡において相加的相互作用が認められた。禁煙対策の重要性を示唆する結果である。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43038491",
       "doi": "10.1212/WNL.0000000000218702",
       "title": "The Burden of Neurologic Disorders in Canada, 1990-2023: A Systematic Analysis in the Global Burden of Disease Study 2023.",

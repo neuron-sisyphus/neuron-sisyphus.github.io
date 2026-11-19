@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-19",
+  "items": [
+    {
+      "source": "pubmed",
+      "pmid": "43050643",
+      "doi": "10.1212/WNL.0000000000218828",
+      "title": "Pearls & Oy-sters: Reversible Rapidly Progressive Dementia Associated With ASIA Syndrome Secondary to Silicone Implants.",
+      "abstract": "A 33-year-old woman with a medical history of polycystic ovary syndrome on combined oral contraceptive pills, insulin resistance, and bilateral silicone breast implants (SBIs) placed 10 years prior presented with a 2-month history of intermittent myoclonic jerks involving the head, trunk, and lower limbs; polyarthralgia; and cognitive and functional decline (compared with being previously independent in her activities of daily living). Family history was significant for epilepsy in her mother and 2 brothers. Neurologic examination revealed disorientation, significantly impaired short-term recall, visuospatial memory impairment, and a limited attention span. Her speech was characterized by frequent paraphasic errors and anomia; she also exhibited mild gait ataxia. Diagnostic studies ruled out common autoimmune diseases. Brain MRI and electroencephalography revealed no abnormalities, and CSF analysis was normal. Genetic testing for inherited prion disease and Huntington disease was negative, and serum and urinary copper levels were unremarkable. As part of a paraneoplastic workup, breast MRI revealed intracapsular rupture of both SBIs. The implants were surgically removed with complete capsulectomy. The patient's symptoms resolved completely by the seventh postoperative day. At the 6-month follow-up, she remained asymptomatic and had returned to her baseline functional status. Given the temporal association between implant rupture, explantation, and symptom resolution, the presentation was considered most consistent with a case of reversible rapidly progressive dementia secondary to the autoimmune/inflammatory syndrome induced by adjuvants.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050643/",
+      "summary_ja": "背景：33歳女性が、10年前に挿入した両側シリコン乳房インプラント（SBI）の破損に伴い、2か月間の断続的なミオクローヌス、多関節痛、認知・機能障害を呈した。家族歴にててんかんが認められたが、一般的な自己免疫疾患や遺伝性疾患は除外された。  \n方法：神経学的検査、脳MRI、脳波、髄液検査、遺伝子検査、銅代謝検査を実施し、悪性腫瘍の除外目的で乳房MRIを行った。乳房MRIで両側SBIの被膜内破裂を確認し、完全被膜切除術を施行した。  \n結果：手術後7日目には症状が完全に消失し、6か月後のフォローアップでも症状は再発せず、日常生活機能は基準状態に回復した。  \n結論：SBIの破損によるアジュバント誘発性自己免疫炎症症候群（ASIA症候群）が、可逆的な急速進行性認知症の原因と考えられ、インプラント除去が有効であった。",
+      "summary_short_ja": "33歳女性が両側シリコン乳房インプラントの破損に伴う自己免疫性炎症症候群（ASIA）により、急速進行性認知症やミオクローヌス、関節痛を発症。一般的な自己免疫疾患や遺伝性疾患は否定され、乳房MRIでインプラント破損を確認。インプラント摘出手術後、症状は完全に消失し、6ヶ月後も正常機能を維持。ASIA症候群による可逆的認知症の一例とされた。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43050640",
+      "doi": "10.1212/WNL.0000000000218765",
+      "title": "Statins for the Prevention of Dementia Among Older Male United States Veterans: A Target Trial Emulation.",
+      "abstract": "Several observational studies have reported a lower risk of dementia in statin users compared with nonusers, but these findings may be susceptible to bias. Whether statins prevent dementia would ideally be studied in a large, randomized trial that includes older adults followed for a long follow-up period. In the absence of such a trial, we can explicitly emulate a target trial of statins and risk of dementia using observational data. Using electronic health records from the US Department of Veterans Affairs, we emulated a target trial of statin therapy and 10-year risk of dementia. Eligible individuals were men aged 60 years or older with no history of dementia, cardiovascular disease, chronic renal disease, diabetes, or statin use in the past year. The treatment strategies to be compared were initiation of any statin and continuation over follow-up (until the development of a contraindication or serious health condition) vs no statin initiation. The outcome of interest was diagnosis of any dementia. Risks were estimated through a pooled logistic regression model adjusted for baseline and time-varying covariates. A total of 81,599 statin initiators and 843,615 noninitiators were eligible for this study. The median age (interquartile range) was 64.3 years (61.2-70.3), and 11.7% were Black. The estimated 10-year dementia risks were 9.4% (95% CI 8.5-9.9) for statins and 9.6% (95% CI 8.9-10.3) for no statins. The corresponding risk difference was -0.2% (95% CI -0.9 to 0.4), and the risk ratio was 0.98 (95% CI 0.89-1.15). Estimates were similar within subgroups defined at baseline according to age, race, and frailty status based on deficit accumulation. Although the possibility of unmeasured confounding or misclassification cannot be entirely excluded, as in any observational study, this study involving a nationwide cohort of older male US veterans without prior cardiovascular disease suggests that statin therapy does not meaningfully influence dementia incidence over 10 years. Per American Academy of Neurology Class of Evidence Classification, this study provides Class III evidence that statins do not reduce the incidence of dementia in men aged 60 years or older.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050640/",
+      "summary_ja": "背景：スタチン使用者は認知症リスクが低いとする観察研究があるが、バイアスの可能性が指摘されている。理想的には大規模無作為化試験で検証すべきだが、現状は観察データを用いたターゲットトライアルの模倣が代替手段となる。  \n方法：米国退役軍人省の電子健康記録を用い、60歳以上の男性で認知症や心血管疾患、糖尿病などの既往がなく、過去1年にスタチン未使用の81,599人のスタチン開始者と843,615人の非開始者を対象に、スタチン開始継続群と非開始群の10年間の認知症発症リスクを比較。プールロジスティック回帰モデルで調整解析を実施。  \n結果：10年後の認知症リスクはスタチン群9.4%、非スタチン群9.6%で、リスク差-0.2%、リスク比0.98と有意差なし。年齢、人種、虚弱度別のサブグループ解析でも同様の結果。  \n結論：大規模な米国退役軍人コホートにおいて、スタチン療法は10年間の認知症発症率に有意な影響を与えず、60歳以上男性の認知症予防効果は認められなかった（神経学会Class IIIエビデンス）。",
+      "summary_short_ja": "米国退役軍人の電子健康記録を用いて、60歳以上の男性におけるスタチン服用と10年間の認知症リスクを比較した観察研究を模擬的に実施した。81,599人のスタチン開始者と843,615人の非開始者で認知症発症率に有意差はなく（リスク差-0.2%、95%CI -0.9～0.4）、人種や虚弱状態別でも同様の結果であった。スタチンは認知症予防に有効でないことを示すクラスIIIの証拠を提供する。",
+      "disease": "dementia",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43050638",
+      "doi": "10.1212/WNL.0000000000218752",
+      "title": "The Combined Effect of Migraine and Smoking on Premature Stroke and All-Cause Mortality in Parous Women: A Population-Based Cohort Study.",
+      "abstract": "Migraine and smoking are established stroke risk factors. We examined the individual and combined effects of migraine and smoking on risk of premature stroke (age 60 years or younger) and all-cause mortality in women and evaluated additive interaction. We conducted a population-based cohort study using nationwide Danish health registries (1996-2022). Women aged 15-60 years giving birth during 1996-2022 were identified through the Danish Medical Birth Registry and categorized as having migraine, smoking, both exposures, or neither (reference). Participants were followed until stroke, death, emigration, 61st birthday, or December 31, 2022. Outcomes were ischemic stroke, hemorrhagic stroke, and all-cause mortality. Absolute risks (ARs), adjusted hazard ratios (HRs), and relative excess risk due to interaction (RERI) were estimated. Among 1,677,707 women (median age 29-32 years across exposure groups), the 20-year AR of premature ischemic stroke was 0.8% in the reference cohort (n = 1,389,361), 1.3% with migraine (n = 65,422), 1.5% with smoking (n = 214,277), and 2.8% with both exposures (n = 8,647). ARs of premature hemorrhagic stroke were 0.3%, 0.5%, 0.6%, and 0.9%. All-cause mortality ARs were 1.0%, 1.2%, 2.3%, and 3.4%. Compared with the reference cohort, adjusted HRs for premature ischemic stroke were 1.85 (95% CI 1.66-2.05) for migraine, 2.10 (95% CI 1.99-2.20) for smoking, and 3.61 (95% CI 3.03-4.31) for both exposures. HRs for premature hemorrhagic stroke were 1.46 (95% CI 1.23-1.74), 2.02 (95% CI 1.87-2.18), and 2.60 (95% CI 1.91-3.54). For all-cause mortality, HRs were 1.08 (95% CI 0.96-1.22), 2.44 (95% CI 2.34-2.54), and 3.30 (95% CI 2.80-3.88). The 20-year RERI was 0.67 (95% CI 0.22-1.13) for ischemic stroke, 0.11 (95% CI -0.59-0.82) for hemorrhagic stroke, and 0.78 (95% CI 0.34-1.22) for mortality. Migraine and smoking were associated with elevated risk of premature stroke, and mortality risk was increased among women who smoked regardless of migraine status. Additive interaction indicated excess risk of ischemic stroke and all-cause mortality among women with migraine who smoked. These findings support targeted cessation strategies to reduce premature vascular events and mortality.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050638/",
+      "summary_ja": "背景：片頭痛と喫煙は脳卒中のリスク因子として知られているが、これらの個別および併存による若年女性の早期脳卒中および全死亡リスクへの影響は不明であった。  \n方法：デンマークの全国健康登録を用い、1996～2022年に出産した15～60歳の女性約167万人を対象に、片頭痛、喫煙、両者、非曝露群に分類し、早期（60歳以下）虚血性・出血性脳卒中および全死亡の発生を追跡。絶対リスク（AR）、調整ハザード比（HR）、相加的相互作用（RERI）を算出した。  \n結果：20年間の早期虚血性脳卒中ARは非曝露群0.8%、片頭痛群1.3%、喫煙群1.5%、両曝露群2.8%。調整HRは片頭痛1.85、喫煙2.10、両曝露3.61であった。出血性脳卒中および全死亡でも同様にリスク増加が認められ、特に喫煙者の死亡リスクは高かった。虚血性脳卒中と全死亡において、片頭痛と喫煙の相加的相互作用が示された。  \n結論：片頭痛と喫煙は若年女性の早期脳卒中リスクを増加させ、喫煙は死亡リスクを著しく高める。片頭痛を有する女性の禁煙促進が早期血管イベントおよび死亡予防に重要である。",
+      "summary_short_ja": "本研究は、出産経験のある女性を対象に偏頭痛と喫煙の単独および併存が60歳以下の早期脳卒中および全死亡率に与える影響を検討した。デンマークの全国健康登録を用いた結果、偏頭痛と喫煙の併存群は単独群よりも早期虚血性脳卒中や死亡リスクが有意に高く、特に虚血性脳卒中と全死亡において相加的相互作用が認められた。禁煙対策の重要性を示唆する結果である。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43050637",
+      "doi": "10.1212/WNL.0000000000218764",
+      "title": "Neuropathologic Correlates of Cognitive Functions in Patients With Essential Tremor Without Dementia: Beyond the Cerebellum.",
+      "abstract": "Essential tremor (ET) is characterized not only by motor disturbances but also, in many cases, by a wide array of cognitive symptoms. Accumulating evidence implicates pathways beyond the cerebellum by which cognitive changes emerge. However, the extracerebellar neuropathologic correlates of specific cognitive symptoms have not been examined. This study evaluated these potential clinicopathologic associations in older adults with ET. Participants were adults ≥55 years with ET who were followed prospectively and longitudinally and donated their brains for neuropathologic evaluation as part of the Clinical-Pathological Study of Cognitive Impairment in Essential Tremor study. Cognitive outcomes included attention, executive function, language, memory, and visuospatial function. Postmortem neuropathologic assessment included Consortium to Establish a Registry for Alzheimer's Disease (CERAD) neuritic plaque scores, Thal β-amyloid A score, Braak and Braak neurofibrillary tangle (NFT) stage, and Braak Lewy pathology stage. Regional cerebral cortical atrophy ratings (neocortical and hippocampal), cerebral amyloid angiopathy, and markers of cerebrovascular health were also rated. Regression models examined neuropathologic correlates of cognitive function, adjusting for numerous confounders. Sensitivity analyses examined robustness of findings. The sample consisted of 57 individuals with ET and without dementia (mean age = 88.6 ± 5.4 years; 54.4% female, 71.9% cognitively normal, 28.1% with mild cognitive impairment). Higher amyloid burden was associated with lower attention (CERAD  Core pathologies of AD, amyloid and tau, are associated with decrements in attention and executive function in older adults with ET and without dementia, while hippocampal atrophy is associated with lower memory performance. These results, consistent with a growing literature on extracerebellar pathologies in ET, suggest that multidomain cognitive symptoms among older adults with ET and without dementia may be driven in large part by AD-related cortical degenerative processes. Ongoing work is examining the molecular basis of these processes. Limitations include a highly educated, demographically homogeneous, and relatively small sample, as well as a lack of a control group.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050637/",
+      "summary_ja": "背景：本態性振戦（ET）は運動障害だけでなく、多くの場合認知症状も伴い、これらの認知変化には小脳以外の経路が関与すると考えられているが、具体的な神経病理学的関連は未解明であった。  \n方法：55歳以上のET患者57名（認知症なし）を対象に、前向きかつ縦断的に追跡し、臨床的認知機能（注意、実行機能、言語、記憶、視空間機能）と死後の神経病理評価（アルツハイマー病関連病理、皮質萎縮、脳血管病変など）との関連を多変量回帰モデルで解析した。  \n結果：アルツハイマー病の主要病理であるアミロイドとタウの蓄積は注意力や実行機能の低下と関連し、海馬萎縮は記憶障害と関連した。これらは小脳以外の病理がETの認知症状に寄与することを示唆する。  \n結論：認知症を伴わない高齢ET患者の多領域認知症状は、主にアルツハイマー病関連の皮質変性過程によって引き起こされている可能性が高い。今後はこれらの分子機構の解明が期待される。なお、サンプルの偏りや対照群不在が限界である。",
+      "summary_short_ja": "本研究は、認知症を伴わない本態性振戦（ET）患者の認知機能低下と小脳外の神経病理学的変化の関連を検討した。57名の高齢ET患者を対象に、アルツハイマー病（AD）に関連するアミロイド蓄積やタウ病理が注意力や実行機能の低下と関連し、海馬萎縮は記憶障害と結びつくことを明らかにした。これらはETにおける多領域認知症状のAD関連皮質変性が主要因であることを示唆する。",
+      "disease": "dementia",
+      "section": "prognosis"
+    },
+    {
+      "source": "pubmed",
+      "pmid": "43050636",
+      "doi": "10.1212/WNL.0000000000218830",
+      "title": "Pearls & Oy-sters: Episodic Downbeat Nystagmus and Diplopia as the First Clues to Spinocerebellar Ataxia Type 6.",
+      "abstract": "Spinocerebellar ataxia 6 (SCA6) is an autosomal dominant disorder with onset typically between ages 43 and 52 years, accompanied by gait ataxia. This is the case of a woman in her 60s who presented with episodic diplopia and vertigo that progressed to downbeat nystagmus and imbalance. Although ultimately diagnosed with SCA6, she had a prolonged diagnostic course involving multiple subspecialty evaluations and slowly progressive symptoms. This case highlights the role of the cerebellum in episodic dizziness and double vision, as well as the importance of considering genetic causes in adults with unexplained oculomotor dysfunction.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050636/",
+      "summary_ja": "背景：脊髄小脳変性症6型（SCA6）は、通常43～52歳で発症し、歩行失調を伴う常染色体優性遺伝疾患である。  \n方法：60代女性が、発作性の複視とめまいを主訴に受診し、その後下向き眼振とバランス障害が進行した。複数の専門診療科での評価を経て診断に至った症例を報告した。  \n結果：症例は徐々に進行する症状を呈し、最終的にSCA6と診断された。発作性の眼症状とめまいが小脳機能障害に起因することが示唆された。  \n結論：発作性の複視やめまいを呈する成人患者では、小脳の関与を考慮し、遺伝性疾患の可能性も視野に入れた診断が重要であることを示した。",
+      "summary_short_ja": "本症例は60代女性が反復性複視とめまいを呈し、徐々に下向き眼振とバランス障害へ進行した。最終的に遺伝性の小脳性運動失調症6型（SCA6）と診断されたが、診断までに多くの専門診療を要した。小脳が反復性めまい・複視に関与することと、成人の原因不明の眼運動障害に遺伝性疾患を考慮すべき重要性を示す報告である。",
+      "disease": "hereditary_neuro",
+      "section": "diagnosis"
+    }
+  ]
+}

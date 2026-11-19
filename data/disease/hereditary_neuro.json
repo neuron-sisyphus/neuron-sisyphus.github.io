@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43050636",
+      "doi": "10.1212/WNL.0000000000218830",
+      "title": "Pearls & Oy-sters: Episodic Downbeat Nystagmus and Diplopia as the First Clues to Spinocerebellar Ataxia Type 6.",
+      "abstract": "Spinocerebellar ataxia 6 (SCA6) is an autosomal dominant disorder with onset typically between ages 43 and 52 years, accompanied by gait ataxia. This is the case of a woman in her 60s who presented with episodic diplopia and vertigo that progressed to downbeat nystagmus and imbalance. Although ultimately diagnosed with SCA6, she had a prolonged diagnostic course involving multiple subspecialty evaluations and slowly progressive symptoms. This case highlights the role of the cerebellum in episodic dizziness and double vision, as well as the importance of considering genetic causes in adults with unexplained oculomotor dysfunction.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050636/",
+      "summary_ja": "背景：脊髄小脳変性症6型（SCA6）は、通常43～52歳で発症し、歩行失調を伴う常染色体優性遺伝疾患である。  \n方法：60代女性が、発作性の複視とめまいを主訴に受診し、その後下向き眼振とバランス障害が進行した。複数の専門診療科での評価を経て診断に至った症例を報告した。  \n結果：症例は徐々に進行する症状を呈し、最終的にSCA6と診断された。発作性の眼症状とめまいが小脳機能障害に起因することが示唆された。  \n結論：発作性の複視やめまいを呈する成人患者では、小脳の関与を考慮し、遺伝性疾患の可能性も視野に入れた診断が重要であることを示した。",
+      "summary_short_ja": "本症例は60代女性が反復性複視とめまいを呈し、徐々に下向き眼振とバランス障害へ進行した。最終的に遺伝性の小脳性運動失調症6型（SCA6）と診断されたが、診断までに多くの専門診療を要した。小脳が反復性めまい・複視に関与することと、成人の原因不明の眼運動障害に遺伝性疾患を考慮すべき重要性を示す報告である。",
+      "disease": "hereditary_neuro",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41698164",
       "doi": "10.1212/WNL.0000000000214754",
       "title": "Pearls & Oy-sters: SCA27B as an Elusive Genetic Cause of Episodic Neurologic Symptoms in Later Adulthood.",
