@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43056663",
+      "doi": "10.1212/WNL.0000000000218770",
+      "title": "Risk of Idiopathic Intracranial Hypertension Following Anemia in Young Adults: A Retrospective Cohort TriNetX Database Study.",
+      "abstract": "Anemia has been associated with idiopathic intracranial hypertension (IIH) in small studies, but whether severity modulates IIH risk remains unclear. This study evaluated the hazard of incident IIH after mild, moderate, and severe anemia in young adults. Using the TriNetX Research Network (111) health care organizations), adults aged 18-50 years with persistent anemia (≥2 hemoglobin values) were stratified as mild (11.0-12.9 g/dL), moderate (8.0-10.9 g/dL), or severe (<8.0 g/dL) and matched 1:1 to controls (Hb ≥ 13.0 g/dL) by propensity score matching on demographics, body mass index, comorbidities, and socioeconomic factors. The primary outcome was incident IIH; Cox proportional hazards models estimated hazard ratios (HRs) at 6 months, 1 year, and 3 years. Sensitivity analyses applied the World Health Organization (WHO) women's mild threshold and compared patients with vs without iron supplementation. After matching, 1,240,670 mild anemia patients (mean age 29.0 ± 8.7 years, 83.4% female), 666,515 moderate (29.7 ± 8.1, 86.3% female), and 114,785 severe (31.0 ± 8.9, 75.4% female) were compared with equal-sized control cohorts. Hazard of incident IIH was elevated at every severity and time interval. At 6 months, HRs were 1.45 (95% CI 1.29-1.63), 1.61 (1.39-1.86), and 2.53 (1.82-3.52) for mild, moderate, and severe anemia. At 1 year, HRs were 1.35 (1.22-1.49), 1.33 (1.17-1.51), and 1.94 (1.46-2.58). At 3 years, HRs were 1.17 (1.08-1.26), 1.15 (1.04-1.27), and 1.40 (1.11-1.76); all estimates remained significantly elevated, although CIs overlapped across severity bands. The WHO women's threshold sensitivity yielded concordant, modestly stronger estimates (6 months: HR 1.99 [1.73-2.30]; 3 years: 1.43 [1.31-1.58]). Iron supplementation was associated with reduced IIH hazard (HR 0.75, 95% CI 0.62-0.93; n = 340,660 per group). Anemia is associated with elevated hazard of incident IIH in young adults across all severity bands. Point estimates were higher with greater anemia severity and at earlier follow-up, but CIs overlapped across severity bands, so a severity gradient could not be established. Iron supplementation was associated with reduced hazard. Findings are limited by observational design, administrative case identification, and low absolute incidence; anemia represents a potentially modifiable factor warranting evaluation in patients with papilledema.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056663/",
+      "summary_ja": "背景：若年成人における特発性頭蓋内高血圧症（IIH）と貧血の関連は小規模研究で示唆されているが、貧血の重症度がIIHリスクに与える影響は不明であった。  \n方法：TriNetXデータベースを用い、18～50歳の持続的貧血患者を軽度（Hb 11.0-12.9 g/dL）、中等度（8.0-10.9 g/dL）、重度（<8.0 g/dL）に分類し、貧血なし（Hb ≥13.0 g/dL）の対照群と1対1で傾向スコアマッチングした。主要評価項目は新規IIH発症で、6か月、1年、3年時点でハザード比（HR）を算出。鉄剤補充の影響も検討した。  \n結果：各重症度群の患者数はそれぞれ約124万、67万、11万名で、全ての重症度と期間でIIH発症リスクが有意に上昇。6か月時点のHRは軽度1.45、中等度1.61、重度2.53。鉄剤補充はIIHリスクを有意に低減（HR 0.75）した。  \n結論：若年成人の貧血は重症度にかかわらずIIH発症リスクを高め、鉄剤補充がリスク低減に寄与する可能性が示唆された。観察研究の限界はあるが、貧血は視神経乳頭浮腫患者の評価における修正可能な因子と考えられる。",
+      "summary_short_ja": "若年成人における貧血と特発性頭蓋内高血圧症（IIH）の発症リスクを後ろ向きコホート研究で検討した。軽度から重度の貧血すべてでIIHリスクが有意に上昇し、重症度が高いほどリスクも高い傾向があったが、明確な重症度依存性は示されなかった。鉄剤補充はIIHリスクを低減させる可能性が示唆された。観察研究のため因果関係は不明だが、貧血はIIHの修正可能なリスク因子として注目される。",
+      "disease": "idiopathic_intracranial_hypertension",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "41881051",
       "doi": "10.1212/WNL.0000000000214832",
       "title": "Idiopathic Intracranial Hypertension Prevalence and Hormonal Contraception: A Meta-Analysis.",

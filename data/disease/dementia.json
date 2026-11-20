@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43056657",
+      "doi": "10.1212/WNL.0000000000218786",
+      "title": "Relative Pericentral Tau Distribution in Cerebral Amyloid Angiopathy Compared With Alzheimer Disease.",
+      "abstract": "Differentiating cerebral amyloid angiopathy (CAA) from Alzheimer disease (AD) is essential for prognosis and clinical management. However, pathophysiology-based molecular biomarkers are lacking. Tau deposition may offer discriminative signals: It occurs late in primary cortices including pericentral cortex in AD but may emerge earlier and more diffusely in CAA. We investigated whether a pericentral-predominant pattern of tau deposition distinguishes CAA from AD and characterize its cortical spatial distribution and contributing factors in CAA. We consecutively enrolled healthy controls and patients with CAA and AD with amyloid (18F-florbetapir) and tau (18F-florzolotau) PET. We compared pericentral tau-PET retention (both standardized uptake value ratios [SUVRs] and regional-to-global ratios) between CAA, AD, and controls and identified optimal cutoffs differentiating CAA from AD. We validated the discriminative performance using 18F-flortaucipir tau-PET in an external cohort. We assessed correlates of tau deposition in multivariable regression analyses and analyzed hierarchical patterns of tau involvement using conditional probability analyses in CAA. The derivation cohort included 22 controls, 80 CAA, and 64 AD (mean age 60.1, 68.4, and 66.3 years; 50.0%, 38.8%, and 50.0% female). The validation cohort included 65 CAA and 19 AD (mean age 74.1 and 73.6 years; 53.8% and 68.4% female). Patients with CAA showed higher global and pericentral tau SUVRs compared with controls but lower than AD. However, pericentral-to-global tau ratios were significantly higher in CAA than AD (0.93 ± 0.07 vs 0.82 ± 0.08,  Higher pericentral-to-global tau ratio differentiates CAA from AD and may reflect spatial distribution patterns potentially influenced by both amyloid and vascular pathology.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056657/",
+      "summary_ja": "背景：脳アミロイド血管症（CAA）とアルツハイマー病（AD）は予後や治療方針の違いから鑑別が重要であるが、病態に基づく分子バイオマーカーは不足している。タウ蛋白の沈着はADでは一次皮質の後期に生じるが、CAAではより早期かつ広範に現れる可能性がある。  \n方法：健康対照群、CAA患者、AD患者を対象に、アミロイド（18F-florbetapir）およびタウ（18F-florzolotau）PET検査を実施。特に中心周囲皮質のタウ沈着（SUVRおよび局所対全体比）を比較し、CAAとADの鑑別に有効なカットオフ値を設定。外部コホートで18F-flortaucipir PETによる検証も行った。多変量回帰分析や条件付き確率分析でタウ沈着の関連因子と階層的分布を解析。  \n結果：CAA患者は対照よりも全体および中心周囲のタウSUVRが高かったが、ADよりは低かった。一方、中心周囲対全体のタウ比率はCAAで有意に高く（0.93±0.07 vs 0.82±0.08）、この比率がCAAとADの鑑別に有用であることが示された。  \n結論：中心周囲皮質における相対的なタウ沈着の分布パターンはCAAとADを区別する指標となり、アミロイドおよび血管病変の影響を反映している可能性がある。",
+      "summary_short_ja": "脳アミロイド血管症（CAA）とアルツハイマー病（AD）の鑑別は重要であるが、分子バイオマーカーは不足している。本研究は、CAAにおける周中心部優位のタウ沈着パターンがADと異なるかをPET検査で検証した。CAAはADよりも周中心部に相対的に多いタウ蓄積を示し、この比率が両疾患の識別に有用であることが示された。タウの空間的分布はアミロイドと血管病変の影響を反映している可能性がある。",
+      "disease": "dementia",
+      "section": "diagnosis"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43050643",
       "doi": "10.1212/WNL.0000000000218828",
       "title": "Pearls & Oy-sters: Reversible Rapidly Progressive Dementia Associated With ASIA Syndrome Secondary to Silicone Implants.",

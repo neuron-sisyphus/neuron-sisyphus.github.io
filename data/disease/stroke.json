@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43056661",
+      "doi": "10.1212/WNL.0000000000218771",
+      "title": "Ninety-Day Acute Ischemic Stroke Readmission in People Hospitalized With Migraine With Aura: A National Cohort Study.",
+      "abstract": "Migraine with aura is recognized as a risk factor for acute ischemic stroke (AIS). However, the short-term risk of stroke, particularly within 90 days of hospitalization for migraine, has not been thoroughly evaluated on a national scale. This study aims to address this gap by examining the association between migraine with aura during admission and 90-day AIS readmission. Using the Healthcare Cost and Utilization Project's Nationwide Readmissions Database between 2016 and 2019, we identified patients in the United States who received a diagnosis of migraine during admission, either principal or nonprincipal. The reference group for analysis contained all adult patients admitted during the study period without a principal or nonprincipal diagnosis of migraine. The primary outcome was subsequent admission for AIS within 90 days. Diagnoses were identified using standard and validated ICD-10-CM codes. Three patient groups were delineated: migraine with aura, migraine without aura, and unspecified migraine. Inverse probability of treatment weighting and multivariable Cox regression models were used to assess the risk of AIS across these 3 patient groups, adjusted for risk factors. Among 64,808,935 patients (mean age 56.19 years, 60.0% female) admitted during the study period, 1,257,671 (1.94%) patients were admitted with any migraine diagnosis, of which 78,650 (6.25% of migraine cohort) were admitted with a principal diagnosis of migraine. In total, 75,460 (0.12%) were admitted with migraine with aura. Within 90 days, 272,812 (0.42%) patients were readmitted with AIS. After adjusting for cardiovascular risk factors, migraine with aura was associated with an elevated risk for 90-day AIS (adjusted hazard ratio [aHR] 1.98, 95% CI 1.68-2.35,  Among hospitalized patients, migraine with aura was associated with an increased risk of AIS within 90 days. These findings underscore the importance of careful vascular risk assessment in this population. Future research should investigate the pathomechanisms underlying this association.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056661/",
+      "summary_ja": "背景：片頭痛のうち、前兆（オーラ）を伴うタイプは急性虚血性脳卒中（AIS）のリスク因子とされるが、入院後90日以内の短期リスクは全国規模で十分に検討されていない。  \n方法：2016～2019年の米国全国再入院データベースを用い、入院時に片頭痛（前兆あり・なし・不明）と診断された患者群と非片頭痛患者群を比較。主要アウトカムは90日以内のAIS再入院とし、逆確率重み付けと多変量Cox回帰モデルで心血管リスク因子を調整して解析した。  \n結果：約6480万人の入院患者中、125万7千人が片頭痛診断を受け、そのうち7万5千人が前兆あり片頭痛。90日以内にAISで再入院した患者は27万2千人。調整後、前兆あり片頭痛患者はAIS再入院リスクが有意に高く（調整ハザード比1.98、95％CI 1.68-2.35）示された。  \n結論：入院患者において、前兆を伴う片頭痛は90日以内のAISリスク増加と関連し、血管リスクの慎重な評価が重要である。今後はこの関連の病態解明が求められる。",
+      "summary_short_ja": "片頭痛の前兆（オーラ）を伴う患者は、入院後90日以内に急性虚血性脳卒中（AIS）で再入院するリスクが約2倍に増加することが、米国の大規模全国コホート研究で明らかになった。64万件超の入院データを解析し、心血管リスクを調整後も有意な関連が認められた。片頭痛オーラ患者の血管リスク評価の重要性が示され、今後は関連機序の解明が求められる。",
+      "disease": "stroke",
+      "section": "epidemiology"
+    },
+    {
+      "source": "pubmed",
       "pmid": "43050638",
       "doi": "10.1212/WNL.0000000000218752",
       "title": "The Combined Effect of Migraine and Smoking on Premature Stroke and All-Cause Mortality in Parous Women: A Population-Based Cohort Study.",

@@ -3,6 +3,21 @@
   "items": [
     {
       "source": "pubmed",
+      "pmid": "43056654",
+      "doi": "10.1212/WNL.0000000000218773",
+      "title": "Efficacy and Safety of 2 Rimegepant Dosing Regimens for the Prevention of Episodic Migraine: A Randomized Controlled Study.",
+      "abstract": "Traditional preventive treatments for migraine have limitations (e.g., efficacy, adverse events [AEs], contraindications, and interactions). The aim of this study was to evaluate the efficacy and safety of 2 rimegepant dosing regimens relative to placebo as preventive treatment for episodic migraine. This was a phase 4, randomized, placebo-controlled study. Adults with a ≥1-year history of episodic migraine (with or without aura) and 4-14 migraine attacks/month were enrolled from outpatient/research sites in 10 countries. After a 28-day observation phase, participants were randomly assigned to placebo once daily, rimegepant 75 mg every other day/alternating placebo, or rimegepant 75 mg once daily for 12-weeks of double-blind treatment. The primary end point was mean reduction from the observation phase in monthly migraine days over the entire 12-week double-blind phase analyzed using linear mixed effects modeling. Hierarchical testing was used for key secondary end points to control type I error. Safety assessments included AEs. Participants (n = 692; median age 44.0 years, 86.7% female) were treated double blind with rimegepant every other day (n  Both rimegepant dosing regimens were superior to placebo for the preventive treatment of migraine and were well tolerated. This study demonstrates the efficacy and safety of rimegepant 75 mg QD in a double-blind study. The study was not designed to directly compare the rimegepant EOD and QD dosing regimens. ClinicalTrials.gov NCT05217927 (clinicaltrials.gov/study/NCT05217927); registered January 20, 2022; first enrollment March 4, 2022. This study provides Class I evidence that in adults with more than 1-year history of episodic migraine and 4-14 migraine attacks/month, both rimegepant 75 mg every other day and rimegepant 75 mg daily were superior to placebo in reducing monthly migraine days up to 12 weeks of follow-up.",
+      "journal": "Neurology",
+      "year": "2026",
+      "published": "2026-Dec-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056654/",
+      "summary_ja": "背景：片頭痛の予防治療には効果や副作用、禁忌、薬物相互作用などの課題がある。  \n方法：1年以上の片頭痛既往歴があり、月4～14回の発作を持つ成人692名を対象に、28日間の観察後、プラセボ群、リメゲパント75mgを隔日投与群（プラセボと交互）、およびリメゲパント75mgを毎日投与群に無作為割付し、12週間の二重盲検試験を実施。主要評価項目は観察期からの月間片頭痛日数の平均減少量で、線形混合効果モデルで解析。副次評価項目も階層的検定で評価。安全性は有害事象で確認。  \n結果：リメゲパントの両投与群はプラセボに比べて月間片頭痛日数の有意な減少を示し、安全性も良好であった。  \n結論：リメゲパント75mgの隔日投与および毎日投与は、片頭痛の予防においてプラセボより優れた効果を示し、忍容性も高いことが示された。ただし、両投与法の直接比較は行われていない。",
+      "summary_short_ja": "本研究は、反復性片頭痛の予防におけるリメゲパント75mgの2つの投与法（1日1回および1日おき投与）の有効性と安全性をプラセボ対照で検証した。12週間の二重盲検試験で、両投与法はプラセボに比べて月間片頭痛日数を有意に減少させ、副作用も良好に管理された。リメゲパントは片頭痛予防に有効かつ安全な治療選択肢であることが示された。",
+      "disease": "migraine",
+      "section": "treatment"
+    },
+    {
+      "source": "pubmed",
       "pmid": "42673560",
       "doi": "10.1212/WNL.0000000000214881",
       "title": "Pharmacologic Treatment for Migraine Prevention in Adults Practice Guideline Recommendations: Report of the AAN Guidelines Subcommittee and the American Headache Society.",
